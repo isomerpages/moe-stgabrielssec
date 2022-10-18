@@ -2,5 +2,6 @@ collections:
   the-gabrielite-family:
     output: true
     order:
+      - Achievements/2016.md
       - Achievements/.keep
       - Personal Data Protection Policy.md
