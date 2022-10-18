@@ -102,7 +102,7 @@ SGPS retain personal data in accordance with legal, regulatory, business and ope
 
   
 
-Withdrawal of consent for the collection, use and/or disclosure of personal data in SGPS’s possession can be made in person at the SGPS office, by telephone or by email to stgps@moe.edu.sg.
+Withdrawal of consent for the collection, use and/or disclosure of personal data in SGPS’s possession can be made in person at the SGPS office, by telephone or by email to <u>stgps@moe.edu.sg</u>.
 
   
 
