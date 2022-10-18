@@ -1,6 +1,16 @@
 logo: /images/Untitled design (1).png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: The Gabrielite Family
+    collection: the-gabrielite-family
+  - title: Academic Learning
+    collection: academic-learning
+  - title: Character Formation
+    collection: character-formation
+  - title: Life Skills and Enrichment
+    collection: life-skills-and-enrichment
+  - title: Signature Programmes
+    collection: signature-programmes
+  - title: E-Open House 2022
+    collection: e-open-house-2022
+  - title: "Links "
+    collection: links
