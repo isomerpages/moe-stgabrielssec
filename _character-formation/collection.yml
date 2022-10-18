@@ -1,0 +1,4 @@
+collections:
+  character-formation:
+    output: true
+    order: []
