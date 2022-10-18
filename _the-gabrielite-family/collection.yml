@@ -1,4 +1,5 @@
 collections:
   the-gabrielite-family:
     output: true
-    order: []
+    order:
+      - Personal Data Protection Policy.md
