@@ -1,2 +1,14 @@
 logo: /images/Untitled design (1).png
-links: []
+links:
+  - title: About Us
+    collection: about-us
+  - title: People
+    collection: people
+  - title: "Academic "
+    collection: academic
+  - title: Co-Curricular
+    collection: co-curricular
+  - title: "Signature Programmes "
+    collection: signature-programmes
+  - title: Links
+    collection: links
