@@ -2,7 +2,7 @@
 layout: homepage
 title: St Gabriel's Secondary School
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/Logo2.png
 permalink: /
 notification: Here's a notification bar you can use!
 sections:
@@ -29,6 +29,7 @@ sections:
       button: Button text
       url: /faq/
 ---
+
 
 
 
