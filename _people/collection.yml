@@ -1,0 +1,4 @@
+collections:
+  people:
+    output: true
+    order: []
