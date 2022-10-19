@@ -1,0 +1,4 @@
+collections:
+  co-curricular:
+    output: true
+    order: []
