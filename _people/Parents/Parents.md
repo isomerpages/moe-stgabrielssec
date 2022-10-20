@@ -67,7 +67,7 @@ In the course of active collaboration with the school through the activities of 
 
 **Message from PSG Chairperson and Welcome Video**
 
-*   **[Letter from PSG Chairperson](https://stgabrielssec.moe.edu.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/About%20Us/People/Parents/2022/1.%20L-Welcome%20New%20Parents%202022.pdf)**
+*   **[Letter from PSG Chairperson](Welcome%20New%20Parents%202022.pdf)**
 *   **[Welcome Video](https://youtu.be/YLgQ5riiipc)**
 
 **Join us and be part of the Village.**
