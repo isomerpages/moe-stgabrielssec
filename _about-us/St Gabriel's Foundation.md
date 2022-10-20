@@ -55,6 +55,11 @@ Hard work embodied in diligence and perseverance leads one to achieve greater th
 
 It can thus be said that in whatever you do, do your best.
 
-  
+**Our Values**
+|                                                 |                                                                                                                                                                                                                                                                                                 |   |   |   |
+|-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|
+| **Personalized**<br><br>**Dedication**<br><br>**God-given** | Person-oriented such that each person is treated with dignity and respect<br><br>Services are provided by a people who are committed to and caring for the least among us<br><br>To live with gratitude for the gifts received from God, and to be good stewards in actualizing the gifts given |   |   |   |
+| **Innovative**<br><br>**Sustainable**<br><br>**Freedom**   | To explore better opportunities for an effective response to develop the person<br><br>To develop programmes on the basis of self-reliance<br><br>To encourage the ability to choose and to make free, responsible and quality choices in life for good of all                                  |   |   |   |
+| **Resilience**                                      | Nurture persons who are able to endure and survive in the face of adversity, and to take on challenges in life                                                                                                                                                                                  |   |   |   |
 
- 
+Click [here](http://www.stgabrielsfoundation.sg/) to visit foundation website.
