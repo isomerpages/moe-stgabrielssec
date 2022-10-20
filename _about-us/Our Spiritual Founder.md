@@ -19,3 +19,11 @@ Montfort, a man of great vitality, indomitable courage and spiritual strength wa
 <img src="/images/Louis%20Marie%20Grignion%20de%20Montfort%20with%20Religious.jpeg" style= "width: 40%; margin-left:15px;" align = "right">
 
 He was equally concerned about the human race, the most brilliant of God's creation. By giving himself up to the ways of Wisdom, Montfort became a person transformed. In the process he developed a pedagogy of acquiring true Wisdom that not only guided his own inner journey but also the lives of all those he touched.
+
+**Love for the last, the lost and the least**
+
+<img src="/images/Louis%20Marie%20Grignion%20de%20Montfort%20with%20children.jpeg" style= "width: 40%; margin-right:15px;" align = "left">
+
+Encounter with such true Wisdom helped Montfort to take a stand that was contrary to the ways of the world. He chose absolute poverty in the face of crass materialism; powerlessness in the face of a world seeking after position and prestige; deep experience of God in the face of spiritual indifference; spirit of community in the face of individualism; and intellectual moral and spiritual depth in the face of superficialities.
+
+Montfort sought to lead the world around him in the ways of such wisdom, beginning with the poorest, the lost and the least, He did so in different ways as in 'charity schools' for the young, mass education using his great oratorical skills, collective social action, and writing scholarly volumes, popular tracts, poems and letters.
