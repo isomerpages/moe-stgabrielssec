@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Financial Information.md
       - Principal's Message.md
       - Our Spiritual Founder.md
       - Our Heritage.md
