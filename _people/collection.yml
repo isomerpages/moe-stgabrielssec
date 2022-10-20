@@ -1,4 +1,5 @@
 collections:
   people:
     output: true
-    order: []
+    order:
+      - People.md
