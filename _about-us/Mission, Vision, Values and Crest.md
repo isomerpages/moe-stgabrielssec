@@ -5,7 +5,7 @@ description: ""
 ---
 ## MISSION, VISION, VALUES AND CREST
 
-<img style="width: 50%;" src="/images/school-mission-small.png">
+<img style="width: 35%;" src="/images/school-mission-small.png">
 
 **Our Mission:**
 
@@ -35,4 +35,3 @@ The Gabrielite...
 **Our Motto :**
 
 *   Labor Omnia Vincit (Labour Conquers all)
-
