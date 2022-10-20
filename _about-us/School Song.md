@@ -10,7 +10,7 @@ description: ""
 
 <br>
 
-_In white and blue, boys full of mirth and life_
+_<center>In white and blue, boys full of mirth and life_
 	
 _From early morn, we flood the green playground_
 
