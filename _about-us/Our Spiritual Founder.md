@@ -16,6 +16,6 @@ It was also a time of great impoverishment of those who already possessed but li
 
 Montfort, a man of great vitality, indomitable courage and spiritual strength was a seeker after the only treasure that mattered: Divine Wisdom. He was fascinated by the folly of the God who humbled himself so that human persons may be raised up.
 
-<img src="/images/Louis%20Marie%20Grignion%20de%20Montfort%20with%20Religious.jpeg" style= "width: 50%; margin-right:15px;" align = "right">
+<img src="/images/Louis%20Marie%20Grignion%20de%20Montfort%20with%20Religious.jpeg" style= "width: 50%; margin-left:15px;" align = "right">
 
 He was equally concerned about the human race, the most brilliant of God's creation. By giving himself up to the ways of Wisdom, Montfort became a person transformed. In the process he developed a pedagogy of acquiring true Wisdom that not only guided his own inner journey but also the lives of all those he touched.
