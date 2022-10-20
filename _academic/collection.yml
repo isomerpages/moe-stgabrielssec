@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Academic.md
+      - Craft & Technology/Art & Craft.md
       - Craft & Technology/.keep
