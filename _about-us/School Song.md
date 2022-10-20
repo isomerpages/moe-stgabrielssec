@@ -10,7 +10,9 @@ description: ""
 
 <br>
 
-_<center>In white and blue, boys full of mirth and life_
+<center>
+	
+_In white and blue, boys full of mirth and life_
 	
 _From early morn, we flood the green playground_
 
@@ -43,3 +45,5 @@ _For justice to uphold_
 _Let us live and thus prove_
 
 _Saint Gabriel's boys_
+	
+</center>
