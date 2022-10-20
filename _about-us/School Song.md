@@ -10,36 +10,36 @@ description: ""
 
 <br>
 
-In white and blue, boys full of mirth and life
+_In white and blue, boys full of mirth and life_
 	
-From early morn, we flood the green playground
+_From early morn, we flood the green playground_
 
-In every hall, soon starts the daily strife
+_In every hall, soon starts the daily strife_
 
-Of school routine, lessons and work all round
+_Of school routine, lessons and work all round_
 
-With spirits bright, our will we'll gladly bracing
+_With spirits bright, our will we'll gladly bracing_
 
-From teachers kind we learn what's good and right
+_From teachers kind we learn what's good and right_
 
-We thus do hope to attain with God's blessing
+_We thus do hope to attain with God's blessing_
 
-Virtue and Truth, Virtue and Truth
+_Virtue and Truth, Virtue and Truth_
 
-Of life's true beacon light
+_Of life's true beacon light_
 
-Saint Gabriel's School Dear
+_Saint Gabriel's School Dear_
 
-Here willing hearts behold
+_Here willing hearts behold_
 
-When duty's call rings clear
+_hen duty's call rings clear_
 
-'Mid sorrows as through joys
+_'Mid sorrows as through joys_
 
-For Singapore and God
+_For Singapore and God_
 
-For justice to uphold
+_For justice to uphold_
 
-Let us live and thus prove
+_Let us live and thus prove_
 
-Saint Gabriel's boys
+_Saint Gabriel's boys_
