@@ -2,5 +2,6 @@ collections:
   people:
     output: true
     order:
+      - Form & Subject Teachers/.keep
       - People.md
       - School Management Committee.md
