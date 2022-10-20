@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - School Song.md
       - Principal's Message.md
       - Our Spiritual Founder.md
       - Our Heritage.md
       - Mission, Vision, Values and Crest.md
+      - School Song.md
