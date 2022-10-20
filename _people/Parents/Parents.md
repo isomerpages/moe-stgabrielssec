@@ -74,7 +74,7 @@ In the course of active collaboration with the school through the activities of 
 
 Fill up the form via the link [**https://tinyurl.com/joinussgsspsg**](https://tinyurl.com/joinussgsspsg) or use QR code below.
 
-![](/images/QR%20Code.png)
+<img style="width: 40%;" src="/images/QR%20Code.png">
 
 **Contact us**
 
