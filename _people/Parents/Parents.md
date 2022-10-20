@@ -6,7 +6,7 @@ third_nav_title: Parents
 ---
 ## Parents
 
-<img style="width: 40%;" src="/images/PSG.png">
+<img style="width: 50%;" src="/images/PSG.png">
 
 ![](/images/Parent.jpeg)
 
