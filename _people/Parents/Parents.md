@@ -74,3 +74,8 @@ In the course of active collaboration with the school through the activities of 
 
 Fill up the form via the link [**https://tinyurl.com/joinussgsspsg**](https://tinyurl.com/joinussgsspsg) or use QR code below.
 
+![](/images/QR%20Code.png)
+
+**Contact us**
+
+If you have any questions or feedback to share, do drop us an e-mail. Our e-mail address is [**psgsgss@gmail.com**](mailto:psgsgss@gmail.com)
