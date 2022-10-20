@@ -8,8 +8,10 @@ description: ""
 
 <img src="/images/schoolsong.jpeg" style= "width: 80%;  align = center">
 
-In white and blue, boys full of mirth and life
+<br>
 
+In white and blue, boys full of mirth and life
+	
 From early morn, we flood the green playground
 
 In every hall, soon starts the daily strife
