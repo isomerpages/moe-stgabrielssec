@@ -8,7 +8,7 @@ third_nav_title: Parents
 
 <img style="width: 50%;" src="/images/PSG.png">
 
-![](/images/Parent.jpeg)
+<img style="width: 80%;" src="/images/Parent.jpeg">
 
 **Welcome to SGSS Parent Support Group.**
 
