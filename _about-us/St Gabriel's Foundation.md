@@ -56,6 +56,7 @@ Hard work embodied in diligence and perseverance leads one to achieve greater th
 It can thus be said that in whatever you do, do your best.
 
 **Our Values**
+
 |                                                 |                                                                                                                                                                                                                                                                                                 |   |   |   |
 |-------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---|---|---|
 | **Personalized**<br><br>**Dedication**<br><br>**God-given** | Person-oriented such that each person is treated with dignity and respect<br><br>Services are provided by a people who are committed to and caring for the least among us<br><br>To live with gratitude for the gifts received from God, and to be good stewards in actualizing the gifts given |   |   |   |
