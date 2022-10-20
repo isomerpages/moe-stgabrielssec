@@ -2,4 +2,5 @@ collections:
   people:
     output: true
     order:
+      - School Management Committee.md
       - People.md
