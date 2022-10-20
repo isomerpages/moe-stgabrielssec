@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - School Calendar.md
       - Principal's Message.md
       - Our Spiritual Founder.md
       - Our Heritage.md
@@ -10,3 +9,4 @@ collections:
       - School Song.md
       - St Gabriel's Foundation.md
       - Financial Information.md
+      - School Calendar.md
