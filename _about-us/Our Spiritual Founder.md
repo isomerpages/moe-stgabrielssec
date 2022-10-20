@@ -27,3 +27,25 @@ He was equally concerned about the human race, the most brilliant of God's creat
 Encounter with such true Wisdom helped Montfort to take a stand that was contrary to the ways of the world. He chose absolute poverty in the face of crass materialism; powerlessness in the face of a world seeking after position and prestige; deep experience of God in the face of spiritual indifference; spirit of community in the face of individualism; and intellectual moral and spiritual depth in the face of superficialities.
 
 Montfort sought to lead the world around him in the ways of such wisdom, beginning with the poorest, the lost and the least, He did so in different ways as in 'charity schools' for the young, mass education using his great oratorical skills, collective social action, and writing scholarly volumes, popular tracts, poems and letters.
+
+**St Louis-Marie's threefold purpose of Montfortian Education**
+
+I.  To learn, understand and love God as Wisdom
+    
+II.  To understand and transform oneself in the ways of Wisdom  
+    
+III.  To become committed to transform society in obedience to Wisdom
+
+![](/images/Cesson%20Bridges.jpeg)
+
+_Image of the Cesson Bridges as it stands today._
+
+_(Credit goes to Pymouss for the wonderful picture)_
+
+  
+
+**Montfortian Icon: St. Louis at the Cesson Bridge**  
+  
+On his way to Paris to pursue his priestly studies, Montfort met three beggars with whom he exchanged his new clothes and voluntarily gave up every single one of his possessions at the Cesson Bridge. Montfort radically decided to become poor for the sake of Christ and totally depended on Divine Providence.
+
+Till this day - 300 years after the fact, this moment of selflessness remains an icon of Montfortian education and spirituality.
