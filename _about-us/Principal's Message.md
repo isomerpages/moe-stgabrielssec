@@ -5,8 +5,6 @@ description: ""
 ---
 ## Principals Message
 
-
-
 Welcome to St Gabriel’s Secondary School! A well-established school founded in 1953, St. Gabriel’s Secondary is an all-boys founded by St Louis de Montfort. St. Gabriel’s Secondary has inspired generations of Gabrielites into gentlemen of sound values with a heart to serve the community and nation.
 
 Lon Watters, an artist, aptly sums up the purpose of schools. He said that “_School is a building which has four walls with tomorrow inside_”.  Indeed, at St Gabriel’s Secondary, these four walls represent the foundation of our education- _Godliness_, _Character_, _Knowledge_ and _Purpose_. ‘Tomorrow’ is ever changing. However, these four pillars that equip Gabrielites with the right mindset and skillset to adapt to this future remain immutable
