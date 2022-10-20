@@ -10,40 +10,38 @@ description: ""
 
 <br>
 
-<center>
 	
-_In white and blue, boys full of mirth and life_
+_<center>In white and blue, boys full of mirth and life</center>_
 	
-_From early morn, we flood the green playground_
+_<center>From early morn, we flood the green playground</center>_
 
-_In every hall, soon starts the daily strife_
+_<center>In every hall, soon starts the daily strife</center>_
 
-_Of school routine, lessons and work all round_
+_<center>Of school routine, lessons and work all round</center>_
 
-_With spirits bright, our will we'll gladly bracing_
+_<center>With spirits bright, our will we'll gladly bracing</center>_
 
-_From teachers kind we learn what's good and right_
+_<center>From teachers kind we learn what's good and right</center>_
 
-_We thus do hope to attain with God's blessing_
+_<center>We thus do hope to attain with God's blessing</center>_
 
-_Virtue and Truth, Virtue and Truth_
+_<center>Virtue and Truth, Virtue and Truth</center>_
 
-_Of life's true beacon light_
+_<center>Of life's true beacon light</center>_
 
-_Saint Gabriel's School Dear_
+_<center>Saint Gabriel's School Dear</center>_
 
-_Here willing hearts behold_
+_<center>Here willing hearts behold</center>_
 
-_hen duty's call rings clear_
+_<center>When duty's call rings clear</center>_
 
-_'Mid sorrows as through joys_
+_<center>'Mid sorrows as through joys</center>_
 
-_For Singapore and God_
+_<center>For Singapore and God</center>_
 
-_For justice to uphold_
+_<center>For justice to uphold</center>_
 
-_Let us live and thus prove_
+_<center>Let us live and thus prove</center>_
 
-_Saint Gabriel's boys_
+_<center>Saint Gabriel's boys</center>_
 	
-</center>
