@@ -48,4 +48,12 @@ third_nav_title: Craft & Technology
 |  ![](/images/Design%20&%20Tech%20-%207.jpeg)  |  ![](/images/Design%20&%20Tech%20-%208.jpeg)  |  ![](/images/Design%20&%20Tech%20-%209.jpeg)   |
 | ![](/images/Design%20&%20Tech%20-%2010.jpeg)  |  | ![](/images/Design%20&%20Tech%20-%2011.jpeg)  |
 
+**Connect & <font color ="red">Create</font>**
+
+|  |  |  |
+| -------- | -------- | -------- |
+|    |  ![](/images/Design%20&%20Tech%20-%2013.jpeg)  |  ![](/images/Design%20&%20Tech%20-%2014.jpeg)   |
+| ![](/images/Design%20&%20Tech%20-%2015.jpeg)  | ![](/images/Design%20&%20Tech%20-%2016.jpeg) | ![](/images/Design%20&%20Tech%20-%2017.jpeg)  |
+
+
 
