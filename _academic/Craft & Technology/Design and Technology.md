@@ -32,3 +32,7 @@ third_nav_title: Craft & Technology
 | -------- | -------- | 
 |   ![](/images/Mindmaps.jpeg)   |  ![](/images/Imageboards.jpeg)    |
 | **Design Situations**<br>![](/images/Design%20situations.jpeg)   |
+
+<b>Explore</b>     
+      <b><Font Color =Red>Experience</font></b>         <b>Experiment</b>
+
