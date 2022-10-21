@@ -25,3 +25,12 @@ third_nav_title: Craft & Technology
 
 **<Font COLOR=Red>Explore</font>           Experience            Experiment**
 
+
+
+| Mindmaps | Imageboards | 
+| -------- | -------- | 
+|   ![](/images/Mindmaps.jpeg)   |  ![](/images/Imageboards.jpeg)    |      
+
+
+
+
