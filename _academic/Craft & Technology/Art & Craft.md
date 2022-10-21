@@ -165,3 +165,144 @@ Students are encouraged to explore, to create, and to reach their full potential
   </tr>
 </tbody>
 </table>
+
+**Lower Secondary - Enrichment**
+
+**Digital Media Art:**
+*   Sec 1 -  Mobile photography
+*   Sec 2 -  Poster design
+
+
+
+|  |  | 
+| -------- | -------- | 
+|  ![](/images/Digital%20Media%20Art%20-%201.png)    |    ![](/images/Digital%20Media%20Art%20-%202.png) | 
+
+
+**Participation:**
+
+*   Participation in School Arts Buzz ( Two weeks long of Art program and activities)
+
+![](/images/Arts%20Buzz%202018.jpeg)
+
+Arts Buzz - 2018
+
+*   Alternate year of participation in Singapore Youth Festival Art Labs
+
+![](/images/Arts%20Buzz%202018.jpeg)
+
+SYF Art Labs - 2016
+
+![](/images/Arts%20Buzz%202018.jpeg)
+
+Exchange art lessons with Overseas students – 2018
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-isv7{background-color:#8EAADB;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-afcv{background-color:#A8D08D;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-reen{background-color:#D9D9D9;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-h3sz{color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-que8{color:#454545;text-align:left;vertical-align:top}
+.tg .tg-f2df{background-color:#D9D9D9;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-reen">Level</th>
+    <th class="tg-reen" colspan="2">Lower Secondary Curriculum</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-reen">Term</td>
+    <td class="tg-afcv">Secondary 3</td>
+    <td class="tg-isv7">Secondary 4</td>
+  </tr>
+  <tr>
+    <td class="tg-reen">Focus</td>
+    <td class="tg-h3sz">EOA (Elements of Art)</td>
+    <td class="tg-h3sz">POD (Principles of Design)</td>
+  </tr>
+  <tr>
+    <td class="tg-reen">Knowledge<br>(Students will know….)</td>
+    <td class="tg-que8">Acquire the understanding of portfolio keeping.<br>How to create a piece of artworks with concept and meaning.<br>How to incorporate their own meanings into their makings.<br>How to think out of the box in problem solving<span style="background-color:initial"> situations, learning to become independent learners.</span><br>Acquire understanding<span style="background-color:initial"> of art terms</span></td>
+    <td class="tg-que8"></td>
+  </tr>
+  <tr>
+    <td class="tg-f2df">Skills</td>
+    <td class="tg-que8" colspan="2">Pencil shading<br><span style="background-color:initial">Pen rendering</span><br>Colour pencil rendering<br><span style="background-color:initial">Observation drawing</span><br>Manipulation drawings<br><span style="background-color:initial">Composition making</span><br>Portrait and Figure drawing<br>Principles of Design<br>2-point perspective<br>Acrylic painting<br>Watercolour painting<br></td>
+  </tr>
+  <tr>
+    <td class="tg-reen">Dry Mediums</td>
+    <td class="tg-que8">Pencil<br>Colour pencil<br>Pen<br>Marker<br>Pastel</td>
+    <td class="tg-que8" rowspan="5">Chosen medium for Coursework<br></td>
+  </tr>
+  <tr>
+    <td class="tg-reen">Wet Mediums</td>
+    <td class="tg-que8">Batik Dye (background)<br>Acrylic/ Oil painting<br>Watercolour painting<br></td>
+  </tr>
+  <tr>
+    <td class="tg-reen">Digital Media Art</td>
+    <td class="tg-que8">One or both of these:<br>Photoshop composition<br>Photoshop manipulation</td>
+  </tr>
+  <tr>
+    <td class="tg-f2df">3D Craft</td>
+    <td class="tg-que8">Lantern<br>One of these:<br>Sculpture using recycled materials<br>Modelling clay</td>
+  </tr>
+  <tr>
+    <td class="tg-f2df">Traditional<br>Craft </td>
+    <td class="tg-que8">One or two of these:<br>Linoleum print making<br>Pyrography<br>Batik painting<br>Metal Tooling<br>Paper cut </td>
+  </tr>
+</tbody>
+</table>
+
+**<u>Upper Secondary - Enrichment</u>**
+
+**Museum visit:**
+
+− National Gallery of Singapore
+
+− Singapore Art Museum
+
+− Art exhibitions
+
+| National Gallery of Singapore |  |
+| -------- | -------- | 
+|  ![](/images/National%20Gallery%20of%20Singapore%20-%201.jpeg)    |  ![](/images/National%20Gallery%20of%20Singapore%20-%202.jpeg)    |
+
+<br>
+
+| Overseas or local Art Trips: |  |
+| -------- | -------- | 
+|  ![](/images/Chiangmai%202017%20and%202018%20-%201.jpeg)    |  ![](/images/Chiangmai%202017%20and%202018%20-%202.jpeg)   |
+
+Cultural Immersion and VIA Overseas Trip to Chiangmai 2017 and 2018
+
+**Possible Art Competition or events:**
+![](/images/Yellowren%20Art%20Canvas%20Competition%202017.jpeg)
+Yellowren Art Canvas Competition – 2017
+
+![](/images/Outdoor%20Painting.jpeg)
+Outdoor painting at Hwa Chong International Institution
+
+| Participation in School Arts Buzz: |  |
+| -------- | -------- | 
+| ![](/images/Booth%20and%20Mural%20Drawing%20Arts%20Buzz%202018%20-%201.jpeg)    |  ![](/images/Booth%20and%20Mural%20Drawing%20Arts%20Buzz%202018%20-%202.jpeg)   |
+
+Running the booth and mural drawing for Arts Buzz 2018
+
+
+**Participation in Singapore Youth Festival Art Labs:**
+![](/images/Singapore%20Youth%20Festival%20Art%20Lab%202018.jpeg)
+Singapore Youth Festival Art Lab – 2018
+
+
+
+
+
