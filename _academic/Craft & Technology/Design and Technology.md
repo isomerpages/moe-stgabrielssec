@@ -42,5 +42,3 @@ third_nav_title: Craft & Technology
 
 
 **Explore           Experience         <font color ="red">Experiment</font>**
-
-
