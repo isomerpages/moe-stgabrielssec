@@ -33,6 +33,9 @@ third_nav_title: Craft & Technology
 | **Design Situations**<br>![](/images/Design%20situations.jpeg)   |
 
 
-**Explore           Experience            Experiment**
+**Explore           <font color ="red">Experience</font>          Experiment**
 
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
 
