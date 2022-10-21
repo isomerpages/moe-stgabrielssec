@@ -88,6 +88,74 @@ To enrich lives and create joy and a love for learning through the Arts, whilst 
 
 *   **To cultivate** an <u>inquiring mind</u>, a **spirit of experimentation** and <u>a passion for the visual arts</u>.
 
+**<u>Lower Secondary - Programmes</u>**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ljb2{background-color:#F4B083;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-px6y{background-color:#D9D9D9;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-f2d7{background-color:#FFD983;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-xqm4{background-color:#D9D9D9;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-px6y">Level</th>
+    <th class="tg-px6y" colspan="2">Lower Secondary Curriculum</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-px6y">Term</td>
+    <td class="tg-ljb2">Secondary 1</td>
+    <td class="tg-f2d7">Secondary 2</td>
+  </tr>
+  <tr>
+    <td class="tg-px6y">Focus</td>
+    <td class="tg-amwm">EOA (Elements of Art)</td>
+    <td class="tg-amwm">POD (Principles of Design)</td>
+  </tr>
+  <tr>
+    <td class="tg-px6y">Knowledge<br>(Students will know….)</td>
+    <td class="tg-0lax">What mark-making means to them internally and how it can represent aspects of themselves as individuals.<br>How to gather and express their own feelings through colours.<br>Acquire<span style="background-color:initial"> </span>understanding<span style="background-color:initial"> of art terms.</span></td>
+    <td class="tg-0lax">How to place elements together to create a composition<br>How do artists convey, conceptualise and translate meaning and ideas into their creations?<br>Acquire<span style="background-color:initial"> </span>understanding<span style="background-color:initial"> of art terms.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-xqm4">Skills</td>
+    <td class="tg-0lax" colspan="2">Right brain drawing<br>Pencil shading<br>Colour pencil rendering<br>Colour theory<br>Observation and Grid drawing<br>Zentangle<br>Mandala<br>Portrait and Figure drawing<br>Elements of Art<br>Principles of Design (Balance and Emphasis)<br>1-point perspective<span style="background-color:initial"> </span></td>
+  </tr>
+  <tr>
+    <td class="tg-px6y">Dry Mediums</td>
+    <td class="tg-0lax" colspan="2">Pencil<br>Colour pencil<br>Pen<br>Marker<br>Pastel</td>
+  </tr>
+  <tr>
+    <td class="tg-px6y">Wet Mediums</td>
+    <td class="tg-0lax" colspan="2">Watercolour pencil (wash)</td>
+  </tr>
+  <tr>
+    <td class="tg-px6y">Digital Media Art</td>
+    <td class="tg-0lax">Photography</td>
+    <td class="tg-0lax">One of these:<br>Inkscape design<br>Photoshop or PowerPoint composition</td>
+  </tr>
+  <tr>
+    <td class="tg-xqm4">3D Craft</td>
+    <td class="tg-0lax">Lantern</td>
+    <td class="tg-0lax">Lantern<br><br>One of these:<br>Drawing on 3D<span style="background-color:initial"> object</span><br>Sculpture using recycled materials</td>
+  </tr>
+  <tr>
+    <td class="tg-xqm4">Traditional<br>Craft </td>
+    <td class="tg-0lax">Symmetrical paper Cut</td>
+    <td class="tg-0lax">One of these:<br>Styrofoam board printing<br>Wayang Kulit<span style="background-color:initial"> </span></td>
+  </tr>
+</tbody>
+</table>
+
   
 
 The Aesthetics department is committed to increase opportunities for all students to participate in and recognize the value of the Arts in society. The department strives to expose all pupils to appreciating and expressing Art through a variety of platforms. Our aim is for them to become life-long learners who are confident and creative with a passion for life and learning.
