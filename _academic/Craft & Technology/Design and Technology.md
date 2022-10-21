@@ -35,7 +35,7 @@ third_nav_title: Craft & Technology
 
 **Explore           <font color ="red">Experience</font>          Experiment**
 
-| Column 1 | Column 2 | Column 3 |
+|  |  |  |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
-
+|  ![](/images/Design%20&%20Tech%20-%201.jpeg)  |  ![](/images/Design%20&%20Tech%20-%202.jpeg)  |  ![](/images/Design%20&%20Tech%20-%203.jpeg)   |
+|  ![](/images/Design%20&%20Tech%20-%204.jpeg)  |  ![](/images/Design%20&%20Tech%20-%205.jpeg)  |  ![](/images/Design%20&%20Tech%20-%206.jpeg)  |
