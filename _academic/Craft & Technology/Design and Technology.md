@@ -24,7 +24,7 @@ third_nav_title: Craft & Technology
 ![](/images/The%20Gabrielite%20Design%20Model.png)
 
 
-**Explore           Experience            Experiment**
+**<font color ="red">Explore</font>           Experience            Experiment**
 
 
 | Mindmaps | Imageboards | 
@@ -34,4 +34,5 @@ third_nav_title: Craft & Technology
 
 
 **Explore           Experience            Experiment**
-			
+
+
