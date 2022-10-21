@@ -23,7 +23,7 @@ third_nav_title: Craft & Technology
 
 ![](/images/The%20Gabrielite%20Design%20Model.png)
 
-**<Font COLOR=Red>Explore</font>           Experience            Experiment**
+<b><Font COLOR=Red>Explore</font></b>           <b>Experience</b>           <b>Experiment</b>
 
 
 
@@ -31,4 +31,5 @@ third_nav_title: Craft & Technology
 | -------- | -------- | 
 |   ![](/images/Mindmaps.jpeg)   |  ![](/images/Imageboards.jpeg)    |
 | **Design Situations**<br>![](/images/Design%20situations.jpeg)   |
+
 
