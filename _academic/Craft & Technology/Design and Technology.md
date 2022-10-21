@@ -29,8 +29,6 @@ third_nav_title: Craft & Technology
 
 | Mindmaps | Imageboards | 
 | -------- | -------- | 
-|   ![](/images/Mindmaps.jpeg)   |  ![](/images/Imageboards.jpeg)    |      
-
-
-
+|   ![](/images/Mindmaps.jpeg)   |  ![](/images/Imageboards.jpeg)    |
+| **Design Situations**<br>![](/images/Design%20situations.jpeg)   |
 
