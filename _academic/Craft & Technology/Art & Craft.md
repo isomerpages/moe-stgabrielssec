@@ -63,5 +63,39 @@ In St. Gabriel's Secondary School, we believe that a strong aesthetics programme
 </tbody>
 </table>
 
+**<u>Objectives</u>**
 
+**Our Vision**
 
+  
+
+To enrich lives and create joy and a love for learning through the Arts, whilst imparting life-skills through a supportive and nurturing environment, where pupils are encouraged to achieve their full potential whilst adopting new skills and knowledge. Pupils are exposed to the Arts and it’s many forms thereby appreciating it’s many applications in society.
+
+  
+
+**Our Mission**
+
+  
+
+*   **To enable** every child to be <u>visually literate</u> and to <u>appreciate art</u>.
+
+*   **To nurture** an informed awareness and <u>appreciation of the visual arts</u>
+
+*   **To enhance** ability to <u>identify and solve problems creatively</u> in visual and tactile forms
+*   **To develop** competency in the use of <u>art elements</u> and <u>design principles, materials and processes</u>
+
+*   **To foster** <u>self-confidence and a sense of achievement</u> through the practice of the visual arts
+
+*   **To cultivate** an <u>inquiring mind</u>, a **spirit of experimentation** and <u>a passion for the visual arts</u>.
+
+  
+
+The Aesthetics department is committed to increase opportunities for all students to participate in and recognize the value of the Arts in society. The department strives to expose all pupils to appreciating and expressing Art through a variety of platforms. Our aim is for them to become life-long learners who are confident and creative with a passion for life and learning.
+
+  
+
+Through the Arts, pupils are more aware of the values and roles of the Arts in society, thus connecting them to our history, culture and heritage. Pupils also learn to respect the culture, belief systems and values of others and to appreciate the deeper forms of beauty in life.
+
+  
+
+Students are encouraged to explore, to create, and to reach their full potential through our wide variety of arts exposure programmes in school. We believe that the Arts drive creativity and creativity drives learning and when there is learning, students will grow and flourish abundantly.
