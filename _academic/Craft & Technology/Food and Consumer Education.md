@@ -26,5 +26,6 @@ Through these authentic learning programme, students are found to adopt a more c
   
 St. Gabriel Secondary School also participated in competitions organised by:  
 
-1.  Republic Polytechnic (Bizwellness Competition) 2017
-2.  Nanyang Polytechnic (Swensens Ice Cream Competition) 2017
+1. Republic Polytechnic (Bizwellness Competition) 2017
+
+2. Nanyang Polytechnic (Swensens Ice Cream Competition) 2017
