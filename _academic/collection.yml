@@ -2,7 +2,6 @@ collections:
   academic:
     output: true
     order:
-      - Mathematics.md
       - Academic.md
       - Craft & Technology/.keep
       - Craft & Technology/Art & Craft.md
@@ -12,3 +11,4 @@ collections:
       - Craft & Technology/Music.md
       - English & Literature.md
       - Humanities.md
+      - Mathematics.md
