@@ -26,3 +26,14 @@ description: ""
 14.  Mr Suraj Padman
 15.  Ms Koh Hwee Kiang
 16.  Ms Cheong Li Yun
+
+**Objective:**
+
+Every Gabrielite to be effective and confident in communicating in the English Language.  
+
+**Programme:**
+
+The curriculum seek to develop linguistic competencies in our students through the teaching and learning of English to enable Gabrielities to be empathetic communicators, discerning readers and creative enquirers. The syllabus develops effective and affective language use in students in the following areas:
+
+
+![](/images/EL.png)
