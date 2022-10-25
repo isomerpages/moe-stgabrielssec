@@ -25,8 +25,8 @@ To be a team of collaborative and reflective educators who provide engaging expe
 
 ![](/images/Mathematical%20Problem%20Solving.png)
 
-**Enrichment**
-
+**<u>Enrichment</u>** 
+<br>
 **All Singapore Secondary Mathematics Competition For Normal Course Students**
 
 This is an annual competition which is organised by Clementi Town Secondary school.
@@ -75,16 +75,14 @@ Gabriel Tan (Chen Zhongxuan) from Secondary 3T1
 
   
 
-**Principles of Accounts (POA)**
+**<u>Principles of Accounts (POA)</u>**
 
-  
-**Introduction**
+**<u>Introduction</u>**
 
 POA is designed to provide our students with a meaningful basic introduction to finanial accounting and to develop an appreciation of the discipline of accounting.
+N˜
 
-  
-
-**Objectives**
+**<u>Objectives</u>**
 
 1 To equip our students with strong fundamentals for future learning.
 
