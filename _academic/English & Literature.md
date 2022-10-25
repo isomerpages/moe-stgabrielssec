@@ -101,55 +101,25 @@ Garbrielites will study the subject more deeply; delving into the literary analy
 
   
 
-**Teachers:**
-
-1.  Ms. Marianne Li  
-    
-2.  Ms. Jessica Yap  
-    
-3.  Ms. Siti Latifah Ishar
-4.  Ms. Jo-Anne Seet
-5.  Mdm. Chew Jia Ay
-6.  Ms Koh Hwee Kiang
-
-  
-
-**Programme:**
-
-  
-
-**Lower Secondary:**
-
-Gabrielites are introduced to a range of literary texts in prose, poetry and drama. They also begin to learn how to respond to and analyse such literary writing. Those who are keen on Literature can choose to offer Literature in English at GCE O or GCE NA Level at the end of Secondary Two.
-
-  
-
-**Upper Secondary:**
-
-Garbrielites will study the subject more deeply; delving into the literary analysis of the texts offered. They will also be taught to hone and produce sustained and critical responses to the texts they study.
-
-  
-
-**Upper Sec. Literature Texts for 2022**:
-
-1.  Drama: Macbeth by William Shakespeare
-2.  Prose: Hook & Eye: Stories from the Margins edited by Philip Holden
-3.  Unseen Poetry
-
-  
-
-**Upper Sec. Literature Texts for 2023**:
-
-1.  Drama: Boom by Jean Tay
-2.  Prose: The Chrysalids by John Wyndham
-3.  Unseen Poetry
-
-  
-
-**Lower Sec. Literature Texts for 2023:**
-
-1.  Drama: _Frankenstein_ adapted by Phillip Pullman  
-    
-2.  Novel: _The Boy in the Striped Pyjamas_ by John Boyne  
-    
-3.  Poetry
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-1wig">Pictorial Representation of Literature in English<br><img src="https://stgabrielssec.moe.edu.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Academic/English%20&%20Literature/English%20Language%20-%202.png" alt="English Language - 2.png" width="299" height="198"></th>
+    <th class="tg-1wig">Student learning outcomes to impact head, heart, hands<br>To develop students’ ethical, aesthetic<span style="background-color:initial"> and intellectual considerations through the study of Literature so that they can become:</span><br>Global &amp; Empathetic Thinkers<br>Critical Readers<br>Creative Meaning-makers<br>Convincing Communicators</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1wig">Key teaching and learning pedagogies and strategies:<br>Teaching Pedagogies:<br>Personal Engagement with Literature texts<br>Making Meaningful Connections to self, others and the world<br>Critical Appreciation<br>Reflective Practice<br><br>Learning Pedagogies: Study of Prose, Poetry and Drama through:<br>Experiencing Story,<br>Appreciating Style &amp;<br>Interpreting Themes<br><br>Strategies for teaching &amp; learning:<br>Close reading skills<br>Inductive questioning<br>Role play<br>Exploratory talk<br>Draw up AfL<span style="background-color:initial"> success criteria using </span>LOs<span style="background-color:initial"> &amp; KSDs</span><br><br></td>
+    <td class="tg-1wig">Assessment indicators of students achieving the learning outcomes:<br><br><br>Assessment Tools:<br>Students display/attain KSDs listed in 2019 Syllabus<br>Written reflections, small-scale projects, guided passage-based questions/essays etc.<br><br>Formal assessment of students in all three genres of Literature, and<br>on their ability to produce sustained, critical responses to:<br>passage-based and essay questions (for Express students); and<br>modified passage-based and guided essay questions [for NA students].<br></td>
+  </tr>
+</tbody>
+</table>
