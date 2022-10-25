@@ -19,7 +19,7 @@ third_nav_title: Craft & Technology
 Food and Consumer Education (FCE) equips students with relevant 21st century skills that prepare them to thrive in a future driven by globalisation and technological advancement. This subject serves to promote health consciousness among young people and encourage them to lead healthy and active lifestyle in the 21st century. In addition, students are equipped with knowledge and skills which helps them make informed decision. 
 
 
-<img src="/images/FoodConsumerEducation.png" style= "width: 50%; margin-right:15px;" align = "right">
+<img src="/images/FoodConsumerEducation.png" style= "width: 40%; margin-right:15px;" align = "right">
 
 
   
@@ -34,3 +34,10 @@ St. Gabriel Secondary School also participated in competitions organised by:
 1. Republic Polytechnic (Bizwellness Competition) 2017
 
 2. Nanyang Polytechnic (Swensens Ice Cream Competition) 2017
+
+
+
+|  |  |  |
+| -------- | -------- | -------- |
+![](/images/1st%20prize%20in%20Swensens%20Ice%20Cream%20Competition.jpeg)|   ![](/images/1st%20prize%20in%20Bizwellness.jpeg)   |   ![](/images/Ice%20Cream%20with%20Red%20Velvet%20Putri%20Salat.jpeg)   |    |
+
