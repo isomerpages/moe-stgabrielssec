@@ -40,3 +40,14 @@ St. Gabriel Secondary School also participated in competitions organised by:
 |  |  |  |
 | -------- | -------- | -------- |
 ![](/images/1st%20prize%20in%20Bizwellness.jpeg) <br> Our students awarded 1st prize in Bizwellness  |   ![](/images/1st%20prize%20in%20Swensens%20Ice%20Cream%20Competition.jpeg) <br> Our students awarded 1st prize in Swensens’ Ice Cream competition   |   ![](/images/Ice%20Cream%20with%20Red%20Velvet%20Putri%20Salat.jpeg) <br> The students ice cream creation, red velvet putri salat.   |    |
+
+
+
+|  |  |  | |
+| -------- | -------- | -------- | -------- |
+|   ![](/images/Pineapple%20Rice.jpeg)  |   ![](/images/Pasta.jpeg)   |    ![](/images/Glutinous%20Rice.jpeg)  |  ![](/images/Dessert.jpeg)   |
+|  ![](/images/Learning%20to%20prepare%20cook.jpeg)   |      |     |     |
+ 
+ 
+
+
