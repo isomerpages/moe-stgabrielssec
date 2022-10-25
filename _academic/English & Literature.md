@@ -41,3 +41,60 @@ The curriculum seek to develop linguistic competencies in our students through t
 | Pictorial representation of English Language<br><br>![](/images/English%20Language%20-%201.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Student learning outcomes to impact head, heart, hands<br><br>Discerning Reader (Hand)<br><br>-	Students are able to read, listen and view critically and with accuracy, understanding & appreciation of a wide range of literary and informational/functional texts from print and non-print sources<br>Empathetic Communicator (Heart)<br><br>- Students are able to speak, write & represent in Standard English that is grammatical, fluent, mutually intelligible & appropriate for different purposes, audiences, contexts & cultures.<br>Creative Inquirer (Head)<br><br>-	Understand and use Standard English grammar and vocabulary accurately & appropriately as well as understand how speakers/writers put words together & use language to communicate meaning and achieve impact. |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Key teaching and learning pedagogies and strategies<br><br>Introduction of 3 foci:<br>Inquiry through Dialogue (1st focus)<br>Multiliteracies (2nd focus)<br>Metacognition (3rd focus)<br>Pedagogy - the 5Ts:<br>Connecting Theme, Text, Talk, Task & Technology<br>Guided by LLIPS amp; ACoLADE(General) Learner Strategies to be taught:<br>Close reading skills (Reading & Viewing)<br>Note-taking skills (Writing & Representing)<br>Presentation skills (Speaking & Representing)<br>(Simple) research skills | Assessment indicators of students achieving the learning outcomes<br><br>Assessment Tools:<br>Discrete performance tasks that assess specific EL skill taught (e.g. podcast: pronunciation & reading aloud, quizzes, targetted practice like essays etc.)<br>Integrated assessment to assess different EL skills taught (e.g. oral presentations, compositions, written reflections)<br>Assessment Indicators:<br>Students can read, listen & view widely a range of multi-modal text & text forms.<br>Students will speak, write & represent for creative, personal, academic & functional purposes by using language in a sustained manner & by representing their ideas in a range of multimodal texts & text forms.<br>Students can display/attain SSABs in EL Syllabus 2020              |
+
+B) Literature in English
+
+  
+
+**Teachers:**
+
+1.  Ms. Marianne Li  
+    
+2.  Ms. Jessica Yap  
+    
+3.  Ms. Siti Latifah Ishar
+4.  Ms. Jo-Anne Seet
+5.  Mdm. Chew Jia Ay
+6.  Ms Koh Hwee Kiang
+
+  
+
+**Programme:**
+
+  
+
+**Lower Secondary:**
+
+Gabrielites are introduced to a range of literary texts in prose, poetry and drama. They also begin to learn how to respond to and analyse such literary writing. Those who are keen on Literature can choose to offer Literature in English at GCE O or GCE NA Level at the end of Secondary Two.
+
+  
+
+**Upper Secondary:**
+
+Garbrielites will study the subject more deeply; delving into the literary analysis of the texts offered. They will also be taught to hone and produce sustained and critical responses to the texts they study.
+
+  
+
+**Upper Sec. Literature Texts for 2022**:
+
+1.  Drama: Macbeth by William Shakespeare
+2.  Prose: Hook & Eye: Stories from the Margins edited by Philip Holden
+3.  Unseen Poetry
+
+  
+
+**Upper Sec. Literature Texts for 2023**:
+
+1.  Drama: Boom by Jean Tay
+2.  Prose: The Chrysalids by John Wyndham
+3.  Unseen Poetry
+
+  
+
+**Lower Sec. Literature Texts for 2023:**
+
+1.  Drama: _Frankenstein_ adapted by Phillip Pullman  
+    
+2.  Novel: _The Boy in the Striped Pyjamas_ by John Boyne  
+    
+3.  Poetry
