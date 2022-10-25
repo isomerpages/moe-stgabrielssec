@@ -13,7 +13,7 @@ _The truth may be puzzling. It may take some work to grapple with. It may also b
 
 The aim of humanities education in St. Gabriel’s Secondary School is to encourage students to gain and develop a mastery of skills related to knowledge building and understanding of events and phenomenon, issues and perspectives, and human actions and behaviors.
 
-**<u>Vision*</u>*
+**<u>Vision</u>**
 
 Every Gabrielite is a skilled inquirer who is humbled by the world around him.  
 
