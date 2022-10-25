@@ -129,8 +129,8 @@ The learning of Geography or History as an elective is meant to deepen the stude
     <td class="tg-y7qa">Ms Siti Rafeah<br>(Sec 3E/4E/5N Co-ordinator)<br><a href="mailto:siti_rafeah_rahmat@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">siti_rafeah_rahmat@moe.edu.sg</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-y7qa">Mr Suraj S/O Padman<a href="mailto:suraj_padman@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">suraj_padman@moe.edu.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-y7qa">Ms Tanny Koh<br>(Sec 5N Co-ordinator)<a href="mailto:tanny_koh_tien_tien@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">tanny_koh_tien_tien@moe.edu.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-y7qa">Mr Suraj S/O Padman<a href="mailto:suraj_padman@moe.edu.sg"><br><span style="text-decoration:none;color:#0C343D">suraj_padman@moe.edu.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-y7qa">Ms Tanny Koh<br>(Sec 5N Co-ordinator)<a href="mailto:tanny_koh_tien_tien@moe.edu.sg"><br><span style="text-decoration:none;color:#0C343D">tanny_koh_tien_tien@moe.edu.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span></td>
     <td class="tg-y7qa">Mr Ng Kai Yang Ivan<br>(Sec 3N/4N Co-ordinator)<br><a href="mailto:ng_kai_yang_ivan@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">ng_kai_yang_ivan@moe.edu.sg</span></a></td>
   </tr>
   <tr>
