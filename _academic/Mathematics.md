@@ -23,3 +23,4 @@ Every Gabrielite is a confident problem-solver who can effectively apply Mathema
 
 To be a team of collaborative and reflective educators who provide engaging experiences for students to become confident problem-solvers
 
+![](/images/Mathematical%20Problem%20Solving.png)
