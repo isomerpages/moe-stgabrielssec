@@ -18,11 +18,9 @@ third_nav_title: Craft & Technology
 
 Food and Consumer Education (FCE) equips students with relevant 21st century skills that prepare them to thrive in a future driven by globalisation and technological advancement. This subject serves to promote health consciousness among young people and encourage them to lead healthy and active lifestyle in the 21st century. In addition, students are equipped with knowledge and skills which helps them make informed decision. 
 
-<figure>
-<img src="/images/Food%20Consumer%20Model.png" style= "width: 50%; margin-right:15px;" align = "right">
-<figcaption>Figure 1: Inquiry-Based Learning Model 
-	for Teaching of Food Consumer </figcaption>
-</figure>
+
+<img src="/images/FoodConsumerEducation.png" style= "width: 50%; margin-right:15px;" align = "right">
+
 
   
 Coursework develops in students the process skills of planning, execution, execution and competencies such as decision making and management of Information. Students learn to think critically by approaching problems with creative solutions and make decisions based on logical reasoning.
