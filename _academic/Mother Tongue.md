@@ -81,7 +81,7 @@ The department also organises programmes and activities that provide opportuniti
 
 <u>Some Programme highlights:</u>
 
-1.  Mother Tongue Fortnight  
+1\.  Mother Tongue Fortnight  
 
 A variety of activities such as cultural performance, workshops and courses are organized by the three language units during the two weeks programme. Students from all levels and streams are involved in the activities organized.
 
@@ -100,7 +100,7 @@ A variety of activities such as cultural performance, workshops and courses are 
 
 <br clear="left">
 
-2.  Overseas School Twining Programme  
+2\.  Overseas School Twining Programme  
     
 The overseas twining programme with our China partner school provides opportunity to our students to deepen their understanding and appreciation of the Chinese culture and language and at the same time foster friendship with students from our partner school.
 
@@ -123,6 +123,3 @@ Participants will take part in a 7-day overseas immersion programme which enable
 <img src="/images/Mother%20Tongue%20-%2010.jpeg" style="width:49%" align=left>
 
 <img src="/images/Mother%20Tongue%20-%2011.jpeg" style="width:49%" align=right>
-
-
-
