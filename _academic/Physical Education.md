@@ -170,3 +170,15 @@ SGSS PE Syllabus focus on the movement skills, knowledge and values components o
 
 **<u>SGSS Weight Management Programme</u>**
 
+<img src="/images/SGSS%20Weight%20Management%20Programme.png" style="width:70%" >
+
+Objectives:
+
+*   To educate students on how to eat healthy through nutrition talks
+*   To encourage students to exercise regularly by providing opportunity for students to participate in different types of sports and activities
+
+  
+
+Description:
+
+*   The programme is conducted every Tuesday, Wednesday and Friday from 7.30 am to 8 am. The lower secondary and upper secondary school overweight students will be led by our sports leaders and PE teachers respectively to participate in morning physical activities. Besides engaging the students through physical exercises, the students are also taught health education and nutrition in order to be equipped with knowledge and skills to lead a healthy lifestyle.
