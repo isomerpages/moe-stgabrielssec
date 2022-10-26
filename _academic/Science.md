@@ -85,25 +85,125 @@ We also incorporate Assessment for Learning (AfL) in our daily lessons to build 
 
 <br>
 
-| Name | Designation | Contact |
-| --- | --- | --- |
-| **Mr. Nick Chow** | **Year Head** | **[chow\_yew\_kai@moe.edu.sg](mailto:chow_yew_kai@moe.edu.sg)** |
-| **Mr. James Peh** | **HOD / T&L** | **[james\_peh@moe.edu.sg](mailto:james_peh@moe.edu.sg)** |
-| **Mr. Ho Chung Sing** | **HOD / ICT**  | **[ho\_chung\_sing@moe.edu.sg](mailto:ho_chung_sing@moe.edu.sg)** |
-| **Mrs. Chang Chin Ngan** |  **ST / Chemistry** | **[yip\_chin\_ngan@moe.edu.sg](mailto:yip_chin_ngan@moe.edu.sg)**  |
-| **Mrs. Jean Koh** | **Teacher** | **[koh\_joo\_kim\_jean@moe.edu.sg](mailto:koh_joo_kim_jean@moe.edu.sg)** |
-| **Ms. Amelia Loh** | **Teacher** | **[loh\_yue\_yan\_amelia@moe.edu.sg](mailto:loh_yue_yan_amelia@moe.edu.sg)** |
-| **Mr. Brandon Foo** | **Teacher** | **[brandon\_foo\_jong\_heng@moe.edu.sg](mailto:brandon_foo_jong_heng@moe.edu.sg)** |
-| **Ms. Joanne Lim** | **Teacher** | **[lim\_shanrui\_joanne@moe.edu.sg](mailto:lim_shanrui_joanne@moe.edu.sg)**  |
-| **Mr. Johnson Sim** | **Teacher** | **[sim\_johnson@moe.edu.sg](mailto:sim_johnson@moe.edu.sg)** |
-| **Mr. Joshua Leong** | **Teacher** | **[leong\_heng\_wah@moe.edu.sg](mailto:leong_heng_wah@moe.edu.sg)** |
-| **Mr. Koh Keng Wee** | **Teacher** | **[koh\_keng\_wee@moe.edu.sg](mailto:koh_keng_wee@moe.edu.sg)** |
-| **Mr. Lee Cheng Soon** | **Teacher** | **[lee\_cheng\_soon@moe.edu.sg](mailto:lee_cheng_soon@moe.edu.sg)** |
-| **Mrs. Mary Stevenson** | **Teacher** | **[mary\_magdalene\_yong@moe.edu.sg](mailto:mary_magdalene_yong@moe.edu.sg)** |
-| **Ms. Samantha Wee** | **Teacher** | **[wee\_shu\_en\_samantha@moe.edu.sg](mailto:wee_shu_en_samantha@moe.edu.sg)** |
-| **Mr. Sebastian Goh** | **Teacher** | [**goh\_kok\_ho@moe.edu.sg**](mailto:goh_kok_ho@moe.edu.sg) |
-| **Mr. Vincent Kan** | **Teacher** | **[kan\_vincent@moe.edu.sg](mailto:kan_vincent@moe.edu.sg)** |
-| **Mr. Anthony Tang** | **Teacher** | **[tang\_chong\_tong\_anthony@moe.edu.sg](mailto:tang_chong_tong_anthony@moe.edu.sg)** |
-|  **Mr. S Haridass** | **Lab Technician** | **\-** |
-|  **Ms. Jamuna** | **Lab Technician** | **\-** |
-| **Mdm. Hia Siew Meng** | **OSO** | **\-** |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1fjv{background-color:#FAFAFA;color:#0C343D;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-9uia{background-color:#FAFAFA;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-q8lm{background-color:#0B4A7E;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-5e8z{background-color:#FAFAFA;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-q8lm"><span style="color:#FFF;background-color:#0B4A7E">Name</span></th>
+    <th class="tg-q8lm"><span style="color:#FFF;background-color:#0B4A7E">Designation</span></th>
+    <th class="tg-q8lm"><span style="color:#FFF;background-color:#0B4A7E">Contact</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-5e8z">Mr. Nick Chow</td>
+    <td class="tg-5e8z">Year Head</td>
+    <td class="tg-1fjv"><a href="mailto:chow_yew_kai@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">chow_yew_kai@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-5e8z">Mr. James Peh</td>
+    <td class="tg-5e8z">HOD / T&amp;L</td>
+    <td class="tg-1fjv"><a href="mailto:james_peh@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">james_peh@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-5e8z">Mr. Ho Chung Sing</td>
+    <td class="tg-5e8z">HOD / ICT </td>
+    <td class="tg-1fjv"><a href="mailto:ho_chung_sing@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">ho_chung_sing@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-5e8z">Mrs. Chang Chin Ngan</td>
+    <td class="tg-5e8z"> ST / Chemistry</td>
+    <td class="tg-1fjv"><a href="mailto:yip_chin_ngan@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">yip_chin_ngan@moe.edu.sg</span></a> </td>
+  </tr>
+  <tr>
+    <td class="tg-5e8z">Mrs. Jean Koh</td>
+    <td class="tg-5e8z">Teacher</td>
+    <td class="tg-1fjv"><a href="mailto:koh_joo_kim_jean@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">koh_joo_kim_jean@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-5e8z">Ms. Amelia Loh</td>
+    <td class="tg-5e8z">Teacher</td>
+    <td class="tg-1fjv"><a href="mailto:loh_yue_yan_amelia@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">loh_yue_yan_amelia@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-5e8z">Mr. Brandon Foo</td>
+    <td class="tg-5e8z">Teacher</td>
+    <td class="tg-1fjv"><a href="mailto:brandon_foo_jong_heng@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">brandon_foo_jong_heng@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-5e8z">Ms. Joanne Lim</td>
+    <td class="tg-5e8z">Teacher</td>
+    <td class="tg-1fjv"><a href="mailto:lim_shanrui_joanne@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">lim_shanrui_joanne@moe.edu.sg</span></a> </td>
+  </tr>
+  <tr>
+    <td class="tg-5e8z">Mr. Johnson Sim</td>
+    <td class="tg-5e8z">Teacher</td>
+    <td class="tg-1fjv"><a href="mailto:sim_johnson@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">sim_johnson@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-5e8z">Mr. Joshua Leong</td>
+    <td class="tg-5e8z">Teacher</td>
+    <td class="tg-1fjv"><a href="mailto:leong_heng_wah@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">leong_heng_wah@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-5e8z">Mr. Koh Keng Wee</td>
+    <td class="tg-5e8z">Teacher</td>
+    <td class="tg-1fjv"><a href="mailto:koh_keng_wee@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">koh_keng_wee@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-5e8z">Mr. Lee Cheng Soon</td>
+    <td class="tg-5e8z">Teacher</td>
+    <td class="tg-1fjv"><a href="mailto:lee_cheng_soon@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">lee_cheng_soon@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-5e8z">Mrs. Mary Stevenson</td>
+    <td class="tg-5e8z">Teacher</td>
+    <td class="tg-1fjv"><a href="mailto:mary_magdalene_yong@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">mary_magdalene_yong@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-5e8z">Ms. Samantha Wee</td>
+    <td class="tg-5e8z">Teacher</td>
+    <td class="tg-1fjv"><a href="mailto:wee_shu_en_samantha@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">wee_shu_en_samantha@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-5e8z">Mr. Sebastian Goh</td>
+    <td class="tg-5e8z">Teacher</td>
+    <td class="tg-1fjv"><a href="mailto:goh_kok_ho@moe.edu.sg">goh_kok_ho@moe.edu.sg</a></td>
+  </tr>
+  <tr>
+    <td class="tg-5e8z">Mr. Vincent Kan</td>
+    <td class="tg-5e8z">Teacher</td>
+    <td class="tg-1fjv"><a href="mailto:kan_vincent@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">kan_vincent@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-5e8z">Mr. Anthony Tang</td>
+    <td class="tg-5e8z">Teacher</td>
+    <td class="tg-1fjv"><a href="mailto:tang_chong_tong_anthony@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">tang_chong_tong_anthony@moe.edu.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-9uia"><span style="color:#454545;background-color:transparent"> </span>Mr. S Haridass</td>
+    <td class="tg-5e8z">Lab Technician</td>
+    <td class="tg-5e8z">-</td>
+  </tr>
+  <tr>
+    <td class="tg-5e8z"> Ms. Jamuna</td>
+    <td class="tg-5e8z">Lab Technician</td>
+    <td class="tg-5e8z">-</td>
+  </tr>
+  <tr>
+    <td class="tg-5e8z">Mdm. Hia Siew Meng</td>
+    <td class="tg-5e8z">OSO</td>
+    <td class="tg-5e8z">-</td>
+  </tr>
+</tbody>
+</table>
