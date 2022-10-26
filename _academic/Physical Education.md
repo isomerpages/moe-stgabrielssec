@@ -167,3 +167,6 @@ SGSS PE Syllabus focus on the movement skills, knowledge and values components o
   </tr>
 </tbody>
 </table>
+
+**<u>SGSS Weight Management Programme</u>**
+
