@@ -97,3 +97,73 @@ Our PE syllabus is organised to achieve the goals of PE based on the framework b
 
 Learning in affective areas and competencies for the 21st century are both the outcomes and enablers for the learning of physical education. Through a balanced and well-designed curriculum, delivered through effective pedagogies and purposeful assessment, students will acquire the knowledge, skills and values to pursue active and healthy lives.
 
+
+<img src="/images/Balanced%20Physical%20Education%20Curriculum.png" style="width:70%" >
+
+**<u>Programmes</u>**
+
+**<u>SGSS PE Syllabus</u>**
+
+SGSS PE Syllabus focus on the movement skills, knowledge and values components of physical education. It targets the three different domains (psychomotor, cognitive and affective) through three learning areas of Physical Health and Fitness (PHF), Outdoor Education (OE) and Sports & Games (PA). They develop their mature performance so that they become confident participants by the time they leave secondary school.
+
+**<u>Activities/Programme</u>**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-5c0e{background-color:#D9D9D9;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-94m8{background-color:#D9D9D9;color:#454545;text-align:center;vertical-align:middle}
+.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-94m8">Level</th>
+    <th class="tg-94m8">Secondary One<br></th>
+    <th class="tg-94m8">Secondary Two<br></th>
+    <th class="tg-94m8">Secondary Three<br></th>
+    <th class="tg-5c0e">Secondary Four </th>
+    <th class="tg-94m8">Secondary<br>Five<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-2fwu">Physical<br>Health &amp;<br>Fitness<br>(PHF)<br></td>
+    <td class="tg-ncov">Sec One PHF<br></td>
+    <td class="tg-sxkx">Sec Two PHF/<br>NAPFA</td>
+    <td class="tg-ncov">Sec Three PHF<br></td>
+    <td class="tg-ncov"> NAPFA</td>
+    <td class="tg-ncov">NAPFA<br></td>
+  </tr>
+  <tr>
+    <td class="tg-2fwu">Outdoor<br><span style="background-color:initial">Education</span><br><br>(OE)</td>
+    <td class="tg-sxkx"><span style="background-color:initial">Sec One OE/</span><br><span style="background-color:initial">Sec One</span><br><span style="background-color:initial">Cohort Camp</span></td>
+    <td class="tg-sxkx"><span style="background-color:initial">Sec Two OE/</span><br>Sec Two<br>Cohort Camp</td>
+    <td class="tg-sxkx"><span style="background-color:initial">Sec Three OE/</span><br>Sec Three<br>Cohort Camp</td>
+    <td class="tg-ncov">-</td>
+    <td class="tg-ncov">-</td>
+  </tr>
+  <tr>
+    <td class="tg-2fwu">Physical Activity<br>(Sports &amp; Games)<br></td>
+    <td class="tg-fwnj">Basketball &amp; Floorball </td>
+    <td class="tg-fwnj">Badminton &amp; Football </td>
+    <td class="tg-fwnj">Softball, Touch<br>Rugby &amp;<br>Ultimate<br>Frisbee </td>
+    <td class="tg-fwnj">Handball &amp;<br>Tchoukball </td>
+    <td class="tg-fwnj">Mini Tennis &amp;<br>Volleyball </td>
+  </tr>
+  <tr>
+    <td class="tg-ncov"> Physical<br>Activity<br>(Others)</td>
+    <td class="tg-fwnj">Swim Safer 2.0<br>Certification<br>Course </td>
+    <td class="tg-fwnj">One–Star<br>Kayaking<br>Course </td>
+    <td class="tg-ncov">-</td>
+    <td class="tg-ncov">-</td>
+    <td class="tg-ncov">-</td>
+  </tr>
+</tbody>
+</table>
