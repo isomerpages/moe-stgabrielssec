@@ -73,3 +73,27 @@ description: ""
 **<u>Main Outcome:</u>**
 
 *   The secondary physical education programme aims to develop **Confident Participants** with positive self-efficacy who values the need for sustainability in an active, healthy lifestyle.
+
+**<u>Goals:</u>**  
+**Learning in Movement (Hands):**
+
+*   To acquire a range of skills through participation in regular and varied physical education experiences.  
+    
+
+**Learning through Movement (Head & Heart):**
+
+*   To transfer knowledge to additional skills while continuing to refine existing ones as self-directed and independent learners.
+*   To take responsibility for their own learning towards improved performance.
+*   To develop respect of self and others and also a sense of responsibility towards their own well-being and their peers.
+
+**Learning about Movement (Head & Hands):**
+
+*   To plan, monitor and assess their physical fitness status.
+*   To enjoy and value benefits of daily physical activities.
+
+**<u>Physical Education Framework</u>**
+
+Our PE syllabus is organised to achieve the goals of PE based on the framework below. At the apex is the purpose of PE, achieved through the seven learning areas to produce competent movers, confident participants and committed advocates.  
+
+Learning in affective areas and competencies for the 21st century are both the outcomes and enablers for the learning of physical education. Through a balanced and well-designed curriculum, delivered through effective pedagogies and purposeful assessment, students will acquire the knowledge, skills and values to pursue active and healthy lives.
+
