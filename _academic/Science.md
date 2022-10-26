@@ -20,4 +20,3 @@ a. Enthuse and nurture all students to be scientifically literate, so that they
 
 b. Provide strong Science fundamentals for students to innovate and pursue STEM for future learning and work.
 
-
