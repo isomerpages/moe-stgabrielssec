@@ -2,7 +2,6 @@ collections:
   academic:
     output: true
     order:
-      - Physical Education.md
       - Academic.md
       - Craft & Technology/.keep
       - Craft & Technology/Art & Craft.md
@@ -14,3 +13,4 @@ collections:
       - Humanities.md
       - Mathematics.md
       - Mother Tongue.md
+      - Physical Education.md
