@@ -94,3 +94,35 @@ A variety of activities such as cultural performance, workshops and courses are 
 
 ![](/images/Mother%20Tongue%20-%203.jpeg)
 
+<img src="/images/Mother%20Tongue%20-%204.jpeg" style="width:49%" align=left>
+
+<img src="/images/Mother%20Tongue%20-%205.jpeg" style="width:49%" align=right>
+
+<br clear="left">
+
+2.  Overseas School Twining Programme  
+    
+The overseas twining programme with our China partner school provides opportunity to our students to deepen their understanding and appreciation of the Chinese culture and language and at the same time foster friendship with students from our partner school.
+
+Participants will take part in a 7-day overseas immersion programme which enable them to visit our twining school and visit historical sites and local attractions. They will also host our guests from the twining school in the following year.
+
+<img src="/images/Mother%20Tongue%20-%206.jpeg" style="width:49%" align=left>
+
+<img src="/images/Mother%20Tongue%20-%207.jpeg" style="width:49%" align=right>
+
+<br clear="left">
+<br clear="left">
+
+<img src="/images/Mother%20Tongue%20-%208.jpeg" style="width:49%" align=left>
+
+<img src="/images/Mother%20Tongue%20-%209.jpeg" style="width:49%" align=right>
+
+<br clear="left">
+<br clear="left">
+
+<img src="/images/Mother%20Tongue%20-%2010.jpeg" style="width:49%" align=left>
+
+<img src="/images/Mother%20Tongue%20-%2011.jpeg" style="width:49%" align=right>
+
+
+
