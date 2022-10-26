@@ -2,7 +2,6 @@ collections:
   academic:
     output: true
     order:
-      - Mother Tongue.md
       - Academic.md
       - Craft & Technology/.keep
       - Craft & Technology/Art & Craft.md
@@ -13,3 +12,4 @@ collections:
       - English & Literature.md
       - Humanities.md
       - Mathematics.md
+      - Mother Tongue.md
