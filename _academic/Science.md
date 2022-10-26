@@ -59,3 +59,51 @@ Gabrielites are assessed through various modes e.g. project work, tests and prac
 We also incorporate Assessment for Learning (AfL) in our daily lessons to build Gabrielites' understanding and provide timely feedback for continuous learning. To deepen the learning experience for excellence in Science, teaching strategies such as effective questioning, descriptive feedback and thinking routines are used.
 
 **<center><u>The Science Team</u></center>**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-q8lm{background-color:#0B4A7E;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-5e8z{background-color:#FAFAFA;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-q8lm" colspan="2"><span style="color:#FFF;background-color:#0B4A7E">Subject Head / Science</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-5e8z">Ms. Cherina Low<br><a href="mailto:low_ting_ting_cherina@moe.edu.sg">low_ting_ting_cherina@moe.edu.sg</a></td>
+    <td class="tg-5e8z">Mr. Mario Chua<br><a href="mailto:chua_chong_yi_mario@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">chua_chong_yi_mario@moe.edu.sg</span></a><br></td>
+  </tr>
+</tbody>
+</table>
+
+<br>
+
+| Name | Designation | Contact |
+| --- | --- | --- |
+| **Mr. Nick Chow** | **Year Head** | **[chow\_yew\_kai@moe.edu.sg](mailto:chow_yew_kai@moe.edu.sg)** |
+| **Mr. James Peh** | **HOD / T&L** | **[james\_peh@moe.edu.sg](mailto:james_peh@moe.edu.sg)** |
+| **Mr. Ho Chung Sing** | **HOD / ICT**  | **[ho\_chung\_sing@moe.edu.sg](mailto:ho_chung_sing@moe.edu.sg)** |
+| **Mrs. Chang Chin Ngan** |  **ST / Chemistry** | **[yip\_chin\_ngan@moe.edu.sg](mailto:yip_chin_ngan@moe.edu.sg)**  |
+| **Mrs. Jean Koh** | **Teacher** | **[koh\_joo\_kim\_jean@moe.edu.sg](mailto:koh_joo_kim_jean@moe.edu.sg)** |
+| **Ms. Amelia Loh** | **Teacher** | **[loh\_yue\_yan\_amelia@moe.edu.sg](mailto:loh_yue_yan_amelia@moe.edu.sg)** |
+| **Mr. Brandon Foo** | **Teacher** | **[brandon\_foo\_jong\_heng@moe.edu.sg](mailto:brandon_foo_jong_heng@moe.edu.sg)** |
+| **Ms. Joanne Lim** | **Teacher** | **[lim\_shanrui\_joanne@moe.edu.sg](mailto:lim_shanrui_joanne@moe.edu.sg)**  |
+| **Mr. Johnson Sim** | **Teacher** | **[sim\_johnson@moe.edu.sg](mailto:sim_johnson@moe.edu.sg)** |
+| **Mr. Joshua Leong** | **Teacher** | **[leong\_heng\_wah@moe.edu.sg](mailto:leong_heng_wah@moe.edu.sg)** |
+| **Mr. Koh Keng Wee** | **Teacher** | **[koh\_keng\_wee@moe.edu.sg](mailto:koh_keng_wee@moe.edu.sg)** |
+| **Mr. Lee Cheng Soon** | **Teacher** | **[lee\_cheng\_soon@moe.edu.sg](mailto:lee_cheng_soon@moe.edu.sg)** |
+| **Mrs. Mary Stevenson** | **Teacher** | **[mary\_magdalene\_yong@moe.edu.sg](mailto:mary_magdalene_yong@moe.edu.sg)** |
+| **Ms. Samantha Wee** | **Teacher** | **[wee\_shu\_en\_samantha@moe.edu.sg](mailto:wee_shu_en_samantha@moe.edu.sg)** |
+| **Mr. Sebastian Goh** | **Teacher** | [**goh\_kok\_ho@moe.edu.sg**](mailto:goh_kok_ho@moe.edu.sg) |
+| **Mr. Vincent Kan** | **Teacher** | **[kan\_vincent@moe.edu.sg](mailto:kan_vincent@moe.edu.sg)** |
+| **Mr. Anthony Tang** | **Teacher** | **[tang\_chong\_tong\_anthony@moe.edu.sg](mailto:tang_chong_tong_anthony@moe.edu.sg)** |
+|  **Mr. S Haridass** | **Lab Technician** | **\-** |
+|  **Ms. Jamuna** | **Lab Technician** | **\-** |
+| **Mdm. Hia Siew Meng** | **OSO** | **\-** |
