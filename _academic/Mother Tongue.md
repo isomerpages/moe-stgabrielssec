@@ -84,3 +84,4 @@ The department also organises programmes and activities that provide opportuniti
 1.  Mother Tongue Fortnight  
 
 A variety of activities such as cultural performance, workshops and courses are organized by the three language units during the two weeks programme. Students from all levels and streams are involved in the activities organized.
+
