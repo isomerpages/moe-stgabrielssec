@@ -66,3 +66,21 @@ Students will be able to understand their culture, customs and tradition well an
 Cultural Skills;<br>
 Critical Thinking;<br>
 Communication, Collaboration and Information Skills
+
+**Programmes**
+
+  
+
+To achieve our goals, the department organises various programmes that enhance our students’ language skills. These programmes include the ‘MTL Intensive Revision Programme for Graduating Classes’, ‘Conversational Chinese and Malay Programme’ for our lower secondary students and ‘Structured Reading Programme’ for all levels.
+
+  
+
+The department also organises programmes and activities that provide opportunities to deepen our students’ understanding of their own culture and tradition and at the same time inculcate the importance of respecting others’ culture and tradition.
+
+  
+
+<u>Some Programme highlights:</u>
+
+1.  Mother Tongue Fortnight  
+
+A variety of activities such as cultural performance, workshops and courses are organized by the three language units during the two weeks programme. Students from all levels and streams are involved in the activities organized.
