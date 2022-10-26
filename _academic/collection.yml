@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Science.md
       - Academic.md
       - Craft & Technology/.keep
       - Craft & Technology/Art & Craft.md
