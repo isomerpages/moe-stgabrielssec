@@ -2,6 +2,7 @@ collections:
   co-curricular:
     output: true
     order:
+      - About Us/Our Vision.md
       - About Us/.keep
       - Character & Citizenship Education.md
       - Co Curricular.md
