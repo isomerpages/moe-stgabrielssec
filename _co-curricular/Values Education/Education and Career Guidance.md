@@ -43,3 +43,46 @@ Our ECG programmes are planned and conducted for students at different academic 
 
 ![](/images/ECGDEV_1.jpeg)
 
+**ECG 4 Year Implementation Plan since 2016 (S.O.A.R. Programme)**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-kwiv{background-color:#FFF;color:#F00;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-9u4g">Levels</th>
+    <th class="tg-9u4g">Focus</th>
+    <th class="tg-9u4g">Key Programmes</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-9u4g">Sec 1:<br>Self</td>
+    <td class="tg-kwiv">Self &amp; Career Awareness<br>Enable students to identify their personal interests, talents and abilities</td>
+    <td class="tg-fwnj">REISS Profiling<br>Study &amp; Homework Management Skills<br>Sec 1 Transition Talk</td>
+  </tr>
+  <tr>
+    <td class="tg-9u4g">Sec 2:<br>Option</td>
+    <td class="tg-9u4g">Educational &amp; Subject Options<br>Deepen students’ understanding of self; assist them in making informed choices for their subject combination during streaming exercise.</td>
+    <td class="tg-fwnj">Subject Option Talks for students and parents<br>Subject Option Trial Exercise<br>ECG Fair<br>2T1 ITE 2-day immersion programme</td>
+  </tr>
+  <tr>
+    <td class="tg-9u4g">Sec 3:<br>Actions</td>
+    <td class="tg-9u4g">Take Actions to fulfil future goals<br>Help students to understand the expectations of world of work and be aware of work values and skills.</td>
+    <td class="tg-fwnj">3NA- Elective Modules<br>DSA/ESA Talks<br>PFP/DPP Talks<br>3NA World Skills / EIP (Experience ITE Prog)<br>Career /STEM Fiesta (New)</td>
+  </tr>
+  <tr>
+    <td class="tg-9u4g">Sec 4/ 5:<br>Ready</td>
+    <td class="tg-9u4g">Be Future Ready<br>Equip students with lifeskills and the confidence to live a full and meaningful life beyond the school gates. Assist students to identify reality gaps against their educational and career aspirations.</td>
+    <td class="tg-fwnj">Poly Open Houses<br>Motivational Workshop to Go for the last lap.<br>Grooming and Presentation Workshop<br>Job Interviews &amp; Resume Writing<br>Course Advising<br>EAE Workshop</td>
+  </tr>
+</tbody>
+</table>
