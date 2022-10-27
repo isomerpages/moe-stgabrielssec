@@ -38,7 +38,7 @@ The term Core Ideas refers to the fundamental ideas that are essential for the u
 
 Our lower secondary science curriculum is an integration of all three sciences, Biology, Chemistry and Physics and follows a thematic approach - diversity, models, systems and interactions. Through the 5E Inquiry approach, students are engaged in the Practices of Science, grounded in the knowledge, issues and questions that relate to the roles played by Science in daily life, society and the environment.SGSS also offers the **Applied Learning Program (ALP)** with specialisation in Aviation Science to lower secondary students to encourage the lifelong learning in Science, Technology, Engineering and Mathematics (STEM) through Flight and Aerospace.
 
-For more information on our ALP programme, please click **[here](https://stgabrielssec.moe.edu.sg/signature-programmes/applied-learning-programme)**.
+For more information on our ALP programme, please click **[here](https://staging.d3b8qjosoo9awx.amplifyapp.com/signature-programmes/Applied-Learning-Programme/)**.
 
 **Upper Secondary Science**
 
