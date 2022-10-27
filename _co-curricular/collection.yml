@@ -2,4 +2,5 @@ collections:
   co-curricular:
     output: true
     order:
+      - Character & Citizenship Education.md
       - Co Curricular.md
