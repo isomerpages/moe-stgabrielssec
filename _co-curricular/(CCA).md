@@ -14,7 +14,7 @@ description: ""
      style="width:33%;float:left"><img src="/images/Learning%20Space/art%20room.jpg" 
      style="width:33%;float:left">
 		 
-| Aspiration Stairs |ECG | Art Room |
+| **Club & Performing Arts** |**Sports & Games** | **Uniformed Groups** |
 | -------- | -------- | -------- |
 |||
 
