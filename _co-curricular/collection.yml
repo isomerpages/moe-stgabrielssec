@@ -2,9 +2,9 @@ collections:
   co-curricular:
     output: true
     order:
-      - Education and Career Guidance/.keep
-      - Character & Citizenship Education.md
       - Co Curricular.md
+      - Character & Citizenship Education.md
       - About Us/.keep
       - About Us/Our Framework.md
       - About Us/Our Vision.md
+      - Education and Career Guidance/.keep
