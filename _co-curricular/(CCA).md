@@ -14,6 +14,6 @@ description: ""
      style="width:33%;float:left"><img src="/images/Uniformed%20Groups.jpeg" 
      style="width:33%;float:left">
 		 
-| **Club & Performing Arts** |**Sports & Games** | **Uniformed Groups** |
+| Club & Performing Arts |Sports & Games | Uniformed Groups |
 | -------- | -------- | -------- |
 |||
