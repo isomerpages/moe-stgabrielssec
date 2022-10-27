@@ -11,7 +11,7 @@ links:
   - title: "Signature Programmes "
     collection: signature-programmes
   - title: Links
-    url: /Links
+    url: /Link/
     sublinks:
       - title: Direct School Admission (DSA)
-        url: Direct_School_Admission_SGSS.pdf
+        url: /Links/Direct_School_Admission_SGSS.pdf
