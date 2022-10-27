@@ -48,17 +48,19 @@ Guided by the school’s vision: The Gabrielite… a Servant Leader, Lifelong Le
 
 The CCE team seeks to provide an integrated, comprehensive curriculum, designed to support students in their growth and needs. CCE lessons are conducted on M.A.D. Fridays – the days when Gabrielites come together and Make A Difference. It is our hope that students will be equipped with good values, right skills and the confidence to live a full and meaningful life both within and beyond the school gate.
 
-One of the highlights for this year is our inaugural Career/STEM Fiesta which was conducted on 30th May 2019, together with Applied Learning Programme (ALP) – Aviation. 
+One of the highlights for this year is our inaugural Career/STEM Fiesta which was conducted on 30th May 2019, together with Applied Learning Programme (ALP) – Aviation.&nbsp;
   
 
-**Objectives of the Fiesta:** 
+**Objectives of the Fiesta:**&nbsp;
 
-(1) To allow Sec 3 students to be exposed to different career choices, their requirements and demands 
+(1) To allow Sec 3 students to be exposed to different career choices, their requirements and demands&nbsp;
 
-(2) To emplace St. Gabriel’s Secondary as a feeder school of choice for the aviation industry 
+(2) To emplace St. Gabriel’s Secondary as a feeder school of choice for the aviation industry&nbsp;
 
-(3) To nurture future leaders and professionals to serve and develop Singapore into an aviation hub 
+(3) To nurture future leaders and professionals to serve and develop Singapore into an aviation hub&nbsp;
 
 (4) To encourage lifelong learning in Science, Technology, Engineering and Mathematics (STEM) through Flight and Aerospace
 
 This event allowed our students to hear first hand and learn from practising professionals in their fields the kind of work they do, the requirements for getting into their line of work and also emphasize to them the importance of STEM (Science, Technology, Engineering, Mathematics) as a growing engine of the economy. Hopefully, through all these, the students will be able to better choose a professional career of their choice and liking.
+
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTCcij3L-ay--nbbUhgaRUJLwxOYKYnRj3ujtxNt1gHSaaaW1ujKRQZatsg7IsDYQ7djilnrEZjjkHI/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
