@@ -8,15 +8,9 @@ third_nav_title: Performing Arts
 
 **<u>Introduction</u>**  
 
-  
-
 Since its inception in 1966, St. Gabriel’s Concert Band has undergone many changes from a Military Band to its current status of Symphonic Band.
-
   
-
-Over the years, the Band has staged numerous performances in and out of school. Besides performances, the Band is also actively involved in community programmes. Through these programmes, the Band will be able to develop its members to be true servant-leaders in serving the community.
-
-  
+Over the years, the Band has staged numerous performances in and out of school. Besides performances, the Band is also actively involved in community programmes. Through these programmes, the Band will be able to develop its members to be true servant-leaders in serving the community.  
 
 **Teachers-in-charge**
 
@@ -24,11 +18,7 @@ Mr. Ong Ting Kai (OIC)
 
 Ms. Ng U-Lynn (2IC)
 
-  
-
 **Training Schedule**
-
-  
 
 Practice sessions:
 
@@ -42,27 +32,27 @@ Venue: Band Room
 
   
 
-**Achievements**
+**<u>Achievements</u>**
 
-*   2022 Performances / Exchange Programme
+2022 Performances / Exchange Programme
 
 *   Chinese New Year Concert in School
 *   Speech Day Concert
 *   National Day Concert
 *   Concert Band Exchange Programme with Xin Ming Secondary School
 
-*   2021 Performances / Awards
+2021 Performances / Awards
 
 *   SYF - Certificate of Accomplishment (Flexible Band)
 *   SYF - Certificate of Accomplishment (Percussion Ensemble)
 
-*   2019 Performances / Awards
+2019 Performances / Awards
 
 *   Chinese New Year Concert
 *   Speech Day Concert
 *   SYF - Certificate of Accomplishment
 
-*   2018 School / Public Performances
+2018 School / Public Performances
 
 *   Band Concert @ School Hall (January 2018)
 *   Chinese New Year Concert in School
