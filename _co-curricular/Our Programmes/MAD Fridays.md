@@ -62,4 +62,3 @@ One of the highlights for this year is our inaugural Career/STEM Fiesta which wa
 (4) To encourage lifelong learning in Science, Technology, Engineering and Mathematics (STEM) through Flight and Aerospace
 
 This event allowed our students to hear first hand and learn from practising professionals in their fields the kind of work they do, the requirements for getting into their line of work and also emphasize to them the importance of STEM (Science, Technology, Engineering, Mathematics) as a growing engine of the economy. Hopefully, through all these, the students will be able to better choose a professional career of their choice and liking.
-
