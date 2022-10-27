@@ -2,7 +2,6 @@ collections:
   co-curricular:
     output: true
     order:
-      - (CCA).md
       - Co Curricular.md
       - Character & Citizenship Education.md
       - About Us/.keep
@@ -15,5 +14,6 @@ collections:
       - Values Education/Sexuality Education.md
       - Key Features/.keep
       - Key Features/Citizenship Education.md
-      - Our Programmes/MAD Fridays.md
       - Our Programmes/.keep
+      - Our Programmes/MAD Fridays.md
+      - (CCA).md
