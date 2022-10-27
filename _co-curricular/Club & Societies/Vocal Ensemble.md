@@ -48,13 +48,13 @@ Venue: Music Room (Level 4)
 
   
 
-**<u>Activities in 2020:</u>** <br> 
+**<u>Activities in 2020:</u>** 
 *   CCA Fair (January)
 *   World Virtual Choir Festival (Online)
 
   
 
-**Activities in 2019:**
+**<u>Activities in 2019:</u>**
 
 *   CCA Fair (January)
 *   Voices of Singapore in CHIJMES (March)
@@ -68,7 +68,7 @@ Venue: Music Room (Level 4)
 
   
 
-**Activities in 2018:**
+**<u>Activities in 2018:</u>**
 
 *   CCA Fair (January)
 *   Arts Buzz in school canteen (March)
