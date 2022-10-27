@@ -39,8 +39,7 @@ Venue: Music Room (Level 4)
 
   
 
-**Activities in 2021:**
-
+**<u>Activities in 2021:</u>**
 *   Virtual CCA Fair (January)
 *   Singapore Youth Festival - Choral (May)
 *   Arts Buzz in School (July)
@@ -49,8 +48,7 @@ Venue: Music Room (Level 4)
 
   
 
-**Activities in 2020:**  
-
+**<u>Activities in 2020:</u>** <br> 
 *   CCA Fair (January)
 *   World Virtual Choir Festival (Online)
 
