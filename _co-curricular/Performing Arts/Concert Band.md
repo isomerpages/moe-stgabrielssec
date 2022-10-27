@@ -59,17 +59,17 @@ Venue: Band Room
 *   Saxophone Duet Performance at Speech Day Concert (April 2018)
 *   Public Performance @ Wisma Geylang Serai (November 2018)
 
-*   2017 Public Performances / Awards
+2017 Public Performances / Awards
 
 *   SYF - Certificate of Accomplishment
 *   Public Performance @ Kitchener Complex (January 2017)
 *   Guest Performance at Montfort Alumni Wind Orchestra’s Inaugural Concert (July 2017)
 
-*   2016 Public Performances / Awards
+2016 Public Performances / Awards
 
 *   Band Concert @ School Hall (January 2016)
 
-*   2015 Public Performances / Awards
+2015 Public Performances / Awards
 
 *   SYF - Certificate of Distinction
 *   Clarinet Quartet Performance at World Schools Debating Championship 2015 Preliminary Rounds
