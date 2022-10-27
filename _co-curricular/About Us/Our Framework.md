@@ -49,3 +49,5 @@ Guided by the school’s vision: The Gabrielite… a Servant Leader, Lifelong Le
   </tr>
 </tbody>
 </table>
+
+The CCE team, which comprises Values Education, Citizenship Education, Service and Leadership, CCA, together with Student Support and Student Management team, seek to provide an integrated, comprehensive curriculum, designed to support students in their growth and needs as well as provide opportunities for character and citizenship development. We aim to help Gabrielites acquire and live by values that guide them to make good choices, and develop positive attitudes and behaviour towards themselves, their families and the community at large.
