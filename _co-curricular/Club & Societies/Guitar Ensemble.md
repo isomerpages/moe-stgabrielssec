@@ -26,18 +26,18 @@ Mr. Sebastian Goh
 
   
 
-**Training Schedule**
+**<u>Training Schedule</u>**
 
 Practice Sessions (in Guitar Room and Math Room):
 
-*   Secondary 1:
+Secondary 1:
 
 *   Wed : 3.00pm - 6.00pm
 *   Fri     : 2.00pm - 5.30pm
 
   
 
-*   Secondary 2 to 5 (SYF Ensemble):
+Secondary 2 to 5 (SYF Ensemble):
 
 *   Tue   : 3.00pm - 5.30pm
 *   Wed : 3.00pm - 6.00pm
