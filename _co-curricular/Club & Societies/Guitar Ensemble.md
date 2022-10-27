@@ -18,12 +18,10 @@ The Guitar Ensemble has also placed great emphasis on overseas performances and 
 
 Under the flame of Labor Omnia Vincit, the ensemble has labored hard to achieve distinguished accomplishments.
 
-**Teachers-in-charge**
-
-Ms. Ruby Cheah (OIC)  
-
-Ms. Amelia Loh (2IC)
-
+**<u>Teachers-in-charge</u>**
+<br>
+Ms. Ruby Cheah (OIC)<br>
+Ms. Amelia Loh (2IC)<br>
 Mr. Sebastian Goh
 
   
