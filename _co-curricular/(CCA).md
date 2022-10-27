@@ -5,6 +5,8 @@ description: ""
 ---
 ## CCA
 
+![](/images/CCA%20Student%20Leaders.jpeg)
+
 **<u>CCA Information</u>**
 
 <img src="/images/Clubs%20&%20Performing%20Arts.jpeg" 
