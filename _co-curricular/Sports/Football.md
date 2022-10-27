@@ -43,28 +43,28 @@ Hatta Bin Ali
 
 **<u>Achievements</u>**
 
-*   2019 Results
+2019 Results
 
 *   NSG Football Championships B Division Boys School League 3: 1st
 *   NSG Football Championships C Division Boys League 1Championships: Top 8
 
-*   2018 Results
+2018 Results
 
 *   B Division School Premier League: 3rd
 *   C Division South Zone Schools Football Championship: Round of 16
 
-*   2017 Results
+2017 Results
 
 *   B Division School Premier League: Top 16
 *   C Division South Zone Schools Football Championship: Round of 16
 
-*   2016 Results
+2016 Results
 
 *   B Division South Zone Schools Football Championship: 1st
 *   B Division Nationals Football Championship: 4th
 *   C Division South Zone Schools Football Championship: Quarter-Finals
 
-*   2015 Results
+2015 Results
 
 *   B Division South Zone Schools Football Championship: 3rd
 *   C Division South Zone Schools Football Championship: Quarter-Finals
