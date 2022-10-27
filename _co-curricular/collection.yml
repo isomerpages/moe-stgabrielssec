@@ -2,5 +2,6 @@ collections:
   co-curricular:
     output: true
     order:
+      - About Us/.keep
       - Character & Citizenship Education.md
       - Co Curricular.md
