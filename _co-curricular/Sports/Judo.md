@@ -35,81 +35,81 @@ Students will proceed from school to the training venue via public transport and
 
 **Achievements**
 
-*   2022
+2022
 
 *   'B' Division individual – 1 Gold & 2 Bronzes
 *   'B' Division overall National – 3rd
 *   'C' Division individual –2 Gold, 1Silver and 2 Bronzes
 *   'C' Division overall National – 2nd
 
-*   2019:  
+2019:  
     
 
 *   'B' Division individual – 1 Bronze
 *   'C' Division individual – 1 Gold, 1Silver and 2 Bronzes
 *   'C' Division overall National – 3rd
 
-*   2018:  
+2018:  
     
 
 *   'B' Division individual – 1 Bronze
 *   'C' Division individual – 1 Gold, 1Silver and 2 Bronzes
 *   'C' Division overall National – 3rd
 
-*   2017:
+2017:
 
 *   'B' Division individual – 3 Gold & 1 Bronzes
 *   'B' Division overall National – National Champions
 *   'C' Division individual – 3 Bronzes
 *   'C' Division overall National – 5th
 
-*   2016:
+2016:
 
 *   'B' Division individual - 1 Bronze
 *   'B' Division overall National – 3rd
 *   'C' Division individual – 1 Gold & 2 Bronzes
 *   'C' Division overall National – 3rd
 
-*   2015:
+2015:
 
 *   'B' Division team – 3rd
 *   'B' Division individual - 1 Gold 1 Silver and 1 Bronze
 *   'C' Division team – 3rd
 *   'C' Division individual – 1 Silver & 4 Bronzes
 
-*   2014:
+2014:
 
 *   'B' Division team - 1st
 *   'B' Division individual - 1 Gold, 1 Silver & 2 Bronze
 *   'C' Division individual - 1 Silver
 
-*   2013:
+2013:
 
 *   'B' Division individual - 1 Silver & 2 Bronze
 *   'C' Division individual - 1 Silver & 2 Bronze
 
-*   2012:
+2012:
 
 *   'B' Division team - 1st
 *   'B' Division individual - 1 Gold, 1 Silver & 4 Bronze
 *   'C' Division team - 3rd
 *   'C' Dvision individual - 2 Gold, 1 Silver & 2 Bronze
 
-*   2011:
+2011:
 
 *   'B' Division team - 3rd
 *   'B' Division individual - 1 Gold & 3 Bronze
 *   'C' Division team - 3rd
 *   'C' Division individual - 1 Silver & 2 Bronze
 
-*   2010:
+2010:
 
 *   'B' Division team - 3rd
 *   'B' Division individual - 1 Silver
 *   'C' Division team - 2nd
 *   'C' Division individual - 2 Gold, 1 Silver, 1 Bronze
 
-*   2009:
+2009:
 
 *   'B' Division team - 3rd
 *   'B' Division individual - 1 Silver
