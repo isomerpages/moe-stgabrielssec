@@ -46,7 +46,6 @@ Secondary 2 to 5 (SYF Ensemble):
 **<u>Achievements</u>**
 
 *   SYF Arts Presentation 2021, Certificate of Accomplishment  
-    
 *   SYF Arts Presentation 2019, Certificate of Accomplishment  
 *   SYF Arts Presentation 2017, Certificate of Distinction
 *   SYF Arts Presentation 2015, Certificate of Commendation
