@@ -10,4 +10,5 @@ Character and Citizenship Education (CCE) has been at the heart of Singapore’s
 CCE is central to the Framework for 21st Century Competencies and Student Outcomes. It emphasizes the interconnectedness of the school’s core values (Respect, Resilience Responsibility and Care), social and emotional competencies and civic literacy, global awareness and cross-cultural skills that are crucial for character and citizenship development of the students.
 
 ![](/images/Framework%20for%2021st%20Century%20Competencies%20and%20Student%20Outcomes.png)
+
 **Framework for 21st Century Competencies and Student Outcomes**
