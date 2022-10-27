@@ -73,3 +73,9 @@ Venue: Band Room
 
 *   SYF - Certificate of Distinction
 *   Clarinet Quartet Performance at World Schools Debating Championship 2015 Preliminary Rounds
+
+![](/images/SYF%202021%20Arts%20Presentation.jpeg)
+
+![](/images/Mr%20Shawn%20Lim%20addressing%20the%20Concert%20Band%20during%20Full%20Dress%20Rehearsal.jpeg)
+
+![](/images/All%20_Smile_%20after%20the%20SYF%202021%20Presentation.jpeg)
