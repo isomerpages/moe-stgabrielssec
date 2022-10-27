@@ -1,4 +1,5 @@
 collections:
   co-curricular:
     output: true
-    order: []
+    order:
+      - Co Curricular.md
