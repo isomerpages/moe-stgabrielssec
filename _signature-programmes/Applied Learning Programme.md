@@ -3,3 +3,27 @@ title: Applied Learning Programme
 permalink: /signature-programmes/Applied-Learning-Programme/
 description: ""
 ---
+## Applied Learning Programme 
+
+#### Applied Learning Programme (Flight & Aerospace)
+
+<u>Introduction</u>
+ 
+
+Codenamed **Project GaIA** which stands for **GAbrielites INSPIRED for Aviation**, our Applied Learning Programme (ALP) in Flight and Aerospace was started in 2015 which provides an opportunity for all our students to learn and experienced Flight and Aerospace Science in the school, giving them an early start to the very exciting and interesting field of Avaition.
+
+
+<u>Objectives</u>
+
+*   raise students’ awareness of the aviation Industry
+*   engage students with a strong interest in aviation through experiential and hands-on learning for students
+*   nurture future leaders and professionals to serve and develop Singapore into an aviation hub
+*   encourage lifelong learning in Science, Technology, Engineering, Art and Mathematics (STEAM) through Flight and Aerospace
+
+
+<u>Programmes</u>
+
+
+With the objectives in mind, all our Secondary 1 and 2 students undergo a 12 hours ALP module on Aviation and Flight where they get to learn the science of flight and also how to make a gliders using balsa wood. Furthermore, the module allows them to learn and enjoy the piloting of drones and creating of paper rockets propelled by compressed air in mini-competitions, pitting their skills and self-made rockets against each other. The students also get to visit and learn from their visits to the Singapore Air Show and various other aviation events. Our school have also collaborated with Changkat Changi Secondary and Lycée Saint Exupéry School, an aviation school in France, on various projects, and the students and staff also get to visit France on the exchange programme. It was indeed an enriching and rewarding trip for all of them.
+
+St. Gabriel’s Secondary School is also working closely with Singapore Youth Flying Club and recognized as an Aviation Initiative School by Civil Aviation Authority of Singapore (CAAS).
