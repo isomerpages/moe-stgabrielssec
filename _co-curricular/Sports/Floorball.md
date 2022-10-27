@@ -35,8 +35,7 @@ Ms. Joanne Lim
 
   
 
-**Coach**  
-
+**<u>Coach</u>**<br>
 Coach Saravanan
 
   
@@ -52,3 +51,23 @@ Coach Saravanan
 
 *   School Team - Mon & Wed: 4.30pm - 6.00pm
 *   Buddy Programme - Thu: 3.00pm - 5.00pm
+
+Floorballers to refer to floorball calendar for holiday training, updates and last minute cancellations.
+
+<iframe src="https://calendar.google.com/calendar/embed?src=c_rnuv42e4idoifn747q4sce0ju4%40group.calendar.google.com&ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+**<u>Achievements</u>**<br>
+**(i) C Division**
+
+*   National Inter School Floorball Championships 2017: _Quarter-Finals_
+*   National Inter School Floorball Championships 2016: _3rd Runner-up_
+*   National Inter School Floorball Championships 2015: _Quarter-Finals_
+
+  
+
+**<u>(ii) B Division</u>**
+
+*   National Inter School Floorball Championships 2017: _Quarter-Finals_
+*   National Inter School Floorball Championships 2016: _Quarter-Finals_
+*   National Inter School Floorball Championships 2015: _Quarter-Finals_
+
