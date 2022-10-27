@@ -15,21 +15,15 @@ The Vocal Ensemble is an all-male TTBB (Tenor1, Tenor2, Bass1 (Baritone) & Bass2
 
 The Vocal Ensemble has been active since 2002, starting out with only five members in its infancy. Since its inception however, the Vocal Ensemble has now grown to over 40 members strong, held numerous concerts, and has managed to achieve the silver award in 2005, gold awards in 2007, 2009 and 2011, the certificate of distinction in 2013 and 2015, and the certificate of accomplishment in 2017 and 2019, at the Singapore Youth Festival Choral Judging. We have made many end-of-year overseas trips to countries like Macau, Korea, Malaysia, Taiwan, Hong Kong and Japan for cultural and choral exchanges and sometimes, competitions!
 
-**Teachers-in-charge**
-
-Ms. Samantha Wee (OIC)
-
-Ms. Ivy Tan (2IC)  
-
+**<u>Teachers-in-charge</u>**<br>
+Ms. Samantha Wee (OIC)<br>
+Ms. Ivy Tan (2IC)<br>
 Ms. Koh Shiew Cher
 
   
 
-**Training Schedule**
-
+**<u>Training Schedule</u>**<br>
 Practice sessions on:
-
-  
 
 *   Tue : 3.30pm - 5.30pm
 *   Thu : 3.30pm - 5.30pm
@@ -37,14 +31,10 @@ Practice sessions on:
 
 Venue: Music Room (Level 4)
 
-  
-
-**Achievements**
-
-2017 & 2019 SYF - Accomplishment
-
-2013 & 2015 SYF - Distinction
-
+ 
+**<u>Achievements</u>**<br>
+2017 & 2019 SYF - Accomplishment<br>
+2013 & 2015 SYF - Distinction<br>
 2007 to 2011 SYF - Gold
 
   
