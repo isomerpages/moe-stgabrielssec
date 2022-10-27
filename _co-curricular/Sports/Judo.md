@@ -19,3 +19,99 @@ Since the last National School Games in 2018 followed by the Covid interruption 
 Mr. Joseph Ng (OIC)<br>
 Ms. Amira (2IC)<br>
 Ms. Tan Ying
+
+**<u>Coach</u>**<br>
+Mr Gerard Lim
+
+**<u>Practice Sessions:</u>**<br>
+Whenever possible: Mon, Tue & Fri : 3.30pm - 5.30pm (Mon and Tue) for Fri (2.45pm to 4.45pm)
+
+Training is conducted at our service provider’s facility located at:<br>
+**BUDO ACADEMY**<br>
+340-B King George’s Avenue (Off Lavender Street) \[near to Immigration & Lavender MRT\]<br>
+King George’s Building Singapore 208574. Tel: 6297-1202
+
+Students will proceed from school to the training venue via public transport and dismissed **directly** after their training.
+
+**Achievements**
+
+*   2022
+
+*   'B' Division individual – 1 Gold & 2 Bronzes
+*   'B' Division overall National – 3rd
+*   'C' Division individual –2 Gold, 1Silver and 2 Bronzes
+*   'C' Division overall National – 2nd
+
+*   2019:  
+    
+
+*   'B' Division individual – 1 Bronze
+*   'C' Division individual – 1 Gold, 1Silver and 2 Bronzes
+*   'C' Division overall National – 3rd
+
+*   2018:  
+    
+
+*   'B' Division individual – 1 Bronze
+*   'C' Division individual – 1 Gold, 1Silver and 2 Bronzes
+*   'C' Division overall National – 3rd
+
+*   2017:
+
+*   'B' Division individual – 3 Gold & 1 Bronzes
+*   'B' Division overall National – National Champions
+*   'C' Division individual – 3 Bronzes
+*   'C' Division overall National – 5th
+
+*   2016:
+
+*   'B' Division individual - 1 Bronze
+*   'B' Division overall National – 3rd
+*   'C' Division individual – 1 Gold & 2 Bronzes
+*   'C' Division overall National – 3rd
+
+*   2015:
+
+*   'B' Division team – 3rd
+*   'B' Division individual - 1 Gold 1 Silver and 1 Bronze
+*   'C' Division team – 3rd
+*   'C' Division individual – 1 Silver & 4 Bronzes
+
+*   2014:
+
+*   'B' Division team - 1st
+*   'B' Division individual - 1 Gold, 1 Silver & 2 Bronze
+*   'C' Division individual - 1 Silver
+
+*   2013:
+
+*   'B' Division individual - 1 Silver & 2 Bronze
+*   'C' Division individual - 1 Silver & 2 Bronze
+
+*   2012:
+
+*   'B' Division team - 1st
+*   'B' Division individual - 1 Gold, 1 Silver & 4 Bronze
+*   'C' Division team - 3rd
+*   'C' Dvision individual - 2 Gold, 1 Silver & 2 Bronze
+
+*   2011:
+
+*   'B' Division team - 3rd
+*   'B' Division individual - 1 Gold & 3 Bronze
+*   'C' Division team - 3rd
+*   'C' Division individual - 1 Silver & 2 Bronze
+
+*   2010:
+
+*   'B' Division team - 3rd
+*   'B' Division individual - 1 Silver
+*   'C' Division team - 2nd
+*   'C' Division individual - 2 Gold, 1 Silver, 1 Bronze
+
+*   2009:
+
+*   'B' Division team - 3rd
+*   'B' Division individual - 1 Silver
+*   'C' Division team - 2nd
+*   'C' Division individual - 1 Gold, 1 Silver & 1 Bronze
