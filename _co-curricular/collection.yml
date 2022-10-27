@@ -2,7 +2,6 @@ collections:
   co-curricular:
     output: true
     order:
-      - Our Programmes/.keep
       - Co Curricular.md
       - Character & Citizenship Education.md
       - About Us/.keep
@@ -15,3 +14,4 @@ collections:
       - Values Education/Sexuality Education.md
       - Key Features/.keep
       - Key Features/Citizenship Education.md
+      - Our Programmes/.keep
