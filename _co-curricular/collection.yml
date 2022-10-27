@@ -2,6 +2,7 @@ collections:
   co-curricular:
     output: true
     order:
+      - Club & Societies/.keep
       - Co Curricular.md
       - Character & Citizenship Education.md
       - About Us/.keep
