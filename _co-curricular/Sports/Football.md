@@ -12,46 +12,36 @@ third_nav_title: Sports
 
 At St Gabriel’s Secondary Football, we strive to foster a lifelong passion for the sport. Through the continued support from the coaches and staff, our players have become more socially aware and independent while developing greater playing capabilities. Using our footballing history as a compass, St Gabriel’s Secondary Football has created a tight-knit community that values not just results but also the holistic development of our students. We hope be an educational, instructional, and pedagogical platform for our students to learn about the beautiful game while caring about social issues. Through this, we seek to preserve the footballing tradition of producing future athletes and gentlemen from the school.
 
-**St Gabs Football, A.S.T.A.R Footballer**
+**<u>St Gabs Football, A.S.T.A.R Footballer</u>**
 
-  
-
-S - Self-managed
-
-T - Tenacious
-
-A - Attitude
-
+S - Self-managed<br>
+T - Tenacious<br>
+A - Attitude<br>
 R - Role model
 
   
 
-**Teachers-in-charge**
-
-Mr. Brandon Foo  
-
-Mr. Paul De Souza
-
+**<u>Teachers-in-charge</u>**<br>
+Mr. Brandon Foo <br>
+Mr. Paul De Souza <br>
 Mr. Suraj
 
   
 
-**Coaches**: 
-
-Muhammad Jasni Bin Hatta
-
+**<u>Coaches</u>**: <br>
+Muhammad Jasni Bin Hatta<br>
 Hatta Bin Ali
 
   
 
-**Training Schedule**
+**<u>Training Schedule</u>**
 
 *   Mon, Wed, Fri: 3.00pm - 6.00pm - Term Time
 *   Mon, Wed, Fri: 8.00am - 11.00am - School Holidays
 
   
 
-**Achievements**
+**<u>Achievements</u>**
 
 *   2019 Results
 
