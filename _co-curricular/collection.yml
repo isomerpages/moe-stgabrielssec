@@ -2,10 +2,6 @@ collections:
   co-curricular:
     output: true
     order:
-      - Uniformed Groups/.keep
-      - Sports/.keep
-      - Performing Arts/.keep
-      - Club & Societies/.keep
       - Co Curricular.md
       - Character & Citizenship Education.md
       - About Us/.keep
@@ -21,3 +17,7 @@ collections:
       - Our Programmes/.keep
       - Our Programmes/MAD Fridays.md
       - (CCA).md
+      - Club & Societies/.keep
+      - Performing Arts/.keep
+      - Sports/.keep
+      - Uniformed Groups/.keep
