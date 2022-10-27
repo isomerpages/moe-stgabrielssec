@@ -20,16 +20,13 @@ Dmitry Medveder
 Mr. Alvin Goh (OIC)<br>
 Mr. Joshua Leong (2IC)<br>
 Ms. Subhalakshimi
-
-  
-
-Coach:
-
+ 
+Coach:<br>
 Mr. Welly Tjia
 
   
 
-**Training Schedule**
+**<u>Training Schedule</u>**
 
   
 
@@ -47,14 +44,13 @@ Occasionally, Badminton trainings might be carried out at outside premises (near
 
   
 
-**Achievements**
+**<u>Achievements</u>**
 
 In 2020, both 'B' and 'C' boys team performed well to advance to the next championship run. Due to COVID-19, further competitions were cancelled. We hope to continue this winning streak in the years ahead.
 
-  
-
 In 2021, the "B" boys did well to advance to the Quarter-Finals of the South Zone competition. 
 
-  
-
 In 2022, both 'B' and 'C' Division did well to advance to the Quarter-Finals of the South Zone competition.
+
+
+
