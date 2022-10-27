@@ -2,5 +2,5 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Learning For Life Programme.md
       - Applied Learning Programme.md
+      - Learning For Life Programme.md
