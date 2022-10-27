@@ -42,3 +42,30 @@ Secondary 2 to 5 (SYF Ensemble):
 *   Tue   : 3.00pm - 5.30pm
 *   Wed : 3.00pm - 6.00pm
 *   Fri     : 2.00pm - 5.30pm
+
+**<u>Achievements</u>**
+
+*   SYF Arts Presentation 2021, Certificate of Accomplishment  
+    
+*   SYF Arts Presentation 2019, Certificate of Accomplishment  
+*   SYF Arts Presentation 2017, Certificate of Distinction
+*   SYF Arts Presentation 2015, Certificate of Commendation
+*   SYF Arts Presentation 2013, Certificate of Accomplishment
+*   SYF Silver (2011)
+*   SYF Gold (2009)
+*   Performances \[since 2012\]:
+*   Annual Sec One CCA Fair Showcase
+*   Annual St. Gabriel's Speech Day
+*   ACJC Guitar Ensemble Concert 2017
+*   Kitago School Exchange Programme (20th Anniversary) Welcome Ceremony 2017
+*   Performance at Metta School (2018)
+*   Biennial SGSS Guitar Concert (Legacy 2018)
+*   NEX National Library Branch Showcase 2015, 2017, 2018
+*   Kitago School Exchange Programme Farewell Dinner 2016
+*   Bishan National Library Branch Showcase 2012 – 2014, 2016
+*   Overseas Learning Journey to Chiang Mai, Thailand 2013, 2016, 2018
+*   Sinfonia III 2014, St. Gabriel's Secondary Aesthetic Group Concert (Symphony Band and Guitar Ensemble)
+*   Kaleidoscope 2014, St. Gabriel’s Secondary Aesthetic Group Concert at PLMGS Agape Concert Hall
+*   47th Braddell Heights National Day Dinner cum Variety Show (2013)
+*   Sinfornia II 2012, St. Gabriel's Secondary Aesthetic Group Concert at SJI Performing Arts Centre
+*   Overseas Learning Journey to Hanoi, Vietnam 2012
