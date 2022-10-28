@@ -30,7 +30,7 @@ Click [**here**](http://tinyurl.com/virtualdialoguesession) to watch the Virtu
 
 **Resources for Parents**  
 
-*   **[Parent Handbook (I) on Learning with a PLD](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/PDLP/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)**  
+*   **[Parent Handbook (I) on Learning with a PLD](/files/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)**  
     
 *   **[Parent Handbook (II) on Learning with a PLD](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/PDLP/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf)**
 *   **[Student Device Information Kit](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/PDLP/Student%20Device%20Information%20Kit.pdf)**
