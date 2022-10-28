@@ -24,8 +24,9 @@ You would have received a letter titled **“National Digital Literacy Programm
 
 Click [**here**](http://tinyurl.com/virtualdialoguesession) to watch the Virtual Dialogue session.  
 
-*   **[Frequently Asked Questions](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/PDLP/PDLP%20FAQs.pdf)**
-*   [**Application Form for Subsidy for Purchase of Personal Learning Device (PLD)**](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/PDLP/PDLP%20Application%20Form%20for%20Subsidy%20OF%20EF.pdf)
+*   **[Frequently Asked Questions](/files/PDLP%20FAQs.pdf)**
+
+*   **[Application Form for Subsidy for Purchase of Personal Learning Device (PLD)](/files/PDLP%20Application%20Form%20for%20Subsidy%20OF%20EF.pdf)**
 
 **Resources for Parents**  
 
