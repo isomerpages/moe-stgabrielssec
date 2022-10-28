@@ -23,4 +23,4 @@ description: ""
 
 |  |  |  
 |:---:|:---:|
-| **Mr Gordon Lim**<br>Vice Chairman | **Dr Francis Chong**<br>Chairman|
+| **Mr Gordon Lim**<br>Vice Chairman | **Dr Francis Chong**<br>Chairman |
