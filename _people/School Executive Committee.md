@@ -5,7 +5,7 @@ description: ""
 ---
 ## SCHOOL MANAGEMENT COMMITTEE
 
-<img src="/images/Bro%20DOMINIC%20Yeo%20Koh.jpeg" style="width:20%;margin-left:100px;" align = "left">
+<img src="/images/Bro%20DOMINIC%20Yeo%20Koh.jpeg" style="width:20%;margin-left:90px;" align = "left">
 
 <img src="/images/Dr%20Francis%20Chong.jpeg" style="width:20%;margin-right:40px;" align = "right">
 
