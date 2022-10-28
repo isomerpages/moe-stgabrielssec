@@ -24,9 +24,9 @@ description: ""
     
 *   [Issue 26 Jul - Dec 2013](/files/2013_issue26_provincial_bulletin_Jul.pdf)
     
-*   [Issue 25 Apr - Jun 2013](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Useful%20Links/Brothers%20of%20St.%20Gabriels%20Province%20B/2013_issue25_provincial_bulletin_apr.pdf)  
+*   [Issue 25 Apr - Jun 2013](/files/2013_issue25_provincial_bulletin_apr.pdf) 
     
-*   [Issue 24 Jan - Mar 2013](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Useful%20Links/Brothers%20of%20St.%20Gabriels%20Province%20B/2013_issue24_provincial_bulletin_jan.pdf)  
+*   [Issue 24 Jan - Mar 2013](/files/2013_issue24_provincial_bulletin_jan.pdf)  
     
 *   [Issue 23 Oct - Dec 2012](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Useful%20Links/Brothers%20of%20St.%20Gabriels%20Province%20B/2012_provincial_bulletin_issue23_oct.pdf)  
     
