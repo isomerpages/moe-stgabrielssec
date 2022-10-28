@@ -44,4 +44,12 @@ Click [**here**](http://tinyurl.com/virtualdialoguesession) to watch the Virtu
 *   **[CCA Teachers](BrokenLink)**
 *   **[Heads of Departments & Subject Heads](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/School-Executive-Committee/)**
 
+**[ASKNLearn (LMS) Portal](http://lms.asknlearn.com/STGSS/login.aspx)**
+
+| Click on the [link](http://lms.asknlearn.com/STGSS/login.aspx) to access the ASKNLearn Portal |
+| --- 
+
+#### Parents Gateway
+***
+*   **[PG Gateway - Parent Teacher Meeting Guide](/files/PG%20Meetings%20-%20User%20Guide%20for%20Parents%20-%20Aug%202020.pdf)**
 
