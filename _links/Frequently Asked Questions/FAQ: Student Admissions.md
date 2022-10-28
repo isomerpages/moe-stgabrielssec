@@ -9,6 +9,8 @@ third_nav_title: Frequently Asked Questions
 
 #### Student Admissions
 
+<a href="[#returnsg](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/links/frequently-asked-questions-faq/faq-student-admissions#returnsg)">Returning Singaporeans</a>
+
 * <a href="/links/Frequently-Asked-Questions/Student-Admissions/#returnsg">
 	Returning Singaporeans
 	</a>
