@@ -2,5 +2,6 @@ collections:
   links:
     output: true
     order:
+      - Frequently Asked Questions/.keep
       - Student Handbook.md
       - Brothers of St Gabriel's Province Bulletin.md
