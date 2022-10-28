@@ -14,5 +14,3 @@ description: ""
 |  |  |  
 |:---:|:---:|
 | **Bro Dominic Yeo-Koh**<br>Supervisor of Gabrielite Schools | **Dr Francis Chong**<br>Chairman|
-
-
