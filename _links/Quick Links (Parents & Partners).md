@@ -19,3 +19,17 @@ description: ""
 Please view the videos via the links below to have a good sense about the Personal Learning Device Initiative for your child.  
 
 You would have received a letter titled **“National Digital Literacy Programme”** which gives you details about this initiative. Do watch these briefing videos before the Virtual Dialogue session regarding the implementation of Personal Device Learning Programme.
+
+*   **[Personal Learning Device Briefing Videos](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/PDLP/Personal%20Learning%20Device%20Briefing%20Videos.pdf)**
+
+Click [**here**](http://tinyurl.com/virtualdialoguesession) to watch the Virtual Dialogue session.  
+
+*   **[Frequently Asked Questions](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/PDLP/PDLP%20FAQs.pdf)**
+*   [**Application Form for Subsidy for Purchase of Personal Learning Device (PLD)**](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/PDLP/PDLP%20Application%20Form%20for%20Subsidy%20OF%20EF.pdf)
+
+**Resources for Parents**  
+
+*   **[Parent Handbook (I) on Learning with a PLD](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/PDLP/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)**  
+    
+*   **[Parent Handbook (II) on Learning with a PLD](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/PDLP/Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD.pdf)**
+*   **[Student Device Information Kit](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/PDLP/Student%20Device%20Information%20Kit.pdf)**
