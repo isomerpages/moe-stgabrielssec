@@ -34,10 +34,10 @@ description: ""
     
 *   [Issue 21 Apr - Jun 2012](/files/2012_issue_21_bulletin_apr-jun.pdf)
 
-*   [Issue 19 Oct - Dec 2011](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Useful%20Links/Brothers%20of%20St.%20Gabriels%20Province%20B/issue19.pdf)  
+*   [Issue 19 Oct - Dec 2011](/files/issue19.pdf)
     
-*   [Issue 18 Jul - Sep 2011](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Useful%20Links/Brothers%20of%20St.%20Gabriels%20Province%20B/2011_issue18_bulletin_jul-sept.pdf)  
+*   [Issue 18 Jul - Sep 2011](/files/2011_issue18_bulletin_jul-sept.pdf)
     
-*   [Issue 16 Mar - Apr 2011](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Useful%20Links/Brothers%20of%20St.%20Gabriels%20Province%20B/2011_issue16_bulletin_mar-apr.pdf)  
+*   [Issue 16 Mar - Apr 2011](/files/2011_issue16_bulletin_mar-apr.pdf)
     
-*   [Issue 15 Jan - Feb 2011](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Useful%20Links/Brothers%20of%20St.%20Gabriels%20Province%20B/2011_issue15_bulletin_jan-feb.pdf)
+*   [Issue 15 Jan - Feb 2011](/files/2011_issue15_bulletin_jan-feb.pdf)
