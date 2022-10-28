@@ -13,7 +13,7 @@ third_nav_title: Frequently Asked Questions
 	Returning Singaporeans
 	</a>
 	
-* <a href="/highlights#loa">
+* <a href="/links/Frequently-Asked-Questions/Student-Admissions/#loa">
 	Leave of Absence (LOA) Scheme (Applicable to Returning Singaporeans only)
 	</a>
 
