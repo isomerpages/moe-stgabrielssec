@@ -6,13 +6,12 @@ description: ""
 ## SCHOOL MANAGEMENT COMMITTEE
 
 
-
 <img src="/images/Bro%20DOMINIC%20Yeo%20Koh.jpeg" style="width:35%;margin-right:15px;" align = "left">
 
 <img src="/images/Dr%20Francis%20Chong.jpeg" style="width:35%;margin-right:15px;" align = "right">
 
 <br clear="left">
 
-|  |  |
-|:---:|:---:|
-| **Bro Dominic Yeo-Koh**<br>Supervisor of Gabrielite Schools | **Dr Francis Chong**<br>Chairman|
+|  |  |  |
+|:---:|:---:|:---:|
+**Bro Dominic Yeo-Koh**<br>Supervisor of Gabrielite Schools|  | **Dr Francis Chong**<br>Chairman|
