@@ -4,12 +4,10 @@ permalink: /links/Frequently-Asked-Questions/Student-Admissions/
 description: ""
 third_nav_title: Frequently Asked Questions
 ---
-
 ## FAQ: STUDENT ADMISSIONS
 
 
 #### Student Admissions
-
 
 *   [Returning Singaporeans](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/links/frequently-asked-questions-faq/faq-student-admissions#returnsg)
 *   [Leave of Absence (LOA) Scheme (Applicable to Returning Singaporeans only)](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/links/frequently-asked-questions-faq/faq-student-admissions#loa)
