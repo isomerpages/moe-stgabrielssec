@@ -1,4 +1,5 @@
 collections:
   links:
     output: true
-    order: []
+    order:
+      - Student Handbook.md
