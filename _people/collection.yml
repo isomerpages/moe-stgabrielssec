@@ -2,9 +2,9 @@ collections:
   people:
     output: true
     order:
-      - School Executive Committee.md
       - People.md
       - School Management Committee.md
+      - School Executive Committee.md
       - Form & Subject Teachers/.keep
       - Parents/.keep
       - Parents/Parents.md
