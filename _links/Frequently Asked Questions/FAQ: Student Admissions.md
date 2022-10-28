@@ -9,7 +9,7 @@ third_nav_title: Frequently Asked Questions
 
 #### Student Admissions
 
-<a href="[#returnsg](https://staging.d3b8qjosoo9awx.amplifyapp.com/links/Frequently-Asked-Questions/Student-Admissions/#returnsg)">Returning Singaporeans</a>
+* <a href="[#returnsg](https://staging.d3b8qjosoo9awx.amplifyapp.com/links/Frequently-Asked-Questions/Student-Admissions/#returnsg)">Returning Singaporeans</a>
 
 * <a href="/links/Frequently-Asked-Questions/Student-Admissions/#returnsg">
 	Returning Singaporeans
