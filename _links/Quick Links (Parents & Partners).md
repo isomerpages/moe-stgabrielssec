@@ -41,5 +41,6 @@ Click [**here**](http://tinyurl.com/virtualdialoguesession) to watch the Virtu
 ***
 
 *   **[Form Teachers & Subject Teachers](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/people/form-teachers-n-subject-teachers)**
-*   **[CCA Teachers](https://stgabrielssec.moe.edu.sg/people/school-staff/cca-teachers)**
-*   **[Heads of Departments & Subject Heads](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/people/school-executive-committee)**
+*   **[CCA Teachers](BrokenLink)**
+*   **[Heads of Departments & Subject Heads](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/School-Executive-Committee/)**
+
