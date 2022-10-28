@@ -8,7 +8,7 @@ description: ""
 **Brothers of St. Gabriel's Province Bulletin:**
 
 * [Issue 40 Jan - Mar 2019](/files/Province%20Bulletin_Jan-Mar%202019.pdf)
-*   [Issue 39 Apr - Jun 2018](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Useful%20Links/Brothers%20of%20St.%20Gabriels%20Province%20B/2018_issue39_Province%20Bulletin_Apr-Jun.pdf)
+*   [Issue 39 Apr - Jun 2018](2018_issue39_Province%20Bulletin_Apr-Jun.pdf)
 *   [Issue 38 Jan - Mar 2018](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Useful%20Links/Brothers%20of%20St.%20Gabriels%20Province%20B/2018_issue38_Province_Bulletin_Jan-Mar.pdf)
 *   [Issue 37 Oct - Dec 2017](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Useful%20Links/Brothers%20of%20St.%20Gabriels%20Province%20B/2017_issue37_Province%20Bulletin_Oct_Dec.pdf)
 *   [Issue 36 Jul - Sep 2017](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Useful%20Links/Brothers%20of%20St.%20Gabriels%20Province%20B/2017_issue36_Province_Bulletin_Jul_Sep.pdf)
