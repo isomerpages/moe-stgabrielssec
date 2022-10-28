@@ -5,7 +5,7 @@ description: ""
 ---
 ## Student Handbook
 
-**1. [Awards (Academic and Non-Academic](https://stgabrielssec.moe.edu.sg/qql/slot/u153/Link/Student%20Handbook/AWARDS%20ACADEMIC%20AND%20NON%20ACADEMIC.pdf)**
+**1. [Awards (Academic and Non-Academic](/files/AWARDS%20ACADEMIC%20AND%20NON%20ACADEMIC.pdf)**
 
 **2. [Internal Examinations Rules and Regulations](https://stgabrielssec.moe.edu.sg/qql/slot/u153/Link/Student%20Handbook/Internal%20Examination%20Rules%20and%20Regulations.pdf)**  
 
