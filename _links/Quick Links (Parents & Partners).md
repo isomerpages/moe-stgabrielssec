@@ -20,7 +20,7 @@ Please view the videos via the links below to have a good sense about the Pers
 
 You would have received a letter titled **“National Digital Literacy Programme”** which gives you details about this initiative. Do watch these briefing videos before the Virtual Dialogue session regarding the implementation of Personal Device Learning Programme.
 
-*   **[Personal Learning Device Briefing Videos](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/PDLP/Personal%20Learning%20Device%20Briefing%20Videos.pdf)**
+*   **[Personal Learning Device Briefing Videos](/files/Personal%20Learning%20Device%20Briefing%20Videos.pdf)**
 
 Click [**here**](http://tinyurl.com/virtualdialoguesession) to watch the Virtual Dialogue session.  
 
