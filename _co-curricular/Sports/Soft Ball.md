@@ -16,6 +16,7 @@ St. Gabriel’s Softball team was established in 2009 with 15 players and it has
      style="width:50%;float:left" ><img src="/images/Softball%20-%203.jpeg" 
      style="width:50%">
 		 
+ <br>
 Through our Softball training programme, we strive to develop our young players into gentlemen who exemplify the school values of Respect, Responsibility, Resilience and Care. Our training programme emphasises on character development and discipline, and provides opportunities and learning experiences for our players to achieve academic and sporting excellence.
 
 
@@ -76,4 +77,3 @@ Mr. Johnson Sim
 *   DCMA Cup  
 *   St. Gabriel’s Alumni Cup  
 *   Uber Sports Cup
-		 
