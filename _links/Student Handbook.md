@@ -23,8 +23,8 @@ description: ""
 
 **9. [Safety Regulations (D&T workshop)](/files/SAFETY%20REGULATIONS%20IN%20THE%20D&T%20WORKSHOPS.pdf)**
 
-**10. [Safety Regulations (FCE)](https://stgabrielssec.moe.edu.sg/qql/slot/u153/Link/Student%20Handbook/2020/SAFETY%20REGULATIONS%20IN%20THE%20KITCHEN%20(FCE).pdf)**
+**10. [Safety Regulations (FCE)](/files/SAFETY%20REGULATIONS%20IN%20THE%20KITCHEN%20(FCE).pdf)**
 
-**11. [Safety Regulations (Science labs)](https://stgabrielssec.moe.edu.sg/qql/slot/u153/Link/Student%20Handbook/SAFETY%20REGULATIONS%20IN%20THE%20SCIENCE%20LABORATORIES.pdf)**
+**11. [Safety Regulations (Science labs)](/files/SAFETY%20REGULATIONS%20IN%20THE%20SCIENCE%20LABORATORIES.pdf)**
 
-**12. [Chang Yung Fa Library](https://stgabrielssec.moe.edu.sg/qql/slot/u153/Link/Student%20Handbook/THE%20CHANG%20YUNG%20FA%20LIBRARY.pdf)**
+**12. [Chang Yung Fa Library](/files/THE%20CHANG%20YUNG%20FA%20LIBRARY.pdf)**
