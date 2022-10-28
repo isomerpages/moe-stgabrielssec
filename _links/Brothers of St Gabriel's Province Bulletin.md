@@ -5,6 +5,8 @@ description: ""
 ---
 ## BROTHERS OF ST. GABRIEL'S PROVINCE BULLETIN
 
+[](/files/2017_issue34_Province_Bulletin_Jan_Mar.pdf)
+[](/files/2016_issue31_Provincial_Bulletin_Jan-Jun.pdf)
 **Brothers of St. Gabriel's Province Bulletin:**
 
 * [Issue 40 Jan - Mar 2019](/files/Province%20Bulletin_Jan-Mar%202019.pdf)
@@ -13,9 +15,9 @@ description: ""
 *   [Issue 37 Oct - Dec 2017](2017_issue37_Province%20Bulletin_Oct_Dec.pdf)
 *   [Issue 36 Jul - Sep 2017](/files/2017_issue36_Province_Bulletin_Jul_Sep.pdf)
 *   [Issue 35 Apr - Jun 2017](/files/2017_issue35_Province_Bulletin_Apr-Jun.pdf)
-*   [Issue 34 Jan - Mar 2017](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Useful%20Links/Brothers%20of%20St.%20Gabriels%20Province%20B/2017_issue34_Province_Bulletin_Jan_Mar.pdf)
-*   [Issue 32 Jul - Sep 2016](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Useful%20Links/Brothers%20of%20St.%20Gabriels%20Province%20B/2016_Issue32_Province%20Bulletin_Jul-Sep.pdf)
-*   [Issue 31 Jan - Jun 2016](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Useful%20Links/Brothers%20of%20St.%20Gabriels%20Province%20B/2016_issue31_Provincial_Bulletin_Jan-Jun.pdf)  
+*   [Issue 34 Jan - Mar 2017](/files/2017_issue34_Province_Bulletin_Jan_Mar.pdf)
+*   [Issue 32 Jul - Sep 2016]()
+*   [Issue 31 Jan - Jun 2016](/files/2016_issue31_Provincial_Bulletin_Jan-Jun.pdf)  
     
 *   [Issue 29 Jan - Jun 2015](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Useful%20Links/Brothers%20of%20St.%20Gabriels%20Province%20B/2015_issue29_provincial_bulletin_Jan.pdf)  
     
