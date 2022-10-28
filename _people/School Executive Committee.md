@@ -15,3 +15,12 @@ description: ""
 |:---:|:---:|
 | **Bro Dominic Yeo-Koh**<br>Supervisor of Gabrielite Schools | **Dr Francis Chong**<br>Chairman|
 
+<img src="/images/Mr%20Gordon%20Lim.png" style="width:20%;margin-left:90px;" align = "left">
+
+<img src="/images/Ms%20Grace%20Chong%20Member.jpg" style="width:20%;margin-right:40px;" align = "right">
+
+<br clear="left">
+
+|  |  |  
+|:---:|:---:|
+| **Mr Gordon Lim**<br>Vice Chairman | **Dr Francis Chong**<br>Chairman|
