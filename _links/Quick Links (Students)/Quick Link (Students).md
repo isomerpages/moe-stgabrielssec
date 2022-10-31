@@ -26,6 +26,4 @@ Click on this [link](https://lms.wizlearn.com/STGSS/login.aspx) to access the 
 **[Student ICON](https://workspace.google.com/dashboard)**
 
 * * *
-*   [Guide on Onboarding Student ICON](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/Link/Student%20Links/Student%20ICON/Onboard%20Student%20ICON%20Guide%20for%20School%20Website.pdf)
-*   **[C](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/Link/Student%20Links/Student%20ICON/Onboard%20Student%20ICON%20Guide%20for%20School%20Website.pdf)lick [here](https://workspace.google.com/dashboard) to access the Student ICON**
-*   **[Student ICON Reset Password Form](http://tinyurl.com/slsandiconresetpasswordform)**
+*   [Guide on Onboarding Student ICON]((/files/Onboard%20Student%20ICON%20Guide%20for%20School%20Website.pdf)
