@@ -2,6 +2,7 @@ collections:
   links:
     output: true
     order:
+      - Quick Links (Students)/Quick Link (Students).md
       - Quick Links (Students)/.keep
       - Quick Links (Students).md
       - Student Handbook.md
