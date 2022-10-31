@@ -26,4 +26,6 @@ Click on this [link](https://lms.wizlearn.com/STGSS/login.aspx) to access the 
 **[Student ICON](https://workspace.google.com/dashboard)**
 
 * * *
-*   [Guide on Onboarding Student ICON]((/files/Onboard%20Student%20ICON%20Guide%20for%20School%20Website.pdf)
+*   **[Guide on Onboarding Student ICON]((/files/Onboard%20Student%20ICON%20Guide%20for%20School%20Website.pdf)**
+*   **Click [here](https://workspace.google.com/dashboard) to access the Student ICON**
+*  **[Student ICON Reset Password Form](http://tinyurl.com/slsandiconresetpasswordform)**
