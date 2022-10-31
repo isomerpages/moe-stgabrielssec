@@ -34,3 +34,38 @@ Click on this [link](https://lms.wizlearn.com/STGSS/login.aspx) to access the 
 Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access the OPAC
 ***
 
+<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-otbs{background-color:#EAEAEA;color:#0C343D;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-otbs"><a href="/files/school_rules_student_handbook_2013.pdf">School Rules &amp; Regulations</a></th>
+    <th class="tg-n4qt"><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html">Education and Career Guidance</a><br><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-n4qt"><a href="https://sgss.edupage.org/timetable/">Class Timetable</a><br></td>
+    <td class="tg-otbs"><a href="https://www.moe.gov.sg/education/admissions/jae/">JAE Internet System (JAE-IS)</a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-n4qt"><a href="https://stgabrielssec-moe-edu-sg-admin.cwp.sg/links/quick-links-students/booklist">Booklist for Year 2022</a><br></td>
+    <td class="tg-otbs"><a href="/files/Locker%20Rental%20Application%20Form.pdf">Locker Rental Application Form</a></td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k"><span style="color:#222;background-color:#EAEAEA"> </span><a href="http://portal.swn.moe.edu.sg/">School WiFi Log In / Log Off</a> Portal<br><br></td>
+    <td class="tg-ii8k"></td>
+  </tr>
+</tbody>
+</table>
+
