@@ -21,7 +21,7 @@ Click on this [link](https://vle.learning.moe.edu.sg/login) to access the SLS 
 
 **[ASKNLearn (LMS) Portal](https://lms.wizlearn.com/STGSS/login.aspx)**<br>
 Click on this [link](https://lms.wizlearn.com/STGSS/login.aspx) to access the ASKNLearn Portal
-***
+
 
 **[Student ICON](https://workspace.google.com/dashboard)**
 
