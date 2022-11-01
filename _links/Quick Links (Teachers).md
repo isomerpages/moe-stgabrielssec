@@ -5,6 +5,8 @@ description: ""
 ---
 ## Quick Links (Teachers)
 
+![](/images/Staffs%20Link.jpeg)
+
 | Intranet Links (VPN required if login from home) |
 | --- |
 | 
