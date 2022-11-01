@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - School & Sports Safety.md
       - Student Handbook.md
       - Brothers of St Gabriel's Province Bulletin.md
       - Frequently Asked Questions/.keep
@@ -14,3 +13,4 @@ collections:
       - Quick Links (Students)/Quick Link (Students).md
       - Quick Links (Students)/Booklist.md
       - Quick Links (Teachers).md
+      - School & Sports Safety.md
