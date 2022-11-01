@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - Quick Links (Teachers)/.keep
       - Student Handbook.md
       - Brothers of St Gabriel's Province Bulletin.md
       - Frequently Asked Questions/.keep
