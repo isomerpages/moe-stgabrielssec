@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - Quick Links (Teachers).md
       - Student Handbook.md
       - Brothers of St Gabriel's Province Bulletin.md
       - Frequently Asked Questions/.keep
@@ -13,3 +12,4 @@ collections:
       - Quick Links (Students)/.keep
       - Quick Links (Students)/Quick Link (Students).md
       - Quick Links (Students)/Booklist.md
+      - Quick Links (Teachers).md
