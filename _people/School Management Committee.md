@@ -40,9 +40,9 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-9u4g"><img src="https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/About%20Us/People/School%20Management%20Committee/Bro%20DOMINIC%20Yeo%20Koh.jpg" alt="Bro DOMINIC Yeo Koh.jpg" width="117" height="156"><br></th>
+    <th class="tg-9u4g"><img style="width: 30%;" src="/images/Bro%20DOMINIC%20Yeo%20Koh.jpeg"><br></th>
     <th class="tg-0lax"></th>
-    <th class="tg-9u4g"><img src="https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/About%20Us/People/School%20Management%20Committee/Dr%20Francis%20Chong.jpg" alt="Dr Francis Chong.jpg" width="114" height="152"><br></th>
+    <th class="tg-9u4g"><img style="width: 30%;" src="/images/Dr%20Francis%20Chong.jpeg"><br></th>
   </tr>
 </thead>
 <tbody>
@@ -53,4 +53,8 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+
+
+
 
