@@ -3,31 +3,24 @@ title: School Management Committee
 permalink: /people/School-Management-Committee/
 description: ""
 ---
-## School Management Committee 
+## SCHOOL MANAGEMENT COMMITTEE
 
-|                         Name                         |                                                                                           | Telephone Extension |
-|:----------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:-------------------:|
-|                       Principal                      |                                        Mr Shawn Lim                                       |         104         |
-|                    Vice Principal                    |                                     Mdm Yee Whoy Chong                                    |         103         |
-|                Vice Principal (Admin)                |                                        Mr Aaron Chia                                      |          201        |
-|                       Year Head                      |  Mr Lin Ganfeng (Sec 4/5) Mr Nick Chow (Sec 3) Ms Jane Han (Sec 2) Ms Jessica Yap (Sec 1) |   216 216 136 132   |
-|                  Assistant Year Head                 |                                       Mr Mario Chua                                       |         140         |
-|        Teaching & Learning Head of Department        |                                      Mr Peh Chin Heng                                     |          116        |
-|           Mother Tongue Head of Department           |                                       Mr Clement See                                      |          115        |
-|         Mathematics Acting Head of Department        |                                       Mr Koh Wei Ming                                     |         118         |
-|             Humanities Head of Department            |                                       Ms Siti Rafeah                                      |         119         |
-|         Craft & Technology Head of Department        |                                        Mr Mark Low                                        |         166         |
-|              PE & CCA Head of Department             |                                      Mr Ong Chin Ming                                     |         112         |
-| Character & Citizenship Education Head of Department |                                  Mrs Olsen Low Hwee Kian                                  |         216         |
-|          Student Support Head of Department          |                                      Mr Ng Thiam Hock                                     |         216         |
-|        Student Management Head of Department         |                                       Mr Poh Wei Beng                                     |         114         |
-|                ICT Head of Department                |                                      Mr Ho Chung Sing                                     |         113         |
-|                School Staff Developer                |                                     Mr Mohammad Zahed                                     |         117         |
-|                Literature Subject Head               |                                      Ms Marianne Li                                       |         139         |
-|     Mother Tongue (Chinese Language) Subject Head    |                                       Ms Pauline Teo                                      |         134         |
-|               Mathematics Subject Head               |                                      Mr Lincoln Chan                                      |         148         |
-|                 Science Subject Head                 |                                       Ms Cherina Low                                      |         128         |
-|                Geography Subject Head                |                                        Ms Tanny Koh                                       |         156         |
-|                    PE Subject Head                   |                                      Mr Ng Rong Yaw                                       |         173         |
-|  Student Services & Leadership Acting Subject Head   |                                     Mr Mohamed Fazlin                                     |         166         |
-|            Student Management Subject Head           |                                      Mdm Noor Hayati                                      |         135         |
+<img src="/images/Bro%20DOMINIC%20Yeo%20Koh.jpeg" style="width:20%;margin-left:90px;" align = "left">
+
+<img src="/images/Dr%20Francis%20Chong.jpeg" style="width:20%;margin-right:40px;" align = "right">
+
+<br clear="left">
+
+|  |  |  
+|:---:|:---:|
+| **Bro Dominic Yeo-Koh**<br>Supervisor of Gabrielite Schools | **Dr Francis Chong**<br>Chairman|
+
+<img src="/images/Mr%20Gordon%20Lim.png" style="width:20%;margin-left:90px;" align = "left">
+
+<img src="/images/Ms%20Grace%20Chong%20Member.jpg" style="width:20%;margin-right:40px;" align = "right">
+
+<br clear="left">
+
+|  |  |  
+|:---:|:---:|
+| **Mr Gordon Lim**<br>Vice Chairman | **Dr Francis Chong**<br>Chairman |
