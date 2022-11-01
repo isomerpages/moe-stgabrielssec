@@ -8,7 +8,6 @@ third_nav_title: Quick Links (Students)
 
 ![](/images/Students%20Link.jpeg)
 
-
 ##### [Student Learning Space Portal (SLS)](https://vle.learning.moe.edu.sg/login)  
 Click on this [link](https://vle.learning.moe.edu.sg/login) to access the SLS Portal (recommended to view in Google Chrome)
 ***
