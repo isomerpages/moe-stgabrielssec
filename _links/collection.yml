@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - Group Personal Accident (GPA) For Students.md
       - Student Handbook.md
       - Brothers of St Gabriel's Province Bulletin.md
       - Frequently Asked Questions/.keep
@@ -15,3 +14,4 @@ collections:
       - Quick Links (Students)/Booklist.md
       - Quick Links (Teachers).md
       - School & Sports Safety.md
+      - Group Personal Accident (GPA) For Students.md
