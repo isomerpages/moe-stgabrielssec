@@ -104,9 +104,34 @@ For each of these level outcomes, students have several experiences to practice 
 Each level has a key service experience through Values in Action where their contributions impact the school, environment, community and nation.
 
   
-
 Secondary One students will begin to understand that Self Leadership is for everyone, at their personal level, to know their strengths and areas for growth while empathizing with others. Secondary Two students will learn the importance of Collaborative Leadership as they work collaboratively in groups to apply the leadership practices in saving the environment. The Secondary Three students are expected to become confident leaders who are able to lead and serve others effectively in their various groups, seeing and serving the needs in the community. At Secondary Four/Five levels, students will inspire and grow others to be servant leaders.
 
   
-
 Students are engaged in Service-Learning projects designed to impart our core values of respect, Resilience, Responsibility and Care as they identify and serve the needs of the school and community and also to bring about a habit of reflection in them.
+
+> > **Service-Learning Themes:**
+> 
+> > Sec 1: Our School
+> 
+> > Sec 2: Our Environment Sec 3: Our Community Sec 4/5: Our Nation
+
+  
+Through service to others, we hope to inculcate in our students a strong sense of care so that they learn to appreciate the culture and the lives of others and to progress together as one nation. This is in line with our school’s mission: ‘Service to God and Nation’.
+
+**(II) Leadership Practices through Experiences**
+
+All Gabrielites are provided with leadership training and experiences to develop their leadership competencies through our Outdoor Education programme. It is designed with the components from the UG curriculum which comprises basic First Aid, Camp craft, orienteering, map reading, outdoor-cooking, high and low elements adventure course and expeditions on land and water. The progressive scaffolding from Sec 1 to Sec 3 during our Gabrielite Camps provide authentic experiences with outdoor elements that allow our students to put the school’s values (3RC) into action within the given challenges and activities.
+
+**(II) Leadership Practices through Experiences**
+
+All Gabrielites are provided with leadership training and experiences to develop their leadership competencies through our Outdoor Education programme. It is designed with the components from the UG curriculum which comprises basic First Aid, Camp craft, orienteering, map reading, outdoor-cooking, high and low elements adventure course and expeditions on land and water. The progressive scaffolding from Sec 1 to Sec 3 during our Gabrielite Camps provide authentic experiences with outdoor elements that allow our students to put the school’s values (3RC) into action within the given challenges and activities.
+
+**(III) Formal Leadership Roles**
+
+Besides the baseline training and development for all students, our school has also put in place differentiated leadership developmental programme to identify, develop and deploy student leaders to serve in various capacities within the class, in their CCAs and as Prefects in the School. These students are selected and developed to serve in leading various school events.
+
+  
+**Developmental Tool**
+
+Our school uses the **Five Practices of Exemplary Leadership**, adapted from “The Leadership Challenge” written by James Kouzes and Barry Z. Posner, as a guide for our student leadership development.
+
