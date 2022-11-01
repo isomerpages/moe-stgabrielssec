@@ -17,31 +17,9 @@ description: ""
 *   **[MOE School Safety Unit](https://intranet.moe.gov.sg/schoolsafety)**
 *   **[iCollaborate](https://icollaborate.moe.gov.sg/)**
 
- |
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
 | Internet Links |
 | --- |
-| 
+
 *   **[iCON Mail](https://icon.moe.edu.sg/)**
 *   **[SC Mobile](https://scmobile.moe.edu.sg/login)**
 *   **[Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)**
