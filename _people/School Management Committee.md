@@ -3,7 +3,8 @@ title: School Management Committee
 permalink: /people/School-Management-Committee/
 description: ""
 ---
-## SCHOOL MANAGEMENT COMMITTEE
+## School Management Committee 
+
 
 <img src="/images/Bro%20DOMINIC%20Yeo%20Koh.jpeg" style="width:20%;margin-left:90px;" align = "left">
 
