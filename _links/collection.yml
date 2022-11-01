@@ -2,7 +2,6 @@ collections:
   links:
     output: true
     order:
-      - Quick Links (Students).md
       - Student Handbook.md
       - Brothers of St Gabriel's Province Bulletin.md
       - Frequently Asked Questions/.keep
@@ -10,6 +9,7 @@ collections:
       - "Frequently Asked Questions/FAQ: School and Miscellaneous Fees.md"
       - "Frequently Asked Questions/FAQ: Edusave and PSEA Accounts.md"
       - Quick Links (Parents & Partners).md
+      - Quick Links (Students).md
       - Quick Links (Students)/.keep
       - Quick Links (Students)/Quick Link (Students).md
       - Quick Links (Students)/Booklist.md
