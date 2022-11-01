@@ -11,6 +11,6 @@ description: ""
     
 3.  [School Staff]()  
     
-4.  [Parents](https://stgabrielssec.moe.edu.sg/people/parents)  
+4.  [Parents](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/Parents/Parents/)  
     
 5.  [Alumn](https://www.gabrielites.org/)
