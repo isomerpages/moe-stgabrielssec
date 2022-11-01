@@ -38,10 +38,10 @@ third_nav_title: Quick Links (Students)
     <td class="tg-otbs"><a href="/files/5NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a></td>
   </tr>
   <tr>
-    <td class="tg-otbs"><a href="https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/eOpen%20House%202020/Sec%201%20Registration/2022%20Sec%201%20Registration/Booklist/Sec%201NA%20Booklist%20and%20Stationery%20List%202022.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a></td>
-    <td class="tg-otbs"><a href="https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/Link/Student%20Links/2022%20Booklists/2NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
-    <td class="tg-otbs"><a href="https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/Link/Student%20Links/2022%20Booklists/3NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a></td>
-    <td class="tg-otbs"><a href="https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/Link/Student%20Links/2022%20Booklists/4NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a></td>
+    <td class="tg-otbs"><a href="/files/Sec%201NA%20Booklist%20and%20Stationery%20List%202022.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a></td>
+    <td class="tg-otbs"><a href="/files/2NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
+    <td class="tg-otbs"><a href="/files/3NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a></td>
+    <td class="tg-otbs"><a href="/files/4NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a></td>
     <td class="tg-n4qt"></td>
   </tr>
   <tr>
