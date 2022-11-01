@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Our Founder
-      background: /images/CroppedBanner.jpg
+      background: /images/Banner.gif
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
