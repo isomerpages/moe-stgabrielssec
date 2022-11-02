@@ -30,6 +30,3 @@ St. Gabriel’s Secondary School is also working closely with Singapore Youth Fl
 
 ![](/images/Singapore%20Air%20Show%202018.jpeg)
 **Visit to Singapore Air Show**
-
-
-
