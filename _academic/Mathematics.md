@@ -106,11 +106,11 @@ This competition allows student to apply what they have learned in class. It als
 
   
 
-**Computer Applications (CPA)**
+**<u>Computer Applications (CPA)</u>**
 
   
 
-**Our Vision and Mission**
+**<u>Our Vision and Mission</u>**
 
   
 
@@ -142,7 +142,7 @@ The general aims of the syllabus are to enable students to:
 
   
 
-**Enrichment**
+**<u>Enrichment</u>**
 
   
 
@@ -151,18 +151,4 @@ The general aims of the syllabus are to enable students to:
 Our students participate in the MEC Competition annually. Each school will select and submit one entry each from Sec 2 (Animation category) and Sec 3 (Gaming category). Candidates will use programming software to work on a given game scenario to demonstrate skills in selecting suitable background pictures and characters, creating scripts to animate characters, allowing user interaction through keyboard and/or mouse, as well as saving the work done.
 
   
-
-**Elements of Business Studies (EBS)**  
-
-**Teachers in Elements of Business Studies**
-
-1.  Mr. Rodney Goh (Coordinator)
-2.  Ms. Farah Zeeba
-
-  
-
-**Introduction**
-
-This syllabus is an introduction to business through an understanding of business activities, focusing on basic marketing and customer relations, in the context of Singapore. The syllabus intends to provide students with opportunities to develop transferable employability skills and knowledge in the service industry, namely the Travel and Tourism, Hospitality, and Retail industries, which continue to offer employment opportunities accessible to the students. It provides students with the foundational knowledge and skills for further studies in institutes of higher learning and the awareness of prospects of a career in the service industry.
-
 
