@@ -48,3 +48,99 @@ At the same time, Old Boys and school staff endeavored to salvage Old Cross that
   As part of a trinity of monuments, the Old Cross symbolises the school heritage. The statue of St. Louis-Marie De Montfort adjacent to it represents the school Montfortian identity. Completing the trinity is a Time Capsule that symbolizes the school’s future aspirations. The Time Capsule will be opened in 2053 at the school’s centennial anniversary.
 
 <img src="/images/Cross.png" style= "width: 30%; margin-right:15px;" align = "left"> The time capsule bears artefact that tells the school’s rich history and preserves its present memories. It also bears the aspirations of the school leaders, teachers and students for the school. Several letters too, were placed into the Time Capsule addressed to students and school staff in 2053. It was hoped that these letters will be read at the opening of the Time Capsule in 2053.
+
+Inscribed on the capsule cover are these words: -
+
+  
+_<center>With God’s blessing, may the experience represented in this collection be a Light of Virtue and a Beacon of Truth to inspire future students to live and thus prove to be worthy St Gabriel’s boys</center>_
+
+_<center>Once a Gabrielite; Always a Gabrielite.</center>_
+
+
+<img src="/images/The%20Old%20Cross%20-%20the%20Time%20Capsule%20and%20the%20statue%20of%20St%20Montfort%20at%20the%20school%20foyer.jpeg" style= "width: 60%;" align = "center">
+
+_The Old Cross, the Time Capsule and the statue of St Montfort at the school foyer)_
+
+**Milestones**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+.tg .tg-fwnj{background-color:#FFF;color:#454545;text-align:left;vertical-align:top}
+.tg .tg-2fwu{background-color:#FFF;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2fwu">Year</th>
+    <th class="tg-9u4g">Key Event</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sxkx">1953</td>
+    <td class="tg-fwnj">School was founded on 3rd June.</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">1959</td>
+    <td class="tg-fwnj">School became a full school.</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">1960</td>
+    <td class="tg-fwnj">School presented its first batch of students for the ‘O’ Level examination.</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">1969</td>
+    <td class="tg-fwnj">School became two separate Primary and Secondary Schools. The Secondary School became single-session.</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">1992</td>
+    <td class="tg-fwnj">School moved to new premises at Serangoon Avenue 1.</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">2003</td>
+    <td class="tg-fwnj">School celebrated its Golden Jubilee.</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">2004</td>
+    <td class="tg-fwnj">A large part of the Tien 天 building was torn down after the school moved into the new wing that was built above on the old school field. An astroturf field and a multi-purpose hall were built in place of the demolished wing of the school.</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">2015</td>
+    <td class="tg-fwnj">The school held an SG50 dinner with invitees that include 2 of the 7 founding teachers of the school.</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">2016</td>
+    <td class="tg-fwnj">Old school gate was demolished. A replica was built in the new campus to commemorate its heritage.</td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx">2018</td>
+    <td class="tg-fwnj">The school sealed a Time Capsule which is to be opened in 2053. Old Cross rescued from the old gate was unveiled.</td>
+  </tr>
+</tbody>
+</table>
+
+**Principals**
+
+*   Reverend Brother Louis Gonzaga (1953, 1956–1957)
+*   Reverend Brother Elzear (1954–1955)
+*   Reverend Brother Raymond (1957–1958)
+*   Reverend Brother Adolphus (1959–1960)
+*   Reverend Brother Emmanuel (1961–1962, 1970–1974)
+*   Reverend Brother Noel (1963–1969)
+*   Reverend Brother Edmund James (1974–1983)
+*   Mr John Teo (1984)
+*   Mr Harold Mathieu (1985–1986)
+*   Mr Andrew Ng (1987–1989)
+*   Mrs Ng Peng Hock (1990–1996)
+*   Mr Winston Hodge (1997–1998)
+*   Mr Adolphus Tan (1999–2004)
+*   Mr Marcel Lee (2005–2012)
+*   Mr Stephen Chin (2013–2020)
+*   Mr Shawn Lim (2021-present)
+
