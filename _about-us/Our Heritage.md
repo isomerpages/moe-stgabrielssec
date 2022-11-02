@@ -35,7 +35,16 @@ After the primary school section moved out to its own location at Highland Road,
 
 <img src="/images/Gatereplica.png" style= "width: 50%; margin-right:15px;" align = "right">
 
-After the primary school section moved out to its own location at Highland Road, the gate continued to greet the boys in the secondary school. When the secondary school move out in 1992 to the present site, the gate stood resolutely at the old grounds as a historical signpost to mark the school past. Old Boys still visit the old site to take photographs and reminisce their younger, glorious days. 
+After the primary school section moved out to its own location at Highland Road, the gate continued to greet the boys in the secondary school. When the secondary school move out in 1992 to the present site, the gate stood resolutely at the old grounds as a historical signpost to mark the school past. Old Boys still visit the old site to take photographs and reminisce their younger, glorious days.
 
+However, in 2016, a road widening project on Upper Serangoon Road caused the gate that the Old Cross had stood on since the 1950s to be demolished. To commemorate it, the school built a replica of the gate as part of the Heritage Gallery in the current site to allow the memory of the cultural landmark to be preserved. The school’s history and the social history of the Upper Serangoon neighbourhood was incorporated into the Heritage Gallery.
 
+<img src="/images/Heritagegallery.png" style= "width: 50%; margin-right:15px;" align = "right">
 
+At the same time, Old Boys and school staff endeavored to salvage Old Cross that had stood on the gate to the present school site. Their unwavering and tireless efforts convinced the government authorities to allow for the school to be present during the demolition of the gate to retrieve the cross. A handful of Old Boys, former staff and current school staff were present at the poignant moment. The Old Cross was then brought to the St Gabriel’s Secondary School site at Serangoon Avenue 1 for safe-keeping.
+
+<img src="/images/Roofremoval.png" style= "width: 50%; margin-right:15px;" align = "left"> In 2018, the school decided to commemorate the 65th anniversary with the homecoming of the Old Cross. Placed at a vantage position at the school foyer, the Old Cross will once again bear witness to journey of every St Gabriel’s boy who stepped his foot in the school.  
+
+  As part of a trinity of monuments, the Old Cross symbolises the school heritage. The statue of St. Louis-Marie De Montfort adjacent to it represents the school Montfortian identity. Completing the trinity is a Time Capsule that symbolizes the school’s future aspirations. The Time Capsule will be opened in 2053 at the school’s centennial anniversary.
+
+<img src="/images/Cross.png" style= "width: 50%; margin-right:15px;" align = "left"> The time capsule bears artefact that tells the school’s rich history and preserves its present memories. It also bears the aspirations of the school leaders, teachers and students for the school. Several letters too, were placed into the Time Capsule addressed to students and school staff in 2053. It was hoped that these letters will be read at the opening of the Time Capsule in 2053.
