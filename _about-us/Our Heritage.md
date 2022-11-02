@@ -7,6 +7,8 @@ description: ""
 
 #### School History
 
+<img src="/images/Louis%20Marie%20Grignion%20de%20Montfort.jpeg" style= "width: 30%; margin-right:15px;" align = "left">
+
   
 
 Saint Gabriel's School started on 1 June 1953 as a small school with 212 students in five classes from Primary One to Standard Two. The students were taught by seven teachers, under the direction of the late Reverend Brother Louis Gonzaga.
@@ -26,4 +28,14 @@ The school celebrated its Golden Jubilee in 2003. The year also mark a change in
 #### The Story of the Old Cross
 
 Dubbed the ‘Homecoming’, the 65th Anniversary celebrations at St Gabriel’s Secondary School on 17th November 2018 was more than the homecoming of students. It marked the unveiling of a gallery that holds three important monuments, one of which had been brought from the gate of former school site.
+
+<img src="/images/Gatewithcross.png" style= "width: 50%; margin-right:15px;" align = "left"> In 2016, the gate at the former school site had to be demolished. It had witnessed the growth of the school from its infancy. It was one of the first structures that was built when St Gabriel’s School moved into its first home after being hosted by Montfort School for several years. It greeted the boys when they come to school and bade them goodbye when they leave. The gate bears testimony to the laughters and the tears of St Gabriel’s boys for the many good years that the school was at 795 Upper Serangoon Road.
+
+After the primary school section moved out to its own location at Highland Road, the gate continued to greet the boys in the secondary school. When the secondary school move out in 1992 to the present site, the gate stood resolutely at the old grounds as a historical signpost to mark the school past. Old Boys still visit the old site to take photographs and reminisce their younger, glorious days.
+
+<img src="/images/Gatereplica.png" style= "width: 50%; margin-right:15px;" align = "right">
+
+After the primary school section moved out to its own location at Highland Road, the gate continued to greet the boys in the secondary school. When the secondary school move out in 1992 to the present site, the gate stood resolutely at the old grounds as a historical signpost to mark the school past. Old Boys still visit the old site to take photographs and reminisce their younger, glorious days. 
+
+
 
