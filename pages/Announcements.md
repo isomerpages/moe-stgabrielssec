@@ -28,3 +28,29 @@ We regret to inform you that we will not be conducting any Open House. 
 You may direct all your enquiries to [**stgss@moe.edu.sg**](mailto:stgss@moe.edu.sg)
 
 ***
+
+#### Access to Home Base Learning
+
+<br>
+
+<a href="https://sites.google.com/moe.edu.sg/sgsspdlp/home-based-learning">
+<img src="/images/HBL.jpeg" >
+</a>
+
+***
+
+#### COVID-19 Vaccination Exercise for Students - Information
+
+<a href="/files/Resource%203%20One%20page%20Infographic%20on%20Student%20Vaccination%20Exercise.pdf">
+<img src="/images/Protect%20Your%20Child%20Against%20Covid-19.png" >
+</a>
+
+<br>
+
+<a href="/files/Resource%202%20Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf">
+<img src="/images/Why%20vaccinate%20your%20child.png" >
+</a>
+
+
+
+
