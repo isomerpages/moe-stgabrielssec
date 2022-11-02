@@ -14,7 +14,7 @@ third_nav_title: Key Features
 *   Thirdly, in our multi-racial society, our students need to be socio-culturally sensitive and do their part to promote social cohesion and harmony.
 *   Finally, our students must have the ability to reflect and respond to community, national and global issues, and to make informed and responsible decisions.
 
-_<p style="text-align:right">by: Mr. Heng Swee Keat<br>Minister for Education,<br>8 November 2011</p>_
+_<p style=text-align:right>by: Mr. Heng Swee Keat<br>Minister for Education,<br>8 November 2011</p>_
 
 
 
@@ -59,4 +59,3 @@ Singapore 21 is a national vision of the Singapore of the 21st Century, a vision
 – Citizens should take the initiative to impact society
 
 ![](/images/Citizenship%20Competencies.png)
-
