@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Contact Us.md
       - Principal's Message.md
       - Our Spiritual Founder.md
       - Our Heritage.md
@@ -11,4 +10,5 @@ collections:
       - St Gabriel's Foundation.md
       - Financial Information.md
       - School Calendar.md
+      - Contact Us.md
       - Student Support.md
