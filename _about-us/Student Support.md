@@ -87,30 +87,42 @@ If you are struggling with a difficult situation and feel stressed as a result, 
 5. **<u>Seeking Support Outside School</u>**
 
 You can also call the below organisations directly should you not be in school but need help urgently.
+
+<br>
 	
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-e2rw{background-color:#ECECEC;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-z8rh{background-color:#ECECEC;border-color:inherit;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-uq0r{background-color:#ECECEC;border-color:inherit;color:#0C343D;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
 <thead>
   <tr>
-    <th>Samaritans of Singapore (SOS)</th>
-    <th>1800 - 2214444 (24h)<br></th>
+    <th class="tg-e2rw">Samaritans of Singapore (SOS)</th>
+    <th class="tg-e2rw">1800 - 2214444 (24h)<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>Emergency Helpline (IMH)<br></td>
-    <td> 6389 2222 (24h)</td>
+    <td class="tg-e2rw">Emergency Helpline (IMH)<br></td>
+    <td class="tg-z8rh"><span style="color:#222"> </span>6389 2222 (24h)</td>
   </tr>
   <tr>
-    <td>Touch Community Services (Counselling / Cyber Wellness Helpline)<br></td>
-    <td>6377 0122 / 6273 5568 <br></td>
+    <td class="tg-e2rw">Touch Community Services (Counselling / Cyber Wellness Helpline)<br></td>
+    <td class="tg-e2rw">6377 0122 / 6273 5568 <br></td>
   </tr>
   <tr>
-    <td>eCounselling Centre (EC2)</td>
-    <td><a href="https://www.ec2.sg/">https://www.ec2.sg</a><br>(Mon – Fri: 10am – 12pm and<br>2pm – 5pm, excluding public holidays)</td>
+    <td class="tg-e2rw">eCounselling Centre (EC2)</td>
+    <td class="tg-uq0r"><a href="https://www.ec2.sg/">https://www.ec2.sg</a><br><span style="color:#222">(Mon – Fri: 10am – 12pm and</span><br><span style="color:#222">2pm – 5pm, excluding public holidays)</span></td>
   </tr>
   <tr>
-    <td>CARE Singapore</td>
-    <td>6978 2728<br>(Mon - Fri: 10am - 5pm)</td>
+    <td class="tg-e2rw">CARE Singapore</td>
+    <td class="tg-e2rw">6978 2728<br><span style="color:#222">(Mon - Fri: 10am - 5pm)</span></td>
   </tr>
 </tbody>
 </table>
