@@ -6,7 +6,7 @@ third_nav_title: Key Features
 ---
 ## SERVICE & LEADERSHIP
 
-**<center>_LEADING THROUGH SERVING_</center>**
+**<center>LEADING THROUGH SERVING</center>**
 
 Our vision at St. Gabriel’s Secondary School is to see every Gabrielite become servant leaders, leading through serving the needs of others.
 
