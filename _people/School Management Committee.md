@@ -75,7 +75,7 @@ description: ""
 <tr>
     <th class="tg-tlx9"><img src="/images/Henry%20Phang.jpeg" style="width:34%"></th>
     <th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img src="/images/Mrs%20Esther%20Loo.jpeg" style="width:40%"></th>
+    <th class="tg-tlx9"><img src="/images/Mrs%20Esther%20Loo.jpeg" style="width:43%"></th>
   </tr>
 </thead>
 <tbody>
