@@ -118,4 +118,9 @@ description: ""
 </tbody>
 </table>
 
+<img src="/images/Mother%20Tongue%20-%208.jpeg" style="width:49%" align=left>
 
+<img src="/images/Mother%20Tongue%20-%209.jpeg" style="width:49%" align=right>
+
+<br clear="left">
+<br clear="left">
