@@ -20,9 +20,9 @@ description: ""
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img style="width:34%" src="/images/Mr%20Gordon%20Lim.png"></th>
+    <th class="tg-tlx9"><img src="/images/Mr%20Gordon%20Lim.png" style="width:34%"></th>
     <th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img style="width:40%" src="/images/Ms%20Grace%20Chong%20Member.jpg"></th>
+    <th class="tg-tlx9"><img src="/images/Ms%20Grace%20Chong%20Member.jpg" style="width:40%"></th>
   </tr>
 </thead>
 <tbody>
@@ -48,9 +48,9 @@ description: ""
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img style="width:34%" src="/images/Henry%20Phang.jpeg"></th>
+    <th class="tg-tlx9"><img src="/images/Henry%20Phang.jpeg" style="width:34%"></th>
     <th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img style="width:43%" src="/images/Mrs%20Esther%20Loo.jpeg"></th>
+    <th class="tg-tlx9"><img src="/images/Mrs%20Esther%20Loo.jpeg" style="width:43%"></th>
   </tr>
 </thead>
 <tbody>
@@ -76,9 +76,9 @@ description: ""
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img style="width:60%" src="/images/Mr%20Francis%20Wong.jpeg"></th>
-    <th class="tg-tlx9"><img style="width:80%" src="/images/Mr%20Francis%20Lee.png">
-    </th><th class="tg-tlx9"><img style="width:40%" src="/images/Mr%20Kelvin%20Poon.jpeg">
+    <th class="tg-tlx9"><img src="/images/Mr%20Francis%20Wong.jpeg" style="width:60%"></th>
+    <th class="tg-tlx9"><img src="/images/Mr%20Francis%20Lee.png" style="width:80%">
+    </th><th class="tg-tlx9"><img src="/images/Mr%20Kelvin%20Poon.jpeg" style="width:40%">
   </th></tr>
 </thead>
 <tbody>
@@ -104,15 +104,15 @@ description: ""
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img style="width:100%" src="/images/Mr%20Shawn%20Lim%20(Principal).jpeg"></th>
     <th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img style="width:30%" src="/images/Mr%20Martin%20Tan%20Principal%20St%20Gabriel%20Primary.jpg"></th>
+    <th class="tg-tlx9"><img src="/images/Mr%20Shawn%20Lim%20(Principal).jpeg" style="width:70%">
+    </th><th class="tg-tlx9"><img src="/images/Mr%20Martin%20Tan%20Principal%20St%20Gabriel%20Primary.jpg" style="width:20%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mr Shawn Lim</span><br>SGSS Principal<br></td>
-    <td class="tg-apyk"><br></td>
+				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent"><br></span></td>
+    <td class="tg-apyk">Mr Shawn Lim<br>SGSS Principa<br></td>
     <td class="tg-apyk">Mr Martin Tan<br>SGPS Principal</td>
   </tr>
 </tbody>
