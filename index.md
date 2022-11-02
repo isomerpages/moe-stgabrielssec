@@ -14,7 +14,7 @@ sections:
           url: /Announcements/
         - title: Contact Us
           description: ""
-          url: /Contact-Us/
+          url: /contact-us/
   - infobar:
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/r_PowMxCwCw" title="YouTube video
