@@ -31,7 +31,6 @@ description: ""
 </tbody>
 </table>
 
-
 <br>
 
 <style type="text/css">
@@ -53,11 +52,9 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mr Gordon Lim<br>Vice Chairman</td>
+				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mr Gordon Lim</span><br>Vice Chairman<br></td>
     <td class="tg-apyk"><br></td>
     <td class="tg-apyk">Ms Grace Chong<br>Treasurer</td>
   </tr>
 </tbody>
 </table>
-
-<br>
