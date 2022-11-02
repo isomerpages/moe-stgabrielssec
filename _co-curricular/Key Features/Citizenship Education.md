@@ -14,7 +14,7 @@ third_nav_title: Key Features
 *   Thirdly, in our multi-racial society, our students need to be socio-culturally sensitive and do their part to promote social cohesion and harmony.
 *   Finally, our students must have the ability to reflect and respond to community, national and global issues, and to make informed and responsible decisions. 
 
-<i><p style="margin-left:300px;">By Heng Swee Keat<br>Minister For Education<br>8 November 2011</p></i>
+<i><p style="margin-left:35em;">By Heng Swee Keat<br>Minister For Education<br>8 November 2011</p></i>
 	
 
 
