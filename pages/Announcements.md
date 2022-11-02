@@ -51,6 +51,4 @@ You may direct all your enquiries to [**stgss@moe.edu.sg**](mailto:stgss@moe.ed
 <img src="/images/Why%20vaccinate%20your%20child.png" >
 </a>
 
-
-
-
+**Click [here](/files/Resource%202%20Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf) to view the Parent Kit on Student Vaccination Exercise**
