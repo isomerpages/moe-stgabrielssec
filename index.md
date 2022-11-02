@@ -9,15 +9,9 @@ sections:
   - hero:
       background: /images/Banner.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: "Announcements "
+          description: ""
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/r_PowMxCwCw" title="YouTube video
