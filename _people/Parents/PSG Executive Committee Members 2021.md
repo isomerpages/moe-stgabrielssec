@@ -10,8 +10,8 @@ third_nav_title: Parents
 <figure>
 <img src="/images/Chairperson.png" style="width:25%"> 
 	<figcaption><b>Lee Phui Fong</b><br><b>Chairperson</b>
-
-	
+		
+<br>
 <br>
 	
 <style type="text/css">
