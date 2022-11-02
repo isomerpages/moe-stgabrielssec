@@ -138,11 +138,13 @@ Every student is expected to serve a minimum of 6 hours per year for involvement
 
 Some of the key VIA projects that have been carried out in 2019 are the **“Do The Mozzie Wipeout” event, food waste conversion to enzymes for cleaning, book recycling movement, terrarium making from recycled plastic bottles, TetraPak upcycling, Gabrielites Give Back (GGB), Lim Kopi initiative, engagements with homes such as and organisations such as Willing Hearts, SPCA, HCA Kang Le Hospice**, to name a few, and collaborations with NEA, Braddell Heights CC, St. Gabriel’s Primary School, Happy Universe, Friends of the Disabled Society, and many more.
 
-![](/images/Groceries%20distribution%20at%20Lorong%20Lew%20Lian.jpeg)
+<img style="width: 30%;" src="/images/Groceries%20distribution%20at%20Lorong%20Lew%20Lian.jpeg">
+
 
 _Groceries distribution at Lorong Lew Lian. 3E4 has adopted this meaningful project from July onwards and will continue to serve the less privileged residents in the neigbourhood for the next few months_
 
-![](/images/MozieAwareness.jpg)
+<img style="width: 30%;" src="/images/MozieAwareness.jpg">
+
 
 _Students from St. Gabriel's Primary and Secondary Schools joining forces to do the Mozzie Wipeout by raising awareness in the neighbourhood through distribution of pamphlets and NEA paraphernalia._
 
@@ -151,11 +153,12 @@ _Students from St. Gabriel's Primary and Secondary Schools joining forces to do 
 
 The Prefectorial Board comprises of students leaders who seek to serve and inspire the student body. Our prefects serve as the voice of the student body, and come up with initiatives to ensure the well-being of all students are looked after. Prefects are given opportunities to lead and serve within the school, and are nurtured to become Servant Leaders, leading and inspiring the student body in living out our school values.
 
-![](/images/Prefects%20volunteering%20Boys%20Town%20Flag%20Day%20funds.jpeg)
+<img style="width: 30%;" src="/images/Prefects%20volunteering%20Boys%20Town%20Flag%20Day%20funds.jpeg">
 
 _Prefects spent a few hours volunteering for Boys Town Flag Day as part of their commitment towards serving others. This was done during their annual Prefects' Camp and proved to be a meaningful initiative for them as they helped to raise funds for the school_
 
-![](/images/Outgoing%20Prefects%20posing%20infront%20of%20camera.jpeg)
+<img style="width: 30%;" src="/images/Outgoing%20Prefects%20posing%20infront%20of%20camera.jpeg">
+
 
 _Outgoing Prefects posing one last time for the camera after the Prefects' Investiture in April. Prefects have been the voice of the student mass and have always been wonderful servant leaders over the years._
 
