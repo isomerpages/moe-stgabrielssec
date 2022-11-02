@@ -16,6 +16,7 @@ third_nav_title: Key Features
 
 <p style="margin-left:35em;">By Heng Swee Keat<br>Minister For Education<br>8 November 2011</p>
 	
+<p style="margin-left:20em;">By Heng Swee Keat</p>
 
 
 **Six Key Messages**
