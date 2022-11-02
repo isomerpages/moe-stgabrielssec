@@ -13,13 +13,13 @@ locations:
     title: St Gabriel's Secondary School
 contacts:
   - content:
-      - phone: +65 6123 4567
-      - email: enquiries@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
-    title: General Enquiries & Feedback
-  - content:
-      - phone: ""
-      - email: careers@abc.gov.sg
+      - phone: +65 6288 9470
+      - email: stgss@moe.edu.sg
       - other: ""
-    title: Careers
+    title: Telephone
+  - content:
+      - phone: +65 6562 8986
+      - email: ""
+      - other: ""
+    title: Fax
 ---
