@@ -12,6 +12,8 @@ third_nav_title: Parents
 	<figcaption><b>Mdm Teresa Kelly Len</b><br><b>Principal</b>
 		</figure>
 	
+<br>
+	
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -26,8 +28,8 @@ third_nav_title: Parents
 <tr>
     <th class="tg-tlx9"><img src="/images/Secretary.png" style="width:70%"></th>
     <th class="tg-tlx9"><img src="/images/Treasurer.png"
-style="width:60%"></th>
-    <th class="tg-tlx9"><img src="/images/PSG%20Advisor.png" style="width:70%"></th>
+style="width:82%"></th>
+    <th class="tg-tlx9"><img src="/images/PSG%20Advisor.png" style="width:80%"></th>
   </tr>
 </thead>
 <tbody>
@@ -38,7 +40,6 @@ style="width:60%"></th>
   </tr>
 </tbody>
 </table>
-
-
-		
-
+	
+<br>
+	
