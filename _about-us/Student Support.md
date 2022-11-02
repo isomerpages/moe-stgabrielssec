@@ -48,5 +48,33 @@ Please complete and submit the application form early before 24 October for the 
 
 [](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/Link/Parents%20Links/MOE%20FAS%20Application%20Form%20(from%201%20April%202020).pdf)
 
-*   [**MOE FAS Pamphlet**](https://stgabrielssec.moe.edu.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Student%20Support/MOE%20FAS%20pamphlet%202023_updated.pdf)
-*   **[FAS Application Form](https://stgabrielssec.moe.edu.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Student%20Support/GGAS_Application%20Form_updated.pdf)**
+*   [**MOE FAS Pamphlet**](/files/MOE%20FAS%20pamphlet%202023_updated.pdf)
+
+*   **[FAS Application Form](/files/GGAS_Application%20Form_updated.pdf)**
+
+
+3. **Financial Assistance Outside School**
+
+*   **Straits Times Pocket Money Fund**: [**https://www.spmf.org.sg/howtoapply**](https://www.spmf.org.sg/howtoapply)
+
+  
+
+The Straits Times School Pocket Money Fund partners the Ministry of Education (MOE) in disbursing school pocket money to students from low-income families. Students who meet the criteria will be able to apply for the fund through their respective participating mainstream schools. Every year, non-graduating students may apply for the fund through the schools during the 3rd/4th quarter of the year. For students who have graduated and are enrolled in new schools, they may apply for the fund the following year in January.
+
+  
+
+*   **Self Help Groups**  
+    
+
+Please refer to attached link for other Financial Help from various organisations: 
+
+**[Financial Help from Various Organisations]
+()
+
+  
+You may also visit these websites for information:
+
+  
+*   **CDAC Assistance**: [**https://www.cdac.org.sg/get-assistance/**](https://www.cdac.org.sg/get-assistance/)
+*   **SINDA Assistance Website**: [**https://www.sinda.org.sg/services/assistance/**](https://www.sinda.org.sg/services/assistance/)
+*   **MENDAKI Assistance Website**: **[https://www.mendaki.org.sg/assistance-landing/](https://www.mendaki.org.sg/assistance-landing/)**
