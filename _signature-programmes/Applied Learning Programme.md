@@ -60,8 +60,8 @@ St. Gabriel’s Secondary School is also working closely with Singapore Youth Fl
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-sxkx"><img src="https://stgabrielssec.moe.edu.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Signature%20Programmes/Applied%20Learning%20Programme/Drone%20Piloting%20&%20Videography.jpg" alt="Drone Piloting & Videography.jpg" width="473" height="224"><br>Drone Piloting &amp; Videography</th>
-    <th class="tg-sxkx"><img src="https://stgabrielssec.moe.edu.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Signature%20Programmes/Applied%20Learning%20Programme/Drone%20Making.jpg" alt="Drone Making.jpg" width="264" height="295"><br>Drone Making</th>
+    <th class="tg-sxkx"><img src="/images/Drone%20Piloting%20&%20Videography.jpeg" style="width:100%"> <br>Drone Piloting &amp; Videography</th>
+    <th class="tg-sxkx"><img src="/images/Drone%20Making.jpeg" style="width:100%"><br>Drone Making</th>
   </tr>
 </thead>
 <tbody>
@@ -70,8 +70,14 @@ St. Gabriel’s Secondary School is also working closely with Singapore Youth Fl
     <td class="tg-sxkx"></td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="https://stgabrielssec.moe.edu.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Signature%20Programmes/Applied%20Learning%20Programme/Drone%20Swarming.jpg" alt="Drone Swarming.jpg" width="250" height="513"><br>Drone Swarming</td>
-    <td class="tg-sxkx"><img src="https://stgabrielssec.moe.edu.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Signature%20Programmes/Applied%20Learning%20Programme/Aviation%20Boardgames.jpg" alt="Aviation Boardgames.jpg" width="312" height="233"><br>Aviation Boardgames</td>
+    <td class="tg-sxkx"><img src="/images/Drone%20Swarming.jpeg" style="width:80%"><br>Drone Swarming</td>
+    <td class="tg-sxkx"><img src="/images/Aviation%20Boardgames.jpeg" style="width:100%"> <br>Aviation Boardgames</td>
   </tr>
 </tbody>
 </table>
+
+
+
+
+
+
