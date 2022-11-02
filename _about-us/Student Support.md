@@ -53,7 +53,7 @@ Please complete and submit the application form early before 24 October for the 
 *   **[FAS Application Form](/files/GGAS_Application%20Form_updated.pdf)**
 
 
-3. **Financial Assistance Outside School**
+3. **<u>Financial Assistance Outside School</u>**
 
 *   **Straits Times Pocket Money Fund**: [**https://www.spmf.org.sg/howtoapply**](https://www.spmf.org.sg/howtoapply)
 
@@ -68,8 +68,7 @@ The Straits Times School Pocket Money Fund partners the Ministry of Education (M
 
 Please refer to attached link for other Financial Help from various organisations: 
 
-**[Financial Help from Various Organisations]
-()
+**[Financial Help from Various Organisations]()**
 
   
 You may also visit these websites for information:
@@ -78,3 +77,40 @@ You may also visit these websites for information:
 *   **CDAC Assistance**: [**https://www.cdac.org.sg/get-assistance/**](https://www.cdac.org.sg/get-assistance/)
 *   **SINDA Assistance Website**: [**https://www.sinda.org.sg/services/assistance/**](https://www.sinda.org.sg/services/assistance/)
 *   **MENDAKI Assistance Website**: **[https://www.mendaki.org.sg/assistance-landing/](https://www.mendaki.org.sg/assistance-landing/)**
+
+4. **<u>Seeking Support In School</u>**
+
+If you are struggling with a difficult situation and feel stressed as a result, you can always seek help from your form teachers, Year Heads or any other staff in school whom you trust.
+
+  Alternatively, you can also look for the School Counsellor, Mrs. Florence Loo (@3rd floor, between The Common Space room and the Library).
+	
+5. **<u>Seeking Support Outside School</u>**
+
+You can also call the below organisations directly should you not be in school but need help urgently.
+	
+<table>
+<thead>
+  <tr>
+    <th>Samaritans of Singapore (SOS)</th>
+    <th>1800 - 2214444 (24h)<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Emergency Helpline (IMH)<br></td>
+    <td> 6389 2222 (24h)</td>
+  </tr>
+  <tr>
+    <td>Touch Community Services (Counselling / Cyber Wellness Helpline)<br></td>
+    <td>6377 0122 / 6273 5568 <br></td>
+  </tr>
+  <tr>
+    <td>eCounselling Centre (EC2)</td>
+    <td><a href="https://www.ec2.sg/">https://www.ec2.sg</a><br>(Mon – Fri: 10am – 12pm and<br>2pm – 5pm, excluding public holidays)</td>
+  </tr>
+  <tr>
+    <td>CARE Singapore</td>
+    <td>6978 2728<br>(Mon - Fri: 10am - 5pm)</td>
+  </tr>
+</tbody>
+</table>
