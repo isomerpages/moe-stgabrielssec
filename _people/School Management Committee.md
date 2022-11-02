@@ -73,16 +73,16 @@ description: ""
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img src="/images/Mr%20Gordon%20Lim.png" style="width:34%"></th>
+    <th class="tg-tlx9"><img src="/images/Henry%20Phang.jpeg" style="width:34%"></th>
     <th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img src="/images/Ms%20Grace%20Chong%20Member.jpg" style="width:40%"></th>
+    <th class="tg-tlx9"><img src="/images/Mrs%20Esther%20Loo.jpeg" style="width:40%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mr Gordon Lim</span><br>Vice Chairman<br></td>
+				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mr Henry Phang</span><br>Advisor<br></td>
     <td class="tg-apyk"><br></td>
-    <td class="tg-apyk">Ms Grace Chong<br>Treasurer</td>
+    <td class="tg-apyk">Mrs Esther Loo<br>Associate</td>
   </tr>
 </tbody>
 </table>
