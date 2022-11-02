@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: "Announcements "
           description: ""
-          url: https://google.com
+          url: /Announcements/
   - infobar:
       description: <iframe width="560" height="315"
         src="https://www.youtube.com/embed/r_PowMxCwCw" title="YouTube video
