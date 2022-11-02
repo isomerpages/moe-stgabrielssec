@@ -62,10 +62,11 @@ The values and attitudes of our youth towards sexuality are increasingly shaped 
 
 Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-**At St. Gabriel’s Secondary School, the following lessons from the** **Sexuality Education Programme** **will be taught in 2022:**
+**At St. Gabriel’s Secondary School, the following lessons from the** **Sexuality Education Programme** **will be taught in <u>2022:</u>**
 
-*   **[Secondary 1](https://stgabrielssec.moe.edu.sg/qql/slot/u153/Link/Sexuality%20Education%20Programme%20Informatio/2022_SEd/Sec%201%20SEd%20Timeline.pdf)**
-*   **[Secondary 2](https://stgabrielssec.moe.edu.sg/qql/slot/u153/Link/Sexuality%20Education%20Programme%20Informatio/2022_SEd/Sec%202%20SEd%20Timeline.pdf)**
-*   **[Secondary 3](https://stgabrielssec.moe.edu.sg/qql/slot/u153/Link/Sexuality%20Education%20Programme%20Informatio/2022_SEd/Sec%203%20SEd%20Timeline.pdf)**
-*   **[Secondary 4](https://stgabrielssec.moe.edu.sg/qql/slot/u153/Link/Sexuality%20Education%20Programme%20Informatio/2022_SEd/Sec%204%20SEd%20Timeline.pdf)**
-*   **[Secondary 5](https://stgabrielssec.moe.edu.sg/qql/slot/u153/Link/Sexuality%20Education%20Programme%20Informatio/2022_SEd/Sec%205%20SEd%20Timeline.pdf)**
+*   **[Secondary 1](/files/Sec%201%20SEd%20Timeline.pdf)**
+*   **[Secondary 2](/files/Sec%202%20SEd%20Timeline.pdf)**
+*   **[Secondary 3](/files/Sec%203%20SEd%20Timeline.pdf)**
+*   **[Secondary 4](/files/Sec%204%20SEd%20Timeline.pdf)**
+*   **[Secondary 5](/files/Sec%205%20SEd%20Timeline.pdf)**
+
