@@ -70,3 +70,55 @@ Through the Sexuality Education lessons, secondary students will have the opport
 *   **[Secondary 4](/files/Sec%204%20SEd%20Timeline.pdf)**
 *   **[Secondary 5](/files/Sec%205%20SEd%20Timeline.pdf)**
 
+**Upper Secondary**<br>
+**_eTeens_ Programme:**  
+
+_eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At St. Gabriel’s Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
+.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
+.tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-rj1p">Topics/Lessons</th>
+    <th class="tg-rj1p">Programme Learning Objectives</th>
+    <th class="tg-rj1p">Time Period<br>(e.g. Term 3 Week 9)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ii8k">Mass Talk by HPB appointed vendor</td>
+    <td class="tg-y7qa"><br>Awareness of the different STIs and HIV/AIDS<br>Modes of transmission<br>Modes of protection, specifically on how the condom is used<br>Consequences and impact of STIs/HIV<br><br></td>
+    <td class="tg-y7qa">Term 3 Week 4</td>
+  </tr>
+  <tr>
+    <td class="tg-ii8k">Classroom-based Lesson</td>
+    <td class="tg-y7qa"><br>Learn to negotiate their way out of a risky situation by applying skills of assertiveness and responsible decision-making<br><br></td>
+    <td class="tg-y7qa">Term 3 Week 4</td>
+  </tr>
+</tbody>
+</table>
+
+**Information for Parents**
+
+Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
+
+For parents of **Lower Secondary and Sec 4/5 students** who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [**here**](/files/LS%20and%20Sec%2045%20SEd%20Parent%20Opt%20Out%20Form%202022%20SGSS.pdf).
+
+For parents of **Secondary 3 students** who wish to opt their children out of the **Sexuality Education lessons** and **eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [**here**](/files/Sec%203%20SEd%20Parent%20Opt%20Out%20Form%202022%20SGSS.pdf).
+
+A hardcopy of the form, duly completed and signed, is to be submitted by 28/02/2022. 
+
+Parents can contact the school at **62889470** or [**stgss@moe.edu.sg**](mailto:stgss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+
+Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
