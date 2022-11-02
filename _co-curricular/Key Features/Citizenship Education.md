@@ -43,3 +43,20 @@ _We are proud to defend Singapore ourselves, no one else is responsible for our 
 6\.  We have confidence in our future.
 <br>
  _United, determined and well-prepared, we have what it takes to build a bright future for ourselves, and to progress together as one nation_
+ 
+**Singapore 21**
+
+Singapore 21 is a national vision of the Singapore of the 21st Century, a vision of the kind of home we want for ourselves and our children. In this respect, Singapore 21 espouses five key ideas, namely, that
+
+– Every Singaporean matters to society
+
+– Strong Families are the foundation for building a strong society
+
+– Singapore should be a cosmopolitan city with opportunities for all
+
+– Every individual should share a “Singapore Heartbeat” and be emotionally rooted to the country, and
+
+– Citizens should take the initiative to impact society
+
+![](/images/Citizenship%20Competencies.png)
+
