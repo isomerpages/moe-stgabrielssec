@@ -9,8 +9,8 @@ third_nav_title: Parents
 
 <figure>
 <img src="/images/Chairperson.png" style="width:25%"> 
-	<figcaption><b>Mdm Teresa Kelly Len</b><br><b>Principal</b>
-		</figure>
+	<figcaption><b>Lee Phui Fong</b><br><b>Chairperson</b>
+</figure>
 	
 <br>
 	
@@ -68,7 +68,3 @@ style="width:82%"></th>
   </tr>
 </tbody>
 </table>
-	
-
-	
-	
