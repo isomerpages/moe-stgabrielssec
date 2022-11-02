@@ -47,9 +47,31 @@ St. Gabriel’s Secondary School is also working closely with Singapore Youth Fl
 <br clear = "left">
 <br clear = "left">
 
-<img src="/images/Airbus.png" style="width:80%" align=center> 
+<img src="/images/Airbus.png" style="width:80%" align=center>
 
-	
-	
-
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-sxkx"><img src="https://stgabrielssec.moe.edu.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Signature%20Programmes/Applied%20Learning%20Programme/Drone%20Piloting%20&%20Videography.jpg" alt="Drone Piloting & Videography.jpg" width="473" height="224"><br>Drone Piloting &amp; Videography</th>
+    <th class="tg-sxkx"><img src="https://stgabrielssec.moe.edu.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Signature%20Programmes/Applied%20Learning%20Programme/Drone%20Making.jpg" alt="Drone Making.jpg" width="264" height="295"><br>Drone Making</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-sxkx"></td>
+    <td class="tg-sxkx"></td>
+  </tr>
+  <tr>
+    <td class="tg-sxkx"><img src="https://stgabrielssec.moe.edu.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Signature%20Programmes/Applied%20Learning%20Programme/Drone%20Swarming.jpg" alt="Drone Swarming.jpg" width="250" height="513"><br>Drone Swarming</td>
+    <td class="tg-sxkx"><img src="https://stgabrielssec.moe.edu.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Signature%20Programmes/Applied%20Learning%20Programme/Aviation%20Boardgames.jpg" alt="Aviation Boardgames.jpg" width="312" height="233"><br>Aviation Boardgames</td>
+  </tr>
+</tbody>
+</table>
