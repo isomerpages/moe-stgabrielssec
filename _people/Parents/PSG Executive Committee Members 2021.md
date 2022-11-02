@@ -28,8 +28,8 @@ third_nav_title: Parents
 <tr>
     <th class="tg-tlx9"><img src="/images/Secretary.png" style="width:70%"></th>
     <th class="tg-tlx9"><img src="/images/Treasurer.png"
-style="width:82%"></th>
-    <th class="tg-tlx9"><img src="/images/PSG%20Advisor.png" style="width:80%"></th>
+style="width:70%"></th>
+    <th class="tg-tlx9"><img src="/images/PSG%20Advisor.png" style="width:70%"></th>
   </tr>
 </thead>
 <tbody>
