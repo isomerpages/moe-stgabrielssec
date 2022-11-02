@@ -14,3 +14,32 @@ third_nav_title: Key Features
 *   Thirdly, in our multi-racial society, our students need to be socio-culturally sensitive and do their part to promote social cohesion and harmony.
 *   Finally, our students must have the ability to reflect and respond to community, national and global issues, and to make informed and responsible decisions.
 
+_<p style="text-align:right">by: Mr. Heng Swee Keat<br>Minister for Education,<br>8 November 2011</p>_
+
+
+
+**Six Key Messages**
+
+1\. Singapore is our homeland: this is where we belong.
+<br>
+_We treasure our heritage and take pride in shaping our own unique way of life_
+
+2\. We must preserve racial and religious harmony.
+<br>
+_We value our diversity and are determined to stay a united people._
+
+3\. We must uphold meritocracy and incorruptibility.
+<br>
+_We provide opportunities for all, according to their ability and effort._
+
+4\.  No one owes Singapore a living.
+<br>
+_We find our own way to survive and prosper, turning challenge into opportunity._
+
+5\.  We must ourselves defend Singapore.
+<br>
+_We are proud to defend Singapore ourselves, no one else is responsible for our security and well-being._
+
+6\.  We have confidence in our future.
+<br>
+ _United, determined and well-prepared, we have what it takes to build a bright future for ourselves, and to progress together as one nation_
