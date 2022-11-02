@@ -17,19 +17,20 @@ description: ""
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img src="/images/Bro%20DOMINIC%20Yeo%20Koh.jpeg" style="width:34%"></th>
+    <th class="tg-tlx9"><img src="/images/Bro%20DOMINIC%20Yeo%20Koh.jpeg" style="width:30%"></th>
     <th class="tg-tlx9"></th>
     <th class="tg-tlx9"><img src="/images/Dr%20Francis%20Chong.jpeg" style="width:100%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Bro Dominic Yeo-Koh<br>Supervisor of Gabrielite Schools</td>
+    <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Bro Dominic-Yeo-Koh</span><br>Supervisor of Gabrielite Schools<br></td>
     <td class="tg-apyk"><br></td>
     <td class="tg-apyk">Dr Francis Chong<br>Chairman</td>
   </tr>
 </tbody>
 </table>
+
 
 <br>
 
@@ -60,4 +61,3 @@ description: ""
 </table>
 
 <br>
-
