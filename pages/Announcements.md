@@ -5,34 +5,26 @@ description: ""
 ---
 ### Announcements
 
-#### 2022 SA2 Skills & Topics
+#### School Magazine 2021
 
-Dear Parents/Students,
+2022-01-04
 
-2022 Semester Assessment 2 Skills & Topics are available for download.
+Dear Parents/Guardians,
 
-[Read more here...](https://staging.dnfzur975cvj1.amplifyapp.com/letters-and-updates/2022-semester-assessment-2/)
-
-* * *
-
-#### Parent Volunteer for P1 (Phase 2B)
-
-St Andrew's Junior School will not be opening the Parent Volunteer scheme for Primary 1 (year 2024) phase 2B registration, please refer to MOE website for other P1 registration phases.
-
-[2023 P1 Registration Phases (For reference)](https://www.moe.gov.sg/primary/p1-registration/registration-phases-key-dates)
+A blessed new year! An e-copy of the School Magazine 2021 has been shared with S1-3 2021 students via SLS. The graduating cohort of 2021 has received/will receive a hardcopy of the School Magazine on the day of the release of their GCE 'N' and 'O' Level results respectively.
 
 * * *
 
-#### Principal's Letter - July 2022
+#### Info for P6 Students
 
-Welcome back from the mid-year break. As we progress into the second half of the year, we are thankful for the resumption of National School Games and Singapore Youth Festival activities...
+Dear parent/guardians,
 
-[Read more here](/files/Principals%20Letter%20-%20July%202022.pdf)
+Are you interested to learn more about our school? We invite you to explore our website and social media accounts, showcasing the Gabrielite experience that awaits your child/ward. Alternatively, you may wish to come down to see our school facilities and compound. 
 
-* * *
 
-#### Sexuality Education in SAJS
+We regret to inform you that we will not be conducting any Open House. 
 
-The school uses the Growing Years package as recommended by MOE. Only teachers trained in the package are deployed to teach the lessons. Lessons are taught during curriculum hours and are delivered through a modular...  
   
-[Read more here](https://staging.dnfzur975cvj1.amplifyapp.com/committee/Character-Education/sexuality-education/)
+You may direct all your enquiries to [**stgss@moe.edu.sg**](mailto:stgss@moe.edu.sg)
+
+***
