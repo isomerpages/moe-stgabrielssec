@@ -7,10 +7,6 @@ description: ""
 
 #### School History
 
-<img src="/images/Louis%20Marie%20Grignion%20de%20Montfort.jpeg" style= "width: 30%; margin-right:15px;" align = "left">
-
-  
-
 Saint Gabriel's School started on 1 June 1953 as a small school with 212 students in five classes from Primary One to Standard Two. The students were taught by seven teachers, under the direction of the late Reverend Brother Louis Gonzaga.
 
   
@@ -143,4 +139,3 @@ _The Old Cross, the Time Capsule and the statue of St Montfort at the school foy
 *   Mr Marcel Lee (2005–2012)
 *   Mr Stephen Chin (2013–2020)
 *   Mr Shawn Lim (2021-present)
-
