@@ -3,7 +3,18 @@ links:
   - title: About Us
     collection: about-us
   - title: People
-    collection: people
+    url: /people/People/
+    sublinks:
+      - title: School Management Committee
+        url: /people/School-Management-Committee/
+      - title: School Executive Committee
+        url: /people/School-Executive-Committee/
+      - title: Form & Subject Teachers
+        url: /people/Form-and-Subject-Teachers/Form-Teachers-Subject-Teachers/
+      - title: Parents
+        url: /people/Parents/Parents/
+      - title: Alumni
+        url: https://www.gabrielites.org/
   - title: "Academic "
     collection: academic
   - title: Co-Curricular
