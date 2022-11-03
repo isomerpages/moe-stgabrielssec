@@ -5,11 +5,33 @@ description: ""
 ---
 ## School Management Committee 
 
-<img src="/images/Dr%20Francis%20Chong.jpeg" style="width:34%">
 
-<br>
 
-<img src="/images/Bro%20DOMINIC%20Yeo%20Koh.jpeg" style="width:34%">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
+.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+<tr>
+    <th class="tg-tlx9"><img src="/images/Bro%20DOMINIC%20Yeo%20Koh.jpeg" style="width:24%"></th>
+    <th class="tg-tlx9"></th>
+    <th class="tg-tlx9"><img src="/images/Dr%20Francis%20Chong.jpeg" style="width:70%"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Bro Dominic Yeo-Koh</span><br>Supervisor of Gabrielite Schools<br></td>
+    <td class="tg-apyk"><br></td>
+    <td class="tg-apyk">Dr Francis Chong<br>Chairman</td>
+  </tr>
+</tbody>
+</table>
 
 
 
