@@ -55,7 +55,7 @@ _<center>Once a Gabrielite; Always a Gabrielite.</center>_
 
 <img src="/images/The%20Old%20Cross%20-%20the%20Time%20Capsule%20and%20the%20statue%20of%20St%20Montfort%20at%20the%20school%20foyer.jpeg" style= "width: 60%;" align = "center">
 
-_The Old Cross, the Time Capsule and the statue of St Montfort at the school foyer)_
+_The Old Cross, the Time Capsule and the statue of St Montfort at the school foyer_
 
 **Milestones**
 
