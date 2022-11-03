@@ -7,6 +7,33 @@ description: ""
 
 
 
+<img src="/images/Bro%20DOMINIC%20Yeo%20Koh.jpeg" style="width:34%">
+
+<img src="/images/Dr%20Francis%20Chong.jpeg" style="width:34%">
+
+
+
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-9u4g"><img src="https://stgabrielssec.moe.edu.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/About%20Us/People/School%20Management%20Committee/Bro%20DOMINIC%20Yeo%20Koh.jpg" alt="Bro DOMINIC Yeo Koh.jpg" width="117" height="156"><br><br><span style="background-color:initial">Bro Dominic Yeo-Koh</span><br><span style="background-color:initial">Supervisor of Gabrielite Schools</span></td>
+    <td class="tg-9u4g"><img src="https://stgabrielssec.moe.edu.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/About%20Us/People/School%20Management%20Committee/Dr%20Francis%20Chong.jpg" alt="Dr Francis Chong.jpg" width="114" height="152"><br><br><span style="background-color:initial">Dr Francis Chong</span><br><span style="background-color:initial">Chairman</span></td>
+  </tr>
+</thead>
+</table>
+
+
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -118,26 +145,4 @@ description: ""
 </tbody>
 </table>
 
-<img src="/images/Mother%20Tongue%20-%208.jpeg" style="width:49%" align=left>
 
-<img src="/images/Mother%20Tongue%20-%209.jpeg" style="width:49%" align=right>
-
-<br clear="left">
-<br clear="left">
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-9u4g{background-color:#FFF;color:#454545;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <td class="tg-9u4g"><img src="https://stgabrielssec.moe.edu.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/About%20Us/People/School%20Management%20Committee/Bro%20DOMINIC%20Yeo%20Koh.jpg" alt="Bro DOMINIC Yeo Koh.jpg" width="117" height="156"><br><br><span style="background-color:initial">Bro Dominic Yeo-Koh</span><br><span style="background-color:initial">Supervisor of Gabrielite Schools</span></td>
-    <td class="tg-9u4g"><img src="https://stgabrielssec.moe.edu.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/About%20Us/People/School%20Management%20Committee/Dr%20Francis%20Chong.jpg" alt="Dr Francis Chong.jpg" width="114" height="152"><br><br><span style="background-color:initial">Dr Francis Chong</span><br><span style="background-color:initial">Chairman</span></td>
-  </tr>
-</thead>
-</table>
