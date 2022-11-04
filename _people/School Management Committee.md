@@ -19,7 +19,7 @@ description: ""
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img src="/images/Bro%20DOMINIC%20Yeo%20Koh.jpeg" style="width:20%"></th>
+    <th class="tg-tlx9"><img src="/images/Bro%20DOMINIC%20Yeo%20Koh.jpeg" style="width:25%"></th>
     <th class="tg-tlx9"></th>
     <th class="tg-tlx9"><img src="/images/Dr%20Francis%20Chong.jpeg" style="width:9=80%"></th>
   </tr>
