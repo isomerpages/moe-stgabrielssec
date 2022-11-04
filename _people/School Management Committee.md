@@ -19,9 +19,9 @@ description: ""
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img src="/images/Bro%20DOMINIC%20Yeo%20Koh.jpeg" style="width:24%"></th>
+    <th class="tg-tlx9"><img src="/images/Bro%20DOMINIC%20Yeo%20Koh.jpeg" style="width:15%"></th>
     <th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img src="/images/Dr%20Francis%20Chong.jpeg" style="width:70%"></th>
+    <th class="tg-tlx9"><img src="/images/Dr%20Francis%20Chong.jpeg" style="width:90%"></th>
   </tr>
 </thead>
 <tbody>
@@ -33,8 +33,7 @@ description: ""
 </tbody>
 </table>
 
-
-
+<br>
 
 
 <style type="text/css">
