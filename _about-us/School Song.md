@@ -29,6 +29,8 @@ _<center>Virtue and Truth, Virtue and Truth</center>_
 
 _<center>Of life's true beacon light</center>_
 
+<br>
+
 _<center>Saint Gabriel's School Dear</center>_
 
 _<center>Here willing hearts behold</center>_
@@ -44,4 +46,3 @@ _<center>For justice to uphold</center>_
 _<center>Let us live and thus prove</center>_
 
 _<center>Saint Gabriel's boys</center>_
-	
