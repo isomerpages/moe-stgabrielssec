@@ -106,16 +106,16 @@ description: ""
 <tr>
     <th class="tg-tlx9"><img style="width:60%" src="/images/Mr%20Francis%20Wong.jpeg"></th>
 	<th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img class="tg-tlx9"><img style="width:80%" src="/images/Mr%20Francis%20Lee.png">
-    </th><th class="tg-tlx9"><img style="width:40%" src="/images/Mr%20Kelvin%20Poon.jpeg">
+    <th class="tg-tlx9"><img class="tg-tlx9"><img style="width:90%" src="/images/Mr%20Francis%20Lee.png">
+    </th><th class="tg-tlx9"><img style="width:35%" src="/images/Mr%20Kelvin%20Poon.jpeg">
   </th></tr>
 </thead>
 <tbody>
   <tr>
 				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mr Francis Wong</span><br>Member<br></td>
     <td class="tg-apyk"><br></td>
-    <td class="tg-apyk">Mr Kelvin Poon<br>Member</td>
-		<td class="tg-apyk">Mr Francis Lee<br>Member</td>
+    <td class="tg-apyk">Mr Francis Lee<br>Member</td>
+		<td class="tg-apyk">Mr Kelvin Poon<br>Member</td>
   </tr>
 </tbody>
 </table>
