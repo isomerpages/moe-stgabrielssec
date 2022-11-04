@@ -137,7 +137,7 @@ description: ""
 	  <th class="tg-tlx9"></th>
     <th class="tg-tlx9"></th>
     <th class="tg-tlx9"><img style="width:100%" src="/images/Mr%20Shawn%20Lim%20(Principal).jpeg">
-    </th><th class="tg-tlx9"><img style="width:25%" src="/images/Mr%20Martin%20Tan%20Principal%20St%20Gabriel%20Primary.jpg"></th>
+    </th><th class="tg-tlx9"><img style="width:20%" src="/images/Mr%20Martin%20Tan%20Principal%20St%20Gabriel%20Primary.jpg"></th>
   </tr>
 </thead>
 <tbody>
