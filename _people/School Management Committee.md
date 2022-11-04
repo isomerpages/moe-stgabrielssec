@@ -10,6 +10,14 @@ description: ""
 | <figure> <img src="/images/Bro%20DOMINIC%20Yeo%20Koh.jpeg" style="width:25%"></figcaption>Bro Dominic Yeo-Koh  <BR>Supervisor of Gabrielite Schools</figure> |  | <figure><img src="/images/Dr%20Francis%20Chong.jpeg" style="width:9=80%"><figcaption>Dr Francis Chong<br>Chairman |
 | -------- | -------- | -------- |
 |      |      |     |
+	
+<br>
+
+| <img src="/images/Mr%20Gordon%20Lim.png" style="width:34%"> |  | <img src="/images/Ms%20Grace%20Chong%20Member.jpg" style="width:40%"> |
+| -------- | -------- | -------- |
+|    |     |      |
+
+
 
 
 
