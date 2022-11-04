@@ -7,17 +7,6 @@ description: ""
 
 
 
-| <figure> <img src="/images/Bro%20DOMINIC%20Yeo%20Koh.jpeg" style="width:25%">Bro Dominic Yeo-Koh  <BR>Supervisor of Gabrielite Schools</figure> |  | <figure><img src="/images/Dr%20Francis%20Chong.jpeg" style="width:9=80%">Dr Francis Chong<br>Chairman |
-| -------- | -------- | -------- |
-|      |      |     |
-	
-<br>
-
-| <img src="/images/Mr%20Gordon%20Lim.png" style="width:34%"> |  | <img src="/images/Ms%20Grace%20Chong%20Member.jpg" style="width:40%"> |
-| -------- | -------- | -------- |
-|    |     |      |
-
-
 
 
 
@@ -34,9 +23,9 @@ description: ""
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img src="/images/Bro%20DOMINIC%20Yeo%20Koh.jpeg" style="width:25%"></th>
+    <th class="tg-tlx9"><img style="width:25%" src="/images/Bro%20DOMINIC%20Yeo%20Koh.jpeg"></th>
     <th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img src="/images/Dr%20Francis%20Chong.jpeg" style="width:9=80%"></th>
+    <th class="tg-tlx9"><img style="width:9=80%" src="/images/Dr%20Francis%20Chong.jpeg"></th>
   </tr>
 </thead>
 <tbody>
@@ -63,9 +52,9 @@ description: ""
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img src="/images/Mr%20Gordon%20Lim.png" style="width:34%"></th>
+    <th class="tg-tlx9"><img style="width:34%" src="/images/Mr%20Gordon%20Lim.png"></th>
     <th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img src="/images/Ms%20Grace%20Chong%20Member.jpg" style="width:40%"></th>
+    <th class="tg-tlx9"><img style="width:40%" src="/images/Ms%20Grace%20Chong%20Member.jpg"></th>
   </tr>
 </thead>
 <tbody>
@@ -91,9 +80,9 @@ description: ""
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img src="/images/Henry%20Phang.jpeg" style="width:29%"></th>
+    <th class="tg-tlx9"><img style="width:29%" src="/images/Henry%20Phang.jpeg"></th>
     <th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img src="/images/Mrs%20Esther%20Loo.jpeg" style="width:43%"></th>
+    <th class="tg-tlx9"><img style="width:43%" src="/images/Mrs%20Esther%20Loo.jpeg"></th>
   </tr>
 </thead>
 <tbody>
@@ -119,16 +108,18 @@ description: ""
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img src="/images/Mr%20Francis%20Wong.jpeg" style="width:60%"></th>
-    <th class="tg-tlx9"><img src="/images/Mr%20Francis%20Lee.png" style="width:80%">
-    </th><th class="tg-tlx9"><img src="/images/Mr%20Kelvin%20Poon.jpeg" style="width:40%">
+    <th class="tg-tlx9"><img style="width:60%" src="/images/Mr%20Francis%20Wong.jpeg"></th>
+	<th class="tg-tlx9"></th>
+    <th class="tg-tlx9"><img class="tg-tlx9"><img style="width:80%" src="/images/Mr%20Francis%20Lee.png">
+    </th><th class="tg-tlx9"><img style="width:40%" src="/images/Mr%20Kelvin%20Poon.jpeg">
   </th></tr>
 </thead>
 <tbody>
   <tr>
 				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mr Francis Wong</span><br>Member<br></td>
-    <td class="tg-apyk">Mr Francis Lee<br>Member</td>
+    <td class="tg-apyk"><br></td>
     <td class="tg-apyk">Mr Kelvin Poon<br>Member</td>
+		<td class="tg-apyk">Mr Francis Lee<br>Member</td>
   </tr>
 </tbody>
 </table>
@@ -148,8 +139,8 @@ description: ""
 <thead>
 <tr>
     <th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img src="/images/Mr%20Shawn%20Lim%20(Principal).jpeg" style="width:60%">
-    </th><th class="tg-tlx9"><img src="/images/Mr%20Martin%20Tan%20Principal%20St%20Gabriel%20Primary.jpg" style="width:20%"></th>
+    <th class="tg-tlx9"><img style="width:100%" src="/images/Mr%20Shawn%20Lim%20(Principal).jpeg">
+    </th><th class="tg-tlx9"><img style="width:25%" src="/images/Mr%20Martin%20Tan%20Principal%20St%20Gabriel%20Primary.jpg"></th>
   </tr>
 </thead>
 <tbody>
