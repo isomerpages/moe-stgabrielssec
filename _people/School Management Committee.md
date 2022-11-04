@@ -19,9 +19,9 @@ description: ""
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img src="/images/Bro%20DOMINIC%20Yeo%20Koh.jpeg" style="width:15%"></th>
+    <th class="tg-tlx9"><img src="/images/Bro%20DOMINIC%20Yeo%20Koh.jpeg" style="width:20%"></th>
     <th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img src="/images/Dr%20Francis%20Chong.jpeg" style="width:90%"></th>
+    <th class="tg-tlx9"><img src="/images/Dr%20Francis%20Chong.jpeg" style="width:9=80%"></th>
   </tr>
 </thead>
 <tbody>
@@ -133,7 +133,7 @@ description: ""
 <thead>
 <tr>
     <th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img src="/images/Mr%20Shawn%20Lim%20(Principal).jpeg" style="width:70%">
+    <th class="tg-tlx9"><img src="/images/Mr%20Shawn%20Lim%20(Principal).jpeg" style="width:60%">
     </th><th class="tg-tlx9"><img src="/images/Mr%20Martin%20Tan%20Principal%20St%20Gabriel%20Primary.jpg" style="width:20%"></th>
   </tr>
 </thead>
