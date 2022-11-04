@@ -7,6 +7,12 @@ description: ""
 
 
 
+| <figure> <img src="/images/Bro%20DOMINIC%20Yeo%20Koh.jpeg" style="width:25%"></figcaption>Bro Dominic Yeo-Koh  <BR>Supervisor of Gabrielite Schools</figure> |  | <figure><img src="/images/Dr%20Francis%20Chong.jpeg" style="width:9=80%"><figcaption>Dr Francis Chong<br>Chairman |
+| -------- | -------- | -------- |
+|      |      |     |
+
+
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
