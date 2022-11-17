@@ -49,3 +49,4 @@ _(Credit goes to Pymouss for the wonderful picture)_
 On his way to Paris to pursue his priestly studies, Montfort met three beggars with whom he exchanged his new clothes and voluntarily gave up every single one of his possessions at the Cesson Bridge. Montfort radically decided to become poor for the sake of Christ and totally depended on Divine Providence.
 
 Till this day - 300 years after the fact, this moment of selflessness remains an icon of Montfortian education and spirituality.
+
