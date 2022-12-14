@@ -9,7 +9,7 @@ description: ""
 
 | Intranet Links (VPN required if login from home) |
 | --- |
-| 
+
 *   **[MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)**
 *   [**SSOE2 Service Portal**](https://ssoe2.moe.edu.sg/)
 *   [**MIMS Portal**](https://idp.mims.moe.gov.sg/nidp/saml2/sso)
@@ -40,4 +40,4 @@ description: ""
 *   **[School WiFi Log In / Log Off](https://portal.swn.moe.edu.sg/)**
 *   **Education and Career Guidance** **([ecareers.sg web portal](https://ecareers.sg/G_Login_SG/ecareersLogin.asp))**
 
- |
+ 
