@@ -15,11 +15,10 @@ The Mother Tongue Languages Department provided courses for the learning of Chin
 
 **<u>Staff:</u>**
 <br>
-Head of Department:
+Head of Department: Mr. Clement See
 <br>
-Subject Head (CL): Ms. Lee Wan Xin
+Subject Head (CL): Ms. Pauline Teo
 
-  
 
 **<u>Teachers (Chinese Language Unit):</u>**
 <br>
@@ -27,8 +26,7 @@ Mr. Lee Song Nian (Senior Teacher, CL)<br>
 Ms. Ren Junying <br>
 Ms. Peh Sok Hoon <br>
 Mr. Tai Mao Shen <br>
-Mr. Zhang Huasheng <br>
-Ms. Fu Hsun
+Mr. Zhang Huasheng 
 
   
 
@@ -43,7 +41,8 @@ Mdm Rose Fadillah Bte Aris
 **<u>Teachers (Tamil Language Unit):</u>**
 <br>
 Mdm Krishnasamy Poongulali<br>
-Mdm Subhalakshmi Laksmanan
+Mdm Subhalakshmi Laksmanan<br>
+Ms. Mogana Devinthoran
 
 
 **<u>Objectives</u>**
