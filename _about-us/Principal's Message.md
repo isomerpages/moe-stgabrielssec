@@ -3,7 +3,7 @@ title: Principal's Message
 permalink: /about-us/Principals-Message/
 description: ""
 ---
-## Principals Message
+## Principal's Message
 
 <figure>
 <img style="width: 20%;" src="/images/Mr%20Shawn%20Lim%20(Principal).jpeg">
