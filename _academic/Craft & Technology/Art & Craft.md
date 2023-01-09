@@ -4,31 +4,31 @@ permalink: /academic/Craft-and-Technology/permalink/
 description: ""
 third_nav_title: Craft & Technology
 ---
-## Art 
+## Art
 
-**Teachers in Art**
+#### **Teachers in Art**
 
-1.  Mr. Kelvin Lim
-2.  Mr. Keith Chong
-3.  Ms. Ng U-Lynn
-4.  Ms. Fernandez (FAJT)
+1.  **Mr. Kelvin Lim**
+2.  **Mr. Keith Chong**
+3.  **Ms. Ng U-Lynn**
+4.  **Ms. Fernandez (FAJT)**
 
  
-**Programmes**  
+#### **Programmes**  
 
-**<u>Introduction</u>**
+##### **<u>Introduction</u>**
 
 In St. Gabriel's Secondary School, we believe that a strong aesthetics programme is essential in contributing towards achieving our vision to develop all our students to be Servant Leaders, Lifelong Learners & Gracious Citizens.
 
 ![](/images/Art.jpeg)
 
-**<u>Objectives</u>**
+#### **<u>Objectives</u>**
 
-**Our Vision**
+##### **Our Vision**
 
 To enrich lives and create joy and a love for learning through the Arts, whilst imparting life-skills through a supportive and nurturing environment, where pupils are encouraged to achieve their full potential whilst adopting new skills and knowledge. Pupils are exposed to the Arts and it’s many forms thereby appreciating it’s many applications in society.
 
-**Our Mission**
+##### **Our Mission**
 
 *   **To enable** every child to be <u>visually literate</u> and to <u>appreciate art</u>.
 
@@ -43,15 +43,11 @@ To enrich lives and create joy and a love for learning through the Arts, whilst 
 
 The Aesthetics department is committed to increase opportunities for all students to participate in and recognize the value of the Arts in society. The department strives to expose all pupils to appreciating and expressing Art through a variety of platforms. Our aim is for them to become life-long learners who are confident and creative with a passion for life and learning.
 
-  
-
 Through the Arts, pupils are more aware of the values and roles of the Arts in society, thus connecting them to our history, culture and heritage. Pupils also learn to respect the culture, belief systems and values of others and to appreciate the deeper forms of beauty in life.
-
-  
 
 Students are encouraged to explore, to create, and to reach their full potential through our wide variety of arts exposure programmes in school. We believe that the Arts drive creativity and creativity drives learning and when there is learning, students will grow and flourish abundantly.
 
-**<u>Lower Secondary - Programmes</u>**
+##### **<u>Lower Secondary - Programmes</u>**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -119,7 +115,7 @@ Students are encouraged to explore, to create, and to reach their full potential
 </tbody>
 </table>
 
-**Lower Secondary - Enrichment**
+##### **<u>Lower Secondary - Enrichment**
 
 **Digital Media Art:**
 *   Sec 1 -  Mobile Photography
@@ -134,20 +130,16 @@ Students are encouraged to explore, to create, and to reach their full potential
 
 **Participation:**
 
-<center>Participation in School Arts Buzz (Two weeks long of Art program and activities) </center> <center>Arts Buzz - 2018</center>
-
-	
+<center>Participation in School Arts Buzz <br>(Two weeks long of Art program and activities) </center> <center>Arts Buzz - 2018</center>
 
 ![](/images/Arts%20Buzz%202018.jpeg)
 
-
-
-<center>Alternate year of participation in Singapore Youth Festival Art Labs</center> 
+<center>Alternate year of participation in <br>Singapore Youth Festival Art Labs</center> 
 
 | ![](/images/SYF%20Art%20Labs%202016.jpeg) <center>SYF Art Labs - 2016</center> | ![](/images/Art%20lessons%20with%20overseas%20students%202018.jpeg) <center>Exchange Art lessons with Overseas students - 2018 </center>|  |
 | -------- | -------- | -------- |
-|      |     |   |
-
+	
+##### **<u>Upper Secondary - Programmes**	
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -165,7 +157,7 @@ Students are encouraged to explore, to create, and to reach their full potential
 <thead>
   <tr>
     <th class="tg-reen">Level</th>
-    <th class="tg-reen" colspan="2">Lower Secondary Curriculum</th>
+    <th class="tg-reen" colspan="2">Upper Secondary Curriculum</th>
   </tr>
 </thead>
 <tbody>
@@ -211,9 +203,9 @@ Students are encouraged to explore, to create, and to reach their full potential
   </tr>
 </tbody>
 </table>
-
-**<u>Upper Secondary - Enrichment</u>**
-<br>**Museum visit:**
+	
+##### **<u>Upper Secondary - Enrichment</u>**
+**Museum visit:**
 * National Gallery of Singapore
 * Singapore Art Museum
 * Art 
@@ -230,8 +222,7 @@ Overseas or Local Art Trips:
 |  ![](/images/Chiangmai%202017%20and%202018%20-%201.jpeg)    |  ![](/images/Chiangmai%202017%20and%202018%20-%202.jpeg)   |
 
 **Possible Art Competition or events:**
-![](/images/Yellowren%20Art%20Canvas%20Competition%202017.jpeg)
-Yellowren Art Canvas Competition – 2017
+![](/images/Yellowren%20Art%20Canvas%20Competition%202017.jpeg)<center>Yellowren Art Canvas Competition – 2017
 
 ![](/images/Outdoor%20Painting.jpeg)
 Outdoor painting at Hwa Chong International Institution
