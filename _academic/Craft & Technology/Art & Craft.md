@@ -225,12 +225,13 @@ Overseas or Local Art Trips:
 ![](/images/Yellowren%20Art%20Canvas%20Competition%202017.jpeg)<center>Yellowren Art Canvas Competition – 2017
 
 ![](/images/Outdoor%20Painting.jpeg)
-Outdoor painting at Hwa Chong International Institution
+<center>Outdoor painting at Hwa Chong International Institution <br><br>
 
+	
 | Participation in School Arts Buzz: |  |
 | -------- | -------- | 
 | ![](/images/Booth%20and%20Mural%20Drawing%20Arts%20Buzz%202018%20-%201.jpeg)  |  ![](/images/Booth%20and%20Mural%20Drawing%20Arts%20Buzz%202018%20-%202.jpeg)  |
 
 **Participation in Singapore Youth Festival Art Labs:**
 ![](/images/Singapore%20Youth%20Festival%20Art%20Lab%202018.jpeg)
-Singapore Youth Festival Art Lab – 2018
+<center>Singapore Youth Festival Art Lab – 2018
