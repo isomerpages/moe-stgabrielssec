@@ -15,11 +15,7 @@ sections:
         - title: Contact Us
           description: ""
           url: /contact-us/
-  - infopic:
-      title: Home Based Learning
+  - resources:
+      title: Announcement
       subtitle: St. Gabriel's Secondary School
-      button: Click here to access
-      url: https://sites.google.com/moe.edu.sg/sgsspdlp/home-based-learning
-      image: /images/HBL Banner.jpg
-      alt: Image alt text
 ---
