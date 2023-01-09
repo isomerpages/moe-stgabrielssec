@@ -9,9 +9,6 @@ sections:
   - hero:
       background: /images/Banner.gif
       key_highlights:
-        - title: "Announcements "
-          description: ""
-          url: /Announcements/
         - title: Contact Us
           description: ""
           url: /contact-us/
