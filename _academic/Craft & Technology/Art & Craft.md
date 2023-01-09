@@ -109,7 +109,7 @@ Students are encouraged to explore, to create, and to reach their full potential
   <tr>
     <td class="tg-xqm4">3D Craft</td>
     <td class="tg-0lax">Lantern</td>
-    <td class="tg-0lax">Lantern<br>One of these:<br> - Drawing on 3D<span style="background-color:initial"> object</span><br> - Sculpture using recycled materials</td>
+    <td class="tg-0lax">- Lantern<br>One of these:<br> - Drawing on 3D<span style="background-color:initial"> object</span><br> - Sculpture using recycled materials</td>
   </tr>
   <tr>
     <td class="tg-xqm4">Traditional<br>Craft </td>
@@ -134,16 +134,15 @@ Students are encouraged to explore, to create, and to reach their full potential
 
 **Participation:**
 
-<center>Participation in School Arts Buzz (Two weeks long of Art program and activities)
+<center>Participation in School Arts Buzz (Two weeks long of Art program and activities) </center> <center>Arts Buzz - 2018</center>
 
-	Arts Buzz - 2018
+	
 
 ![](/images/Arts%20Buzz%202018.jpeg)
 
 
 
-<center>Alternate year of participation in Singapore Youth Festival Art Labs
-
+<center>Alternate year of participation in Singapore Youth Festival Art Labs</center> 
 
 | ![](/images/SYF%20Art%20Labs%202016.jpeg) <center>SYF Art Labs - 2016</center> | ![](/images/Art%20lessons%20with%20overseas%20students%202018.jpeg) <center>Exchange Art lessons with Overseas students - 2018 </center>|  |
 | -------- | -------- | -------- |
@@ -187,49 +186,46 @@ Students are encouraged to explore, to create, and to reach their full potential
   </tr>
   <tr>
     <td class="tg-f2df">Skills</td>
-    <td class="tg-que8" colspan="2">Pencil shading<br><span style="background-color:initial">Pen rendering</span><br>Colour pencil rendering<br><span style="background-color:initial">Observation drawing</span><br>Manipulation drawings<br><span style="background-color:initial">Composition making</span><br>Portrait and Figure drawing<br>Principles of Design<br>2-point perspective<br>Acrylic painting<br>Watercolour painting<br></td>
+    <td class="tg-que8" colspan="2">- Pencil shading<br><span style="background-color:initial">- Pen rendering</span><br>- Colour pencil rendering<br><span style="background-color:initial">- Observation drawing</span><br>- Manipulation drawings<br><span style="background-color:initial">- Composition making</span><br>- Portrait and Figure drawing<br>- Principles of Design<br>- 2-point perspective<br>- Acrylic painting<br>- Watercolour painting<br></td>
   </tr>
   <tr>
     <td class="tg-reen">Dry Mediums</td>
-    <td class="tg-que8">Pencil<br>Colour pencil<br>Pen<br>Marker<br>Pastel</td>
+    <td class="tg-que8">- Pencil<br>- Colour Pencil<br>- Pen<br>- Marker<br>- Pastel</td>
     <td class="tg-que8" rowspan="5">Chosen medium for Coursework<br></td>
   </tr>
   <tr>
     <td class="tg-reen">Wet Mediums</td>
-    <td class="tg-que8">Batik Dye (background)<br>Acrylic/ Oil painting<br>Watercolour painting<br></td>
+    <td class="tg-que8">- Batik Dye (background)<br>- Acrylic/ Oil painting<br>- Watercolour painting<br></td>
   </tr>
   <tr>
     <td class="tg-reen">Digital Media Art</td>
-    <td class="tg-que8">One or both of these:<br>Photoshop composition<br>Photoshop manipulation</td>
+    <td class="tg-que8">One or both of these:<br>- Photoshop composition<br>- Photoshop manipulation</td>
   </tr>
   <tr>
     <td class="tg-f2df">3D Craft</td>
-    <td class="tg-que8">Lantern<br>One of these:<br>Sculpture using recycled materials<br>Modelling clay</td>
+    <td class="tg-que8">- Lantern<br>One of these:<br>- Sculpture using recycled materials<br>- Modelling clay</td>
   </tr>
   <tr>
     <td class="tg-f2df">Traditional<br>Craft </td>
-    <td class="tg-que8">One or two of these:<br>Linoleum print making<br>Pyrography<br>Batik painting<br>Metal Tooling<br>Paper cut </td>
+    <td class="tg-que8">One or two of these:<br>- Linoleum print making<br>- Pyrography<br>- Batik painting<br>- Metal Tooling<br>- Paper cut </td>
   </tr>
 </tbody>
 </table>
 
 **<u>Upper Secondary - Enrichment</u>**
-
-**Museum visit:**
-
-− National Gallery of Singapore
-
-− Singapore Art Museum
-
-− Art exhibitions
-
+<br>**Museum visit:**
+* National Gallery of Singapore
+* Singapore Art Museum
+* Art 
+	
+	
 | National Gallery of Singapore |  |
 | -------- | -------- | 
 |  ![](/images/National%20Gallery%20of%20Singapore%20-%201.jpeg)    |  ![](/images/National%20Gallery%20of%20Singapore%20-%202.jpeg)    |
 
 <br>
 
-| Overseas or local Art Trips: |  |
+| Overseas or Local Art Trips: |  |
 | -------- | -------- | 
 |  ![](/images/Chiangmai%202017%20and%202018%20-%201.jpeg)    |  ![](/images/Chiangmai%202017%20and%202018%20-%202.jpeg)   |
 
