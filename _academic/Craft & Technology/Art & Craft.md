@@ -217,19 +217,17 @@ Students are encouraged to explore, to create, and to reach their full potential
 * National Gallery of Singapore
 * Singapore Art Museum
 * Art 
-	
-	
-| National Gallery of Singapore |  |
+
+| National Gallery of Singapore |  |  
 | -------- | -------- | 
 |  ![](/images/National%20Gallery%20of%20Singapore%20-%201.jpeg)    |  ![](/images/National%20Gallery%20of%20Singapore%20-%202.jpeg)    |
 
 <br>
+Overseas or Local Art Trips:
 
-| Overseas or Local Art Trips: |  |
+| Cultural Immersion and VIA Overseas Trip to Chiangmai 2017 and 2018 |  |
 | -------- | -------- | 
 |  ![](/images/Chiangmai%202017%20and%202018%20-%201.jpeg)    |  ![](/images/Chiangmai%202017%20and%202018%20-%202.jpeg)   |
-
-Cultural Immersion and VIA Overseas Trip to Chiangmai 2017 and 2018
 
 **Possible Art Competition or events:**
 ![](/images/Yellowren%20Art%20Canvas%20Competition%202017.jpeg)
@@ -240,10 +238,7 @@ Outdoor painting at Hwa Chong International Institution
 
 | Participation in School Arts Buzz: |  |
 | -------- | -------- | 
-| ![](/images/Booth%20and%20Mural%20Drawing%20Arts%20Buzz%202018%20-%201.jpeg)    |  ![](/images/Booth%20and%20Mural%20Drawing%20Arts%20Buzz%202018%20-%202.jpeg)   |
-
-Running the booth and mural drawing for Arts Buzz 2018
-
+| ![](/images/Booth%20and%20Mural%20Drawing%20Arts%20Buzz%202018%20-%201.jpeg)  |  ![](/images/Booth%20and%20Mural%20Drawing%20Arts%20Buzz%202018%20-%202.jpeg)  |
 
 **Participation in Singapore Youth Festival Art Labs:**
 ![](/images/Singapore%20Youth%20Festival%20Art%20Lab%202018.jpeg)
