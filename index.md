@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/Banner.gif
-      key_highlights:
-        - title: Contact Us
-          description: ""
-          url: /contact-us/
   - resources:
       title: Announcement
       subtitle: St. Gabriel's Secondary School
