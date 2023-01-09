@@ -15,11 +15,11 @@ sections:
         - title: Contact Us
           description: ""
           url: /contact-us/
-  - infobar:
-      description: <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/r_PowMxCwCw" title="YouTube video
-        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
-      title: Virtual Tour
+  - infopic:
+      title: Home Based Learning
+      subtitle: St. Gabriel's Secondary School
+      button: Click here to access
+      url: https://sites.google.com/moe.edu.sg/sgsspdlp/home-based-learning
+      image: /images/HBL Banner.jpg
+      alt: Image alt text
 ---
