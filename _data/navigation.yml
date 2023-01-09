@@ -19,6 +19,8 @@ links:
     collection: academic
   - title: Co-Curricular
     collection: co-curricular
+  - title: Student Support
+    url: /student-support/
   - title: "Signature Programmes "
     collection: signature-programmes
   - title: Links
@@ -46,5 +48,3 @@ links:
         url: https://www.stgabrielspri.moe.edu.sg/
   - title: Contact Us
     url: /contact-us/
-  - title: Student Support
-    url: /student-support/
