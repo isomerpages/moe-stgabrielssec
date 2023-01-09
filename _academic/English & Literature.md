@@ -5,33 +5,33 @@ description: ""
 ---
 ## English & Literature 
 
-<u>A) English Language</u>
+### **English Language**
 
   
-**Teachers:**
+#### **Teachers:**
 
-1.  Ms. Anna Chew  
-2.  Mr. Benjamin Lim
-3.  Mdm. Chew Jia Ay
-4.  Ms. Farah Zeeba Kasbolla     
-5.  Mr. Hamdi
-6.  Ms. Jessica Yap
-7.  Ms. Jo-Anne Seet
-8.  Ms. Katherine Gay
-9.  Ms. Marianne Li
-10.  Ms. Nur Syarmeen Ehsan Ahmad
-11.  Mrs. Rani Rama  
-12.  Mr. Rodney Goh
-13.  Ms. Siti Latifah Ishar
-14.  Mr Suraj Padman
-15.  Ms Koh Hwee Kiang
-16.  Ms Cheong Li Yun
+1. Ms. Anna Chew  
+2. Mr. Benjamin Lim
+3. Mdm. Chew Jia Ay
+4. Ms. Farah Zeeba Kasbolla
+5. Mr. Hamdi
+6. Ms. Jessica Yap
+7. Ms. Jo-Anne Seet
+8. Ms. Katherine Gay
+9. Ms. Marianne Li
+10. Ms. Nur Syarmeen Ehsan Ahmad
+11. Mrs. Rani Rama  
+12. Mr. Rodney Goh
+13. Ms. Siti Latifah Ishar
+14. Mr Suraj Padman
+15. Ms Koh Hwee Kiang
+16. Ms Cheong Li Yun
 
-**Objective:**
+#### **Objective:**
 
 Every Gabrielite to be effective and confident in communicating in the English Language.  
 
-**Programme:**
+#### **Programme:**
 
 The curriculum seek to develop linguistic competencies in our students through the teaching and learning of English to enable Gabrielities to be empathetic communicators, discerning readers and creative enquirers. The syllabus develops effective and affective language use in students in the following areas:
 
@@ -44,38 +44,32 @@ The curriculum seek to develop linguistic competencies in our students through t
 | **Key teaching and learning pedagogies and strategies<br><br>Introduction of 3 foci:**<br>**Inquiry through Dialogue (1st focus)**<br><br> Multiliteracies (2nd focus)<br>Metacognition (3rd focus)<br>Pedagogy - the 5Ts:<br>Connecting Theme, Text, Talk, Task & Technology<br>Guided by LLIPS amp; ACoLADE(General) Learner Strategies to be taught:<br>Close reading skills (Reading & Viewing)<br>Note-taking skills (Writing & Representing)<br>Presentation skills (Speaking & Representing)<br>(Simple) research skills | Assessment indicators of students achieving the learning outcomes<br><br>Assessment Tools:<br>Discrete performance tasks that assess specific EL skill taught (e.g. podcast: pronunciation & reading aloud, quizzes, targetted practice like essays etc.)<br>Integrated assessment to assess different EL skills taught (e.g. oral presentations, compositions, written reflections)<br>Assessment Indicators:<br>Students can read, listen & view widely a range of multi-modal text & text forms.<br>Students will speak, write & represent for creative, personal, academic & functional purposes by using language in a sustained manner & by representing their ideas in a range of multimodal texts & text forms.<br>Students can display/attain SSABs in EL Syllabus 2020              |
 
 
-<u>B) Literature in English</u>
+### **Literature in English**
 
-**Teachers:**
+#### **Teachers:**
 
-1.  Ms. Marianne Li  
-    
-2.  Ms. Jessica Yap  
-    
-3.  Ms. Siti Latifah Ishar
-4.  Ms. Jo-Anne Seet
-5.  Mdm. Chew Jia Ay
-6.  Ms Koh Hwee Kiang
+1. Ms. Marianne Li    
+2. Ms. Jessica Yap     
+3. Ms. Siti Latifah Ishar
+4. Ms. Jo-Anne Seet
+5. Mdm. Chew Jia Ay
+6. Ms Koh Hwee Kiang
 
-  
+#### **Programme:**
 
-**Programme:**
-
-  
-
-**Lower Secondary:**
+##### **Lower Secondary:**
 
 Gabrielites are introduced to a range of literary texts in prose, poetry and drama. They also begin to learn how to respond to and analyse such literary writing. Those who are keen on Literature can choose to offer Literature in English at GCE O or GCE NA Level at the end of Secondary Two.
 
   
 
-**Upper Secondary:**
+##### **Upper Secondary:**
 
 Garbrielites will study the subject more deeply; delving into the literary analysis of the texts offered. They will also be taught to hone and produce sustained and critical responses to the texts they study.
 
   
 
-**Upper Sec. Literature Texts for 2022**:
+##### **Upper Sec. Literature Texts for 2022**:
 
 1.  Drama: Macbeth by William Shakespeare
 2.  Prose: Hook & Eye: Stories from the Margins edited by Philip Holden
@@ -83,7 +77,7 @@ Garbrielites will study the subject more deeply; delving into the literary analy
 
   
 
-**Upper Sec. Literature Texts for 2023**:
+##### **Upper Sec. Literature Texts for 2023**:
 
 1.  Drama: Boom by Jean Tay
 2.  Prose: The Chrysalids by John Wyndham
@@ -91,9 +85,9 @@ Garbrielites will study the subject more deeply; delving into the literary analy
 
   
 
-**Lower Sec. Literature Texts for 2023:**
+##### **Lower Sec. Literature Texts for 2023:**
 
-1.  Drama: _Frankenstein_ adapted by Phillip Pullman  
+1. Drama: _Frankenstein_ adapted by Phillip Pullman  
     
 2.  Novel: _The Boy in the Striped Pyjamas_ by John Boyne  
     
