@@ -9,73 +9,26 @@ third_nav_title: Craft & Technology
 **Teachers in Art**
 
 1.  Mr. Kelvin Lim
-2.  Ms. Ng U-Lynn
+2.  Mr. Keith Chong
+3.  Ms. Ng U-Lynn
+4.  Ms. Fernandez (FAJT)
 
  
 **Programmes**  
 
 **<u>Introduction</u>**
 
-  
-
 In St. Gabriel's Secondary School, we believe that a strong aesthetics programme is essential in contributing towards achieving our vision to develop all our students to be Servant Leaders, Lifelong Learners & Gracious Citizens.
 
 ![](/images/Art.jpeg)
-
-<br>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-nrwt{background-color:#FFF2CC;color:#454545;text-align:center;vertical-align:middle}
-.tg .tg-ncov{background-color:#FFF;color:#454545;text-align:center;vertical-align:middle}
-.tg .tg-vz81{background-color:#FFF2CC;color:#0C343D;text-align:center;vertical-align:top}
-.tg .tg-zrdr{background-color:#FFF;color:#0C343D;text-align:center;vertical-align:top}
-.tg .tg-j8h3{background-color:#FFD966;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-j8h3">Teacher Name</th>
-    <th class="tg-j8h3">Designation<br></th>
-    <th class="tg-j8h3">Subject Taught<br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-vz81"><a href="mailto:ng_u-lynn@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">Ms Ng U-Lynn</span></a><br></td>
-    <td class="tg-nrwt"><span style="background-color:#FFF2CC">Teacher</span><br></td>
-    <td class="tg-nrwt"><span style="background-color:#FFF2CC">Art</span></td>
-  </tr>
-  <tr>
-    <td class="tg-zrdr"><a href="mailto:lim_fung_chee@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">Mr Kelvin Lim</span></a></td>
-    <td class="tg-ncov">Teacher<br></td>
-    <td class="tg-ncov">Art<br></td>
-  </tr>
-  <tr>
-    <td class="tg-vz81"><a href="mailto:ong_ting_kai@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">Mr Ong Ting Kai</span></a></td>
-    <td class="tg-nrwt"><span style="background-color:#FFF2CC">Teacher</span><br></td>
-    <td class="tg-nrwt"><span style="background-color:#FFF2CC">Music</span></td>
-  </tr>
-</tbody>
-</table>
 
 **<u>Objectives</u>**
 
 **Our Vision**
 
-  
-
 To enrich lives and create joy and a love for learning through the Arts, whilst imparting life-skills through a supportive and nurturing environment, where pupils are encouraged to achieve their full potential whilst adopting new skills and knowledge. Pupils are exposed to the Arts and it’s many forms thereby appreciating it’s many applications in society.
 
-  
-
 **Our Mission**
-
-  
 
 *   **To enable** every child to be <u>visually literate</u> and to <u>appreciate art</u>.
 
@@ -133,16 +86,16 @@ Students are encouraged to explore, to create, and to reach their full potential
   </tr>
   <tr>
     <td class="tg-px6y">Knowledge<br>(Students will know….)</td>
-    <td class="tg-0lax">What mark-making means to them internally and how it can represent aspects of themselves as individuals.<br>How to gather and express their own feelings through colours.<br>Acquire<span style="background-color:initial"> </span>understanding<span style="background-color:initial"> of art terms.</span></td>
-    <td class="tg-0lax">How to place elements together to create a composition<br>How do artists convey, conceptualise and translate meaning and ideas into their creations?<br>Acquire<span style="background-color:initial"> </span>understanding<span style="background-color:initial"> of art terms.</span></td>
+    <td class="tg-0lax"> - What mark-making means to them internally and how it can represent aspects of themselves as individuals.<br> - How to gather and express their own feelings through colours.<br> - Acquire<span style="background-color:initial"> </span>understanding<span style="background-color:initial"> of art terms.</span></td>
+    <td class="tg-0lax"> - How to place elements together to create a composition<br> - How do artists convey, conceptualise and translate meaning and ideas into their creations?<br> - Acquire<span style="background-color:initial"> </span>understanding<span style="background-color:initial"> of art terms.</span></td>
   </tr>
   <tr>
     <td class="tg-xqm4">Skills</td>
-    <td class="tg-0lax" colspan="2">Right brain drawing<br>Pencil shading<br>Colour pencil rendering<br>Colour theory<br>Observation and Grid drawing<br>Zentangle<br>Mandala<br>Portrait and Figure drawing<br>Elements of Art<br>Principles of Design (Balance and Emphasis)<br>1-point perspective<span style="background-color:initial"> </span></td>
+    <td class="tg-0lax" colspan="2"> - Right brain drawing<br> - Pencil shading<br> - Colour pencil rendering<br> - Colour theory<br> - Observation and Grid drawing<br> - Zentangle<br> - Mandala<br> - Portrait and Figure drawing<br> - Elements of Art<br> - Principles of Design (Balance and Emphasis)<br> - 1-point perspective<span style="background-color:initial"> </span></td>
   </tr>
   <tr>
     <td class="tg-px6y">Dry Mediums</td>
-    <td class="tg-0lax" colspan="2">Pencil<br>Colour pencil<br>Pen<br>Marker<br>Pastel</td>
+    <td class="tg-0lax" colspan="2"> - Pencil<br> - Colour pencil<br> - Pen<br> - Marker<br> - Pastel</td>
   </tr>
   <tr>
     <td class="tg-px6y">Wet Mediums</td>
@@ -151,17 +104,17 @@ Students are encouraged to explore, to create, and to reach their full potential
   <tr>
     <td class="tg-px6y">Digital Media Art</td>
     <td class="tg-0lax">Photography</td>
-    <td class="tg-0lax">One of these:<br>Inkscape design<br>Photoshop or PowerPoint composition</td>
+    <td class="tg-0lax">One of these:<br> - Inkscape design<br> - Photoshop or PowerPoint composition</td>
   </tr>
   <tr>
     <td class="tg-xqm4">3D Craft</td>
     <td class="tg-0lax">Lantern</td>
-    <td class="tg-0lax">Lantern<br><br>One of these:<br>Drawing on 3D<span style="background-color:initial"> object</span><br>Sculpture using recycled materials</td>
+    <td class="tg-0lax">Lantern<br>One of these:<br> - Drawing on 3D<span style="background-color:initial"> object</span><br> - Sculpture using recycled materials</td>
   </tr>
   <tr>
     <td class="tg-xqm4">Traditional<br>Craft </td>
     <td class="tg-0lax">Symmetrical paper Cut</td>
-    <td class="tg-0lax">One of these:<br>Styrofoam board printing<br>Wayang Kulit<span style="background-color:initial"> </span></td>
+    <td class="tg-0lax">One of these:<br> - Styrofoam board printing<br>- Wayang Kulit<span style="background-color:initial"> </span></td>
   </tr>
 </tbody>
 </table>
@@ -169,34 +122,32 @@ Students are encouraged to explore, to create, and to reach their full potential
 **Lower Secondary - Enrichment**
 
 **Digital Media Art:**
-*   Sec 1 -  Mobile photography
-*   Sec 2 -  Poster design
-
-
+*   Sec 1 -  Mobile Photography
+*   Sec 2 -  Poster Design
 
 |  |  | 
 | -------- | -------- | 
 |  ![](/images/Digital%20Media%20Art%20-%201.png)    |    ![](/images/Digital%20Media%20Art%20-%202.png) | 
 
+|  |  | 
+| -------- | -------- | 
 
 **Participation:**
 
-*   Participation in School Arts Buzz ( Two weeks long of Art program and activities)
+<center>Participation in School Arts Buzz (Two weeks long of Art program and activities)
+
+	Arts Buzz - 2018
 
 ![](/images/Arts%20Buzz%202018.jpeg)
 
-Arts Buzz - 2018
 
-*   Alternate year of participation in Singapore Youth Festival Art Labs
 
-![](/images/Arts%20Buzz%202018.jpeg)
+<center>Alternate year of participation in Singapore Youth Festival Art Labs
 
-SYF Art Labs - 2016
 
-![](/images/Arts%20Buzz%202018.jpeg)
-
-Exchange art lessons with Overseas students – 2018
-
+| ![](/images/SYF%20Art%20Labs%202016.jpeg) <center>SYF Art Labs - 2016</center> | ![](/images/Art%20lessons%20with%20overseas%20students%202018.jpeg) <center>Exchange Art lessons with Overseas students - 2018 </center>|  |
+| -------- | -------- | -------- |
+|      |     |   |
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -231,7 +182,7 @@ Exchange art lessons with Overseas students – 2018
   </tr>
   <tr>
     <td class="tg-reen">Knowledge<br>(Students will know….)</td>
-    <td class="tg-que8">Acquire the understanding of portfolio keeping.<br>How to create a piece of artworks with concept and meaning.<br>How to incorporate their own meanings into their makings.<br>How to think out of the box in problem solving<span style="background-color:initial"> situations, learning to become independent learners.</span><br>Acquire understanding<span style="background-color:initial"> of art terms</span></td>
+    <td class="tg-que8">- Acquire the understanding of portfolio keeping.<br>- How to create a piece of artworks with concept and meaning.<br>- How to incorporate their own meanings into their makings.<br>- How to think out of the box in problem solving<span style="background-color:initial"> situations, learning to become independent learners.</span><br>- Acquire understanding<span style="background-color:initial"> of art terms</span></td>
     <td class="tg-que8"></td>
   </tr>
   <tr>
@@ -301,8 +252,3 @@ Running the booth and mural drawing for Arts Buzz 2018
 **Participation in Singapore Youth Festival Art Labs:**
 ![](/images/Singapore%20Youth%20Festival%20Art%20Lab%202018.jpeg)
 Singapore Youth Festival Art Lab – 2018
-
-
-
-
-
