@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: St Gabriel's Secondary School
+agency_name: St. Gabriel's Secondary School
 locations:
   - address:
       - 24 Serangoon Avenue 1
