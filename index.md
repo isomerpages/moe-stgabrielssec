@@ -22,11 +22,4 @@ sections:
         encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen></iframe>
       title: Virtual Tour
-  - infobar:
-      title: The Gabrielite's Experience
-      description: <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/OReQN7adpDE" title="YouTube video
-        player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
 ---
