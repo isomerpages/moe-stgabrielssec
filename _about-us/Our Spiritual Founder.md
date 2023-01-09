@@ -8,7 +8,7 @@ description: ""
 
 **Born in times of spiritual impoverishment**
 
-<img src="/images/Louis%20Marie%20Grignion%20de%20Montfort.jpeg" >Louis Marie Grignion de Montfort (1673-1716) lived at a time of transition. It was a time of discoveries, both of new lands and in science. A spirit of enquiry and of adventure reigned supreme.
+<img src="/images/Louis%20Marie%20Grignion%20de%20Montfort.jpeg" style= "width: 80%"> Louis Marie Grignion de Montfort (1673-1716) lived at a time of transition. It was a time of discoveries, both of new lands and in science. A spirit of enquiry and of adventure reigned supreme.
 
 It was also a time of great impoverishment of those who already possessed but little. Massive hunger and migration from the rural to the cities, and then to the new territories were common. The social and moral upheavals of the time were accompanied by spiritual impoverishment and corruption in high places.
 
@@ -16,13 +16,13 @@ It was also a time of great impoverishment of those who already possessed but li
 
 Montfort, a man of great vitality, indomitable courage and spiritual strength was a seeker after the only treasure that mattered: Divine Wisdom. He was fascinated by the folly of the God who humbled himself so that human persons may be raised up.
 
-<img src="/images/Louis%20Marie%20Grignion%20de%20Montfort%20with%20Religious.jpeg">
+<img src="/images/Louis%20Marie%20Grignion%20de%20Montfort%20with%20Religious.jpeg" style= "width: 80%">
 
 He was equally concerned about the human race, the most brilliant of God's creation. By giving himself up to the ways of Wisdom, Montfort became a person transformed. In the process he developed a pedagogy of acquiring true Wisdom that not only guided his own inner journey but also the lives of all those he touched.
 
 **Love for the last, the lost and the least**
 
-<img src="/images/Louis%20Marie%20Grignion%20de%20Montfort%20with%20children.jpeg">
+<img src="/images/Louis%20Marie%20Grignion%20de%20Montfort%20with%20children.jpeg" style= "width: 80%"> 
 
 Encounter with such true Wisdom helped Montfort to take a stand that was contrary to the ways of the world. He chose absolute poverty in the face of crass materialism; powerlessness in the face of a world seeking after position and prestige; deep experience of God in the face of spiritual indifference; spirit of community in the face of individualism; and intellectual moral and spiritual depth in the face of superficialities.
 
