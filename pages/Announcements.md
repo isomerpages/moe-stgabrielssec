@@ -5,50 +5,25 @@ description: ""
 ---
 ### Announcements
 
-#### School Magazine 2021
+#### Early Dismissal for Sec 1 to Sec 5 on 12th January 2023
 
-2022-01-04
+2023-01-09
 
-Dear Parents/Guardians,
+Dear Gabrielites and Parents,
 
-A blessed new year! An e-copy of the School Magazine 2021 has been shared with S1-3 2021 students via SLS. The graduating cohort of 2021 has received/will receive a hardcopy of the School Magazine on the day of the release of their GCE 'N' and 'O' Level results respectively.
+Please be informed that Gabrielites from Secondary 1 to 5 will be dismissed at 12.30pm on Thursday, 12 January 2023. This will facilitate the school for preparations to release the 2022 GCE ‘O’ Level results.
+
+Students from Secondary 4NA and Secondary 3 (2022) who took ‘O’ Level subjects in 2022 will be required to remain in school to collect their results. They will be required to assemble in the school hall at 1.30pm.
 
 * * *
 
-#### Info for P6 Students
+#### School Magazine 2022
 
-Dear parent/guardians,
+2022-11-21
 
-Are you interested to learn more about our school? We invite you to explore our website and social media accounts, showcasing the Gabrielite experience that awaits your child/ward. Alternatively, you may wish to come down to see our school facilities and compound. 
+Dear Parents/Guardians and Students,
+
+An e-copy of the School Magazine 2022 has been shared with all students via a link on their PLD homepage. The graduating cohort of 2022 will receive a hardcopy of the School Magazine on the day of the release of their GCE 'N' and 'O' Level results respectively.
 
 
-We regret to inform you that we will not be conducting any Open House. 
 
-  
-You may direct all your enquiries to [**stgss@moe.edu.sg**](mailto:stgss@moe.edu.sg)
-
-***
-
-#### Access to Home Base Learning
-
-<br>
-
-<a href="https://sites.google.com/moe.edu.sg/sgsspdlp/home-based-learning">
-<img src="/images/HBL.jpeg" >
-</a>
-
-***
-
-#### COVID-19 Vaccination Exercise for Students - Information
-
-<a href="/files/Resource%203%20One%20page%20Infographic%20on%20Student%20Vaccination%20Exercise.pdf">
-<img src="/images/Protect%20Your%20Child%20Against%20Covid-19.png" >
-</a>
-
-<br>
-
-<a href="/files/Resource%202%20Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf">
-<img src="/images/Why%20vaccinate%20your%20child.png" >
-</a>
-
-**Click [here](/files/Resource%202%20Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf) to view the Parent Kit on Student Vaccination Exercise**
