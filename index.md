@@ -18,4 +18,5 @@ sections:
   - resources:
       title: Announcement
       subtitle: St. Gabriel's Secondary School
+      button: More
 ---
