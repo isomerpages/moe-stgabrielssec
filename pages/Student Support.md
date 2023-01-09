@@ -3,7 +3,6 @@ title: Student Support
 permalink: /about-us/student-support/
 description: ""
 ---
-
 ## Student Support
 
 We understand this is a difficult time for everyone. We would like to support our students and their caregivers as much as we can. 
