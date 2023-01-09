@@ -7,14 +7,14 @@ third_nav_title: Craft & Technology
 ## FOOD AND CONSUMER EDUCATION
 
 
-**Teachers in Food and Consumer Education**
+#### **Teachers in Food and Consumer Education**
 
 1.  Ms. Jane Han (SH CCE)
 2.  Ms. Khairunnisa Ismail (Coordinator)
 3.  Ms. Laura Huang
 4.  Ms. Mary Magdalene Yong
 
-#### Programmes
+#### **Programmes**
 
 Food and Consumer Education (FCE) equips students with relevant 21st century skills that prepare them to thrive in a future driven by globalisation and technological advancement. This subject serves to promote health consciousness among young people and encourage them to lead healthy and active lifestyle in the 21st century. In addition, students are equipped with knowledge and skills which helps them make informed decision. 
 
@@ -47,7 +47,3 @@ St. Gabriel Secondary School also participated in competitions organised by:
 | -------- | -------- | -------- | -------- |
 |   ![](/images/Pineapple%20Rice.jpeg)  |   ![](/images/Pasta.jpeg)   |    ![](/images/Glutinous%20Rice.jpeg)  |  ![](/images/Dessert.jpeg)   |
 |  ![](/images/Learning%20to%20prepare%20cook.jpeg)   |      |     |     |
- 
- 
-
-
