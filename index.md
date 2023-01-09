@@ -22,8 +22,4 @@ sections:
       url: https://sites.google.com/moe.edu.sg/sgsspdlp/home-based-learning
       image: /images/HBL Banner.jpg
       alt: Image alt text
-  - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
-      button: Resources Button Name
 ---
