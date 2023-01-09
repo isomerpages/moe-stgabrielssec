@@ -3,21 +3,21 @@ title: Humanities
 permalink: /academic/Humanities/
 description: ""
 ---
-## Humanities 
+## **Humanities** 
 
 _The truth may be puzzling. It may take some work to grapple with. It may also be counterintuitive. It may contradict deeply held prejudices. It may not be consonant with what we desperately want to be true. But our preferences do not determine what’s true.”_   - Carl Sagan
 
 ![](/images/Humanities%201.jpeg)
 
-**<u>Introduction</u>**  
+#### **<u>Introduction</u>**  
 
 The aim of humanities education in St. Gabriel’s Secondary School is to encourage students to gain and develop a mastery of skills related to knowledge building and understanding of events and phenomenon, issues and perspectives, and human actions and behaviors.
 
-**<u>Vision</u>**
+#### **<u>Vision</u>**
 
 Every Gabrielite is a skilled inquirer who is humbled by the world around him.  
 
-**<u>Mission</u>**
+#### **<u>Mission</u>**
 
 To be a team of effective humanities educators for diverse learners in
 
@@ -37,9 +37,9 @@ To be a team of effective humanities educators for diverse learners in
 
 ![](/images/Humanities3.png)
 
-**<u>The Humanities Program</u>**
+#### **<u>The Humanities Program</u>**
 
-**<u>Lower Secondary</u>**  
+##### **<u>Lower Secondary</u>**  
 
 
 The Lower Secondary Humanities programme consists of two subjects- Geography and History. The concepts and content taught are Singapore-centred to provide students with a good grounding in skills and content which resonates with them because of the connection of the learning to their own lives.
@@ -52,13 +52,13 @@ To develop a passion in the humanities as well as to provide joy in learning, th
 
 ![](/images/Humanities4.png)
 
-**<u>Upper Secondary</u>** 
+##### **<u>Upper Secondary</u>** 
 
 Humanities is a compulsory subject for all students at the upper secondary level.  It comprises the subject Social Studies, with either Geography Elective or History Elective for both the Express and Normal Academic Students. Normal Technical students are exposed to the Social Studies citizenship module which is non-examinable.   
 
 The learning of Social Studies uses an inquiry-based learning approach which is seen as being key to transforming the teaching of the Humanities from a largely content-transmission approach to an approach that gets students to take ownership of their learning by purposefully seeking information and constructing their own knowledge within the norms and standards set by the disciplinary nature of the subjects. Many of the skills and concepts learnt will be issues related to authentic problems encountered in the world today. This is supported with the use of dynamic content (out of Textbook examples such as current affairs) to help students apply concepts learnt meaningfully and allow themselves to figure out constructive solutions in preparation to being contributing citizens in the world. We also hope that our students can possess critical thinking skills which will allow them to become discerning voices of conscience as a citizen. 
 
-The learning of Geography or History as an elective is meant to deepen the students’ passion in their chosen area of study after the exposure to both subjects at the Lower Secondary level. Geography will e![](/images/Humanities5.png)nable students to understand the physical and human interactions that occur in our environment and enable students to contextualize natural phenomena and human development while developing their consciousness of the world around them and how they can affect it more positively. History will allow students to visit the past occurrences and get to know personalities who shaped key events in the early 20th century and enable students to contextualize present government systems and political decisions while developing their consciousness of human behavior and reactions to present-day decision making and view world issues with a more balanced perspective and empathy.
+The learning of Geography or History as an elective is meant to deepen the students’ passion in their chosen area of study after the exposure to both subjects at the Lower Secondary level. Geography will enable students to understand the physical and human interactions that occur in our environment and enable students to contextualize natural phenomena and human development while developing their consciousness of the world around them and how they can affect it more positively. History will allow students to visit the past occurrences and get to know personalities who shaped key events in the early 20th century and enable students to contextualize present government systems and political decisions while developing their consciousness of human behavior and reactions to present-day decision making and view world issues with a more balanced perspective and empathy.
 
 ![](/images/Humanities5.png)
 
