@@ -2,9 +2,9 @@ collections:
   c-c-e:
     output: true
     order:
-      - Key Features/.keep
       - About Us.md
+      - Values Education/.keep
       - Values Education/Sexuality Education.md
       - Values Education/Cyberwellness.md
-      - Values Education/.keep
       - Values Education/Education and Career Guidance.md
+      - Key Features/.keep
