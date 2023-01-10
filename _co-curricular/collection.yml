@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Co Curricular.md
-      - Key Features/.keep
       - Our Programmes/.keep
       - Our Programmes/MAD Fridays.md
       - Our Programmes/Racial Harmony Celebration.md
