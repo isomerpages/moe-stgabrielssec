@@ -429,7 +429,7 @@ third_nav_title: Form & Subject Teachers
 </tbody>
 </table>
 
-**1E4**
+#### **1E4**
 
 <table>
 <thead>
@@ -445,30 +445,30 @@ third_nav_title: Form & Subject Teachers
   <tr>
     <td>English</td>
     <td>Ms</td>
-    <td><a href="mailto:jessica_anne_yap@moe.edu.sg">Jessica Yap</a></td>
-    <td>jessica_anne_yap@moe.edu.sg</td>
-    <td>132</td>
-  </tr>
-  <tr>
-    <td>Mathematics</td>
-    <td>Mr</td>
-    <td><a href="mailto:Koh_LI_HONG_a@moe.edu.sg">John Koh</a></td>
-    <td>Koh_LI_HONG_a@moe.edu.sg</td>
+    <td><a href="mailto:chew_jia_ay@moe.edu.sg">Chew Jia Ay</a></td>
+    <td>chew_jia_ay@moe.edu.sg</td>
     <td>211</td>
   </tr>
   <tr>
+    <td>Mathematics</td>
+    <td>Ms</td>
+    <td><a href="mailto:koh_shiew_cher@moe.edu.sg">Koh Shiew Cher</a></td>
+    <td>koh_shiew_cher@moe.edu.sg</td>
+    <td>145</td>
+  </tr>
+  <tr>
     <td>Science</td>
-    <td>Mr</td>
-    <td><a href="mailto:goh_kok_ho@moe.edu.sg">Sebastian Goh</a></td>
-    <td>goh_kok_ho@moe.edu.sg</td>
-    <td>128</td>
+    <td>Ms</td>
+    <td><a href="mailto:siti_nazeefah_md_mansor@moe.edu.sg">Siti Nazeefah</a></td>
+    <td>siti_nazeefah_md_mansor@moe.edu.sg</td>
+    <td>138</td>
   </tr>
   <tr>
     <td>Chinese</td>
-    <td>Ms</td>
-    <td><a href="mailto:fu_hsun@moe.edu.sg">Fu Hsun</a></td>
-    <td>fu_hsun@moe.edu.sg</td>
-    <td>147</td>
+    <td>Mr</td>
+    <td><a href="mailto:tan_yong_xian@moe.edu.sg">Tan Yong Xian</a></td>
+    <td>tan_yong_xian@moe.edu.sg</td>
+    <td>141</td>
   </tr>
   <tr>
     <td>Malay</td>
@@ -479,10 +479,10 @@ third_nav_title: Form & Subject Teachers
   </tr>
   <tr>
     <td>Tamil</td>
-    <td>Mdm</td>
-    <td><a href="mailto:krishnasamy_poongulali@moe.edu.sg">Krishnasamy Poongulali</a></td>
-    <td> krishnasamy_poongulali@moe.edu.sg</td>
-    <td>151</td>
+    <td>Ms</td>
+    <td><a href="mailto:mogana_ap_devinthoran@moe.edu.sg">Mogana Devinthoran</a></td>
+    <td>mogana_ap_devinthoran@moe.edu.sg</td>
+    <td>149</td>
   </tr>
   <tr>
     <td>Literature</td>
