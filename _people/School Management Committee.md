@@ -19,9 +19,9 @@ description: ""
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img style="width:20%" src="/images/Bro%20DOMINIC%20Yeo%20Koh.jpeg"></th>
+    <th class="tg-tlx9"><img style="width:50%" src="/images/School%20Management%20Committee/Bro%20Dominic%20Yeo%20Koh.jpeg"></th>
     <th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img style="width:9=77%" src="/images/Dr%20Francis%20Chong.jpeg"></th>
+    <th class="tg-tlx9"><img style="width:51%" src="/images/School%20Management%20Committee/Dr%20Francis%20Chong.jpg"></th>
   </tr>
 </thead>
 <tbody>
@@ -48,9 +48,9 @@ description: ""
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img style="width:34%" src="/images/Mr%20Gordon%20Lim.png"></th>
+    <th class="tg-tlx9"><img style="width:50%" src="/images/School%20Management%20Committee/Mr%20Gordon%20Lim.jpg"></th>
     <th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img style="width:40%" src="/images/Ms%20Grace%20Chong%20Member.jpg"></th>
+    <th class="tg-tlx9"><img style="width:50%" src="/images/School%20Management%20Committee/Ms%20Grace%20Chong.jpg"></th>
   </tr>
 </thead>
 <tbody>
