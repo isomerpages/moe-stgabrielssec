@@ -2,6 +2,7 @@ collections:
   c-c-e:
     output: true
     order:
+      - Our Programmes/.keep
       - About Us.md
       - Values Education/.keep
       - Values Education/Sexuality Education.md
