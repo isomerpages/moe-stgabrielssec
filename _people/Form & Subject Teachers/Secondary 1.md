@@ -338,16 +338,16 @@ third_nav_title: Form & Subject Teachers
   <tr>
     <td>English</td>
     <td>Ms</td>
-    <td><a href="mailto:chew_jia_ay@moe.edu.sg">Chew Jia Ay</a></td>
-    <td>chew_jia_ay@moe.edu.sg</td>
-    <td>211</td>
+    <td><a href="mailto:chew_jieying_anna@moe.edu.sg">Anna Chew</a></td>
+    <td>chew_jieying_anna@moe.edu.sg</td>
+    <td>161</td>
   </tr>
   <tr>
     <td>Mathematics</td>
     <td>Ms</td>
-    <td><a href="mailto:lim_shanrui_joanne@moe.edu.sg">Joanne Lim</a></td>
-    <td>lim_shanrui_joanne@moe.edu.sg</td>
-    <td>138</td>
+    <td><a href="mailto:liu_simin@moe.edu.sg">Frances Liu</a></td>
+    <td>liu_simin@moe.edu.sg</td>
+    <td>147</td>
   </tr>
   <tr>
     <td>Science</td>
