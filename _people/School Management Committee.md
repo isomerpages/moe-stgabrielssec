@@ -85,7 +85,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mr Henry Phang</span><br>Vice Chairman<br></td>
+				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mr Henry Phang</span><br>Advisor<br></td>
     <td class="tg-apyk"><br></td>
     <td class="tg-apyk">Mrs Esther Loo<br>Associate</td>
   </tr>
