@@ -507,14 +507,14 @@ third_nav_title: Form & Subject Teachers
   </tr>
   <tr>
     <td> Art</td>
-    <td>Mr</td>
-    <td><a href="mailto:lim_fung_chee@moe.edu.sg">Kelvin Lim</a></td>
-    <td>lim_fung_chee@moe.edu.sg</td>
-    <td>207</td>
+    <td>Ms</td>
+    <td><a href="mailto:fernandez_dindings_angel_arther@moe.edu.sg">Fernandez Dindings</a></td>
+    <td>fernandez_dindings_angel_arther@moe.edu.sg</td>
+    <td>141</td>
   </tr>
   <tr>
     <td>Music</td>
-    <td>Ms</td>
+    <td>Mr</td>
     <td><a href="mailto:ong_ting_kai@moe.edu.sg">Ong Ting Kai</a></td>
     <td>ong_ting_kai@moe.edu.sg </td>
     <td>221</td>
@@ -522,16 +522,16 @@ third_nav_title: Form & Subject Teachers
   <tr>
     <td>Physical Education</td>
     <td>Mr</td>
-    <td><a href="mailto:leong_heng_wah@moe.edu.sg">Joshua Leong</a></td>
-    <td>leong_heng_wah@moe.edu.sg</td>
+    <td><a href="mailto:chu_kin_cheong@moe.edu.sg">Damon Chu</a></td>
+    <td>chu_kin_cheong@moe.edu.sg</td>
     <td>173</td>
   </tr>
   <tr>
     <td>FCE</td>
-    <td>Ms</td>
-    <td><a href="mailto:huang_jia_mei_laura@moe.edu.sg">Laura Huang</a></td>
-    <td>huang_jia_mei_laura@moe.edu.sg</td>
-    <td>206</td>
+    <td>Ms <br> Ms</td>
+    <td><a href="mailto:khairunnisa_binte_ismail@moe.edu.sg">Khairunnisa</a> <br> <a href="mailto:mary_magdalene_yong@moe.edu.sg">Mary Stevenson</a></td>
+    <td>khairunnisa_binte_ismail@moe.edu.sg <br> mary_magdalene_yong@moe.edu.sg</td>
+    <td>133 <br> 144</td>
   </tr>
 </tbody>
 </table>
