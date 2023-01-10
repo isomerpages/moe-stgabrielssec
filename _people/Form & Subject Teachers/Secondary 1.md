@@ -106,7 +106,7 @@ third_nav_title: Form & Subject Teachers
 
 #### Subject Teachers
 
-### **1E1**
+#### **1E1**
 
 <table>
 <thead>
@@ -135,16 +135,16 @@ third_nav_title: Form & Subject Teachers
   </tr>
   <tr>
     <td>Science</td>
-    <td>Mr</td>
-    <td><a href="mailto:sim_johnson@moe.edu.sg">Sim Johnson</a></td>
-    <td> sim_johnson@moe.edu.sg</td>
-    <td>148</td>
+    <td>Mr <br><br> Mr </td>
+    <td><a href="mailto:koh_keng_wee@moe.edu.sg">Koh Keng Wee <br><a href="mailto:pang_seok_mun@moe.edu.sg"> Pang Seok Mun</a></td>
+    <td> koh_keng_wee@moe.edu.sg <br><br> pang_seok_mun@moe.edu.sg</td>
+    <td>131 <br><br>145</td>
   </tr>
   <tr>
     <td>Chinese</td>
-    <td>Ms</td>
-    <td><a href="mailto:teo_bai_hui_pauline@moe.edu.sg">Pauline Teo</a></td>
-    <td>teo_bai_hui_pauline@moe.edu.sg</td>
+    <td>Mr</td>
+    <td><a href="mailto:zhang_huasheng@moe.edu.sg">Zhang Huasheng</a></td>
+    <td>zhang_huasheng@moe.edu.sg</td>
     <td>134</td>
   </tr>
   <tr>
@@ -157,14 +157,14 @@ third_nav_title: Form & Subject Teachers
   <tr>
     <td>Tamil</td>
     <td>Mdm</td>
-    <td><a href="mailto:krishnasamy_poongulali@moe.edu.sg">Krishnasamy Poongulali</a></td>
-    <td> krishnasamy_poongulali@moe.edu.sg</td>
-    <td>151</td>
+    <td><a href="mailto:mogana_ap_devinthoran@moe.edu.sg">Mogana Devinthoran</a></td>
+    <td> mogana_ap_devinthoran@moe.edu.sg</td>
+    <td>149</td>
   </tr>
   <tr>
     <td>Literature</td>
     <td>Ms</td>
-    <td><a href="mailto:seet_shuen_ai_jo-anne@moe.edu.sg">Jo-Anne Seet</a></td>
+    <td><a href="mailto:seet_shuen_ai_jo-anne@moe.edu.sg">Siti Latifah</a></td>
     <td>seet_shuen_ai_jo-anne@moe.edu.sg </td>
     <td>152</td>
   </tr>
