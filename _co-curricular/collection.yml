@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - About Us.md
-      - CCAs.md
       - Club & Societies/.keep
       - Club & Societies/Information Communication Club.md
       - Performing Arts/.keep
