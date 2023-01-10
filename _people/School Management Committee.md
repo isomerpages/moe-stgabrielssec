@@ -75,6 +75,8 @@ description: ""
 </style>
 <table class="tg">
 <thead>
+<table class="tg">
+<thead>
 <tr>
     <th class="tg-tlx9"><img style="width:50%" src="/images/School%20Management%20Committee/Mr%20Henry%20Phang.jpg"></th>
     <th class="tg-tlx9"></th>
@@ -83,7 +85,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mr Henry Phang</span><br>Advisor<br></td>
+				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mr Henry Phang</span><br>Vice Chairman<br></td>
     <td class="tg-apyk"><br></td>
     <td class="tg-apyk">Mrs Esther Loo<br>Associate</td>
   </tr>
