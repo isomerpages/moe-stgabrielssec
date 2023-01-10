@@ -16,13 +16,13 @@ It was also a time of great impoverishment of those who already possessed but li
 
 Montfort, a man of great vitality, indomitable courage and spiritual strength was a seeker after the only treasure that mattered: Divine Wisdom. He was fascinated by the folly of the God who humbled himself so that human persons may be raised up.
 
-<img src="/images/Louis%20Marie%20Grignion%20de%20Montfort%20with%20Religious.jpeg" style= "width: 70%">
+<img src="/images/About%20Us/Our%20Spiritual%20Founder/Louis%20Marie%20Grignion%20de%20Montfort%20with%20Religious.jpeg" style= "width: 70%">
 
 He was equally concerned about the human race, the most brilliant of God's creation. By giving himself up to the ways of Wisdom, Montfort became a person transformed. In the process he developed a pedagogy of acquiring true Wisdom that not only guided his own inner journey but also the lives of all those he touched.
 
 **Love for the last, the lost and the least**
 
-<img src="/images/Louis%20Marie%20Grignion%20de%20Montfort%20with%20children.jpeg" style= "width: 70%"> 
+<img src="/images/About%20Us/Our%20Spiritual%20Founder/Louis%20Marie%20Grignion%20de%20Montfort%20with%20children.jpeg" style= "width: 70%"> 
 
 Encounter with such true Wisdom helped Montfort to take a stand that was contrary to the ways of the world. He chose absolute poverty in the face of crass materialism; powerlessness in the face of a world seeking after position and prestige; deep experience of God in the face of spiritual indifference; spirit of community in the face of individualism; and intellectual moral and spiritual depth in the face of superficialities.
 
@@ -36,7 +36,7 @@ II.  To understand and transform oneself in the ways of Wisdom
     
 III.  To become committed to transform society in obedience to Wisdom
 
-![](/images/Cesson%20Bridges.jpeg)
+![](/images/About%20Us/Our%20Spiritual%20Founder/Cesson%20Bridges.jpeg)
 
 _Image of the Cesson Bridges as it stands today._
 
