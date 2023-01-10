@@ -6,9 +6,8 @@ third_nav_title: Parents
 ---
 ## PSG EXECUTIVE COMMITTEE MEMBERS 2021
 
-
 <figure>
-<img src="/images/Chairperson.png" style="width:25%"> 
+<img src="/images/Parent%20Support%20Group/Chairperson.png" style="width:25%"> 
 	<figcaption><b>Lee Phui Fong</b><br><b>Chairperson</b>
 		
 <br>
@@ -30,7 +29,7 @@ third_nav_title: Parents
     <th class="tg-tlx9"><img src="/images/Secretary.png" style="width:70%"></th>
     <th class="tg-tlx9"><img src="/images/Treasurer.png"
 style="width:70%"></th>
-    <th class="tg-tlx9"><img src="/images/PSG%20Advisor.png" style="width:70%"></th>
+    <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/PSG%20Advisor.png" style="width:70%"></th>
   </tr>
 </thead>
 <tbody>
