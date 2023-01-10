@@ -214,7 +214,7 @@ third_nav_title: Form & Subject Teachers
 </table>
 
 
-**1E2**
+#### **1E2**
 
 <table>
 <thead>
@@ -230,16 +230,16 @@ third_nav_title: Form & Subject Teachers
   <tr>
     <td>English</td>
     <td>Ms</td>
-    <td><a href="mailto:s_rani@moe.edu.sg">S Rani</a></td>
-    <td>s_rani@moe.edu.sg</td>
-    <td>135</td>
+    <td><a href="mailto:farah_zeeba_kasbollah@moe.edu.sg">Farah Zeeba</a></td>
+    <td>farah_zeeba_kasbollah@moe.edu.sg</td>
+    <td>161</td>
   </tr>
   <tr>
     <td>Mathematics</td>
     <td>Ms</td>
-    <td><a href="mailto:nurul_humairah_abu_bakar@moe.edu.sg">Nurul Humairah</a></td>
-    <td>nurul_humairah_abu_bakar@moe.edu.sg</td>
-    <td>212</td>
+    <td><a href="mailto:koh_shiew_cher@moe.edu.sg">Koh Shiew Cher</a></td>
+    <td>koh_shiew_cher@moe.edu.sg</td>
+    <td>145</td>
   </tr>
   <tr>
     <td>Science</td>
