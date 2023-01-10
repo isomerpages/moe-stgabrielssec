@@ -622,7 +622,7 @@ third_nav_title: Form & Subject Teachers
   </tr>
   <tr>
     <td>Music</td>
-    <td>Ms</td>
+    <td>Mr</td>
     <td><a href="mailto:ong_ting_kai@moe.edu.sg">Ong Ting Kai</a></td>
     <td>ong_ting_kai@moe.edu.sg </td>
     <td>221</td>
@@ -630,21 +630,21 @@ third_nav_title: Form & Subject Teachers
   <tr>
     <td>Physical Education</td>
     <td>Mr</td>
-    <td><a href="mailto:ng_rong_yaw@moe.edu.sg">Ivan Ng</a></td>
-    <td>ng_rong_yaw@moe.edu.sg</td>
+    <td><a href="mailto:zach.scotts.wu@gmail.com">Zachary Scott Wu</a></td>
+    <td>zach.scotts.wu@gmail.com</td>
     <td>173</td>
   </tr>
   <tr>
     <td>FCE</td>
     <td>Ms</td>
-    <td><a href="mailto:huang_jia_mei_laura@moe.edu.sg">Laura Huang</a><br>Mary Stevenson</td>
-    <td>huang_jia_mei_laura@moe.edu.sg<br>mary_magdalene_yong@moe.edu.sg <br></td>
-    <td>206<br>144</td>
+    <td><a href="mailto:huang_jia_mei_laura@moe.edu.sg">Laura Huang</a></td>
+    <td>huang_jia_mei_laura@moe.edu.sg
+    <td>206</td>
   </tr>
 </tbody>
 </table>
 
-**1N1**
+#### **1N1**
 
 <table>
 <thead>
