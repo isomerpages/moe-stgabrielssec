@@ -380,29 +380,29 @@ third_nav_title: Form & Subject Teachers
   <tr>
     <td>Literature</td>
     <td>Ms</td>
-    <td><a href="mailto:seet_shuen_ai_jo-anne@moe.edu.sg">Jo-Anne Seet</a></td>
-    <td>seet_shuen_ai_jo-anne@moe.edu.sg </td>
-    <td>152</td>
+    <td><a href="mailto:tan_sze_bin_rachael@moe.edu.sg">Rachael Tan</a></td>
+    <td>tan_sze_bin_rachael@moe.edu.sg </td>
+    <td>215</td>
   </tr>
   <tr>
     <td>Geography</td>
-    <td>Mr</td>
-    <td><a href="mailto:hamdi_abdul_karim@moe.edu.sg">Hamdi Abdul Karim</a></td>
-    <td>hamdi_abdul_karim@moe.edu.sg </td>
-    <td>155</td>
+    <td>Ms</td>
+    <td><a href="mailto:tan_ying_a@moe.edu.sg">Tan Ying</a></td>
+    <td>tan_ying_a@moe.edu.sg </td>
+    <td>208</td>
   </tr>
   <tr>
     <td>History</td>
-    <td>Mr</td>
-    <td><a href="mailto:muhammad_rizlan_abdul_rahman@moe.edu.sg">Muhammad Rizlan</a></td>
-    <td>muhammad_rizlan_abdul_rahman@moe.edu.sg</td>
-    <td>154</td>
+    <td>Ms</td>
+    <td><a href="mailto:samantha_gracie_daishini_thevan@moe.edu.sg">Samantha Daishini</a></td>
+    <td>samantha_gracie_daishini_thevan@moe.edu.sg</td>
+    <td>153</td>
   </tr>
   <tr>
     <td> Art</td>
-    <td>Mr</td>
-    <td><a href="mailto:lim_fung_chee@moe.edu.sg">Kelvin Lim</a></td>
-    <td>lim_fung_chee@moe.edu.sg</td>
+    <td>Ms</td>
+    <td><a href="mailto:fernandez_dindings_angel_arther@moe.edu.sg">	Fernandez Dindings</a></td>
+    <td>fernandez_dindings_angel_arther@moe.edu.sg</td>
     <td>207</td>
   </tr>
   <tr>
@@ -415,16 +415,16 @@ third_nav_title: Form & Subject Teachers
   <tr>
     <td>Physical Education</td>
     <td>Mr</td>
-    <td><a href="mailto:ong_chin_ming@moe.edu.sg">Ong Chin Ming</a></td>
-    <td>ong_chin_ming@moe.edu.sg</td>
-    <td>112</td>
+    <td><a href="mailto:zach.scotts.wu@gmail.com">Zachary Scotts Wu</a></td>
+    <td>zach.scotts.wu@gmail.com</td>
+    <td>173</td>
   </tr>
   <tr>
     <td>FCE</td>
-    <td>Ms</td>
-    <td><a href="mailto:jane_han_chern_wern@moe.edu.sg">Jane Han</a></td>
-    <td>jane_han_chern_wern@moe.edu.sg</td>
-    <td>136</td>
+    <td>Ms <br>Ms </td>
+    <td><a href="mailto:jane_han_chern_wern@moe.edu.sg">Jane Han</a><br> <a href="mailto:huang_jia_mei_laura@moe.edu.sg">Laura Huang</a></td>
+    <td>jane_han_chern_wern@moe.edu.sg <br> huang_jia_mei_laura@moe.edu.sg</td>
+    <td>136 <br> 206</td>
   </tr>
 </tbody>
 </table>
