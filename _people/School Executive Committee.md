@@ -29,5 +29,5 @@ description: ""
 |                Geography <br>Subject Head                |                                        Ms Tanny Koh                                       |         156         |
 |                    PE <br>Subject Head                   |                                      Mr Ng Rong Yaw                                       |         173         |
 |  Student Services & Leadership <br> Subject Head   |                                     Mr Mohamed Fazlin                                     |         166         |
-|            Student Management Subject Head           |                                      Mdm Noor Hayati                                      |         135         | 
-|            Student Well-Being <br>Subject Head           |                            Ms Ivy Tan                                       |         166      | 
+|            Student Management <br> Subject Head           |                                      Mdm Noor Hayati                                      |         135         | 
+|            Student Well-Being <br>Subject Head           |                            Ms Ivy Tan                                       |         166      |
