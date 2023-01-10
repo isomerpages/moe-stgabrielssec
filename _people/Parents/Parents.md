@@ -10,7 +10,7 @@ third_nav_title: Parents
 
 <img style="width: 80%;" src="/images/Parent.jpeg">
 
-**Welcome to SGSS Parent Support Group.**
+#### **Welcome to SGSS Parent Support Group.**
 
 Formed in January 2001, our PSG works in partnership with the school towards a common goal of helping each child achieve their best. We meet regularly at least once a month for discussions on program and events that promote home-school-community activities. These include talks, outdoor events, bazaars and lots more.
 
@@ -18,15 +18,15 @@ The PSG of St. Gabriel's Secondary School was setup with the long-term on-going 
 
   
 
-**Our Mission**
+#### **Our Mission**
 
 *   Serving with Pride and Joy
 
-**Our Vision**  
+#### **Our Vision**  
 
 *   To provide a platform for partnership amongst school, parents and students.
 
-**Our Objectives**
+#### **Our Objectives**
 
 *   Promote parental involvement with the school and its programmes by raising awareness of school events and activities to parents.
 *   Support the school and its programmes
@@ -35,7 +35,7 @@ The PSG of St. Gabriel's Secondary School was setup with the long-term on-going 
 *   Foster a healthy home-school link
 *   Provide a feedback channel for the school
 
-**Code of Ethics**  
+#### **Code of Ethics**  
 
 *   Respect and recognise that the Principal is ultimately responsible to the school
 *   Exercise integrity at all times
@@ -47,7 +47,7 @@ The PSG of St. Gabriel's Secondary School was setup with the long-term on-going 
 
   
 
-**Volunteer – Be a Member**
+#### **Volunteer – Be a Member**
 
 **_Serving with Pride and Joy_**
 
