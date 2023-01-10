@@ -106,7 +106,7 @@ third_nav_title: Form & Subject Teachers
 
 #### Subject Teachers
 
-**1E1**
+### **1E1**
 
 <table>
 <thead>
