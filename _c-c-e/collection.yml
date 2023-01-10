@@ -2,6 +2,7 @@ collections:
   c-c-e:
     output: true
     order:
+      - Our Programmes/Total Defence Day.md
       - Our Programmes/National Day Celebration.md
       - Our Programmes/Racial Harmony Celebration.md
       - Our Programmes/MAD Fridays.md
