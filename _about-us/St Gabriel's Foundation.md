@@ -5,7 +5,7 @@ description: ""
 ---
 ## ST. GABRIEL'S FOUNDATION
 
-![](/images/Organizational%20Structure.jpeg)
+![](/images/About%20Us/St%20Gabriel's%20Foundation/Organizational%20Structure.jpeg)
 
 **Establishment of the SGF**
 
