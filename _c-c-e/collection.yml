@@ -2,5 +2,6 @@ collections:
   c-c-e:
     output: true
     order:
+      - Values Education/SGSS Education and Career Guidance.md
       - Values Education/.keep
       - About Us.md
