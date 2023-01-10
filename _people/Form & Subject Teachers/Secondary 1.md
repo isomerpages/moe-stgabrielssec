@@ -106,7 +106,7 @@ third_nav_title: Form & Subject Teachers
 
 #### Subject Teachers
 
-#### **1E1**
+**1E1**
 
 <table>
 <thead>
@@ -214,7 +214,7 @@ third_nav_title: Form & Subject Teachers
 </table>
 
 
-#### **1E2**
+**1E2**
 
 <table>
 <thead>
@@ -322,7 +322,7 @@ third_nav_title: Form & Subject Teachers
 </table>
 
 
-#### **1E3**
+**1E3**
 
 <table>
 <thead>
