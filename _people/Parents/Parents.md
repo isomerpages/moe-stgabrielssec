@@ -6,7 +6,7 @@ third_nav_title: Parents
 ---
 ## Parents
 
-<img style="width: 50%;" src="/images/PSG.png">
+<img style="width: 50%;" src="/images/Parent%20Support%20Group/PSG.png">
 
 <img style="width: 80%;" src="/images/Parent.jpeg">
 
