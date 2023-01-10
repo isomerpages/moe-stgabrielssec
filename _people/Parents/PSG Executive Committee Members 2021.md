@@ -4,7 +4,7 @@ permalink: /people/Parents/PSG-Executive-Committee/
 description: ""
 third_nav_title: Parents
 ---
-## PSG EXECUTIVE COMMITTEE MEMBERS 2021
+## PSG EXECUTIVE COMMITTEE MEMBERS
 
 <figure>
 <img src="/images/Parent%20Support%20Group/Chairperson.png" style="width:25%"> 
@@ -26,8 +26,8 @@ third_nav_title: Parents
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img src="/images/Secretary.png" style="width:70%"></th>
-    <th class="tg-tlx9"><img src="/images/Treasurer.png"
+    <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/Secretary.png" style="width:70%"></th>
+    <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/Treasurer.png"
 style="width:70%"></th>
     <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/PSG%20Advisor.png" style="width:70%"></th>
   </tr>
@@ -55,9 +55,9 @@ style="width:70%"></th>
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img src="/images/Team%20Lead%2001.png" style="width:47%"></th>
+    <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/Team%20Lead%2001.png" style="width:47%"></th>
     <th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img src="/images/Team%20Lead%2002.png" style="width:50%"></th>
+    <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/Team%20Lead%2002.png" style="width:50%"></th>
   </tr>
 </thead>
 <tbody>
