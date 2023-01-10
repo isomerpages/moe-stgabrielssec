@@ -10,7 +10,7 @@ description: ""
 |                       Principal                      |                                        Mr Shawn Lim                                       |         104         |
 |                    Vice Principal                    |                                     Mdm Yee Whoy Chong                                    |         103         |
 |                Vice Principal (Admin)                |                                        Mr Aaron Chia                                      |          201        |
-|                       Year Head                      |  Mr Lin Ganfeng (Sec 4/5) Mr Nick Chow (Sec 3) Ms Jane Han (Sec 2) Ms Jessica Yap (Sec 1) |   216 216 136 132   |
+|                       Year Head  (Sec 4/5)  <br> Year Head  (Sec 3) <br> Year Head (Sec 2)<br> Year Head (Sec 1)|  Mr Nick Chow <br> Ms Jane Han <br>Ms Jessica Yap  <br>Ms Elyn Lim |   216 <br>136 <br>132 <br>222   |
 |                  Assistant Year Head                 |                                       Mr Mario Chua                                       |         140         |
 |        Teaching & Learning Head of Department        |                                      Mr Peh Chin Heng                                     |          116        |
 |           Mother Tongue Head of Department           |                                       Mr Clement See                                      |          115        |
