@@ -487,23 +487,23 @@ third_nav_title: Form & Subject Teachers
   <tr>
     <td>Literature</td>
     <td>Ms</td>
-    <td><a href="mailto:nurul_natasha_rafiq@moe.edu.sg">Nurul Natasha Binte Rafiq</a></td>
-    <td>nurul_natasha_rafiq@moe.edu.sg</td>
-    <td>135</td>
+    <td><a href="mailto:siti_latifah_ishar@moe.edu.sg">Siti Latifah</a></td>
+    <td>siti_latifah_ishar@moe.edu.sg</td>
+    <td>212</td>
   </tr>
   <tr>
     <td>Geography</td>
-    <td>Mr</td>
-    <td><a href="mailto:hamdi_abdul_karim@moe.edu.sg">Hamdi Abdul Karim</a></td>
-    <td>hamdi_abdul_karim@moe.edu.sg </td>
-    <td>155</td>
+    <td>Ms</td>
+    <td><a href="mailto:tan_ying_a@moe.edu.sg">Tan Ying</a></td>
+    <td>tan_ying_a@moe.edu.sg </td>
+    <td>208</td>
   </tr>
   <tr>
     <td>History</td>
-    <td>Ms</td>
-    <td><a href="mailto:khairunnisa_binte_ismail@moe.edu.sg">Khairunnisa</a></td>
-    <td>khairunnisa_binte_ismail@moe.edu.sg</td>
-    <td>133</td>
+    <td>Mr</td>
+    <td><a href="mailto:muhammad_rizlan_abdul_rahman@moe.edu.sg">Muhammad Rizlan</a></td>
+    <td>muhammad_rizlan_abdul_rahman@moe.edu.sg</td>
+    <td>154</td>
   </tr>
   <tr>
     <td> Art</td>
