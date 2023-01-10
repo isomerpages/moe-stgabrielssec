@@ -106,7 +106,7 @@ third_nav_title: Form & Subject Teachers
 
 #### Subject Teachers
 
-**1E1**
+#### **1E1**
 
 <table>
 <thead>
@@ -214,7 +214,7 @@ third_nav_title: Form & Subject Teachers
 </table>
 
 
-**1E2**
+#### **1E2**
 
 <table>
 <thead>
@@ -322,7 +322,7 @@ third_nav_title: Form & Subject Teachers
 </table>
 
 
-**1E3**
+#### **1E3**
 
 <table>
 <thead>
@@ -359,9 +359,9 @@ third_nav_title: Form & Subject Teachers
   <tr>
     <td>Chinese</td>
     <td>Mr</td>
-    <td><a href="mailto:lee_song_nian@moe.edu.sg">Lee Song Nian</a></td>
-    <td>lee_song_nian@moe.edu.sg</td>
-    <td>129</td>
+    <td><a href="mailto:qiao_cheng_yan@moe.edu.sg">Qiao Cheng Yan</a></td>
+    <td>qiao_cheng_yan@moe.edu.sg</td>
+    <td>213</td>
   </tr>
   <tr>
     <td>Malay</td>
@@ -372,10 +372,10 @@ third_nav_title: Form & Subject Teachers
   </tr>
   <tr>
     <td>Tamil</td>
-    <td>Mdm</td>
-    <td><a href="mailto:krishnasamy_poongulali@moe.edu.sg">Krishnasamy Poongulali</a></td>
-    <td> krishnasamy_poongulali@moe.edu.sg</td>
-    <td>151</td>
+    <td>Ms</td>
+    <td><a href="mailto:mogana_ap_devinthoran@moe.edu.sg">Mogana Devinthoran</a></td>
+    <td> mogana_ap_devinthoran@moe.edu.sg</td>
+    <td>149</td>
   </tr>
   <tr>
     <td>Literature</td>
