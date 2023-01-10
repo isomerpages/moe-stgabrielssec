@@ -3,9 +3,6 @@ collections:
     output: true
     order:
       - Co Curricular.md
-      - About Us/.keep
-      - About Us/Our Vision.md
-      - About Us/Our Framework.md
       - Values Education/.keep
       - Values Education/SGSS Education and Career Guidance.md
       - Values Education/Education and Career Guidance.md
