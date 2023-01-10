@@ -1,4 +1,5 @@
 collections:
   cce:
     output: true
-    order: []
+    order:
+      - Character & Citizenship Education.md
