@@ -2,4 +2,5 @@ collections:
   c-c-e:
     output: true
     order:
+      - Values Education/.keep
       - About Us.md
