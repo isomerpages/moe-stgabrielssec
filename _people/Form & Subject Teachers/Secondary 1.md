@@ -211,7 +211,6 @@ third_nav_title: Form & Subject Teachers
     <td>136 <br> 144</td>
   </tr>
 </tbody>
-</thead>
 </table>
 
  #### **1E2**
