@@ -122,16 +122,16 @@ third_nav_title: Form & Subject Teachers
   <tr>
     <td>English</td>
     <td>Ms</td>
-    <td><a href="mailto:cheong_li_yun@moe.edu.sg">Cheong Li Yun</a></td>
-    <td>cheong_li_yun@moe.edu.sg</td>
-    <td>140</td>
+    <td><a href="mailto:tan_sze_bin_rachael@moe.edu.sg">Rachael Tan</a></td>
+    <td>tan_sze_bin_rachael@moe.edu.sg</td>
+    <td>213</td>
   </tr>
   <tr>
     <td>Mathematics</td>
-    <td>Ms</td>
-    <td><a href="mailto:lim_shanrui_joanne@moe.edu.sg">Joanne Lim</a></td>
-    <td>lim_shanrui_joanne@moe.edu.sg</td>
-    <td>138</td>
+    <td>Mr</td>
+    <td><a href="mailto:ouyeong_yew_wah@moe.edu.sg">Ouyeong Yew Wah</a></td>
+    <td>ouyeong_yew_wah@moe.edu.sg</td>
+    <td>151</td>
   </tr>
   <tr>
     <td>Science</td>
