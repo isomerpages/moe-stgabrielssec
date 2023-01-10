@@ -76,9 +76,9 @@ description: ""
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img style="width:29%" src="/images/Henry%20Phang.jpeg"></th>
+    <th class="tg-tlx9"><img style="width:50%" src="/images/School%20Management%20Committee/Mr%20Henry%20Phang.jpg"></th>
     <th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img style="width:43%" src="/images/Mrs%20Esther%20Loo.jpeg"></th>
+    <th class="tg-tlx9"><img style="width:50%" src="/images/School%20Management%20Committee/Mr%20Henry%20Phang.jpg"></th>
   </tr>
 </thead>
 <tbody>
