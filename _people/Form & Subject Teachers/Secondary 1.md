@@ -537,7 +537,7 @@ third_nav_title: Form & Subject Teachers
 </table>
 
 
-**1E5**
+#### **1E5**
 
 <table>
 <thead>
@@ -553,30 +553,30 @@ third_nav_title: Form & Subject Teachers
   <tr>
     <td>English</td>
     <td>Ms</td>
-    <td><a href="mailto:gay_siok_peng_katherine@moe.edu.sg">Katherine Gay</a></td>
-    <td>gay_siok_peng_katherine@moe.edu.sg</td>
-    <td>211</td>
+    <td><a href="mailto:siti_latifah_ishar@moe.edu.sg">Siti Latifah</a></td>
+    <td>siti_latifah_ishar@moe.edu.sg</td>
+    <td>212</td>
   </tr>
   <tr>
     <td>Mathematics</td>
     <td>Mr</td>
-    <td><a href="mailto:chai_boon_han@moe.edu.sg">Chia Boon Han</a></td>
-    <td>chai_boon_han@moe.edu.sg</td>
-    <td>136</td>
+    <td><a href="mailto:chan_chih_choong@moe.edu.sg">Lincoln Chan</a></td>
+    <td>chan_chih_choong@moe.edu.sg</td>
+    <td>148</td>
   </tr>
   <tr>
     <td>Science</td>
     <td>Mr</td>
-    <td><a href="mailto:kan_vincent@moe.edu.sg">Vincent Kan</a></td>
-    <td>kan_vincent@moe.edu.sg</td>
-    <td>144</td>
+    <td><a href="mailto:liang_tianfa@moe.edu.sg">Chris Liang Tian Fa</a></td>
+    <td>liang_tianfa@moe.edu.sg</td>
+    <td>150</td>
   </tr>
   <tr>
     <td>Chinese</td>
-    <td>Ms</td>
-    <td><a href="mailto:Ren_junying@moe.edu.sg">Ren Junying</a></td>
-    <td>Ren_junying@moe.edu.sg</td>
-    <td>154</td>
+    <td>Mr</td>
+    <td><a href="mailto:lee_song_nian@moe.edu.sg">Lee Song Nian</a></td>
+    <td>lee_song_nian@moe.edu.sg</td>
+    <td>126</td>
   </tr>
   <tr>
     <td>Malay</td>
@@ -587,24 +587,24 @@ third_nav_title: Form & Subject Teachers
   </tr>
   <tr>
     <td>Tamil</td>
-    <td>Mdm</td>
-    <td><a href="mailto:krishnasamy_poongulali@moe.edu.sg">Krishnasamy Poongulali</a></td>
-    <td> krishnasamy_poongulali@moe.edu.sg</td>
-    <td>151</td>
+    <td>Ms</td>
+    <td><a href="mailto:mogana_ap_devinthoran@moe.edu.sg">Mogana Devinthoran</a></td>
+    <td> mogana_ap_devinthoran@moe.edu.sg</td>
+    <td>149</td>
   </tr>
   <tr>
     <td>Literature</td>
     <td>Ms</td>
-    <td><a href="mailto:nurul_natasha_rafiq@moe.edu.sg">Nurul Natasha Binte Rafiq</a></td>
-    <td>nurul_natasha_rafiq@moe.edu.sg</td>
-    <td>135</td>
+    <td><a href="mailto:tan_sze_bin_rachael@moe.edu.sg">Rachael Tan</a></td>
+    <td>tan_sze_bin_rachael@moe.edu.sg</td>
+    <td>213</td>
   </tr>
   <tr>
     <td>Geography</td>
-    <td>Mr</td>
-    <td><a href="mailto:sreetharan_rajaselvan@moe.edu.sg">Sreetharan</a></td>
-    <td>sreetharan_rajaselvan@moe.edu.sg</td>
-    <td>209</td>
+    <td>Ms</td>
+    <td><a href="mailto:sreetharan_rajaselvan@moe.edu.sg">Elyn Lim</a></td>
+    <td>lim_siew_gek_a@moe.edu.sg</td>
+    <td>222</td>
   </tr>
   <tr>
     <td>History</td>
@@ -615,10 +615,10 @@ third_nav_title: Form & Subject Teachers
   </tr>
   <tr>
     <td> Art</td>
-    <td>Mr</td>
-    <td><a href="mailto:lim_fung_chee@moe.edu.sg">Kelvin Lim</a></td>
-    <td>lim_fung_chee@moe.edu.sg</td>
-    <td>207</td>
+    <td>Ms</td>
+    <td><a href="mailto:fernandez_dindings_angel_arther@moe.edu.sg">Fernandez Dindings</a></td>
+    <td>fernandez_dindings_angel_arther@moe.edu.sg</td>
+    <td>141</td>
   </tr>
   <tr>
     <td>Music</td>
