@@ -19,8 +19,6 @@ links:
     collection: academic
   - title: CCA
     collection: co-curricular
-  - title: CCE
-    url: /Character-&-Citizenship Education/
   - title: "Signature Programmes "
     collection: signature-programmes
   - title: Links
@@ -48,3 +46,5 @@ links:
         url: https://www.stgabrielspri.moe.edu.sg/
   - title: Contact Us
     url: /contact-us/
+  - title: CCE
+    collection: c-c-e
