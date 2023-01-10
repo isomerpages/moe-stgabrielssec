@@ -78,4 +78,4 @@ Fill up the form via the link [**https://tinyurl.com/joinussgsspsg**](https://t
 
 **Contact us**
 
-If you have any questions or feedback to share, do drop us an e-mail. Our e-mail address is [**psgsgss@gmail.com**](mailto:psgsgss@gmail.com)
+If you have any questions or feedback to share, do drop us an e-mail. <br>Our e-mail address is [**psgsgss@gmail.com**](mailto:psgsgss@gmail.com)
