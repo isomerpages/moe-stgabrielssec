@@ -792,7 +792,7 @@ third_nav_title: Form & Subject Teachers
 </tbody>
 </table>
 
-**1N2**
+#### **1N2**
 
 <table>
 <thead>
