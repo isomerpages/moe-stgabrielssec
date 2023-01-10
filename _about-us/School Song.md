@@ -6,7 +6,7 @@ description: ""
 ## School Song
 
 
-<img src="/images/schoolsong.jpeg" style= "width: 80%;  align = center">
+<img src="/images/About%20Us/School%20Song/schoolsong.jpeg" style= "width: 80%;  align = center">
 
 <br>
 
