@@ -250,7 +250,7 @@ third_nav_title: Form & Subject Teachers
   </tr>
   <tr>
     <td>Chinese</td>
-    <td>Ms</td>
+    <td>Mr</td>
     <td><a href="mailto:tai_mao_shen@moe.edu.sg">Tai Maoshen</a></td>
     <td>tai_mao_shen@moe.edu.sg</td>
     <td>131</td>
@@ -264,7 +264,7 @@ third_nav_title: Form & Subject Teachers
   </tr>
   <tr>
     <td>Tamil</td>
-    <td>Mdm</td>
+    <td>Ms</td>
     <td><a href="mailto:mogana_ap_devinthoran@moe.edu.sg">Mogana Devinthoran</a></td>
     <td> mogana_ap_devinthoran@moe.edu.sg</td>
     <td>149</td>
@@ -278,7 +278,7 @@ third_nav_title: Form & Subject Teachers
   </tr>
   <tr>
     <td>Geography</td>
-    <td> Mrs</td>
+    <td> Ms</td>
     <td><a href="mailto:tan_ying_a@moe.edu.sg">Tan Ying</a></td>
     <td>tan_ying_a@moe.edu.sg </td>
     <td>208</td>
