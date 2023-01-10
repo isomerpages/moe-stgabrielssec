@@ -12,3 +12,4 @@ CCE is central to the Framework for 21st Century Competencies and Student Outcom
 ![](/images/Framework%20for%2021st%20Century%20Competencies%20and%20Student%20Outcomes.png)
 
 **Framework for 21st Century Competencies and Student Outcomes**
+
