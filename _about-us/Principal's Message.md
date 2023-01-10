@@ -6,7 +6,7 @@ description: ""
 ## Principal's Message
 
 <figure>
-<img style="width: 50%;" src="/images/Mr%20Shawn%20Lim%20(Principal).jpeg">
+<img style="width: 30%;" src="/images/Mr%20Shawn%20Lim%20(Principal).jpeg">
 <figcaption>Principal<br>Mr Shawn Lim</figcaption>
 </figure>
 
