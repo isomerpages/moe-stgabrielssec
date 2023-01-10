@@ -164,23 +164,23 @@ third_nav_title: Form & Subject Teachers
   <tr>
     <td>Literature</td>
     <td>Ms</td>
-    <td><a href="mailto:seet_shuen_ai_jo-anne@moe.edu.sg">Siti Latifah</a></td>
-    <td>seet_shuen_ai_jo-anne@moe.edu.sg </td>
-    <td>152</td>
+    <td><a href="mailto:siti_latifah_ishar@moe.edu.sg">Siti Latifah</a></td>
+    <td>siti_latifah_ishar@moe.edu.sg </td>
+    <td>212</td>
   </tr>
   <tr>
     <td>Geography</td>
-    <td> Mrs</td>
-    <td><a href="mailto:lim_mui_lian_a@moe.edu.sg">Tan Mui Lian</a></td>
-    <td>lim_mui_lian_a@moe.edu.sg </td>
-    <td>138</td>
+    <td> Ms</td>
+    <td><a href="mailto:tan_ying_a@moe.edu.sg">Tan Ying</a></td>
+    <td>tan_ying_a@moe.edu.sg</td>
+    <td>208</td>
   </tr>
   <tr>
     <td>History</td>
-    <td>Mr</td>
-    <td> <a href="mailto:muhammad_rizlan_abdul_rahman@moe.edu.sg">Muhammad Rizlan</a></td>
-    <td>muhammad_rizlan_abdul_rahman@moe.edu.sg</td>
-    <td>154</td>
+    <td>Ms</td>
+    <td> <a href="mailto:samantha_gracie_daishini_thevan@moe.edu.sg">Samantha Daishini</a></td>
+    <td>samantha_gracie_daishini_thevan@moe.edu.sg</td>
+    <td>153</td>
   </tr>
   <tr>
     <td> Art</td>
