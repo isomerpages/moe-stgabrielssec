@@ -808,9 +808,9 @@ third_nav_title: Form & Subject Teachers
   <tr>
     <td>English</td>
     <td>Ms</td>
-    <td><a href="mailto:gay_siok_peng_katherine@moe.edu.sg">Katherine Gay</a></td>
-    <td>gay_siok_peng_katherine@moe.edu.sg</td>
-    <td>211</td>
+    <td><a href="mailto:s_rani@moe.edu.sg">S Rani</a></td>
+    <td>s_rani@moe.edu.sg</td>
+    <td>135</td>
   </tr>
   <tr>
     <td>English SBB </td>
