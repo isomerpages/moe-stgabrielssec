@@ -134,7 +134,7 @@ The learning of Geography or History as an elective is meant to deepen the stude
     <td class="tg-ku5w">Mr Paul De Souza<br><a href="mailto:de_souza_paul_francis@moe.edu.sg">de_souza_paul_francis@moe.edu.sg</span></a></td>
   </tr></tbody></table>
 
-<u>**Useful Websites**</u>
+**<u>Useful Websites</u>**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
