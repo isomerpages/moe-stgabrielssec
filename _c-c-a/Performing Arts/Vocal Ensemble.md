@@ -12,8 +12,34 @@ The Vocal Ensemble is an all-male TTBB (Tenor1, Tenor2, Bass1 (Baritone) & Bass2
 
 The Vocal Ensemble has been active since 2002, starting out with only five members in its infancy. Since its inception however, the Vocal Ensemble has now grown to over 40 members strong, held numerous concerts, and has managed to achieve the silver award in 2005, gold awards in 2007, 2009 and 2011, the certificate of distinction in 2013 and 2015, and the certificate of accomplishment in 2017 and 2019, at the Singapore Youth Festival Choral Judging. We have made many end-of-year overseas trips to countries like Macau, Korea, Malaysia, Taiwan, Hong Kong and Japan for cultural and choral exchanges and sometimes, competitions!
 
-![](/images/Singing%20Ramkali%20during%20SICF.jpeg)
+![](/images/CCA/Performing%20Arts/Vocal%20Ensemble/Singing%20Ramkali%20during%20SICF.jpeg)
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
+.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+<tr>
+    <th class="tg-tlx9"><img style="width:100%" src="/images/CCA/Performing%20Arts/Vocal%20Ensemble/Singing%20their%20Swan%20Song.jpg"></th>
+	<th class="tg-tlx9"></th>
+    <th class="tg-tlx9"><img class="tg-tlx9"><img style="width:94%" src="/images/CCA/Performing%20Arts/Vocal%20Ensemble/Vocal.jpg">
+    </th>
+  </th></tr>
+</thead>
+<tbody>
+	  <tr>
+				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Singing their Swan Song</span></td>
+    <td class="tg-apyk"><br></td>
+    <td class="tg-apyk">Voices of Singapore Festival
+  </tr>
+</tbody>
+</table>
 
 ##### Teachers-in-charge<br>
 1. Ms. Ivy Tan<br>
