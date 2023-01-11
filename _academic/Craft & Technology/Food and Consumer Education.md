@@ -19,7 +19,7 @@ third_nav_title: Craft & Technology
 Food and Consumer Education (FCE) equips students with relevant 21st century skills that prepare them to thrive in a future driven by globalisation and technological advancement. This subject serves to promote health consciousness among young people and encourage them to lead healthy and active lifestyle in the 21st century. In addition, students are equipped with knowledge and skills which helps them make informed decision. 
 
 
-<img src="/images/FoodConsumerEducation.png" style= "width: 30%; margin-right:15px;" align = "right">
+<img src="/images/Academic/Food%20&%20Consumer%20Education/FoodConsumerEducation.png" style= "width: 30%; margin-right:15px;" align = "right">
 
 
   
@@ -35,11 +35,11 @@ St. Gabriel Secondary School also participated in competitions organised by:
 
 |  |  |  |
 | -------- | -------- | -------- |
-![](/images/1st%20prize%20in%20Bizwellness.jpeg) <br> Our students awarded 1st prize in Bizwellness  |   ![](/images/1st%20prize%20in%20Swensens%20Ice%20Cream%20Competition.jpeg) <br> Our students awarded 1st prize in Swensens’ Ice Cream competition   |   ![](/images/Ice%20Cream%20with%20Red%20Velvet%20Putri%20Salat.jpeg) <br> The students ice cream creation, red velvet putri salat.   |    |
+![](/images/Academic/Food%20&%20Consumer%20Education/1st%20prize%20in%20Bizwellness.jpeg) <br> Our students awarded 1st prize in Bizwellness  |   ![](/images/Academic/Food%20&%20Consumer%20Education/1st%20prize%20in%20Swensens%20Ice%20Cream%20Competition.jpeg) <br> Our students awarded 1st prize in Swensens’ Ice Cream competition   |   ![](/images/Academic/Food%20&%20Consumer%20Education/Ice%20Cream%20with%20Red%20Velvet%20Putri%20Salat.jpeg) <br> The students ice cream creation, red velvet putri salat.   |    |
 
 
 
 |  |  |  | |
 | -------- | -------- | -------- | -------- |
-|   ![](/images/Pineapple%20Rice.jpeg)  |   ![](/images/Pasta.jpeg)   |    ![](/images/Glutinous%20Rice.jpeg)  |  ![](/images/Dessert.jpeg)   |
-|  ![](/images/Learning%20to%20prepare%20cook.jpeg)   |      |     |     |
+|   ![](/images/Academic/Food%20&%20Consumer%20Education/Pineapple%20Rice.jpeg)  |   ![](/images/Pasta.jpeg)   |    ![](/images/Academic/Food%20&%20Consumer%20Education/Glutinous%20Rice.jpeg)  |  ![](/images/Academic/Food%20&%20Consumer%20Education/Dessert.jpeg)   |
+|  ![](/images/Academic/Food%20&%20Consumer%20Education/Learning%20to%20prepare%20cook.jpeg)   |      |     |     |
