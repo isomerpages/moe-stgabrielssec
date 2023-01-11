@@ -96,7 +96,7 @@ The learning of Geography or History as an elective is meant to deepen the stude
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-y7qa{background-color:#EAEAEA;color:#222;text-align:left;vertical-align:top}
 .tg .tg-rj1p{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -110,19 +110,18 @@ The learning of Geography or History as an elective is meant to deepen the stude
   <tr>
     <td class="tg-y7qa">Mr Hamdi Abdul Karim<br>(Sec 1NT/2NT Co-ordinator)<br><a href="mailto:hamdi_b_abdul_karim@moe.edu.sg">hamdi_b_abdul_karim@moe.edu.sg</a></td>
     <td class="tg-y7qa">Ms Tan Ying<br>(Sec 1E/2E Co-ordinator)<br><a href="mailto:tan_ying_a@moe.edu.sg">tan_ying_a@moe.edu.sg</a></td>
-    <td class="tg-y7qa">Mr M. Rizlan A. Rahman<br>(Sec 1N/2N Co-ordinator)<br><a href="mailto:muhammad_rizlan_abdul_rahman@moe.edu.sg">muhammad_rizlan_abdul_rahman@moe.edu.sg</td>
+    <td class="tg-y7qa">Mr M. Rizlan A. Rahman<br>(Sec 1N/2N Co-ordinator)<br><a href="mailto:muhammad_rizlan_abdul_rahman@moe.edu.sg">muhammad_rizlan_abdul_rahman@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-y7qa">Ms Chew Jieying Anna<br>(Sec 3N/4N/5N Co-ordinator)<br><a href="mailto:chew_jieying_anna@moe.edu.sg">chew_jieying_anna@moe.edu.sg</span></a></td>
-    <td class="tg-y7qa">Mr R Sreetharan<br>(Sec 3E/4E Co-ordinator)<br><a href="mailto:sreetharan_rajaselvan@moe.edu.sg">sreetharan_rajaselvan@moe.edu.sg</a><br></td>
-    <td class="tg-y7qa">Ms Khairunnisa Bte Ismail<br>(Sec 2E Co-ordinator)<br><a href="mailto:khairunnisa_binte_ismail@moe.edu.sg">khairunnisa_binte_ismail@moe.edu.sg</a><br>
-</td>
+    <td class="tg-y7qa">Ms Chew Jieying Anna<br>(Sec 3N/4N/5N Co-ordinator)<br><a href="mailto:chew_jieying_anna@moe.edu.sg">chew_jieying_anna@moe.edu.sg</a></td>
+    <td class="tg-y7qa">Mr R Sreetharan<br>(Sec 3E/4E Co-ordinator)<br><a href="mailto:sreetharan_rajaselvan@moe.edu.sg">sreetharan_rajaselvan@moe.edu.sg</a></td>
+    <td class="tg-y7qa">Ms Khairunnisa Bte Ismail<br>(Sec 2E Co-ordinator)<br><a href="mailto:khairunnisa_binte_ismail@moe.edu.sg">khairunnisa_binte_ismail@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-y7qa">Ms Cheong Li Yun<br><a href="mailto:cheong_li_yun@moe.edu.sg">cheong_li_yun@moe.edu.sg</a> 
 	</td>
-    <td class="tg-y7qa">Ms Elyn Lim Siew Gek<br>(Sec 3N/4N Co-ordinator)<br><a href="mailto:lim_siew_gek@moe.edu.sg">lim_siew_gek@moe.edu.sg</a><br></td>
-    <td class="tg-y7qa">Ms Siti Rafeah <br>(Sec 3E/4E/5N Co-ordinator)<br><a href="mailto:siti_rafeah_rahmat@moe.edu.sgg">siti_rafeah_rahmat@moe.edu.sg</a><br></td>
+    <td class="tg-y7qa">Ms Elyn Lim Siew Gek<br>(Sec 3N/4N Co-ordinator)<br><a href="mailto:lim_siew_gek@moe.edu.sg">lim_siew_gek@moe.edu.sg</a></td>
+    <td class="tg-y7qa">Ms Siti Rafeah <br>(Sec 3E/4E/5N Co-ordinator)<br><a href="mailto:siti_rafeah_rahmat@moe.edu.sgg">siti_rafeah_rahmat@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-y7qa">Mr Suraj S/O Padman<a href="mailto:suraj_padman@moe.edu.sg"><br>suraj_padman@moe.edu.sg</a></td>
@@ -130,12 +129,10 @@ The learning of Geography or History as an elective is meant to deepen the stude
     <td class="tg-y7qa">Mr Ng Kai Yang Ivan<br>(Sec 3N/4N Co-ordinator)<br><a href="mailto:ng_kai_yang_ivan@moe.edu.sg">ng_kai_yang_ivan@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-y7qa">Mr Paul De Souza<br><a href="mailto:de_souza_paul_francis@moe.edu.sg">de_souza_paul_francis@moe.edu.sg</span></a></td>
-  </tr>
-</tbody>
-</table>
+    <td class="tg-ku5w"></td>
+    <td class="tg-ku5w"></td>
+    <td class="tg-ku5w">Mr Paul De Souza<br><a href="mailto:de_souza_paul_francis@moe.edu.sg">de_souza_paul_francis@moe.edu.sg</span></a></td>
+  </tr></tbody></table>
 
 <u>**Useful Websites**</u>
 
