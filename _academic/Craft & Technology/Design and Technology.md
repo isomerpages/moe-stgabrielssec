@@ -21,7 +21,7 @@ third_nav_title: Craft & Technology
   
 ##### **<u>The Gabrielite Design Model</u>**
 
-![](/images/The%20Gabrielite%20Design%20Model.png)
+![](/images/Academic/Design%20&%20Technology/The%20Gabrielite%20Design%20Model.png)
 
 
 **<font color ="red">Explore</font>           Experience            Experiment**
@@ -29,31 +29,31 @@ third_nav_title: Craft & Technology
 
 | Mindmaps | Imageboards | 
 | -------- | -------- | 
-|   ![](/images/Mindmaps.jpeg)   |  ![](/images/Imageboards.jpeg)    |
-| **Design Situations**<br>![](/images/Design%20situations.jpeg)   |
+|   ![](/images/Academic/Design%20&%20Technology/Mindmaps.jpeg)   |  ![](/images/Academic/Design%20&%20Technology/Imageboards.jpeg)    |
+| **Design Situations**<br>![](/images/Academic/Design%20&%20Technology/Design%20situations.jpeg)   |
 
 
 **Explore           <font color ="red">Experience</font>          Experiment**
 
 |  |  |  |
 | -------- | -------- | -------- |
-|  ![](/images/Design%20&%20Tech%20-%201.jpeg)  |  ![](/images/Design%20&%20Tech%20-%202.jpeg)  |  ![](/images/Design%20&%20Tech%20-%203.jpeg)   |
-|  ![](/images/Design%20&%20Tech%20-%204.jpeg)  |  ![](/images/Design%20&%20Tech%20-%205.jpeg)  |  ![](/images/Design%20&%20Tech%20-%206.jpeg)  |
+|  ![](/images/Academic/Design%20&%20Technology/Design%20&%20Tech%20-%201.jpeg)  |  ![](/images/Academic/Design%20&%20Technology/Design%20&%20Tech%20-%202.jpeg)  |  ![](/images/Academic/Design%20&%20Technology/Design%20&%20Tech%20-%203.jpeg)   |
+|  ![](/images/Academic/Design%20&%20Technology/Design%20&%20Tech%20-%204.jpeg)  |  ![](/images/Academic/Design%20&%20Technology/Design%20&%20Tech%20-%205.jpeg)  |  ![](/images/Academic/Design%20&%20Technology/Design%20&%20Tech%20-%206.jpeg)  |
 
 
 **Explore           Experience         <font color ="red">Experiment</font>**
 
 |  |  |  |
 | -------- | -------- | -------- |
-|  ![](/images/Design%20&%20Tech%20-%207.jpeg)  |  ![](/images/Design%20&%20Tech%20-%208.jpeg)  |  ![](/images/Design%20&%20Tech%20-%209.jpeg)   |
-| ![](/images/Design%20&%20Tech%20-%2010.jpeg)  |  | ![](/images/Design%20&%20Tech%20-%2011.jpeg)  |
+|  ![](/images/Academic/Design%20&%20Technology/Design%20&%20Tech%20-%207.jpeg)  |  ![](/images/Academic/Design%20&%20Technology/Design%20&%20Tech%20-%208.jpeg)  |  ![](/images/Academic/Design%20&%20Technology/Design%20&%20Tech%20-%209.jpeg)   |
+| ![](/images/Academic/Design%20&%20Technology/Design%20&%20Tech%20-%2010.jpeg)  |  | ![](/images/Academic/Design%20&%20Technology/Design%20&%20Tech%20-%2011.jpeg)  |
 
 **Connect & <font color ="red">Create</font>**
 
 |  |  |  |
 | -------- | -------- | -------- |
-|  ![](/images/Design%20&%20Tech%20-%2012.jpeg)  |  ![](/images/Design%20&%20Tech%20-%2013.jpeg)  |  ![](/images/Design%20&%20Tech%20-%2014.jpeg)   |
-| ![](/images/Design%20&%20Tech%20-%2015.jpeg)  | ![](/images/Design%20&%20Tech%20-%2016.jpeg) | ![](/images/Design%20&%20Tech%20-%2017.jpeg)  |
+|  ![](/images/Academic/Design%20&%20Technology/Design%20&%20Tech%20-%2012.jpeg)  |  ![](/images/Academic/Design%20&%20Technology/Design%20&%20Tech%20-%2013.jpeg)  |  ![](/images/Academic/Design%20&%20Technology/Design%20&%20Tech%20-%2014.jpeg)   |
+| ![](/images/Academic/Design%20&%20Technology/Design%20&%20Tech%20-%2015.jpeg)  | ![](/images/Academic/Design%20&%20Technology/Design%20&%20Tech%20-%2016.jpeg) | ![](/images/Academic/Design%20&%20Technology/Design%20&%20Tech%20-%2017.jpeg)  |
 
 <br>
 
