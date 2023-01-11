@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Performing Arts
 ---
 ## Drama Club
+![](/images/CCA/Performing%20Arts/Drama%20Club/Drama%20and%20Debate%20Society%20Logo.png)
 
-![](/images/Drama%20and%20Debate%20Society%20Logo.png)
 #### <u>Introduction</u>
 Established in 2015, the St. Gabriel’s Drama and Debate Society aims to provide a platform, as well as an appreciation, for creative expressions in our students.  Over the past few years, our members have come a long way in developing their acting, script writing and production management skills through school performances and SYF presentations. Within a short span, our Drama Club has reached milestones in our journey, which include being awarded a Certificate of Distinction at the SYF presentation in 2019. 
 
@@ -61,6 +61,3 @@ Dates and timings are subject to change during Singapore Youth Festival training
 
 *   Speech Day Emcees/Choral Recital
 *   National Day Video
-
-
-
