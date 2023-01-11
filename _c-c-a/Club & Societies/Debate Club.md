@@ -80,4 +80,3 @@ Dates and timings are subject to change during debating tournament preparation p
 * Singapore Secondary Schools Debating Championships Div III – First Runner-up/Qualified for Div II
 * Division III Debating Championships – Overall Champion
 * Mock British Parliamentary Debate Tournament – Overall Champion
-
