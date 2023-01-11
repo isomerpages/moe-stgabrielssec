@@ -7,7 +7,7 @@ description: ""
 
 _The truth may be puzzling. It may take some work to grapple with. It may also be counterintuitive. It may contradict deeply held prejudices. It may not be consonant with what we desperately want to be true. But our preferences do not determine what’s true.”_   - Carl Sagan
 
-![](/images/Humanities%201.jpeg)
+![](/images/Academic/Humanities/Humanities%201.jpeg)
 
 ##### **<u>Introduction</u>**  
 
@@ -26,7 +26,7 @@ To be a team of effective humanities educators for diverse learners in
 *   making connections to students’ lives; and
 *   aligning experiences to the outcomes which have been identified as important
 
-![](/images/Humanities.jpeg)
+![](/images/Academic/Humanities/Humanities.jpeg)
 
 **Outer ring**: The four descriptors reflect the type of learner that we would like to create through the Humanities curriculum. Ideally, a student of SGSS would after 4-5 years, become a well-informed citizen who is concerned about current issues within and outside of Singapore. He will also take initiative to participate in making the living environment a better place and will be future-ready to adapt to the trials of a VUCA world.  
 
@@ -35,7 +35,7 @@ To be a team of effective humanities educators for diverse learners in
 
 **<u>Key Teaching and Learning Pedagogies and Strategies</u>**
 
-![](/images/Humanities3.png)
+![](/images/Academic/Humanities/Humanities3.png)
 
 #### **<u>The Humanities Program</u>**
 
@@ -49,7 +49,7 @@ For History, the students are exposed to Singapore’s formative years which all
 
 To develop a passion in the humanities as well as to provide joy in learning, the Humanities curriculum provides students with the opportunities to make sense of their learning by making connections. For example, Learning Journeys is a key feature of the Sec 1 and 2 programme.
 
-![](/images/Humanities4.png)
+![](/images/Academic/Humanities/Humanities4.png)
 
 ##### **Upper Secondary** 
 
@@ -59,7 +59,7 @@ The learning of Social Studies uses an inquiry-based learning approach which is 
 
 The learning of Geography or History as an elective is meant to deepen the students’ passion in their chosen area of study after the exposure to both subjects at the Lower Secondary level. Geography will enable students to understand the physical and human interactions that occur in our environment and enable students to contextualize natural phenomena and human development while developing their consciousness of the world around them and how they can affect it more positively. History will allow students to visit the past occurrences and get to know personalities who shaped key events in the early 20th century and enable students to contextualize present government systems and political decisions while developing their consciousness of human behavior and reactions to present-day decision making and view world issues with a more balanced perspective and empathy.
 
-![](/images/Humanities5.png)
+![](/images/Academic/Humanities/Humanities5.png)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
