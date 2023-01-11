@@ -50,57 +50,17 @@ Dates and timings are subject to change during Singapore Youth Festival training
 *   Human Values Drama Festival – Finalist/Winner of ‘Best Script Award’
 *   Raffles U-14 Invitational Debate Tournament – Quarter-Finalist
 
-##### 2017
-
-*   SYF (Drama) – Certificate of Accomplishment
-*   Singapore National Literature Festival (Choral reading) – Champion
-*   Plain English Speaking Award – Semi-finalist
-
-##### 2016
-
-*   Human Values Drama Festival
-*   Singapore Secondary Schools Debating Championships Div III - First Runner-up/Qualified for Div II
-*   Division III Debating Championships – Overall Champion
-*   Mock British Parliamentary Debate Tournament – Overall Champion
-
-  
-
 ##### Performances/Participation:
 
 ##### 2021
 
 * Teachers' Day Video Presentation&nbsp;(Teachers' Day Celebration)
+* St. Gabriel's ARTS Buzz
 
 ##### 2019
 
-*   Speech Day Emcees/Choral Recital&nbsp;
-*   National Day Video
-*   Debate Association Debating Championships&nbsp;
-*   Singapore Secondary Schools Debating Championships&nbsp;
-
-##### 2018
-
 *   Speech Day Emcees/Choral Recital
-*   Founder’s Day Video
-*   Cyber-Bullying Assembly Programme for Citizenship &amp; Character Education
-*   Human Values Drama Festival
-*   Debate Association Debating Championships
-*   Raffles U-14s Debate Tournament
-*   Singapore Secondary Schools Debating Championships
+*   National Day Video
 
-##### 2017
 
-*   Singapore Youth Festival
-*   Speech Day choral recital
-*   National Day NS50 performance
-*   Teachers’ Day performance
-*   Singapore Secondary Schools Debating Championships
-*   Singapore American School Friendly Debate Tournament
 
-##### 2016
-
-*   Speech Day video
-*   National Day SG100 performance
-*   Teachers’ Day video
-*   Singapore Secondary Schools Debating Championships
-*   Mock British Parliamentary Debate Tournament
