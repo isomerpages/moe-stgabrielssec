@@ -6,7 +6,7 @@ third_nav_title: Craft & Technology
 ---
 ## Art
 
-#### **Teachers in Art**
+#### Teachers in Art 
 
 1.  **Mr. Kelvin Lim**
 2.  **Mr. Keith Chong**
@@ -14,7 +14,7 @@ third_nav_title: Craft & Technology
 4.  **Ms. Fernandez (FAJT)**
 
  
-#### **Programmes**  
+#### Programmes  
 
 ##### **<u>Introduction</u>**
 
