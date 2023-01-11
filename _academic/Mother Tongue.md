@@ -5,7 +5,7 @@ description: ""
 ---
 ## Mother Tongue 
 
-##### **<u>Introduction</u>**
+##### <u>Introduction</u>
 
 The Mother Tongue Languages Department provided courses for the learning of Chinese, Malay and Tamil language that catered to the needs of students from different levels and streams.
 
@@ -29,7 +29,7 @@ The Mother Tongue Languages Department provided courses for the learning of Chin
 3. Ms. Mogana Devinthoran
 
 
-##### **<u>Objectives</u>**
+##### <u>Objectives</u>
 
 **<u>Student learning outcomes to impact head, heart, hands</u>**
 **Enhance communication and language ability:**
@@ -46,7 +46,7 @@ Cultural Skills;<br>
 Critical Thinking;<br>
 Communication, Collaboration and Information Skills
 
-##### **<u>Programmes</u>**
+##### <u>Programmes</u>
 
 To achieve our goals, the department organises various programmes that enhance our students’ language skills. These programmes include the ‘MTL Intensive Revision Programme for Graduating Classes’, ‘Conversational Chinese and Malay Programme’ for our lower secondary students and ‘Structured Reading Programme’ for all levels.
 
