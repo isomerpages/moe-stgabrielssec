@@ -5,10 +5,7 @@ description: ""
 ---
 ## English & Literature 
 
-### **English Language**
-
-  
-#### **Teachers:**
+#### Teachers in English Language
 
 1. Ms. Anna Chew  
 2. Mr. Benjamin Lim
@@ -17,21 +14,20 @@ description: ""
 5. Mr. Hamdi
 6. Ms. Jessica Yap
 7. Ms. Jo-Anne Seet
-8. Ms. Katherine Gay
-9. Ms. Marianne Li
-10. Ms. Nur Syarmeen Ehsan Ahmad
-11. Mrs. Rani Rama  
-12. Mr. Rodney Goh
-13. Ms. Siti Latifah Ishar
-14. Mr Suraj Padman
-15. Ms Koh Hwee Kiang
-16. Ms Cheong Li Yun
+8. Ms. Marianne Li
+9. Ms. Nur Syarmeen Ehsan Ahmad
+10. Mrs. Rani Rama  
+11. Mr. Rodney Goh
+12. Ms. Siti Latifah Ishar
+13. Mr Suraj Padman
+14. Ms Koh Hwee Kiang
+15. Ms Cheong Li Yun
 
-#### **Objective:**
+#### **<u>Objective</u>**
 
 Every Gabrielite to be effective and confident in communicating in the English Language.  
 
-#### **Programme:**
+#### **<u>Programme</u>**
 
 The curriculum seek to develop linguistic competencies in our students through the teaching and learning of English to enable Gabrielities to be empathetic communicators, discerning readers and creative enquirers. The syllabus develops effective and affective language use in students in the following areas:
 
@@ -44,9 +40,7 @@ The curriculum seek to develop linguistic competencies in our students through t
 | **Key teaching and learning pedagogies and strategies<br><br>Introduction of 3 foci:**<br>**Inquiry through Dialogue (1st focus)**<br><br> Multiliteracies (2nd focus)<br>Metacognition (3rd focus)<br>Pedagogy - the 5Ts:<br>Connecting Theme, Text, Talk, Task & Technology<br>Guided by LLIPS amp; ACoLADE(General) Learner Strategies to be taught:<br>Close reading skills (Reading & Viewing)<br>Note-taking skills (Writing & Representing)<br>Presentation skills (Speaking & Representing)<br>(Simple) research skills | Assessment indicators of students achieving the learning outcomes<br><br>Assessment Tools:<br>Discrete performance tasks that assess specific EL skill taught (e.g. podcast: pronunciation & reading aloud, quizzes, targetted practice like essays etc.)<br>Integrated assessment to assess different EL skills taught (e.g. oral presentations, compositions, written reflections)<br>Assessment Indicators:<br>Students can read, listen & view widely a range of multi-modal text & text forms.<br>Students will speak, write & represent for creative, personal, academic & functional purposes by using language in a sustained manner & by representing their ideas in a range of multimodal texts & text forms.<br>Students can display/attain SSABs in EL Syllabus 2020              |
 
 
-### **Literature in English**
-
-#### **Teachers:**
+#### Teachers in Literature
 
 1. Ms. Marianne Li    
 2. Ms. Jessica Yap     
@@ -55,21 +49,17 @@ The curriculum seek to develop linguistic competencies in our students through t
 5. Mdm. Chew Jia Ay
 6. Ms Koh Hwee Kiang
 
-#### **Programme:**
+#### **<u>Programme</u>**
 
-##### **Lower Secondary:**
+##### **Lower Secondary**
 
 Gabrielites are introduced to a range of literary texts in prose, poetry and drama. They also begin to learn how to respond to and analyse such literary writing. Those who are keen on Literature can choose to offer Literature in English at GCE O or GCE NA Level at the end of Secondary Two.
 
-  
-
-##### **Upper Secondary:**
+##### **Upper Secondary**
 
 Garbrielites will study the subject more deeply; delving into the literary analysis of the texts offered. They will also be taught to hone and produce sustained and critical responses to the texts they study.
 
-  
-
-##### **Upper Sec. Literature Texts for 2022**:
+##### **<u>Upper Sec. Literature Texts for 2022</u>**
 
 1.  Drama: Macbeth by William Shakespeare
 2.  Prose: Hook & Eye: Stories from the Margins edited by Philip Holden
@@ -77,15 +67,14 @@ Garbrielites will study the subject more deeply; delving into the literary analy
 
   
 
-##### **Upper Sec. Literature Texts for 2023**:
+##### **<u>Upper Sec. Literature Texts for 2023</u>**
 
 1.  Drama: Boom by Jean Tay
 2.  Prose: The Chrysalids by John Wyndham
 3.  Unseen Poetry
 
-  
 
-##### **Lower Sec. Literature Texts for 2023:**
+##### **<u>Lower Sec. Literature Texts for 2023</u>**
 
 1. Drama: _Frankenstein_ adapted by Phillip Pullman  
     
@@ -93,7 +82,7 @@ Garbrielites will study the subject more deeply; delving into the literary analy
     
 3.  Poetry
 
-
+<br>
 
 | Pictorial Representation of Literature in English<br> ![](/images/English%20Language%20-%202.png)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Student learning outcomes to impact head, heart, hands<br>To develop students’ ethical, aesthetic and intellectual considerations through the study of Literature so that they can become:<br>Global & Empathetic Thinkers<br>Critical Readers<br>Creative Meaning-makers<br>Convincing Communicators                                                                                                                                                                                                                                  |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
