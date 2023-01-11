@@ -5,25 +5,25 @@ description: ""
 ---
 ## Mathematics
 
-##### **<u>Introduction</u>**
+##### **Introduction**
 
 Welcome to St. Gabriel’s Secondary Mathematics Department Webpage. As Mathematics educators, we strive to ensure that all students achieve a level of mastery in Mathematics that will serve them well in the future, where they can confidently use Mathematics to make informed decisions in their everyday activities so as to lead meaningful and purposeful lives.
 
-##### **<u>Objectives</u>** <br>
+##### **Objectives** <br>
 **Our Vision and Mission**
 
 
-**<u>Vision</u>**
+<u>**Vision**</u>
 
 Every Gabrielite is a confident problem-solver who can effectively apply Mathematics in life.
 
-**<u>Mission</u>**
+<u>**Mission**</u>
 
 To be a team of collaborative and reflective educators who provide engaging experiences for students to become confident problem-solvers
 
 <img style="width: 60%;" src="/images/Academic/Mathematics/Mathematical%20Problem%20Solving.png">
 
-**<u>Enrichment</u>** 
+<u>**Enrichment** </u>
 <br>
 **All Singapore Secondary Mathematics Competition For Normal Course Students**
 
@@ -57,12 +57,12 @@ The results for 2022 competition are as follows.
 
 ### Principles of Accounts (POA)
 
-##### <u>**Introduction**</u>
+##### **Introduction**
 
 POA is designed to provide our students with a meaningful basic introduction to finanial accounting and to develop an appreciation of the discipline of accounting.
 N˜
 
-##### <u>**Objectives**</u>
+##### **Objectives**
 
 1 To equip our students with strong fundamentals for future learning.
 
