@@ -20,7 +20,7 @@ third_nav_title: Craft & Technology
 
 In St. Gabriel's Secondary School, we believe that a strong aesthetics programme is essential in contributing towards achieving our vision to develop all our students to be Servant Leaders, Lifelong Learners & Gracious Citizens.
 
-![](/images/Art.jpeg)
+![](/images/Academic/Art/Art.jpeg)
 
 #### **<u>Objectives</u>**
 
@@ -123,7 +123,7 @@ Students are encouraged to explore, to create, and to reach their full potential
 
 |  |  | 
 | -------- | -------- | 
-|  ![](/images/Digital%20Media%20Art%20-%201.png)    |    ![](/images/Digital%20Media%20Art%20-%202.png) | 
+|  ![](/images/Academic/Art/Digital%20Media%20Art%20-%201.png)    |    ![](/images/Academic/Art/Digital%20Media%20Art%20-%202.png) | 
 
 |  |  | 
 | -------- | -------- | 
@@ -132,11 +132,11 @@ Students are encouraged to explore, to create, and to reach their full potential
 
 * Participation in School Arts Buzz (Two weeks long of Art program and activities) </center> <center>Arts Buzz - 2018</center>
 
-![](/images/Arts%20Buzz%202018.jpeg) <br>
+![](/images/Academic/Art/Arts%20Buzz%202018.jpeg) <br>
 
 * Alternate year of participation in Singapore Youth Festival Art Labs 
 
-| ![](/images/SYF%20Art%20Labs%202016.jpeg) <center>SYF Art Labs - 2016</center> | ![](/images/Art%20lessons%20with%20overseas%20students%202018.jpeg) <center>Exchange Art lessons with Overseas students - 2018 </center>|  |
+| ![](/images/Academic/Art/SYF%20Art%20Labs%202016.jpeg) <center>SYF Art Labs - 2016</center> | ![](/images/Academic/Art/Art%20lessons%20with%20overseas%20students%202018.jpeg) <center>Exchange Art lessons with Overseas students - 2018 </center>|  |
 | -------- | -------- | -------- |
 	
 ##### **<u>Upper Secondary - Programmes</u>**	
@@ -212,7 +212,7 @@ Students are encouraged to explore, to create, and to reach their full potential
 
 | National Gallery of Singapore |  |  
 | -------- | -------- | 
-|  ![](/images/National%20Gallery%20of%20Singapore%20-%201.jpeg)    |  ![](/images/National%20Gallery%20of%20Singapore%20-%202.jpeg)    |
+|  ![](/images/Academic/Art/National%20Gallery%20of%20Singapore%20-%201.jpeg)    |  ![](/images/Academic/Art/National%20Gallery%20of%20Singapore%20-%202.jpeg)    |
 
 <br>
 
@@ -220,19 +220,19 @@ Students are encouraged to explore, to create, and to reach their full potential
 
 | Cultural Immersion and VIA Overseas Trip to Chiangmai 2017 and 2018 |  |
 | -------- | -------- | 
-|  ![](/images/Chiangmai%202017%20and%202018%20-%201.jpeg)    |  ![](/images/Chiangmai%202017%20and%202018%20-%202.jpeg)   |
+|  ![](/images/Academic/Art/Chiangmai%202017%20and%202018%20-%201.jpeg)    |  ![](/images/Academic/Art/Chiangmai%202017%20and%202018%20-%202.jpeg)   |
 
 **Possible Art Competition or events:**
-![](/images/Yellowren%20Art%20Canvas%20Competition%202017.jpeg)<center>Yellowren Art Canvas Competition – 2017
+![](/images/Academic/Art/Yellowren%20Art%20Canvas%20Competition%202017.jpeg)<center>Yellowren Art Canvas Competition – 2017 </center>
 
-![](/images/Outdoor%20Painting.jpeg)
-<center>Outdoor painting at Hwa Chong International Institution <br><br>
+![](/images/Academic/Art/Outdoor%20Painting.jpeg)
+<center>Outdoor painting at Hwa Chong International Institution <br></center><br>
 
 	
 | Participation in School Arts Buzz: |  |
 | -------- | -------- | 
-| ![](/images/Booth%20and%20Mural%20Drawing%20Arts%20Buzz%202018%20-%201.jpeg)  |  ![](/images/Booth%20and%20Mural%20Drawing%20Arts%20Buzz%202018%20-%202.jpeg)  |
+| ![](/images/Academic/Art/Booth%20and%20Mural%20Drawing%20Arts%20Buzz%202018%20-%201.jpeg)  |  ![](/images/Academic/Art/Booth%20and%20Mural%20Drawing%20Arts%20Buzz%202018%20-%202.jpeg)  |
 
 **Participation in Singapore Youth Festival Art Labs:**
-![](/images/Singapore%20Youth%20Festival%20Art%20Lab%202018.jpeg)
-<center>Singapore Youth Festival Art Lab – 2018
+![](/images/Academic/Art/Singapore%20Youth%20Festival%20Art%20Lab%202018.jpeg)
+<center>Singapore Youth Festival Art Lab – 2018 </center>
