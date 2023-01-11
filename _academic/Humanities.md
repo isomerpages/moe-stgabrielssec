@@ -137,7 +137,7 @@ The learning of Geography or History as an elective is meant to deepen the stude
 </tbody>
 </table>
 
-**<u>Useful Websites</u>**
+<u>**Useful Websites**</u>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
