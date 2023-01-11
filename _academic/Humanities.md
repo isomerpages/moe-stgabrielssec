@@ -129,8 +129,8 @@ The learning of Geography or History as an elective is meant to deepen the stude
     <td class="tg-y7qa">Mr Ng Kai Yang Ivan<br>(Sec 3N/4N Co-ordinator)<br><a href="mailto:ng_kai_yang_ivan@moe.edu.sg">ng_kai_yang_ivan@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-ku5w"></td>
-    <td class="tg-ku5w"></td>
+    <td class="tg-ku5w">-</td>
+    <td class="tg-ku5w">-</td>
     <td class="tg-ku5w">Mr Paul De Souza<br><a href="mailto:de_souza_paul_francis@moe.edu.sg">de_souza_paul_francis@moe.edu.sg</span></a></td>
 		</tr> 
 		</tbody>
