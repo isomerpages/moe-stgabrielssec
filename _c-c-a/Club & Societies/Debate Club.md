@@ -28,6 +28,7 @@ Fri: 2.20pm - 5.30pm (for Sec 2s and 3s)
 Venue: Computer Lab 4
 <br><br>
 Dates and timings are subject to change during debating tournament preparation periods.
+<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -55,3 +56,28 @@ Dates and timings are subject to change during debating tournament preparation p
   </tr>
 </tbody>
 </table>
+
+![](/images/CCA/Clubs%20&%20Societies/Debate%20Club/Graduating%20Debaters%20of%202022.png)
+<center>Graduating Debaters of 2022 </center>
+
+##### <u>Achievements</u>
+##### 2022
+* Singapore Secondary Schools Debating Championships – 3rd position in Division II
+* Raffles U-14 Debating Championship – Quarter-finalist
+
+##### 2021
+* Singapore Secondary Schools Debating Championships
+* Hua Yi Debating Championships - Quarter-finalists
+* Youth Debate Open – Quarter-finalists
+
+##### 2018
+* Raffles U-14 Invitational Debate Tournament – Quarter-finalist
+
+##### 2017
+* Plain English Speaking Award – Semi-finalist 
+
+##### 2016
+* Singapore Secondary Schools Debating Championships Div III – First Runner-up/Qualified for Div II
+* Division III Debating Championships – Overall Champion
+* Mock British Parliamentary Debate Tournament – Overall Champion
+
