@@ -3,21 +3,21 @@ title: Humanities
 permalink: /academic/Humanities/
 description: ""
 ---
-## **Humanities** 
+## Humanities
 
 _The truth may be puzzling. It may take some work to grapple with. It may also be counterintuitive. It may contradict deeply held prejudices. It may not be consonant with what we desperately want to be true. But our preferences do not determine what’s true.”_   - Carl Sagan
 
 ![](/images/Humanities%201.jpeg)
 
-#### **<u>Introduction</u>**  
+##### **<u>Introduction</u>**  
 
 The aim of humanities education in St. Gabriel’s Secondary School is to encourage students to gain and develop a mastery of skills related to knowledge building and understanding of events and phenomenon, issues and perspectives, and human actions and behaviors.
 
-#### **<u>Vision</u>**
+##### **<u>Vision</u>**
 
 Every Gabrielite is a skilled inquirer who is humbled by the world around him.  
 
-#### **<u>Mission</u>**
+##### **<u>Mission</u>**
 
 To be a team of effective humanities educators for diverse learners in
 
@@ -39,8 +39,7 @@ To be a team of effective humanities educators for diverse learners in
 
 #### **<u>The Humanities Program</u>**
 
-##### **<u>Lower Secondary</u>**  
-
+##### **Lower Secondary**  
 
 The Lower Secondary Humanities programme consists of two subjects- Geography and History. The concepts and content taught are Singapore-centred to provide students with a good grounding in skills and content which resonates with them because of the connection of the learning to their own lives.
 
@@ -52,7 +51,7 @@ To develop a passion in the humanities as well as to provide joy in learning, th
 
 ![](/images/Humanities4.png)
 
-##### **<u>Upper Secondary</u>** 
+##### **Upper Secondary** 
 
 Humanities is a compulsory subject for all students at the upper secondary level.  It comprises the subject Social Studies, with either Geography Elective or History Elective for both the Express and Normal Academic Students. Normal Technical students are exposed to the Social Studies citizenship module which is non-examinable.   
 
@@ -74,15 +73,15 @@ The learning of Geography or History as an elective is meant to deepen the stude
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-n4qt">The Humans in the Humanities Department<br><br></th>
+    <th class="tg-n4qt">The Humans in the Humanities Department<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ii8k">Ms Siti Rafeah Bte Rahmat (HOD/Humanities)<a href="mailto:siti_rafeah_rahmat@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">siti_rafeah_rahmat@moe.edu.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-ii8k">Ms Siti Rafeah Bte Rahmat (HOD/Humanities)<br><a href="mailto:siti_rafeah_rahmat@moe.edu.sg">siti_rafeah_rahmat@moe.edu.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
   <tr>
-    <td class="tg-ii8k">Ms Tanny Koh Tien Tien (SH/Geography)<br><br><a href="mailto:tanny_koh_tien_tien@moe.edu.sg">tanny_koh_tien_tien@moe.edu.sg</a><br></td>
+    <td class="tg-ii8k">Ms Tanny Koh Tien Tien (SH/Geography)<br><a href="mailto:tanny_koh_tien_tien@moe.edu.sg">tanny_koh_tien_tien@moe.edu.sg</a><br></td>
   </tr>
 </tbody>
 </table>
@@ -109,34 +108,31 @@ The learning of Geography or History as an elective is meant to deepen the stude
 </thead>
 <tbody>
   <tr>
-    <td class="tg-y7qa">Ms Teo See Ching<br>(Sec 3E/4E/5N Co-ordinator)<br><a href="mailto:jasbir_singh_a@moe.edu.sg">teo_see_ching @moe.edu.sg</a></td>
+    <td class="tg-y7qa">Mr Hamdi Abdul Karim<br>(Sec 1NT/2NT Co-ordinator)<br><a href="mailto:hamdi_b_abdul_karim@moe.edu.sg">hamdi_b_abdul_karim@moe.edu.sg</a></td>
     <td class="tg-y7qa">Ms Tan Ying<br>(Sec 1E/2E Co-ordinator)<br><a href="mailto:tan_ying_a@moe.edu.sg">tan_ying_a@moe.edu.sg</a></td>
-    <td class="tg-y7qa">Mr Terence Lim<br>(Sec 1E Co-ordinator)<br>lim_ming_kuan_terence@moe.edu.sg</td>
+    <td class="tg-y7qa">Mr M. Rizlan A. Rahman<br>(Sec 1N/2N Co-ordinator)<br><a href="mailto:muhammad_rizlan_abdul_rahman@moe.edu.sg">muhammad_rizlan_abdul_rahman@moe.edu.sg</td>
   </tr>
   <tr>
-    <td class="tg-y7qa">Ms Chew Jieying Anna<br>(Sec 3N/4N/5N Co-ordinator)<br><a href="mailto:chew_jieying_anna@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">chew_jieying_anna@moe.edu.sg</span></a></td>
-    <td class="tg-y7qa">Mrs Tan Mui Lian<br>(Sec 1N/2N Co-ordinator)<br><a href="mailto:lim_mui_lian_a@moe.edu.sg">lim_mui_lian_a@moe.edu.sg</a><br></td>
-    <td class="tg-y7qa"><br>Ms Khairunnisa Bte Ismail<br>(Sec 2E Co-ordinator)<br><a href="mailto:khairunnisa_binte_ismail@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">khairunnisa_binte_ismail@moe.edu.sg</span></a><br></td>
+    <td class="tg-y7qa">Ms Chew Jieying Anna<br>(Sec 3N/4N/5N Co-ordinator)<br><a href="mailto:chew_jieying_anna@moe.edu.sg">chew_jieying_anna@moe.edu.sg</span></a></td>
+    <td class="tg-y7qa">Mr R Sreetharan<br>(Sec 3E/4E Co-ordinator)<br><a href="mailto:sreetharan_rajaselvan@moe.edu.sg">sreetharan_rajaselvan@moe.edu.sg</a><br></td>
+    <td class="tg-y7qa">Ms Khairunnisa Bte Ismail<br>(Sec 2E Co-ordinator)<br><a href="mailto:khairunnisa_binte_ismail@moe.edu.sg">khairunnisa_binte_ismail@moe.edu.sg</a><br>
+</td>
   </tr>
   <tr>
-    <td class="tg-y7qa">Mr Hamdi Abdul Karim<br>(Sec 1NT/2NT Co-ordinator)<br><a href="mailto:hamdi_b_abdul_karim@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">hamdi_b_abdul_karim@moe.edu.sg</span></a> </td>
-    <td class="tg-y7qa">Mr R. Sreetharan<br>(Sec 3E/4E Co-ordinator)<br><a href="mailto:sreetharan_rajaselvan@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">sreetharan_rajaselvan@moe.edu.sg</span></a><br></td>
-    <td class="tg-y7qa">Mr M. Rizlan A. Rahman<br>(Sec 1N/2N Co-ordinator)<br><a href="mailto:muhammad_rizlan_abdul_rahman@moe.edu.sg">muhammad_rizlan_abdul_rahman@moe.edu.sg</a><br></td>
+    <td class="tg-y7qa">Ms Cheong Li Yun<br><a href="mailto:cheong_li_yun@moe.edu.sg">cheong_li_yun@moe.edu.sg</a> 
+	</td>
+    <td class="tg-y7qa">Ms Elyn Lim Siew Gek<br>(Sec 3N/4N Co-ordinator)<br><a href="mailto:lim_siew_gek@moe.edu.sg">lim_siew_gek@moe.edu.sg</a><br></td>
+    <td class="tg-y7qa">Ms Siti Rafeah <br>(Sec 3E/4E/5N Co-ordinator)<br><a href="mailto:siti_rafeah_rahmat@moe.edu.sgg">siti_rafeah_rahmat@moe.edu.sg</a><br></td>
   </tr>
   <tr>
-    <td class="tg-y7qa"><br>Ms Cheong Li Yun<br><a href="mailto:cheong_li_yun@moe.edu.sg">cheong_li_yun@moe.edu.sg</a><br><br><br></td>
-    <td class="tg-y7qa">Ms Elyn Lim Siew Gek<br>(Sec 3N/4N Co-ordinator)<br><a href="mailto:lim_siew_gek@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">lim_siew_gek@moe.edu.sg</span></a><br></td>
-    <td class="tg-y7qa">Ms Siti Rafeah<br>(Sec 3E/4E/5N Co-ordinator)<br><a href="mailto:siti_rafeah_rahmat@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">siti_rafeah_rahmat@moe.edu.sg</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa">Mr Suraj S/O Padman<a href="mailto:suraj_padman@moe.edu.sg"><br><span style="text-decoration:none;color:#0C343D">suraj_padman@moe.edu.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-y7qa">Ms Tanny Koh<br>(Sec 5N Co-ordinator)<a href="mailto:tanny_koh_tien_tien@moe.edu.sg"><br><span style="text-decoration:none;color:#0C343D">tanny_koh_tien_tien@moe.edu.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-y7qa">Mr Ng Kai Yang Ivan<br>(Sec 3N/4N Co-ordinator)<br><a href="mailto:ng_kai_yang_ivan@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">ng_kai_yang_ivan@moe.edu.sg</span></a></td>
+    <td class="tg-y7qa">Mr Suraj S/O Padman<a href="mailto:suraj_padman@moe.edu.sg"><br>suraj_padman@moe.edu.sg</a></td>
+    <td class="tg-y7qa">Ms Tanny Koh<br>(Sec 5N Co-ordinator)<a href="mailto:tanny_koh_tien_tien@moe.edu.sg"><br>tanny_koh_tien_tien@moe.edu.sg</a></td>
+    <td class="tg-y7qa">Mr Ng Kai Yang Ivan<br>(Sec 3N/4N Co-ordinator)<br><a href="mailto:ng_kai_yang_ivan@moe.edu.sg">ng_kai_yang_ivan@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span></td>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Mr Paul De Souza</span><br><a href="mailto:de_souza_paul_francis@moe.edu.sg"><span style="text-decoration:none;color:#0C343D">de_souza_paul_francis@moe.edu.sg</span></a></td>
+    <td class="tg-y7qa">Mr Paul De Souza<br><a href="mailto:de_souza_paul_francis@moe.edu.sg">de_souza_paul_francis@moe.edu.sg</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -164,10 +160,10 @@ The learning of Geography or History as an elective is meant to deepen the stude
 </thead>
 <tbody>
   <tr>
-    <td class="tg-x4o9" colspan="3"><a href="https://www.straitstimes.com/">https://www.straitstimes.com/</a></td>
+    <td class="tg-x4o9" colspan="3"><a href="https://www.straitstimes.com/"><center>https://www.straitstimes.com/</a></td>
   </tr>
   <tr>
-    <td class="tg-x4o9" colspan="3"><a href="https://www.nlb.gov.sg/">https://www.nlb.gov.sg/</a></td>
+    <td class="tg-x4o9" colspan="3"><a href="https://www.nlb.gov.sg/"><center>https://www.nlb.gov.sg/</a></td>
   </tr>
   <tr>
     <td class="tg-f187" colspan="2"><a href="https://www.nhb.gov.sg/">https://www.nhb.gov.sg/</a></td>
