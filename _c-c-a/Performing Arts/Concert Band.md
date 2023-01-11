@@ -12,7 +12,7 @@ Since its inception in 1966, St. Gabriel’s Concert Band has undergone many cha
 
 Over the years, the Band has staged numerous performances in and out of school. Besides performances, the Band is also actively involved in community programmes. Through these programmes, the Band will be able to develop its members to be true servant-leaders in serving the community.  
 
-![](/images/SYF%202021%20Arts%20Presentation.jpeg)
+![](/images/CCA/Performing%20Arts/Concert%20Band/SYF%202021%20Arts%20Presentation.jpeg)
 
 ##### Teachers-in-charge
 
@@ -92,4 +92,3 @@ Venue: Band Room
 
 *   SYF - Certificate of Distinction
 *   Clarinet Quartet Performance at World Schools Debating Championship 2015 Preliminary Rounds
-
