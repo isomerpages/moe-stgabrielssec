@@ -10,7 +10,7 @@ In our aim to provide a holistic education to all Gabrielites, our co-curricular
 
 ![](/images/CCA%20Student%20Leaders.jpeg)
 
-**<u>CCA Information</u>**
+<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
