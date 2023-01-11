@@ -6,7 +6,7 @@ third_nav_title: Craft & Technology
 ---
 ## Design and Technology 
 
-#### Teachers in Design and Technology
+##### Teachers in Design and Technology
 
 1.  Mr. Mark Low (HOD)
 2.  Mr. Lin Ganfeng (Student Support HOD)
@@ -17,7 +17,7 @@ third_nav_title: Craft & Technology
 7.  Mr. Mohd Zaid (TSO)
 8.  Mdm Tay Bee Suan (TSO)
 
-#### Programmes  
+##### Programmes  
   
 ##### **<u>The Gabrielite Design Model</u>**
 
