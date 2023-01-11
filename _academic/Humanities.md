@@ -190,7 +190,7 @@ This syllabus is an introduction to business through an understanding of busines
 
 <br>
 
-<img style="width: 50%;" src="/images/EBS.png">
+<img style="width: 50%;" src="/images/Academic/Elements%20of%20Business%20Studies/EBS.png">
 
 **<u>Unit 1: Understanding business activities</u>** 
 
