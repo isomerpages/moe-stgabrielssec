@@ -81,7 +81,7 @@ This competition allows student to apply what they have learned in class. It als
 
 ### Computer Applications (CPA)
 
-##### <u>**Our Vision and Mission**</u>
+##### **Our Vision and Mission**
 
 <u>**Vision**</u>
 
