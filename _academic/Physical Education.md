@@ -5,13 +5,13 @@ description: ""
 ---
 ## Physical Education 
 
-**<u>Introduction</u>**
+##### **<u>Introduction</u>**
 
 ![](/images/PE%20DEPT.jpeg)
 
 ![](/images/Physical%20Education%20-%202.png)
 
-**<u>The Team</u>**
+##### **<u>The Team</u>**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -64,7 +64,7 @@ description: ""
 </tbody>
 </table>
 
-**<u>Objectives</u>**
+##### **<u>Objectives</u>**
 
 **<u>Purpose of Physical Education</u>**
 
@@ -91,7 +91,7 @@ description: ""
 *   To plan, monitor and assess their physical fitness status.
 *   To enjoy and value benefits of daily physical activities.
 
-**<u>Physical Education Framework</u>**
+##### **<u>Physical Education Framework</u>**
 
 Our PE syllabus is organised to achieve the goals of PE based on the framework below. At the apex is the purpose of PE, achieved through the seven learning areas to produce competent movers, confident participants and committed advocates.  
 
