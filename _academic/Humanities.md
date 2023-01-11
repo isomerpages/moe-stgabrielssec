@@ -180,73 +180,47 @@ The learning of Geography or History as an elective is meant to deepen the stude
 </tbody>
 </table>
 
-**<u>Elements of Business Studies (EBS)</u>**  
 
-**Teachers in Elements of Business Studies**
+### Elements of Business Studies (EBS) ###
 
-1\.  Mr. Rodney Goh (Coordinator)<br>
-2\.  Ms. Farah Zeeba
+#### Teachers in Elements of Business Studies
 
-  
+1.  Mr. Rodney Goh (Coordinator)
+2.  Ms. Farah Zeeba
 
-**<u>Introduction</u>**
+##### **<u>Introduction</u>**
 
-This syllabus is an introduction to business through an understanding of business activities, focusing on basic marketing and customer relations, in the context of Singapore. The syllabus intends to provide students with opportunities to develop transferable employability skills and knowledge in the service industry, namely the Travel and Tourism, Hospitality, and Retail industries, which continue to offer employment opportunities accessible to the students. It provides students with the foundational knowledge and skills for further studies in institutes of higher learning and the awareness of prospects of a career in the service industry.   
+This syllabus is an introduction to business through an understanding of business activities, focusing on basic marketing and customer relations, in the context of Singapore. The syllabus intends to provide students with opportunities to develop transferable employability skills and knowledge in the service industry, namely the Travel and Tourism, Hospitality, and Retail industries, which continue to offer employment opportunities accessible to the students. It provides students with the foundational knowledge and skills for further studies in institutes of higher learning and the awareness of prospects of a career in the service industry.
 
-  
-<img style="width: 40%;" src="/images/EBS.png">
+<br>
 
-  
+<img style="width: 50%;" src="/images/EBS.png">
 
-**<u>Unit 1: Understanding business activities</u>**
-
-  
+**<u>Unit 1: Understanding business activities</u>** 
 
 This unit helps students to understand the purpose of a business and the various types of businesses in the Travel and Tourism, Hospitality, and Retail industries. Impact of competition and trends on the businesses, and careers in these industries, are also examined to develop an understanding of the challenges and opportunities presented. 
-
-  
 
 **<u>Unit 2: Understanding basic marketing</u>**
 
 This unit helps students to understand the basics of marketing and how businesses meet the needs and wants of customers. This includes the use of market survey to gather information about target customers, and the marketing process to reach out to them. 
 
-  
-
 **<u>Unit 3: Understanding customer relations</u>**
-
-  
 
 This unit helps students to understand the need to provide quality service to customers and the importance of effective communication in building customer relations. Students will learn how to provide customer service in different interactions with customers. 
 
-  
-
 **<u>Unit 4: Business investigation</u>**
-
-  
 
 This unit helps students to understand the process and skills needed to carry out an investigation for a business to improve its marketing mix so as to enhance its customers’ experience. Students will select, interpret, analyse and evaluate information and apply business knowledge to propose innovative and reasoned recommendation. 
 
-  
-
-**<u>AIMS</u>**
-
-  
+##### **<u>AIMS</u>** #####
 
 The syllabus aims to provide students with the opportunity to develop foundational business knowledge, transferrable employability skills and values for their future areas of work. The Travel and Tourism, Hospitality, and Retail industries provide the context where application of these knowledge, skills and values can be demonstrated.
 
-  
-
 The syllabus outcomes are:
-
-  
 
 **<u>KNOWLEDGE AND UNDERSTANDING</u>**
 
-  
-
 The syllabus intends for students to develop knowledge and understanding of:
-
-  
 
 • basic business activities in the Travel and Tourism, Hospitality, and Retail industries 
 
@@ -254,15 +228,9 @@ The syllabus intends for students to develop knowledge and understanding of:
 
 • basic customer relations focusing on communicating with customers and providing quality customer service. 
 
-  
-
 **<u>SKILLS</u>**
 
-  
-
 The syllabus intends for students to develop the ability to:
-
-  
 
 • apply concepts in marketing and customer relations, including the use of relevant terminology, to different contexts in the Travel and Tourism, Hospitality, and Retail industries 
 
@@ -276,15 +244,9 @@ The syllabus intends for students to develop the ability to:
 
 • harness the use of information and communication technologies (ICT) where appropriate. 
 
-  
-
 **<u>VALUES AND ATTITUDES</u>**
 
-  
-
 The syllabus intends for students to develop the values and attitudes of:
-
-  
 
 • integrity and responsibility in making decisions 
 
