@@ -6,33 +6,33 @@ third_nav_title: Performing Arts
 ---
 ## Concert Band
 
-**<u>Introduction</u>**  
+##### <u>Introduction</u>
 
 Since its inception in 1966, St. Gabriel’s Concert Band has undergone many changes from a Military Band to its current status of Symphonic Band.
   
 Over the years, the Band has staged numerous performances in and out of school. Besides performances, the Band is also actively involved in community programmes. Through these programmes, the Band will be able to develop its members to be true servant-leaders in serving the community.  
 
-**Teachers-in-charge**
+![](/images/SYF%202021%20Arts%20Presentation.jpeg)
 
-Mr. Ong Ting Kai (OIC)
+##### Teachers-in-charge
 
-Ms. Ng U-Lynn (2IC)
+1. Mr. Ong Ting Kai (OIC)
+2. Ms. Ng U-Lynn (2IC)
 
-**Training Schedule**
+##### <u>Training Schedule</u>
 
-Practice sessions:
+**Practice sessions**
 
 Tue & Thu : 2.30pm - 5.30pm
 
 Fri : 2pm - 5.00pm
 
-  
-
 Venue: Band Room
 
+
   
 
-**<u>Achievements</u>**
+##### <u>Achievements</u>
 
 2022 Performances / Exchange Programme
 
@@ -73,8 +73,6 @@ Venue: Band Room
 
 *   SYF - Certificate of Distinction
 *   Clarinet Quartet Performance at World Schools Debating Championship 2015 Preliminary Rounds
-
-![](/images/SYF%202021%20Arts%20Presentation.jpeg)
 
 ![](/images/Mr%20Shawn%20Lim%20addressing%20the%20Concert%20Band%20during%20Full%20Dress%20Rehearsal.jpeg)
 
