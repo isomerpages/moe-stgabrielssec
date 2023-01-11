@@ -7,7 +7,7 @@ description: ""
 
 _**Learning is a walk of discovery, playing is the highest form of research.**_  
 
-**Introduction**
+#### Introduction
 
 The aim of the Science Education programme at St. Gabriel’s Secondary School (SGSS) is to
 
