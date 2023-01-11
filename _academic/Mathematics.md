@@ -5,11 +5,11 @@ description: ""
 ---
 ## Mathematics
 
-##### **Introduction**
+##### Introduction
 
 Welcome to St. Gabriel’s Secondary Mathematics Department Webpage. As Mathematics educators, we strive to ensure that all students achieve a level of mastery in Mathematics that will serve them well in the future, where they can confidently use Mathematics to make informed decisions in their everyday activities so as to lead meaningful and purposeful lives.
 
-##### **Objectives** <br>
+##### Objectives <br>
 **Our Vision and Mission**
 
 
@@ -57,12 +57,12 @@ The results for 2022 competition are as follows.
 
 ### Principles of Accounts (POA)
 
-##### **Introduction**
+##### Introduction
 
 POA is designed to provide our students with a meaningful basic introduction to finanial accounting and to develop an appreciation of the discipline of accounting.
 N˜
 
-##### **Objectives**
+##### Objectives
 
 1 To equip our students with strong fundamentals for future learning.
 
@@ -81,7 +81,7 @@ This competition allows student to apply what they have learned in class. It als
 
 ### Computer Applications (CPA)
 
-##### **Our Vision and Mission**
+##### Our Vision and Mission
 
 <u>**Vision**</u>
 
