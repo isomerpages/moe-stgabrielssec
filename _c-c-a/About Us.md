@@ -12,11 +12,30 @@ In our aim to provide a holistic education to all Gabrielites, our co-curricular
 
 **<u>CCA Information</u>**
 
-<img src="/images/Clubs%20&%20Performing%20Arts.jpeg" 
-     style="width:33%;float:left"><img src="/images/Clubs%20&%20Performing%20Arts.jpeg" 
-     style="width:33%;float:left"><img src="/images/Uniformed%20Groups.jpeg" 
-     style="width:33%">
- 
-| Club & Performing Arts |Sports & Games | Uniformed Groups |
-| -------- | -------- | -------- |
-|||
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
+.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+<tr>
+    <th class="tg-tlx9"><img style="width:90%" src="/images/CCA/About%20Us/Clubs%20&%20Performing%20Arts.jpeg"></th>
+	<th class="tg-tlx9"></th>
+    <th class="tg-tlx9"><img class="tg-tlx9"><img style="width:100%" src="/images/CCA/About%20Us/Clubs%20&%20Performing%20Arts.jpeg">
+    </th><th class="tg-tlx9"><img style="width:90%" src="/images/CCA/About%20Us/Uniformed%20Groups.jpeg">
+  </th></tr>
+</thead>
+<tbody>
+	  <tr>
+				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Club & Performing Arts</span></td>
+    <td class="tg-apyk"><br></td>
+    <td class="tg-apyk">Sports & Games
+		<td class="tg-apyk">Uniformed Groups
+  </tr>
+</tbody>
+</table>
