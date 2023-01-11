@@ -15,8 +15,7 @@ The Guitar Ensemble has also placed great emphasis on overseas performances and 
 
 Under the flame of Labor Omnia Vincit, the ensemble has labored hard to achieve distinguished accomplishments.
 
-![](/images/Guitar%20Ensemble.png)
-
+![](/images/CCA/Performing%20Arts/Guitar%20Ensemble/Guitar%20Ensemble.png)
 
 ##### Teachers-in-charge
 <br>
