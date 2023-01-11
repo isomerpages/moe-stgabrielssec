@@ -7,9 +7,9 @@ description: ""
 
 ##### **<u>Introduction</u>**
 
-![](/images/PE%20DEPT.jpeg)
+![](/images/Academic/Physical%20Education/PE%20DEPT.jpeg)
 
-![](/images/Physical%20Education%20-%202.png)
+![](/images/Academic/Physical%20Education/Physical%20Education%20-%202.png)
 
 ##### **<u>The Team</u>**
 
@@ -98,7 +98,7 @@ Our PE syllabus is organised to achieve the goals of PE based on the framework b
 Learning in affective areas and competencies for the 21st century are both the outcomes and enablers for the learning of physical education. Through a balanced and well-designed curriculum, delivered through effective pedagogies and purposeful assessment, students will acquire the knowledge, skills and values to pursue active and healthy lives.
 
 
-<img src="/images/Balanced%20Physical%20Education%20Curriculum.png" style="width:70%" >
+<img src="/images/Academic/Physical%20Education/Balanced%20Physical%20Education%20Curriculum.png" style="width:70%" >
 
 **<u>Programmes</u>**
 
@@ -170,7 +170,7 @@ SGSS PE Syllabus focus on the movement skills, knowledge and values components o
 
 **<u>SGSS Weight Management Programme</u>**
 
-<img src="/images/SGSS%20Weight%20Management%20Programme.png" style="width:70%" >
+<img src="/images/Academic/Physical%20Education/SGSS%20Weight%20Management%20Programme.png" style="width:70%" >
 
 Objectives:
 
