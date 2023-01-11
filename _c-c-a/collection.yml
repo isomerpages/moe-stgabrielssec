@@ -1,5 +1,5 @@
 collections:
-  cca:
+  c-c-a:
     output: true
     order:
       - About Us.md
