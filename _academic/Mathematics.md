@@ -57,12 +57,12 @@ The results for 2022 competition are as follows.
 
 ### Principles of Accounts (POA)
 
-##### **<u>Introduction</u>**
+##### <u>**Introduction**</u>
 
 POA is designed to provide our students with a meaningful basic introduction to finanial accounting and to develop an appreciation of the discipline of accounting.
 N˜
 
-##### **<u>Objectives</u>**
+##### <u>**Objectives**</u>
 
 1 To equip our students with strong fundamentals for future learning.
 
@@ -70,7 +70,7 @@ N˜
 
   
 
-**<u>Enrichment</u>**
+<u>**Enrichment**</u>
 
 **External Competition – Annual Financial Literacy for Youths Race (FLY)**
 
@@ -81,7 +81,7 @@ This competition allows student to apply what they have learned in class. It als
 
 ### Computer Applications (CPA)
 
-##### **<u>Our Vision and Mission</u>**
+##### <u>**Our Vision and Mission**</u>
 
 <u>**Vision**</u>
 
@@ -110,7 +110,7 @@ The general aims of the syllabus are to enable students to:
 
   
 
-**<u>Enrichment</u>**
+<u>**Enrichment**</u>
 
   
 
