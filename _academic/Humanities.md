@@ -39,7 +39,7 @@ To be a team of effective humanities educators for diverse learners in
 
 #### **<u>The Humanities Program</u>**
 
-##### **Lower Secondary**  
+**Lower Secondary**  
 
 The Lower Secondary Humanities programme consists of two subjects- Geography and History. The concepts and content taught are Singapore-centred to provide students with a good grounding in skills and content which resonates with them because of the connection of the learning to their own lives.
 
@@ -51,7 +51,7 @@ To develop a passion in the humanities as well as to provide joy in learning, th
 
 ![](/images/Academic/Humanities/Humanities4.png)
 
-##### **Upper Secondary** 
+**Upper Secondary** 
 
 Humanities is a compulsory subject for all students at the upper secondary level.  It comprises the subject Social Studies, with either Geography Elective or History Elective for both the Express and Normal Academic Students. Normal Technical students are exposed to the Social Studies citizenship module which is non-examinable.   
 
