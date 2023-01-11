@@ -12,7 +12,7 @@ Under the guidance of Ms Nisa, together with Ms Syarmeen and Mdm Rose, the Club 
 
 As a CCA, we strive to do our best in every event that we are involved in as our motto states, _Look Good, Sound Good_. We hope to continue to give our best so that our audience have a memorable experience when celebrating different occasions with the school.
 
-![](/images/20191025_Infocomm_image1.jpeg)
+![](/images/CCA/Clubs%20&%20Societies/Infocomm%20Club/Infocomm%20Club.jpeg)
 
 ##### Teachers-in-charge
 1. Ms. Khairunnisa
