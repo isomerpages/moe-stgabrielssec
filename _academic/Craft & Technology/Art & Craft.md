@@ -24,11 +24,11 @@ In St. Gabriel's Secondary School, we believe that a strong aesthetics programme
 
 #### **<u>Objectives</u>**
 
-##### **Our Vision**
+**Our Vision**
 
 To enrich lives and create joy and a love for learning through the Arts, whilst imparting life-skills through a supportive and nurturing environment, where pupils are encouraged to achieve their full potential whilst adopting new skills and knowledge. Pupils are exposed to the Arts and it’s many forms thereby appreciating it’s many applications in society.
 
-##### **Our Mission**
+**Our Mission**
 
 *   **To enable** every child to be <u>visually literate</u> and to <u>appreciate art</u>.
 
@@ -115,11 +115,11 @@ Students are encouraged to explore, to create, and to reach their full potential
 </tbody>
 </table>
 
-##### **<u>Lower Secondary - Enrichment**
+##### **<u>Lower Secondary - Enrichment</u>**
 
 **Digital Media Art:**
-*   Sec 1 -  Mobile Photography
-*   Sec 2 -  Poster Design
+*   Secondary 1 -  Mobile Photography
+*   Secondary 2 -  Poster Design
 
 |  |  | 
 | -------- | -------- | 
@@ -130,16 +130,16 @@ Students are encouraged to explore, to create, and to reach their full potential
 
 **Participation:**
 
-<center>Participation in School Arts Buzz <br>(Two weeks long of Art program and activities) </center> <center>Arts Buzz - 2018</center>
+* Participation in School Arts Buzz (Two weeks long of Art program and activities) </center> <center>Arts Buzz - 2018</center>
 
-![](/images/Arts%20Buzz%202018.jpeg)
+![](/images/Arts%20Buzz%202018.jpeg) <br>
 
-<center>Alternate year of participation in <br>Singapore Youth Festival Art Labs</center> 
+* Alternate year of participation in Singapore Youth Festival Art Labs 
 
 | ![](/images/SYF%20Art%20Labs%202016.jpeg) <center>SYF Art Labs - 2016</center> | ![](/images/Art%20lessons%20with%20overseas%20students%202018.jpeg) <center>Exchange Art lessons with Overseas students - 2018 </center>|  |
 | -------- | -------- | -------- |
 	
-##### **<u>Upper Secondary - Programmes**	
+##### **<u>Upper Secondary - Programmes</u>**	
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -215,7 +215,8 @@ Students are encouraged to explore, to create, and to reach their full potential
 |  ![](/images/National%20Gallery%20of%20Singapore%20-%201.jpeg)    |  ![](/images/National%20Gallery%20of%20Singapore%20-%202.jpeg)    |
 
 <br>
-Overseas or Local Art Trips:
+
+**Overseas or Local Art Trips:**
 
 | Cultural Immersion and VIA Overseas Trip to Chiangmai 2017 and 2018 |  |
 | -------- | -------- | 
