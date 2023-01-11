@@ -60,17 +60,17 @@ The department also organises programmes and activities that provide opportuniti
 A variety of activities such as cultural performance, workshops and courses are organized by the three language units during the two weeks programme. Students from all levels and streams are involved in the activities organized.
 
 
-<img src="/images/Mother%20Tongue%20-%201.jpeg" style="width:49%" align=left>
+<img src="/images/Academic/Mother%20Tongue/Mother%20Tongue%20-%201.jpeg" style="width:49%" align=left>
 
-<img src="/images/Mother%20Tongue%20-%202.jpeg" style="width:49%" align=right>
+<img src="/images/Academic/Mother%20Tongue/Mother%20Tongue%20-%202.jpeg" style="width:49%" align=right>
 
 <br clear="left">
 
-![](/images/Mother%20Tongue%20-%203.jpeg)
+![](/images/Academic/Mother%20Tongue/Mother%20Tongue%20-%203.jpeg)
 
-<img src="/images/Mother%20Tongue%20-%204.jpeg" style="width:49%" align=left>
+<img src="/images/Academic/Mother%20Tongue/Mother%20Tongue%20-%204.jpeg" style="width:49%" align=left>
 
-<img src="/images/Mother%20Tongue%20-%205.jpeg" style="width:49%" align=right>
+<img src="/images/Academic/Mother%20Tongue/Mother%20Tongue%20-%205.jpeg" style="width:49%" align=right>
 
 <br clear="left">
 
@@ -80,20 +80,20 @@ The overseas twining programme with our China partner school provides opportunit
 
 Participants will take part in a 7-day overseas immersion programme which enable them to visit our twining school and visit historical sites and local attractions. They will also host our guests from the twining school in the following year.
 
-<img src="/images/Mother%20Tongue%20-%206.jpeg" style="width:49%" align=left>
+<img src="/images/Academic/Mother%20Tongue/Mother%20Tongue%20-%206.jpeg" style="width:49%" align=left>
 
-<img src="/images/Mother%20Tongue%20-%207.jpeg" style="width:49%" align=right>
-
-<br clear="left">
-<br clear="left">
-
-<img src="/images/Mother%20Tongue%20-%208.jpeg" style="width:49%" align=left>
-
-<img src="/images/Mother%20Tongue%20-%209.jpeg" style="width:49%" align=right>
+<img src="/images/Academic/Mother%20Tongue/Mother%20Tongue%20-%207.jpeg" style="width:49%" align=right>
 
 <br clear="left">
 <br clear="left">
 
-<img src="/images/Mother%20Tongue%20-%2010.jpeg" style="width:49%" align=left>
+<img src="/images/Academic/Mother%20Tongue/Mother%20Tongue%20-%208.jpeg" style="width:49%" align=left>
 
-<img src="/images/Mother%20Tongue%20-%2011.jpeg" style="width:49%" align=right>
+<img src="/images/Academic/Mother%20Tongue/Mother%20Tongue%20-%209.jpeg" style="width:49%" align=right>
+
+<br clear="left">
+<br clear="left">
+
+<img src="/images/Academic/Mother%20Tongue/Mother%20Tongue%20-%2010.jpeg" style="width:49%" align=left>
+
+<img src="/images/Academic/Mother%20Tongue/Mother%20Tongue%20-%2011.jpeg" style="width:49%" align=right>
