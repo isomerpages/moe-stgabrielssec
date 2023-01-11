@@ -19,7 +19,7 @@ third_nav_title: Craft & Technology
 
 ##### Programmes  
   
-##### **<u>The Gabrielite Design Model</u>**
+##### <u>The Gabrielite Design Model</u>
 
 ![](/images/Academic/Design%20&%20Technology/The%20Gabrielite%20Design%20Model.png)
 
