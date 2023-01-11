@@ -9,15 +9,15 @@ _The truth may be puzzling. It may take some work to grapple with. It may also b
 
 ![](/images/Academic/Humanities/Humanities%201.jpeg)
 
-##### **<u>Introduction</u>**  
+##### <u>Introduction</u>
 
 The aim of humanities education in St. Gabriel’s Secondary School is to encourage students to gain and develop a mastery of skills related to knowledge building and understanding of events and phenomenon, issues and perspectives, and human actions and behaviors.
 
-##### **<u>Vision</u>**
+##### <u>Vision</u>
 
 Every Gabrielite is a skilled inquirer who is humbled by the world around him.  
 
-##### **<u>Mission</u>**
+##### <u>Mission</u>
 
 To be a team of effective humanities educators for diverse learners in
 
@@ -37,7 +37,7 @@ To be a team of effective humanities educators for diverse learners in
 
 ![](/images/Academic/Humanities/Humanities3.png)
 
-#### **<u>The Humanities Program</u>**
+#### <u>The Humanities Program</u>
 
 **Lower Secondary**  
 
@@ -136,7 +136,7 @@ The learning of Geography or History as an elective is meant to deepen the stude
 		</tbody>
 </table>
 
-**<u>Useful Websites</u>**
+<u>Useful Websites</u>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -183,7 +183,7 @@ The learning of Geography or History as an elective is meant to deepen the stude
 1.  Mr. Rodney Goh (Coordinator)
 2.  Ms. Farah Zeeba
 
-##### **<u>Introduction</u>**
+##### <u>Introduction</u>
 
 This syllabus is an introduction to business through an understanding of business activities, focusing on basic marketing and customer relations, in the context of Singapore. The syllabus intends to provide students with opportunities to develop transferable employability skills and knowledge in the service industry, namely the Travel and Tourism, Hospitality, and Retail industries, which continue to offer employment opportunities accessible to the students. It provides students with the foundational knowledge and skills for further studies in institutes of higher learning and the awareness of prospects of a career in the service industry.
 
@@ -207,7 +207,7 @@ This unit helps students to understand the need to provide quality service to cu
 
 This unit helps students to understand the process and skills needed to carry out an investigation for a business to improve its marketing mix so as to enhance its customers’ experience. Students will select, interpret, analyse and evaluate information and apply business knowledge to propose innovative and reasoned recommendation. 
 
-##### **<u>AIMS</u>** #####
+##### <u>AIMS</u>
 
 The syllabus aims to provide students with the opportunity to develop foundational business knowledge, transferrable employability skills and values for their future areas of work. The Travel and Tourism, Hospitality, and Retail industries provide the context where application of these knowledge, skills and values can be demonstrated.
 
