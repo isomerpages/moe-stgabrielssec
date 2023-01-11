@@ -20,7 +20,7 @@ a. Enthuse and nurture all students to be scientifically literate, so that they
 
 b. Provide strong Science fundamentals for students to innovate and pursue STEM for future learning and work.
 
-<img src="/images/Science.png" style="width:70%" >
+<img src="/images/Academic/Science/Science.png" style="width:70%" >
 
 Central to the revised Science Curriculum Framework is the tagline **Science for Life and Society**, which is grounded in the three domains of
 
