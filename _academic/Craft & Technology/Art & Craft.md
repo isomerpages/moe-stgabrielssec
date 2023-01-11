@@ -16,13 +16,13 @@ third_nav_title: Craft & Technology
  
 ##### Programmes  
 
-##### **<u>Introduction</u>**
+##### <u>Introduction</u>
 
 In St. Gabriel's Secondary School, we believe that a strong aesthetics programme is essential in contributing towards achieving our vision to develop all our students to be Servant Leaders, Lifelong Learners & Gracious Citizens.
 
 ![](/images/Academic/Art/Art.jpeg)
 
-##### **<u>Objectives</u>**
+##### <u>Objectives</u>
 
 **Our Vision**
 
@@ -47,7 +47,7 @@ Through the Arts, pupils are more aware of the values and roles of the Arts in s
 
 Students are encouraged to explore, to create, and to reach their full potential through our wide variety of arts exposure programmes in school. We believe that the Arts drive creativity and creativity drives learning and when there is learning, students will grow and flourish abundantly.
 
-##### **<u>Lower Secondary - Programmes</u>**
+##### <u>Lower Secondary - Programmes</u>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -115,7 +115,7 @@ Students are encouraged to explore, to create, and to reach their full potential
 </tbody>
 </table>
 
-##### **<u>Lower Secondary - Enrichment</u>**
+##### <u>Lower Secondary - Enrichment</u>
 
 **Digital Media Art:**
 *   Secondary 1 -  Mobile Photography
@@ -139,7 +139,7 @@ Students are encouraged to explore, to create, and to reach their full potential
 | ![](/images/Academic/Art/SYF%20Art%20Labs%202016.jpeg) <center>SYF Art Labs - 2016</center> | ![](/images/Academic/Art/Art%20lessons%20with%20overseas%20students%202018.jpeg) <center>Exchange Art lessons with Overseas students - 2018 </center>|  |
 | -------- | -------- | -------- |
 	
-##### **<u>Upper Secondary - Programmes</u>**	
+##### <u>Upper Secondary - Programmes</u>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -204,7 +204,7 @@ Students are encouraged to explore, to create, and to reach their full potential
 </tbody>
 </table>
 	
-##### **<u>Upper Secondary - Enrichment</u>**
+##### <u>Upper Secondary - Enrichment</u>
 **Museum visit:**
 * National Gallery of Singapore
 * Singapore Art Museum
