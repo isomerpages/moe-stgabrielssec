@@ -41,5 +41,5 @@ St. Gabriel Secondary School also participated in competitions organised by:
 
 |  |  |  | |
 | -------- | -------- | -------- | -------- |
-|   ![](/images/Academic/Food%20&%20Consumer%20Education/Pineapple%20Rice.jpeg)  |   ![](/images/Pasta.jpeg)   |    ![](/images/Academic/Food%20&%20Consumer%20Education/Glutinous%20Rice.jpeg)  |  ![](/images/Academic/Food%20&%20Consumer%20Education/Dessert.jpeg)   |
+|   ![](/images/Academic/Food%20&%20Consumer%20Education/Pineapple%20Rice.jpeg)  |   ![](/images/Academic/Food%20&%20Consumer%20Education/Pasta.jpeg)   |    ![](/images/Academic/Food%20&%20Consumer%20Education/Glutinous%20Rice.jpeg)  |  ![](/images/Academic/Food%20&%20Consumer%20Education/Dessert.jpeg)   |
 |  ![](/images/Academic/Food%20&%20Consumer%20Education/Learning%20to%20prepare%20cook.jpeg)   |      |     |     |
