@@ -30,5 +30,5 @@ The curriculum for our Gabrielites aim at building listening and instrumental sk
 
 |  | | 
 | -------- | -------- | 
-|  ![](/images/Music%20-%201.png)    |   ![](/images/Music%20-%202.png)   | 
-|  ![](/images/Music%20-%203.png)    |   ![](/images/Music%20-%204.png)  |
+|  ![](/images/Academic/Music/Music%20-%201.png)    |   ![](/images/Academic/Music/Music%20-%202.png)   | 
+|  ![](/images/Academic/Music/Music%20-%203.png)    |   ![](/images/Academic/Music/Music%20-%204.png)  |
