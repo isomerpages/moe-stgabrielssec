@@ -132,7 +132,9 @@ The learning of Geography or History as an elective is meant to deepen the stude
     <td class="tg-ku5w"></td>
     <td class="tg-ku5w"></td>
     <td class="tg-ku5w">Mr Paul De Souza<br><a href="mailto:de_souza_paul_francis@moe.edu.sg">de_souza_paul_francis@moe.edu.sg</span></a></td>
-  </tr></tbody></table>
+		</tr> 
+		</tbody>
+</table>
 
 **<u>Useful Websites</u>**
 
@@ -170,7 +172,7 @@ The learning of Geography or History as an elective is meant to deepen the stude
     <td class="tg-y7qa" colspan="2"></td>
     <td class="tg-x4o9"><a href="https://www.asiangeo.com/">https://www.asiangeo.com/</a></td>
   </tr>
-</tbody>
+	</tbody>
 </table>
 
 
