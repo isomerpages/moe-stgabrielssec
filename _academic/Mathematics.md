@@ -5,25 +5,23 @@ description: ""
 ---
 ## Mathematics
 
-**<u>Introduction</u>**
+#### **<u>Introduction</u>**
 
 Welcome to St. Gabriel’s Secondary Mathematics Department Webpage. As Mathematics educators, we strive to ensure that all students achieve a level of mastery in Mathematics that will serve them well in the future, where they can confidently use Mathematics to make informed decisions in their everyday activities so as to lead meaningful and purposeful lives.
 
-  
-
-**<u>Objectives</u>** <br>
+#### **<u>Objectives</u>** <br>
 **Our Vision and Mission**
 
 
-**Vision:**
+**<u>Vision</u>**
 
 Every Gabrielite is a confident problem-solver who can effectively apply Mathematics in life.
 
-**Mission:**
+**<u>Mission</u>**
 
 To be a team of collaborative and reflective educators who provide engaging experiences for students to become confident problem-solvers
 
-<img style="width: 60%;" src="/images/Mathematical%20Problem%20Solving.png">
+<img style="width: 60%;" src="/images/Academic/Mathematics/Mathematical%20Problem%20Solving.png">
 
 **<u>Enrichment</u>** 
 <br>
@@ -149,6 +147,3 @@ The general aims of the syllabus are to enable students to:
 **Media Computing Competition held by MOE**
 
 Our students participate in the MEC Competition annually. Each school will select and submit one entry each from Sec 2 (Animation category) and Sec 3 (Gaming category). Candidates will use programming software to work on a given game scenario to demonstrate skills in selecting suitable background pictures and characters, creating scripts to animate characters, allowing user interaction through keyboard and/or mouse, as well as saving the work done.
-
-  
-
