@@ -78,7 +78,7 @@ The learning of Geography or History as an elective is meant to deepen the stude
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ii8k">Ms Siti Rafeah Bte Rahmat (HOD/Humanities)<br><a href="mailto:siti_rafeah_rahmat@moe.edu.sg">siti_rafeah_rahmat@moe.edu.sg</span></a><span style="color:#222;background-color:#EAEAEA"> </span></td>
+    <td class="tg-ii8k">Ms Siti Rafeah Bte Rahmat (HOD/Humanities)<br><a href="mailto:siti_rafeah_rahmat@moe.edu.sg">siti_rafeah_rahmat@moe.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-ii8k">Ms Tanny Koh Tien Tien (SH/Geography)<br><a href="mailto:tanny_koh_tien_tien@moe.edu.sg">tanny_koh_tien_tien@moe.edu.sg</a><br></td>
