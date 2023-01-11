@@ -23,11 +23,11 @@ description: ""
 14. Ms Koh Hwee Kiang
 15. Ms Cheong Li Yun
 
-##### **<u>Objective</u>**
+##### <u>Objective</u>
 
 Every Gabrielite to be effective and confident in communicating in the English Language.  
 
-##### **<u>Programme</u>**
+##### <u>Programme</u>
 
 The curriculum seek to develop linguistic competencies in our students through the teaching and learning of English to enable Gabrielities to be empathetic communicators, discerning readers and creative enquirers. The syllabus develops effective and affective language use in students in the following areas:
 
@@ -49,7 +49,7 @@ The curriculum seek to develop linguistic competencies in our students through t
 5. Mdm. Chew Jia Ay
 6. Ms Koh Hwee Kiang
 
-##### **<u>Programme</u>**
+##### <u>Programme</u>
 **Lower Secondary**
 
 Gabrielites are introduced to a range of literary texts in prose, poetry and drama. They also begin to learn how to respond to and analyse such literary writing. Those who are keen on Literature can choose to offer Literature in English at GCE O or GCE NA Level at the end of Secondary Two.
