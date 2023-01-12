@@ -59,7 +59,7 @@ Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access 
   </tr>
   <tr>
     <td class="tg-n4qt"><br><a href="https://stgabrielssec-moe-edu-sg-admin.cwp.sg/links/quick-links-students/booklist">Booklist for Year 2023</a><br><br></td>
-    <td class="tg-otbs"><br><a href="/files/Locker%20Rental%20Application%20Form.pdf">Locker Rental Application Form</a><br><br></td>
+    <td class="tg-otbs"><br><a href="/files/Links/Students/Locker%20Rental%20Application%20Form.pdf">Locker Rental Application Form</a><br><br></td>
   </tr>
   <tr>
     <td class="tg-otbs"><span style="color:#222;background-color:#EAEAEA"> </span><br><a href="http://portal.swn.moe.edu.sg/">School WiFi Log In / Log Off Portal</a> <br><br></td>
