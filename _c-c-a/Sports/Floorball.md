@@ -6,7 +6,7 @@ third_nav_title: Sports
 ---
 ## Floorball 
 
-**<u>Introduction</u>** 
+##### <u>Introduction</u>
 
 "ATTITUDE before APTITUDE"
 
@@ -21,19 +21,18 @@ With a well-developed floorball programme put in place, our floorball school tea
 
 **2021 Level Representatives**
 ![](/images/2021%20Level%20Representatives.png)
-Sec 3: AARIZ IZYAN BIN JAILANI (S3-T1) & HARESH KISHAN GUNASEGARAN (S3-E4)
+Sec 3: Aariz Izyan bin Jailani (S3-T1) & Haresh Kishan Gunasegaran (S3-E4)
 
 ![](/images/S2.png)
-Sec 2: IMRAN HADI BIN M RAZALI (S2-E5) &TREVOR TAN (S2-T1)
+Sec 2: Imran Hadi bin M Razali (S2-E5) & Trevor Tan (S2-T1)
 
-**<u>Teachers-in-charge</u>**
+##### Teachers-in-charge
 <br>
-Ms. Laura Huang (OIC)<br>
-Mr.  Ivan Ng (2IC) <br>
-Mr. Tai Maoshen <br>
-Ms. Joanne Lim
+1. Ms. Laura Huang (OIC)<br>
+2. Mr.  Ivan Ng (2IC) <br>
+3. Mr. Tai Maoshen <br>
+4. Ms. Joanne Lim
 
-  
 
 **<u>Coach</u>**<br>
 Coach Saravanan
@@ -70,4 +69,3 @@ Floorballers to refer to floorball calendar for holiday training, updates and la
 *   National Inter School Floorball Championships 2017: _Quarter-Finals_
 *   National Inter School Floorball Championships 2016: _Quarter-Finals_
 *   National Inter School Floorball Championships 2015: _Quarter-Finals_
-
