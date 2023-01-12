@@ -4,7 +4,6 @@ permalink: /co-curricular/Values-Education/Cyberwellness/
 description: ""
 third_nav_title: Values Education
 ---
-
 ## Cyberewellness 
 
 Cyber Wellness refers to the positive well-being of an Internet user. It involves an understanding of the norms of appropriate, responsible behaviour with regard to technology use as well as knowledge, skills, values and attitudes on how to protect oneself and other Internet users in the cyber world. Any reported cases of inappropriate online behaviour will be investigated, as the school takes a serious view of such cases.
@@ -29,7 +28,8 @@ Cyber Wellness refers to the positive well-being of an Internet user. It involve
 <tbody>
   <tr>
     <td class="tg-ncov">Netiquette</td>
-    <td class="tg-fwnj">Remember the rules of courtesy.<br><span style="background-color:initial">Show people the same respect that one would expect from others both real life and online. Avoid hurting someone’s feelings with what is written.</span><br>Be responsible for what is posted.<br><span style="background-color:initial">Do not share provocative photographs or intimate personal details online.</span><br>Avoid flaming.<br><span style="background-color:initial">Flaming is the sending of repeated, aggressive messages through the Internet. Do not scold, insult, or ridicule others. Stay calm when ‘flaming’ occurs and ignore or give time for the other person to explain. It may be a misunderstanding.</span><br>Respect other people's privacy.<br><span style="background-color:initial">Do not read other people’s files and emails or spread unfounded rumours.</span><br>Respect other people’s time.<br><span style="background-color:initial">Avoid sending or forwarding information that is not important or relevant to others.</span></td>
+    <td class="tg-fwnj">- Remember the rules of courtesy.<br><span style="background-color:initial">Show people the same respect that one would expect from others both real life and online. Avoid hurting someone’s feelings with what is written.</span><br><br>- Be responsible for what is posted.<br><span style="background-color:initial">Do not share provocative photographs or intimate personal details online.</span><br><br>
+			- Avoid flaming.<br><span style="background-color:initial">Flaming is the sending of repeated, aggressive messages through the Internet. Do not scold, insult, or ridicule others. Stay calm when ‘flaming’ occurs and ignore or give time for the other person to explain. It may be a misunderstanding.</span><br><br>- Respect other people's privacy.<br><span style="background-color:initial">Do not read other people’s files and emails or spread unfounded rumours.</span><br><br>- Respect other people’s time.<br><span style="background-color:initial">Avoid sending or forwarding information that is not important or relevant to others.</span></td>
   </tr>
   <tr>
     <td class="tg-ncov">Cyber bullying</td>
