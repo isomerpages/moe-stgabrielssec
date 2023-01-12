@@ -78,3 +78,5 @@ Our ECG programmes are planned and conducted for students at different academic 
   </tr>
 </tbody>
 </table>
+
+For Education and Career Pathway, please click [here](https://sites.google.com/moe.edu.sg/2021sgsssec4and5/home)
