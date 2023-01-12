@@ -5,9 +5,9 @@ description: ""
 ---
 ## Student Handbook
 
-**1. [Awards (Academic and Non-Academic)](/files/AWARDS%20ACADEMIC%20AND%20NON%20ACADEMIC.pdf)**
+**1. [Awards (Academic and Non-Academic)](/files/Links/Student%20Handbook/Awards%20(Academic%20and%20Non%20Academic).pdf)**
 
-**2. [Internal Examinations Rules and Regulations](/files/Internal%20Examination%20Rules%20and%20Regulations.pdf)**  
+**2. [Internal Examinations Rules and Regulations](/files/Links/Student%20Handbook/Internal%20Examination%20Rules%20and%20Regulations.pdf)**  
 
 **3. [Assessment and Promotion Criteria](/files/Assessment%20and%20Promotion%20Criteria.pdf)**  
 
