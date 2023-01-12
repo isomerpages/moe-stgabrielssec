@@ -4,7 +4,7 @@ permalink: /links/Frequently-Asked-Questions/Student-Admissions/
 description: ""
 third_nav_title: Frequently Asked Questions
 ---
-## FAQ: STUDENT ADMISSIONS
+### FAQ: STUDENT ADMISSIONS
 
 
 ##### Student Admissions
@@ -60,17 +60,17 @@ Details of the SPERS-Sec and SPERS-JC/MI exercises and the Supplementary Placeme
 Leave of Absence (LOA) Scheme (Applicable to Returning Singaporeans only)
 -------------------------------------------------------------------------
 
-#### What is Leave of Absence (LOA) Scheme?
+##### What is Leave of Absence (LOA) Scheme?
 
 In support of Singapore’s regionalisation efforts, the Ministry of Education has implemented a Leave of Absence Scheme (LOA) to facilitate children who accompany their parents on overseas posting to be readmitted into their schools upon their return.
 
 Under this scheme, children granted LOA will continue to be registered as a student of the school. Upon their return, they can be re-admitted to their schools directly.
 
-#### Who are eligible to apply for the LOA Scheme?
+##### Who are eligible to apply for the LOA Scheme?
 
 The child must be a Singapore Citizen (SC) or Singapore Permanent Resident (SPR), and is presently studying in a Singapore school and will be accompanying his parent on an overseas posting and intends to re-join his former school on his return.
 
-#### Why must pay to apply for the LOA scheme? How much?
+##### Why must pay to apply for the LOA scheme? How much?
 
 LOA fees were charged to defray the schools’ administrative costs of keeping in touch with these students. With effect from 1 Jan 2013, the LOA fee pro-rated on a quarterly basis by SGSS is as follows:
 
@@ -80,7 +80,7 @@ LOA fees were charged to defray the schools’ administrative costs of keeping i
 * $60 for ¼ year of LOA  (ie. start month is October onwards). <br>  
   
 
-#### How to apply for the LOA Scheme?
+##### How to apply for the LOA Scheme?
 
 1.  Complete the Application Form for Leave of Absence. Form is available on the MOE website at: [http://www.moe.gov.sg/education/admissions/returning-singaporeans/leave-of-absence/](https://www.moe.gov.sg/admissions/returning-singaporeans/support-schemes)  
     
@@ -90,13 +90,13 @@ LOA fees were charged to defray the schools’ administrative costs of keeping i
     
 4.  Renew LOA in November each year by submitting the renewal application form together with the required payment.  
 
-#### Do I need to renew the LOA Scheme on a yearly basis?
+##### Do I need to renew the LOA Scheme on a yearly basis?
 
 At the end of October, parents will need to decide whether to renew the LOA for their child for another year.  LOA status will lapse for those who decide not to renew their LOA application. 
 
 For existing LOA applicants, parents are to submit the renewal application form together with the required payment to the school by November.
 
-#### Who can I contact for enquiries on MOE Services for Returning Singaporeans?
+##### Who can I contact for enquiries on MOE Services for Returning Singaporeans?
 
 For enquiries on MOE Services for Returning Singaporeans, you can contact:
 
@@ -114,23 +114,23 @@ Email: [moe\_returnhome@moe.gov.sg](mailto:moe_returnhome@moe.gov.sg)
 Student Admissions
 ------------------
 
-#### International Students (IS)
+##### International Students (IS)
 
 International student with Dependant’s Pass (DP) or Immigration Exemption Order (IEO) or with either parent who is a Singapore Citizen (SC) or Singapore Permanent Resident (SPR), and who wish to study in a mainstream school, meeting the age criteria, may consider the following 2 options:
 
-#### Option 1: Apply directly to schools
+##### Option 1: Apply directly to schools
 
 Schools generally consider admission applications in the first half of the year and international students may apply for admission at their schools of choice directly.  Admission is subject to the availability of vacancies and the international students meeting the school’s admission criteria.
 
 International students with DP/IEO need not apply for Student’s Pass but International Students with either parent who is a SC/SPR need to apply for a Student’s Pass.  Admission is subject to the applicant obtaining a Student’s Pass issued by the ICA.
 
-#### Option 2: Participate in Admissions Exercise for International Students (AEIS)
+##### Option 2: Participate in Admissions Exercise for International Students (AEIS)
 
 International students seeking admission into Secondary 1-3 in the following academic year can apply centralized school admissions under AEIS.  International students participating in AEIS would enjoy the convenience of a centralized test on English and Mathematics, and the offer of a school place based on available school vacancies and their performance in the centralized test. There would be no school choices and requests for school transfers will not be entertained.
 
 To register for or find out more about AEIS, please visit the AEIS webpage at [http://www.moe.gov.sg/education/admissions/international-students/admissions-exercise/](https://www.moe.gov.sg/education/admissions/international-students/admissions-exercise/)
 
-#### International Students (IS)
+##### International Students (IS)
 
 International student **without** Dependant’s Pass (DP), **without** Immigration Exemption Order (IEO) and whose parents are not Singapore Citizen (SC) or Singapore Permanent Resident (SPR), and who wish to study in a mainstream school, meeting the age criteria, are required to sit for and pass the Admissions Exercise for International Students (AEIS) that is conducted in Sep/Oct annually. This exercise is for International students seeking admission in the following academic year.  International students participating in AEIS would enjoy the convenience of a centralized test on English and Mathematics, and the offer of a school place based on available school vacancies and their performance in the centralized test.  There would be no school choices and requests for school transfers will not be entertained.
 
@@ -138,6 +138,6 @@ International students who are unable to make it for the AEIS may wish to partic
 
 Shortlisted student will receive a Student’s Pass Online Application & Registration (SOLAR+) Registration Acknowledgement Letter from the school that will register him for Student’s Pass (STP) application. Upon receiving the SOLAR+ Registration Acknowledgement Letter issued by the school, the applicant should log into SOLAR+ on-line at ICA website immediately to apply for a Student’s Pass.
 
-#### Local Students’ Admission
+##### Local Students’ Admission
 
 Admission is subject to the availability of vacancies and the students meeting the school’s admission criteria. Shortlisted students may be required to sit for the entrance test to assess their suitability for subject allocation.
