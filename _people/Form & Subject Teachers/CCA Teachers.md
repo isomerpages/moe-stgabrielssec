@@ -34,8 +34,8 @@ third_nav_title: Form & Subject Teachers
   </tr>
   <tr>
     <td>Football</td>
-    <td>Terence Lim</td>
-    <td><a href="mailto:lim_ming_kuan_terence@moe.edu.sg">lim_ming_kuan_terence@moe.edu.sg</a><br></td>
+    <td>Suraj Padman</td>
+    <td><a href="mailto:suraj_padman@moe.edu.sg ">suraj_padman@moe.edu.sg </a><br></td>
   </tr>
   <tr>
     <td>Judo</td>
