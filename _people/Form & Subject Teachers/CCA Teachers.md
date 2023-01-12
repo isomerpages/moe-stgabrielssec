@@ -95,7 +95,7 @@ third_nav_title: Form & Subject Teachers
     <td><a href="mailto:tan_pei_chen@moe.edu.sg">tan_pei_chen@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td>Drama &amp; Debate Society</td>
+    <td>Drama</td>
     <td>Farah Zeeba</td>
     <td><a href="mailto:farah_zeeba_kasbollah@moe.edu.sg">farah_zeeba_kasbollah@moe.edu.sg</a><br></td>
   </tr>
@@ -105,9 +105,15 @@ third_nav_title: Form & Subject Teachers
     <td>Khairunnisa</td>
     <td><a href="mailto:khairunnisa_binte_ismail@moe.edu.sg">khairunnisa_binte_ismail@moe.edu.sg</a></td>
   </tr>
-  <tr>
+	<tr>
     <td> </td>
-    <td>HOD PE/CCA</td>
+    <td>Debate</td>
+    <td>Jo-Anne Seet</td>
+    <td><a href="mailto:seet_shuen_ai_jo-anne@moe.edu.sg">seet_shuen_ai_jo-anne@moe.edu.sg</a></td>
+    <td>
+  <tr>
+    <td> Head of Department PE/CCA</td>
+    <td></td>
     <td>Ong Chin Ming</td>
     <td><a href="mailto:ONG_Chin_Ming@moe.edu.sg">ONG_Chin_Ming@moe.edu.sg</a></td>
   </tr>
