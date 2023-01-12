@@ -34,12 +34,12 @@ Sec 2: Imran Hadi bin M Razali (S2-E5) & Trevor Tan (S2-T1)
 4. Ms. Joanne Lim
 
 
-**<u>Coach</u>**<br>
-Coach Saravanan
+##### Coach
+1. Coach Saravanan
 
   
 
-**Training Schedule**
+##### <u>Training Schedule</u>
 
 **(i) 'C' Division (Sec 1s & 2s):**
 
@@ -55,7 +55,7 @@ Floorballers to refer to floorball calendar for holiday training, updates and la
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_rnuv42e4idoifn747q4sce0ju4%40group.calendar.google.com&ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-**<u>Achievements</u>**<br>
+##### <u>Achievements</u>
 **(i) C Division**
 
 *   National Inter School Floorball Championships 2017: _Quarter-Finals_
