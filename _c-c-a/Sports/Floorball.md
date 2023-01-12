@@ -16,14 +16,14 @@ Therefore, at St Gabriel's Floorball, we firmly believe that the attitude of eve
 
 With a well-developed floorball programme put in place, our floorball school team has consistently finished within the top 16 positions of the National Inter-Schools Floorball Championships since 2007.
 
-![](/images/Graduating%20Cohort%20of%202021.png)
+![](/images/CCA/Sports%20&%20Games/Floorball/Graduating%20Cohort%20of%202021.png)
 **Graduating Cohort of 2021**
 
 **2021 Level Representatives**
-![](/images/2021%20Level%20Representatives.png)
+![](/images/CCA/Sports%20&%20Games/Floorball/2021%20Level%20Representatives.png)
 Sec 3: Aariz Izyan bin Jailani (S3-T1) & Haresh Kishan Gunasegaran (S3-E4)
 
-![](/images/S2.png)
+![](/images/CCA/Sports%20&%20Games/Floorball/S2.png)
 Sec 2: Imran Hadi bin M Razali (S2-E5) & Trevor Tan (S2-T1)
 
 ##### Teachers-in-charge
