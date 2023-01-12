@@ -53,13 +53,10 @@ One of the highlights for this year is our inaugural Career/STEM Fiesta which wa
 
 **Objectives of the Fiesta:**&nbsp;
 
-(1) To allow Sec 3 students to be exposed to different career choices, their requirements and demands&nbsp;
-
-(2) To emplace St. Gabriel’s Secondary as a feeder school of choice for the aviation industry&nbsp;
-
-(3) To nurture future leaders and professionals to serve and develop Singapore into an aviation hub&nbsp;
-
-(4) To encourage lifelong learning in Science, Technology, Engineering and Mathematics (STEM) through Flight and Aerospace
+1. To allow Sec 3 students to be exposed to different career choices, their requirements and demands<br>
+2. To emplace St. Gabriel’s Secondary as a feeder school of choice for the aviation industry<br>
+3. To nurture future leaders and professionals to serve and develop Singapore into an aviation hub<br>
+4. To encourage lifelong learning in Science, Technology, Engineering and Mathematics (STEM) through Flight and Aerospace<br>
 
 This event allowed our students to hear first hand and learn from practising professionals in their fields the kind of work they do, the requirements for getting into their line of work and also emphasize to them the importance of STEM (Science, Technology, Engineering, Mathematics) as a growing engine of the economy. Hopefully, through all these, the students will be able to better choose a professional career of their choice and liking.
 
