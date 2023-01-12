@@ -33,8 +33,6 @@ Returning Singaporeans
 
 Returning Singaporean children refers to children who are **Singapore Citizens (SC) or Singapore Permanent Residents (SPR)** who are living and studying overseas and are currently not attending local schools.
 
-  
-
 Returning Singaporean Children include:
 
 *   Children who are going overseas to live and study.  
@@ -42,15 +40,10 @@ Returning Singaporean Children include:
 *   Children who are currently living and studying overseas.  
     
 *   Children who are returning home having lived and studied overseas.  
-    
-
-  
 
 #### What are the options for school admission for Returning Singaporean?
 
 In recognition of the different needs of Returning Singaporeans, MOE has provided several options for school admission. Returning Singaporeans can choose one or more options based on their individual needs. For example, Returning Singaporeans who have a strong preference for a school of choice may choose to approach the school directly to seek admission, or also apply to MOE for assistance for school placement.
-
-  
 
 Students who are Returning Singaporeans have **2 options**:
 
@@ -58,15 +51,11 @@ Apply for admission at their schools of choice directly.  Shortlisted applicant
 
 Participate in the School Placement Exercise for Returning Singaporeans (SPERS) or in the Direct School Admission exercise.
 
-  
-
 ##### Any centralised placement exercise conducted by the Ministry of Education for school admission?
 
 School Placement Exercise for Returning Singaporeans (SPERS) was started in 2006 to facilitate Returning Singaporeans’ (RS) re-entry into the local education system by offering a more convenient one-stop alternative to the ad hoc admission system where RS would have to approach several schools individually and sit for multiple school-based entrance tests. SPERS-Sec involves applicants sitting for a common set of English and Mathematics tests in mid-October for Secondary 1-3 admission in the following year. Based on their overall performance in the SPERS-Sec tests, applicants will each receive a list of secondary schools where students of similar abilities are already studying in. Applicants will then submit their school choices, following which MOE will then post them based on their school choices, their performance in the SPERS-Sec tests and available vacancies.
 
 Details of the SPERS-Sec and SPERS-JC/MI exercises and the Supplementary Placement Exercise are found in the MOE RS website at [http://www.moe.gov.sg/education/admissions/returning-singaporeans/](https://www.moe.gov.sg/admissions/returning-singaporeans)
-
-  
 
 Leave of Absence (LOA) Scheme (Applicable to Returning Singaporeans only)
 -------------------------------------------------------------------------
@@ -75,17 +64,11 @@ Leave of Absence (LOA) Scheme (Applicable to Returning Singaporeans only)
 
 In support of Singapore’s regionalisation efforts, the Ministry of Education has implemented a Leave of Absence Scheme (LOA) to facilitate children who accompany their parents on overseas posting to be readmitted into their schools upon their return.
 
-  
-
 Under this scheme, children granted LOA will continue to be registered as a student of the school. Upon their return, they can be re-admitted to their schools directly.
-
-  
 
 #### Who are eligible to apply for the LOA Scheme?
 
 The child must be a Singapore Citizen (SC) or Singapore Permanent Resident (SPR), and is presently studying in a Singapore school and will be accompanying his parent on an overseas posting and intends to re-join his former school on his return.
-
-  
 
 #### Why must pay to apply for the LOA scheme? How much?
 
