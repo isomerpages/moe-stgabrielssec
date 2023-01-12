@@ -20,7 +20,7 @@ third_nav_title: Frequently Asked Questions
 
   
 
-#### What is PSEA?
+##### What is PSEA?
 
 *   [My child is a Permanent Resident. Will he be eligible for the PSEA?](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/links/frequently-asked-questions-faq/faq-edusave-and-psea-accounts#eligibleforpsea)
 *   [Why can’t my child make use of the PSEA for his educational expenses at primary, secondary and junior college levels?](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/links/frequently-asked-questions-faq/faq-edusave-and-psea-accounts#whymychildcannotusepsea)
