@@ -17,7 +17,7 @@ T - Tenacious<br>
 A - Attitude<br>
 R - Role model
 
-![](/images/Warm%20Up%20Activity.jpg)
+![](/images/CCA/Sports%20&%20Games/Football/Warm%20Up%20Activity.jpg)
 
 ##### Teachers-in-charge
 1. Mr. Suraj <br>
