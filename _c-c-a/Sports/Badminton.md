@@ -16,12 +16,12 @@ Dmitry Medveder
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRn_zFv4t4Z2lPoLp-mY8qkmgLuAurZ3XGL3PONft1nB6HVayNkxAS3ZPos2LdkyqU0k6O6-VzW8pEJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>  
 
 ##### Teachers-In-Charge
-* Mr. Alvin Goh (OIC)
-* Mr. Joshua Leong (2IC)
-* Ms. Subhalakshimi
+1. Mr. Alvin Goh (OIC)
+2. Mr. Joshua Leong (2IC)
+3. Ms. Subhalakshimi
  
 ##### Coach
-Mr. Welly Tjia
+1. Mr. Welly Tjia
 
 ##### <u>Training Schedule</u>
 
@@ -44,6 +44,3 @@ In 2020, both 'B' and 'C' boys team performed well to advance to the next champi
 In 2021, the "B" boys did well to advance to the Quarter-Finals of the South Zone competition.&nbsp;
 
 In 2022, both 'B' and 'C' Division did well to advance to the Quarter-Finals of the South Zone competition.
-
-
-
