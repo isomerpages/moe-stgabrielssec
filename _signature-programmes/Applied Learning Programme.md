@@ -57,8 +57,8 @@ St. Gabriel’s Secondary School is also working closely with Singapore Youth Fl
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-sxkx"><img src="/images/Drone%20Piloting%20&%20Videography.jpeg" style="width:100%"> <br>Drone Piloting &amp; Videography</th>
-    <th class="tg-sxkx"><img src="/images/Drone%20Making.jpeg" style="width:100%"><br>Drone Making</th>
+    <th class="tg-sxkx"><img src="/images/Drone%20Piloting%20&%20Videography.jpeg" style="width:100%"> Drone Piloting &amp; Videography</th>
+    <th class="tg-sxkx"><img src="/images/Drone%20Making.jpeg" style="width:100%">Drone Making</th>
   </tr>
 </thead>
 <tbody>
@@ -67,8 +67,8 @@ St. Gabriel’s Secondary School is also working closely with Singapore Youth Fl
     <td class="tg-sxkx"></td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="/images/Drone%20Swarming.jpeg" style="width:80%"><br>Drone Swarming</td>
-    <td class="tg-sxkx"><img src="/images/Aviation%20Boardgames.jpeg" style="width:100%"> <br>Aviation Boardgames</td>
+    <td class="tg-sxkx"><img src="/images/Drone%20Swarming.jpeg" style="width:80%">Drone Swarming</td>
+    <td class="tg-sxkx"><img src="/images/Aviation%20Boardgames.jpeg" style="width:100%">Aviation Boardgames</td>
   </tr>
 </tbody>
 </table>
