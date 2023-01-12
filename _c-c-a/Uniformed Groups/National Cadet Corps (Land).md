@@ -12,7 +12,7 @@ In St. Gabriel's NCC Land Unit, we have shifted our focus from drills to more fu
 
 The St Gabriel's NCC Land Unit has clinched the most prestigious Gold Unit Competition from 2009 to 2017. As the Best Unit Competition was replaced by the Unit Recognition in 2018, we had also attained the honour of being a Distinction Unit since then. Our unit takes pride in conducting very tough trainings to ensure that our cadets mature into capable and independent leaders at the end of their journey with us. Despite the COVID-19 restrictions and situation, our unit strives to deliver a blend of meaningful virtual and physical trainings that will allow our cadets to be developed into potential leaders.
 
-![](/images/Passing%20over%20of%20responsibilities%20to%20the%20new%20Specialists.jpeg)
+![](/images/CCA/Uniformed%20Groups/National%20Cadet%20Corps%20(Land)/NCC%20Land.jpeg)
 
 ##### Teachers-in-charge<br>
 1. Commanding Officer: Ms. Elyn Lim<br>
