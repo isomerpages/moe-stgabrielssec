@@ -137,7 +137,7 @@ Our school uses theÂ **Five Practices of Exemplary Leadership**, adapted from â€
 
 <br>
 
-<img style="width: 70%;" src="/images/Five%20Practices%20of%20Exemplary%20Leadership.jpeg">
+<img style="width: 80%;" src="/images/Signature%20Programmes/Learning%20for%20Life%20Programme/Five%20Practices%20of%20Exemplary%20Leadership.jpeg">
 
 <br><br>
 
