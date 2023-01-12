@@ -8,7 +8,7 @@ third_nav_title: Quick Links (Students)
 
 ![](/images/Students%20Link.jpeg)
 
-##### [Student Learning Space Portal (SLS)](https://vle.learning.moe.edu.sg/login)  
+##### <center>[Student Learning Space Portal (SLS)](https://vle.learning.moe.edu.sg/login)</center>  
 Click on this [link](https://vle.learning.moe.edu.sg/login) to access the SLS Portal (recommended to view in Google Chrome)
 ***
 
@@ -18,16 +18,29 @@ Click on this [link](https://vle.learning.moe.edu.sg/login) to access the SLS 
 *   **[SLS Reset Password Form](http://tinyurl.com/slsandiconresetpasswordform)**
 * * *
 
-##### [Admin Breeze](https://stgabrielssec.adminbreeze.com/)<br>
+##### <center>[Admin Breeze](https://stgabrielssec.adminbreeze.com/)</center>
 Click on this [link](https://stgabrielssec.adminbreeze.com/) to access the Admin Breeze Portal
 * * *
 
-##### [Student ICON](https://workspace.google.com/dashboard)
+##### <center>[Student ICON](https://workspace.google.com/dashboard) </center>
 
 * * *
 *   **[Guide on Onboarding Student ICON]([](/files/Links/Students/Onboard%20Student%20ICON%20Guide%20for%20School%20Website.pdf))**
 *   **Click [here](https://workspace.google.com/dashboard) to access the Student ICON**
 *  **[Student ICON Reset Password Form](http://tinyurl.com/slsandiconresetpasswordform)**
+<br>
+***
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-otbs{background-color:#EAEAEA;color:#0C343D;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
 
 **[Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/stgabrielssec)**<br>
 Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access the OPAC
@@ -67,3 +80,30 @@ Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access 
   </tr>
 </tbody>
 </table>
+
+##### <center> 2023 Booklist </center>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-otbs{background-color:#EAEAEA;color:#0C343D;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Secondary 1</span></th>
+    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Secondary 2</span></th>
+		  </tr>
+</thead>
+<tbody>
+	
+	
