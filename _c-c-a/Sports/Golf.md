@@ -6,11 +6,13 @@ third_nav_title: Sports
 ---
 ## Golf 
 
+##### <u>Introduction</u>
+
+St. Gabriel's Golf CCA was started in 2003. Currently, our boys undergo the Youth Golf training program at the **Orchid Country Club**, conducted by a team of professional golf coaches. Besides golfing techniques and golf course management, character building is an important and integral part of our training emphasis.
+
 Thanks to the valiant effort of our golfers, St. Gabriel’s Secondary has consistently attained top 4 in the National Golf Tournament for the past **16 years**.
 
 ![](/images/20191024_Golf_image1.jpeg)
-
-St. Gabriel's Golf CCA was started in 2003. Currently, our boys undergo the Youth Golf training program at the **Orchid Country Club**, conducted by a team of professional golf coaches. Besides golfing techniques and golf course management, character building is an important and integral part of our training emphasis.
 
 ![](/images/20191024_Golf_image2.jpeg)
 Our Principal, Mr Stephen Chin, leading the golfers in prayer at the National Tournament.
@@ -18,19 +20,14 @@ Our Principal, Mr Stephen Chin, leading the golfers in prayer at the National To
 ![](/images/20191024_Golf_image3.jpeg)
 **Singapore Schools Sports Council Best Sportsboy Award 2018** \- Brandon Han of 4E4
 
-**1. Teachers-in-charge**
+##### Teachers-in-charge
+1. Mr. Koh Keng Wee (OIC)
+2. Ms. Grace Ren Junying (2IC)
 
-    Mr. Koh Keng Wee (OIC)
+##### <u>Practice Session</u>  
 
-    Ms. Grace Ren Junying (2IC)
-
-  
-
-**2. Practice Sessions**  
-
-    Our training is now conducted at **Orchid Country Club**
-		
-
+Our training is now conducted at **Orchid Country Club**
+	
 _<center>Orchid Country Course</center>_
 
 _<center>Address: 1 Orchid Club Rd</center>_
@@ -38,14 +35,14 @@ _<center>Address: 1 Orchid Club Rd</center>_
 _<center>Singapore 769162</center>_
 
 **Golf CCA is normally held on Friday from 1.30pm to 5.30pm (including coaching time).**
-
+<br>
 _\*But on-course sessions are held on Tuesday. Approximately 3−4 times a year._  
 
-2 way transport is provided between school and OCC.
+<center>2 way transport is provided between school and OCC.
+<br>
+Return trip from OCC is at **5:30pm**.</center>
 
-Return trip from OCC is at **5:30pm**.
-
-**<u>Achievements</u>**
+##### <u>Achievements</u>
 
 *   National Inter-School Golf Championship 2019 – **1st Runner up** (Irvyn Tan of 2E1) in **'C' Div Individual Event**
 *   National Inter-School Golf Championship 2019 – **3rd Runner up** for **'C' Div Team Event** (Irvyn Tan of 2E1 and Ahmad Nagib of 1E2)
