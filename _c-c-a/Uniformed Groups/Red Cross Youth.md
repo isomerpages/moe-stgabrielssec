@@ -9,7 +9,7 @@ third_nav_title: Uniformed Groups
 ##### <u>Introduction</u>
 The Red Cross Youth unit in St. Gabriel's School was one of the pioneer units in Singapore. We provide all our cadets with the opportunity to learn lifesaving skills in first aid and casualty evacuation. Cadets are also trained in Disaster Management and the Blood Donation Programme. We provide first aid services for school events and selectively to other schools. Our unit has been constantly achieving the Excellent Unit Award since 2012.
 
-![](/images/Red%20Cross%20Youth.jpeg)
+![](/images/CCA/Uniformed%20Groups/Red%20Cross%20Youth/Red%20Cross%20Youth.jpeg)
 
 ##### Teachers-in-charge<br>
 1. Ms. Rani Rama (OIC)<br>
