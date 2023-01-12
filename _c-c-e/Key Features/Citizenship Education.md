@@ -59,4 +59,4 @@ Singapore 21 is a national vision of the Singapore of the 21st Century, a vision
 
 – Citizens should take the initiative to impact society
 
-![](/images/Citizenship%20Competencies.png)
+![](/images/CCE/Key%20Features/Citizenship%20Education/Citizenship%20Competencies.png)
