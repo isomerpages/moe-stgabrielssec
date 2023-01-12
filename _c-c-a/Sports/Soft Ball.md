@@ -6,26 +6,40 @@ third_nav_title: Sports
 ---
 ## Softball 
 
-**Introduction**
-
-![](/images/Softball%20-%201.jpeg)
-
+##### <u>Introduction</u>
 St. Gabriel’s Softball team was established in 2009 with 15 players and it has grown tremendously over the years. Our dedicated softballers train thrice a week and participate actively in various tournaments throughout the year. Every year, we compete in the National School C’ Division and B’ Division Games, Singapore Recreation Club (SRC) Cup, Uber Sports Cup, DCMA Cup and friendlies with both local and international teams.
 
-<img src="/images/Softball%20-%202.jpeg" 
-     style="width:50%;float:left" ><img src="/images/Softball%20-%203.jpeg" 
-     style="width:50%">
-		 
- <br>
+![](/images/CCA/Sports%20&%20Games/Softball/Softball%20-%201.jpeg)
+
 Through our Softball training programme, we strive to develop our young players into gentlemen who exemplify the school values of Respect, Responsibility, Resilience and Care. Our training programme emphasises on character development and discipline, and provides opportunities and learning experiences for our players to achieve academic and sporting excellence.
 
-
-
-<img src="/images/The%20National_s%20B%20Division%20first%20runner%20up%20team%20with%20their%20coach%20and%20teachers%20in-charge.jpeg" 
-     style="width:50%;float:left" ><img src="/images/The%20school%20supporting%20softballers%20at%20the%20finals.jpeg" 
-     style="width:50%">
+</style>
+<table class="tg">
+<thead>
+<tr>
+    <th class="tg-tlx9"><img style="width:100%" src="/images/CCA/Sports%20&%20Games/Softball/Softball%20-%202.jpeg"></th>
+	<th class="tg-tlx9"></th>
+    <th class="tg-tlx9"><img class="tg-tlx9"><img style="width:100%" src="/images/CCA/Sports%20&%20Games/Softball/Softball%20-%203.jpeg">
+    </th>
+  </th></tr>
+</thead>
+</table>
 		 
 Our softballers continues to contribute back to the school even after their graduation. Every year, St. Gabriel's Softball Alumni team organises the St. Gabriel's Alumni Cup where they raise funds to Brother Dennis Care Fund.
+
+</style>
+<table class="tg">
+<thead>
+<tr>
+    <th class="tg-tlx9"><img style="width:89%" src="/images/CCA/Sports%20&%20Games/Softball/Softball%20-%204.jpeg"></th>
+	<th class="tg-tlx9"></th>
+    <th class="tg-tlx9"><img class="tg-tlx9"><img style="width:100%" src="/images/CCA/Sports%20&%20Games/Softball/Softball%20-%205.jpeg">
+    </th>
+  </th></tr>
+</thead>
+</table>
+		 
+
 
 
 **Teachers-in-Charge:**<br>
