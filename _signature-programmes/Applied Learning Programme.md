@@ -25,26 +25,25 @@ With the objectives in mind, all our Secondary 1 and 2 students undergo a 12 hou
 
 St. Gabriel’s Secondary School is also working closely with Singapore Youth Flying Club and recognized as an Aviation Initiative School by Civil Aviation Authority of Singapore (CAAS).
 
-![](/images/Singapore%20Air%20Show%202018.jpeg)
+![](/images/Signature%20Programmes/Applied%20Learning%20Programme/Singapore%20Air%20Show%202018.jpeg)
 **Visit to Singapore Air Show**
 
 
-<img src="/images/VR.jpeg" style="width:50%" align=left> 
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/VR.jpeg" style="width:50%" align=left> 
 
-<img src="/images/Glider.png" style="width:49%" align=right>
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Glider.png" style="width:49%" align=right>
 	
 <br clear = "left">
 <br clear = "left">
 	
-	
-<img src="/images/Drone.png" style="width:50%" align=left> 
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone.png" style="width:50%" align=left> 
 
-<img src="/images/AirPaperRocket.png" style="width:50%" align=left> 
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/AirPaperRocket.png" style="width:50%" align=left> 
 
 <br clear = "left">
 <br clear = "left">
 
-<img src="/images/Airbus.png" style="width:80%" align=center>
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Airbus.png" style="width:80%" align=center>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -57,8 +56,8 @@ St. Gabriel’s Secondary School is also working closely with Singapore Youth Fl
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-sxkx"><img src="/images/Drone%20Piloting%20&%20Videography.jpeg" style="width:100%"> Drone Piloting &amp; Videography</th>
-    <th class="tg-sxkx"><img src="/images/Drone%20Making.jpeg" style="width:100%">Drone Making</th>
+    <th class="tg-sxkx"><img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone%20Piloting%20&%20Videography.jpeg" style="width:100%"> Drone Piloting &amp; Videography</th>
+    <th class="tg-sxkx"><img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone%20Making.jpeg" style="width:100%">Drone Making</th>
   </tr>
 </thead>
 <tbody>
@@ -67,8 +66,8 @@ St. Gabriel’s Secondary School is also working closely with Singapore Youth Fl
     <td class="tg-sxkx"></td>
   </tr>
   <tr>
-    <td class="tg-sxkx"><img src="/images/Drone%20Swarming.jpeg" style="width:80%">Drone Swarming</td>
-    <td class="tg-sxkx"><img src="/images/Aviation%20Boardgames.jpeg" style="width:100%">Aviation Boardgames</td>
+    <td class="tg-sxkx"><img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone%20Swarming.jpeg" style="width:80%">Drone Swarming</td>
+    <td class="tg-sxkx"><img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Aviation%20Boardgames.jpeg" style="width:100%">Aviation Boardgames</td>
   </tr>
 </tbody>
 </table>
