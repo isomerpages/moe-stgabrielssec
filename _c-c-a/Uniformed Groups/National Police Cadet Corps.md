@@ -11,7 +11,7 @@ In St Gabriel’s Sec, the NPCC Unit comprises of 70 cadets and 3 Teacher Office
 
 Activities are planned with the cadet’s learning and development of knowledge, skills and values in mind. This ensures a meaningful and holistic CCA experience for the cadet. Apart from learning hard skills in terms of drills, commands, knots and lashings, cadets also try their hands at various enrichment activities such as rock-climbing, air pistol shooting and football clinics, which also serve to bond the Unit. Cadets are exposed to courses such as Crime Scene Investigation and First Aid, and have the opportunity to shoot a revolver in Secondary 2 and 3. Every year, we provide our cadets with opportunities for overseas exchange with Brunei and Hong Kong, and bond with cadets from other Units at Pulau Ubin NPCC Camp Resilience.
 
-![](/images/NPCC.jpeg)
+![](/images/CCA/Uniformed%20Groups/National%20Police%20Cadet%20Corps/NPCC.jpeg)
 
 
 
