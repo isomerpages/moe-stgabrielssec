@@ -8,12 +8,12 @@ description: ""
 
 **Brothers of St. Gabriel's Province Bulletin:**
 
-* [Issue 40 Jan - Mar 2019](/files/Province%20Bulletin_Jan-Mar%202019.pdf)
-*   [Issue 39 Apr - Jun 2018](2018_issue39_Province%20Bulletin_Apr-Jun.pdf)
-*   [Issue 38 Jan - Mar 2018](2018_issue39_Province%20Bulletin_Apr-Jun.pdf)
-*   [Issue 37 Oct - Dec 2017](2017_issue37_Province%20Bulletin_Oct_Dec.pdf)
-*   [Issue 36 Jul - Sep 2017](/files/2017_issue36_Province_Bulletin_Jul_Sep.pdf)
-*   [Issue 35 Apr - Jun 2017](/files/2017_issue35_Province_Bulletin_Apr-Jun.pdf)
+*   [Issue 40 Jan - Mar 2019](/files/Links/Province%20Bulletin/Issue%2040%20Jan%20-%20Mar%202019.pdf)
+*   [Issue 39 Apr - Jun 2018](/files/Links/Province%20Bulletin/Issue%2039%20Apr%20-%20Jun%202018.pdf)
+*   [Issue 38 Jan - Mar 2018](/files/Links/Province%20Bulletin/Issue%2038%20Jan-Mar%202018.pdf)
+*   [Issue 37 Oct - Dec 2017](/files/Links/Province%20Bulletin/Issue%2037%20Oct%20-%20Dec%202017.pdf)
+*   [Issue 36 Jul - Sep 2017](/files/Links/Province%20Bulletin/Issue%2036%20Jul%20-%20Sep%202017.pdf)
+*   [Issue 35 Apr - Jun 2017](/files/Links/Province%20Bulletin/Issue%2035%20Apr%20-%20Jun%202017.pdf)
 *   [Issue 34 Jan - Mar 2017](/files/Links/Province%20Bulletin/Issue%2034%20Jan%20-%20Mar%202017.pdf)
 *   [Issue 31 Jan - Jun 2016](/files/Links/Province%20Bulletin/Issue%2031%20Jan%20-%20Jun%202016.pdf) 
 *   [Issue 27 Jan - Jun 2014](/files/Links/Province%20Bulletin/Issue%2027%20Jan%20-%20Jun%202014.pdf)
