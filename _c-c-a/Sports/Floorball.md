@@ -27,7 +27,7 @@ Sec 3: Aariz Izyan bin Jailani (S3-T1) & Haresh Kishan Gunasegaran (S3-E4)
 Sec 2: Imran Hadi bin M Razali (S2-E5) & Trevor Tan (S2-T1)
 
 ##### Teachers-in-charge
-<br>
+
 1. Ms. Laura Huang (OIC)<br>
 2. Mr.  Ivan Ng (2IC) <br>
 3. Mr. Tai Maoshen <br>
