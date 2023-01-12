@@ -15,7 +15,7 @@ The skills and knowledge you acquire will serve you well... even after you gradu
 
 To date, St Gabriel's NCC (Air) Unit has garnered the Gold Award in BUC ever since the Unit was introduced back in January 2000.
 
-![](/images/2015_Term2_NCC_Air_wpid_20150116_150658.jpeg)
+![](/images/CCA/Uniformed%20Groups/National%20Cadet%20Corps%20(AIR)/NCC%20Air%202015.jpeg)
 
 ##### Teachers in charge<br>
 1. Mr. Sreetharan Rajaselvan<br>
