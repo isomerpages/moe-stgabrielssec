@@ -12,12 +12,11 @@ St. Gabriel's Golf CCA was started in 2003. Currently, our boys undergo the Yout
 
 Thanks to the valiant effort of our golfers, St. Gabriel’s Secondary has consistently attained top 4 in the National Golf Tournament for the past **16 years**.
 
-![](/images/20191024_Golf_image1.jpeg)
+![](/images/CCA/Sports%20&%20Games/Golf/Golf%2001.jpeg)
 
-![](/images/20191024_Golf_image2.jpeg)
-Our Principal, Mr Stephen Chin, leading the golfers in prayer at the National Tournament.
+![](/images/CCA/Sports%20&%20Games/Golf/Golf%2002.jpeg)
 
-![](/images/20191024_Golf_image3.jpeg)
+![](/images/CCA/Sports%20&%20Games/Golf/Golf%2003.jpeg)
 **Singapore Schools Sports Council Best Sportsboy Award 2018** \- Brandon Han of 4E4
 
 ##### Teachers-in-charge
