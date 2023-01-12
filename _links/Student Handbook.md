@@ -9,17 +9,17 @@ description: ""
 
 **2. [Internal Examinations Rules and Regulations](/files/Links/Student%20Handbook/Internal%20Examination%20Rules%20and%20Regulations.pdf)**  
 
-**3. [Assessment and Promotion Criteria](/files/Assessment%20and%20Promotion%20Criteria.pdf)**  
+**3. [Assessment and Promotion Criteria](/files/Links/Student%20Handbook/Assessment%20and%20Promotion%20Criteria.pdf)**  
 
-**4. [CCA](/files/CCA.pdf)**
+**4. [CCA](/files/Links/Student%20Handbook/CCA.pdf)**
 
-**5. [LEAPS Computation](/files/LEAPS.pdf)**
+**5. [LEAPS Computation](/files/Links/Student%20Handbook/LEAPS.pdf)**
 
-**6. [NAPFA](/files/NAPFA%20Standards.pdf)**
+**6. [NAPFA](/files/Links/Student%20Handbook/NAPFA%20Standards.pdf)**
 
-**7. [NYAA](/files/NYAA.pdf)**
+**7. [NYAA](/files/Links/Student%20Handbook/NYAA.pdf)**
 
-**8. [Safety Regulations (Computer labs)](/files/SAFETY%20REGULATIONS%20IN%20THE%20COMPUTER%20LABORATORIES.pdf)**
+**8. [Safety Regulations (Computer Labs)](/files/Links/Student%20Handbook/Safety%20Regulations%20in%20Computer%20Labs.pdf)**
 
 **9. [Safety Regulations (D&T workshop)](/files/SAFETY%20REGULATIONS%20IN%20THE%20D&T%20WORKSHOPS.pdf)**
 
