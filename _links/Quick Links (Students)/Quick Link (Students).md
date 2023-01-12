@@ -90,20 +90,29 @@ Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access 
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-dwlh{background-color:#07416f;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
 .tg .tg-otbs{background-color:#EAEAEA;color:#0C343D;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
-
+<u>Lower Secondary</u>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Secondary 1</span></th>
-    <th class="tg-dwlh"><span style="color:#222;background-color:#B0B0B0">Secondary 2</span></th>
+    <th class="tg-dwlh"><span style="color:#FFFFFF;background-color:#07416f">Secondary 1</span></th>
+    <th class="tg-dwlh"><span style="color:#FFFFFF;background-color:#07416f">Secondary 2</span></th>
 		  </tr>
 </thead>
 <tbody>
+	<tr>
+    <td class="tg-otbs"><a href="/files/Sec%201E%20Booklist%20and%20Stationery%20List%202022.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a></td>
+    <td class="tg-otbs"><a href="/files/2E.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a><br></td>
+		  <tr>
+    <td class="tg-otbs"><a href="/files/Sec%201NA%20Booklist%20and%20Stationery%20List%202022.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a></td>
+    <td class="tg-otbs"><a href="/files/2NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
+  <tr>
+    <td class="tg-n4qt"> <a href="/files/Sec%201NT%20Booklist%20and%20Stationery%20List%202022.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
+    <td class="tg-otbs"><a href="/files/2NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td></table>
 	
-	
+<u>Upper Secondary</u>
