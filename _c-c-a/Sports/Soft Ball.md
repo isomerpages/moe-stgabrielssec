@@ -39,16 +39,12 @@ Our softballers continues to contribute back to the school even after their grad
 </thead>
 </table>
 		 
+##### Teachers-in-Charge<br>
+1. Ms. Peh Sok Hoon (OIC)<br>
+2. Ms. Siti Latifah Ishar<br>
 
 
-
-**Teachers-in-Charge:**<br>
-Ms. Peh Sok Hoon (OIC)<br>
-Ms. Fu Hsun (2IC)<br>
-Ms. Siti Latifah Ishar<br>
-Mr. Johnson Sim
-
-**Training Sessions:**
+##### <u>Training Sessions</u>
 
 *   Tuesday, Thursday & Friday: 2.30pm - 6.00pm
 *   Venue: School Field
