@@ -4,9 +4,9 @@ collections:
     order:
       - About Us.md
       - Values Education/.keep
-      - Values Education/Sexuality Education.md
-      - Values Education/Cyberwellness.md
       - Values Education/Education and Career Guidance.md
+      - Values Education/Cyberwellness.md
+      - Values Education/Sexuality Education.md
       - Key Features/.keep
       - Key Features/Service & Leadership.md
       - Key Features/Citizenship Education.md
