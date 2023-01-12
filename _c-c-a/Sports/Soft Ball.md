@@ -50,9 +50,9 @@ Our softballers continues to contribute back to the school even after their grad
 *   Venue: School Field
 
 
-**Achievements and Awards:**<br>
+##### <u>Achievements and Awards</u><br>
 
-'B' Division
+##### 'B' Division
 *   National 1st Runner-up (2nd) - 2019
 *   Singapore Recreation Club (SRC) Softball Carnival (2nd) - 2019     
 *   National Top 8 – 2018
@@ -65,7 +65,7 @@ Our softballers continues to contribute back to the school even after their grad
 *   Participated in the National Softball Inter-School Competition since 2011
 
 
-'C' Division
+##### 'C' Division
 
 *   National Top 8 - 2019
 *   National Top 8 – 2018
@@ -80,7 +80,7 @@ Our softballers continues to contribute back to the school even after their grad
 *   Participated in the National Softball Inter-School Competition since 2009
 
 
-**Key Tournaments Participated:**<br>
+##### <u>Key Tournaments Participated</u><br>
 *   C’ Division National Schools Games<br>
 *   B’ Division National Schools Games<br>
 *   Singapore Recreation Club (SRC) Cup  
