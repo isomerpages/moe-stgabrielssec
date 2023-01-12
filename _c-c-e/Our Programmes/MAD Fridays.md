@@ -4,7 +4,6 @@ permalink: /co-curricular/Our-Programmes/MAD-Fridays/
 description: ""
 third_nav_title: Our Programmes
 ---
-
 ## MAD FRIDAYS
 
 
@@ -38,7 +37,7 @@ Guided by the school’s vision: The Gabrielite… a Servant Leader, Lifelong Le
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA">Sec 3</span></td>
-    <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> </span>Active Citizen<br><span style="color:#222;background-color:#EAEAEA">Together we make a difference</span></td>
+    <td class="tg-n4qt"><span style="color:#222;background-color:#EAEAEA"> </span>Active Citizen<br><span style="color:#222;background-color:#EAEAEA">Together we make a difference</span></td>
   </tr>
   <tr>
     <td class="tg-ku5w"><span style="color:#222;background-color:#EAEAEA"> Sec 4 and 5</span></td>
