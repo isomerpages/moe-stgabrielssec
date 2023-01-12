@@ -116,3 +116,14 @@ Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access 
     <td class="tg-otbs"><a href="/files/2NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td></table>
 	
 <u>Upper Secondary</u>
+<table class="tg">
+<thead>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-dwlh"><span style="color:#FFFFFF;background-color:#07416f">Secondary 3</span></th>
+    <th class="tg-dwlh"><span style="color:#FFFFFF;background-color:#07416f">Secondary 4</span></th>
+		    <th class="tg-dwlh"><span style="color:#FFFFFF;background-color:#07416f">Secondary 5</span></th>
+		  </tr>
+</thead>
+<tbody>
