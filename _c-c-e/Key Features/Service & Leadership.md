@@ -4,21 +4,15 @@ permalink: /co-curricular/Key-Features/Service-Leadership/
 description: ""
 third_nav_title: Key Features
 ---
-
 ## SERVICE & LEADERSHIP
 
 **<center>LEADING THROUGH SERVING</center>**
 
 Our vision at St. Gabriel’s Secondary School is to see every Gabrielite become servant leaders, leading through serving the needs of others.
 
-  
-
 A Gabrielite servant leader exemplifies the School’s Values of Respect, Resilience, Responsibility, and Care. He knows and loves God, his friends, his school, the environment and his country. He is a role model who shows humility in his words and deeds, and motivates those around him through his actions and deeds. He is confident in his strengths and aware of his weaknesses, and is a lifelong learner who consistently takes steps to improve himself. He is gracious in helping others grow and develop. He empathizes with the needs of others, and is willing to go the extra mile to champion the right causes, in service to others.
 
-  
-
 The school takes a progressive approach in developing the leadership qualities in our students, with a tiered focus for each level: Self-Leadership, Collaborative Leadership, Effective Leadership and Servant Leadership from Sec 1 to 4.
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -99,43 +93,26 @@ The school takes a progressive approach in developing the leadership qualities i
 
 For each of these level outcomes, students have several experiences to practice their skills and knowledge.
 
-  
-
 **Values in Action (VIA)**
 
 Each level has a key service experience through Values in Action where their contributions impact the school, environment, community and nation.
 
-  
-
 Secondary One students will begin to understand that Self Leadership is for everyone, at their personal level, to know their strengths and areas for growth while empathizing with others. Secondary Two students will learn the importance of Collaborative Leadership as they work collaboratively in groups to apply the leadership practices in saving the environment. The Secondary Three students are expected to become confident leaders who are able to lead and serve others effectively in their various groups, seeing and serving the needs in the community. At Secondary Four/Five levels, students will inspire and grow others to be servant leaders.
-
-  
 
 Students are engaged in Service-Learning projects designed to impart our core values of Respect, Resilience, Responsibility and Care as they identify and serve the needs of the school and community and also to bring about a habit of reflection in them.
 
-  
-
 **Service-Learning Themes:**
 
-Sec 1: Our School
-
-Sec 2: Our Environment
-
-Sec 3: Our Community
-
-Sec 4/5: Our Nation
-
-  
+* Sec 1: Our School
+* Sec 2: Our Environment
+* Sec 3: Our Community
+* Sec 4/5: Our Nation
 
 Through service to others, we hope to inculcate in our students a strong sense of care so that they learn to appreciate the culture and the lives of others and to progress together as one nation. This is in line with our school’s mission: ‘Service to God and Nation’.
-
-  
 
 _Minimum Service Hours:_
 
 Every student is expected to serve a minimum of 6 hours per year for involvement in community / school work organized within the school context. This involves services / activities initiated either by the school or students themselves.
-
-  
 
 Some of the key VIA projects that have been carried out in 2019 are the **“Do The Mozzie Wipeout” event, food waste conversion to enzymes for cleaning, book recycling movement, terrarium making from recycled plastic bottles, TetraPak upcycling, Gabrielites Give Back (GGB), Lim Kopi initiative, engagements with homes such as and organisations such as Willing Hearts, SPCA, HCA Kang Le Hospice**, to name a few, and collaborations with NEA, Braddell Heights CC, St. Gabriel’s Primary School, Happy Universe, Friends of the Disabled Society, and many more.
 
@@ -167,20 +144,11 @@ _Outgoing Prefects posing one last time for the camera after the Prefects' Inves
 <br>
 Students are also given the chance to take on leadership roles in the classroom and beyond. Suitable students will be appointed as Class Chairpersons/Vice-Chairpersons, Sports Leaders and/or even CCA Leaders upon meeting criteria as well as recommendations from teachers and selection panels.
 
-  
+##### Teachers-in-charge
 
-**Teachers-in-charge:**
-<br>
-Mr. Mohamed Fazlin
-<br>
-Ms Koh Shiew Cher
-<br>
-Mr Johnson Sim
-<br>
-Ms Siti Latifah
-<br>
-Mr Ivan Ng
-<br>
-Mr Joshua Leong
-<br>
-Mr Kelvin Lim
+1. Mr. Mohamed Fazlin<br>
+2. Ms. Koh Shiew Cher<br>
+3. Ms. Siti Latifah<br>
+4. Mr. Ivan Ng<br>
+5. Mr. Joshua Leong<br>
+6. Mr. Kelvin Lim<br>
