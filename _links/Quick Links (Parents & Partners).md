@@ -81,7 +81,7 @@ Click [**here**](http://tinyurl.com/virtualdialoguesession) to watch the Virtu
     <td class="tg-n4qt"><a href="https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Student%20Support/MOE%20FAS%20Application%20Form%202022.pdf"><span style="text-decoration:none;color:#0C343D">MOE FAS Application Form</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-n4qt"><a href="https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/St%20Gabriel%20Sec%202019/Useful%20Links/Quick%20Links%20(Parents%20&%20Partners)/Schemes%20Supporting%20Singaporean%20Student/2012_S~1.PDF"><span style="text-decoration:none;color:#0C343D">Schemes Supporting Singaporean Student</span></a><br><br></td>
+    <td class="tg-n4qt"><a href="https://drive.google.com/file/d/1NEZFyiWkhUxjXcvI4O_eT3PYBmFUMbCN/view?usp=sharing"><span style="text-decoration:none;color:#0C343D">Schemes Supporting Singaporean Student</span></a><br><br></td>
     <td class="tg-n4qt">Education and Career Guidance<br>( <a href="https://www.myskillsfuture.sg/content/student/en/secondary.html"><span style="text-decoration:none;color:#0C343D">ecareers.sg web portal</span></a> )<span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
 </tbody>
