@@ -83,12 +83,12 @@ This competition allows student to apply what they have learned in class. It als
 
 ##### Our Vision and Mission
 
-<u>**Vision**</u>
+**<u>Vision</u>**
 
 Technologically adept citizens
 
 
-<u>**Mission**</u>
+**<u>Mission</u>**
 
 To develop and impart students with fundamental knowledge and skills to function and contribute effectively in an increasingly technologically driven world.
 
@@ -110,7 +110,7 @@ The general aims of the syllabus are to enable students to:
 
   
 
-<u>**Enrichment**</u>
+**<u>Enrichment</u>**
 
   
 
