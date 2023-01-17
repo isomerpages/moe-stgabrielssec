@@ -67,7 +67,7 @@ In the course of active collaboration with the school through the activities of 
 
 **Message from PSG Chairperson and Welcome Video**
 
-*   **[Letter from PSG Chairperson](Welcome%20New%20Parents%202022.pdf)**
+*   **[Letter from PSG Chairperson](/files/Parent%20Support%20Group/Welcome%20New%20Parents%202022.pdf))**
 *   **[Welcome Video](https://youtu.be/YLgQ5riiipc)**
 
 **Join us and be part of the Village.**
