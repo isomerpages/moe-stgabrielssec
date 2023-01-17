@@ -73,7 +73,7 @@ Click [**here**](http://tinyurl.com/virtualdialoguesession) to watch the Virtu
 </thead>
 <tbody>
   <tr>
-    <td class="tg-otbs"><a href="https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/Announcements/2020_Announcement/Travel%20Declarations.pdf"><span style="text-decoration:none;color:#0C343D">Travel Declaration Guide for Parents Gateway</span></a><br></td>
+    <td class="tg-otbs"><a href="https://drive.google.com/file/d/1W0wS5sZJSDlojssbMOsuI_nPybOxJ2Zz/view?usp=sharing"><span style="text-decoration:none;color:#0C343D">Travel Declaration Guide for Parents Gateway</span></a><br></td>
     <td class="tg-n4qt"><a href="https://sites.google.com/site/psgsgss/"><span style="text-decoration:none;color:#0C343D">Parent's Support Group Website</span></a><br></td>
   </tr>
   <tr>
