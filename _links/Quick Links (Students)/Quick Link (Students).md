@@ -111,10 +111,10 @@ Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access 
     <td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/1E.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a></td>
     <td class="tg-otbs"><a href="/files/2E.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a><br></td>
 		  <tr>
-    <td class="tg-otbs"><a href="/files/Sec%201NA%20Booklist%20and%20Stationery%20List%202022.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a></td>
+    <td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/1NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a></td>
     <td class="tg-otbs"><a href="/files/2NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
   <tr>
-    <td class="tg-n4qt"> <a href="/files/Sec%201NT%20Booklist%20and%20Stationery%20List%202022.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
+    <td class="tg-n4qt"> <a href="/files/Links/Students/2023%20Booklist/1NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
     <td class="tg-otbs"><a href="/files/2NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td></table>
 	
 <u>Upper Secondary</u>
