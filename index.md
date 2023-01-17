@@ -19,4 +19,5 @@ sections:
       url: https://sites.google.com/moe.edu.sg/sgsspdlp/home-based-learning
       image: /images/Home Based Learning/HBL.png
       alt: Image alt text
+      subtitle: St. Gabriel's Secondary School
 ---
