@@ -108,7 +108,7 @@ Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access 
 </thead>
 <tbody>
 	<tr>
-    <td class="tg-otbs"><a href="/files/Sec%201E%20Booklist%20and%20Stationery%20List%202022.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a></td>
+    <td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/1E.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a></td>
     <td class="tg-otbs"><a href="/files/2E.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a><br></td>
 		  <tr>
     <td class="tg-otbs"><a href="/files/Sec%201NA%20Booklist%20and%20Stationery%20List%202022.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a></td>
