@@ -12,9 +12,9 @@ description: ""
 
 **Parent Engagement**  
 
-*   **[Letter to Sec 1 Parents for PLD Procurement](/files/Letter%20to%20Sec%201%20Parents%20for%20PDLP%20Procurement.pdf)**
+*   **[Letter to Sec 1 Parents for PLD Procurement](/files/Links/Parents/Letter%20to%20Sec%201%20Parents%20for%20PDLP%20Procurement.pdf)**
 
-*   **[Briefing slides for Sec 1 Parents on NDLP](/files/Briefing%20for%20Sec%201%20Parents_PDLP.pdf)**
+*   **[Briefing slides for Sec 1 Parents on NDLP](/files/Links/Parents/Briefing%20for%20Sec%201%20Parents_PDLP.pdf)**
 
 Please view the videos via the links below to have a good sense about the Personal Learning Device Initiative for your child.  
 
