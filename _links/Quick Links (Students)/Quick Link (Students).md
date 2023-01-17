@@ -130,13 +130,13 @@ Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access 
 <tbody>
 	<tr>
     <td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/3E.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a></td>
-    <td class="tg-otbs"><a href="/files/2E.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a><br></td>
-		<td class="tg-otbs"><a href="/files/2E.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
+    <td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/4E.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a><br></td>
+		<td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/5NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
 		  <tr>
     <td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/3NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a></td>
-    <td class="tg-otbs"><a href="/files/2NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
-				<td class="tg-otbs"><a href="/files/2NA.pdf"><span style="text-decoration:none;color:#0C343D"></span></a><br></td>
+    <td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/4NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
+				<td class="tg-otbs"><span style="text-decoration:none;color:#0C343D"></span></a><br></td>
   <tr>
     <td class="tg-n4qt"> <a href="/files/Links/Students/2023%20Booklist/3NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
-    <td class="tg-otbs"><a href="/files/2NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
-		<td class="tg-otbs"><a href="/files/2NT.pdf"><span style="text-decoration:none;color:#0C343D"></span></a></td>
+    <td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/4NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
+		<td class="tg-otbs"><span style="text-decoration:none;color:#0C343D"></span></a></td>
