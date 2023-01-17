@@ -81,7 +81,7 @@ Click [**here**](http://tinyurl.com/virtualdialoguesession) to watch the Virtu
     <td class="tg-n4qt"><a href="/files/Links/Parents/GGAS%20Application%20Form.pdf"><span style="text-decoration:none;color:#0C343D"><br>MOE FAS Application Form</span></a><br><br></td>
   </tr>
   <tr>
-    <td class="tg-n4qt"><span style="text-decoration:none;color:#0C343D"><br><br></td>
+    <td class="tg-n4qt"><a href="https://www.moe.gov.sg/financial-matters/fees/egiro"><span style="text-decoration:none;color:#0C343D"><br>MOE eGIRO Application for School and Miscellaneous Fees <br><br></td>
     <td class="tg-n4qt"><br>Education and Career Guidance<br>( <a href="https://www.myskillsfuture.sg/content/student/en/secondary.html"><span style="text-decoration:none;color:#0C343D">ecareers.sg web portal</span></a> )<br><br><span style="color:#222;background-color:#EAEAEA"> </span></td>
   </tr>
 </tbody>
