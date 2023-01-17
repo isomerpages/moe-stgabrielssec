@@ -32,7 +32,7 @@ Click [**here**](http://tinyurl.com/virtualdialoguesession) to watch the Virtu
 
 *   **[Parent Handbook (I) on Learning with a PLD](/files/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)**  
     
-*   **[Parent Handbook (II) on Learning with a PLD]()**
+*   **[Parent Handbook (II) on Learning with a PLD](https://drive.google.com/file/d/1uU8znUwkWjfPV4V_uA-fCDBrg-apoUIP/view?usp=sharing)**
 
 *   **[Student Device Information Kit](/files/Student%20Device%20Information%20Kit.pdf)**
 
