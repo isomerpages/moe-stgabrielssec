@@ -34,7 +34,7 @@ Click [**here**](http://tinyurl.com/virtualdialoguesession) to watch the Virtu
     
 *   **[Parent Handbook (II) on Learning with a PLD](https://drive.google.com/file/d/1uU8znUwkWjfPV4V_uA-fCDBrg-apoUIP/view?usp=sharing)**
 
-*   **[Student Device Information Kit](/files/Student%20Device%20Information%20Kit.pdf)**
+*   **[Student Device Information Kit](/files/Links/Parents/Student%20Device%20Information%20Kit.pdf)**
 
 
 #### School Staff
@@ -53,7 +53,7 @@ Click [**here**](http://tinyurl.com/virtualdialoguesession) to watch the Virtu
 
 ##### Parents Gateway
 ***
-*   **[PG Gateway - Parent Teacher Meeting Guide](/files/PG%20Meetings%20-%20User%20Guide%20for%20Parents%20-%20Aug%202020.pdf)**
+*   **[PG Gateway - Parent Teacher Meeting Guide](/files/Links/Parents/PG%20Meetings%20-%20User%20Guide%20for%20Parents%20-%20Aug%202020.pdf)**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -67,7 +67,7 @@ Click [**here**](http://tinyurl.com/virtualdialoguesession) to watch the Virtu
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-otbs"><a href="https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/Home%20Based%20Learning/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf"><span style="text-decoration:none;color:#0C343D">Parent Kit for Full Home Based Learning</span></a><br></th>
+    <th class="tg-otbs"><a href="https://drive.google.com/file/d/1WJXC8t6IwsXX33rZkcta7GnOXi6eDDhk/view?usp=sharing"><span style="text-decoration:none;color:#0C343D">Parent Kit for Full Home Based Learning</span></a><br></th>
     <th class="tg-n4qt"><a href="https://www.schoolbag.sg/"><span style="text-decoration:none;color:#0C343D">MOE Parents in Education (PiE) website</span></a><br></th>
   </tr>
 </thead>
