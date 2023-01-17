@@ -3,7 +3,6 @@ title: Student Support
 permalink: /student-support/
 description: ""
 ---
-
 ## Student Support
 
 We understand this is a difficult time for everyone. We would like to support our students and their caregivers as much as we can. 
@@ -16,7 +15,7 @@ We understand this is a difficult time for everyone. We would like to support ou
 
 1. **<u>HBL@School</u>**
 
-Please use the form below to let us know if your son/ward needs the following support during this time of full home-based learning:  
+Please use the form below (to be updated) to let us know if your son/ward needs the following support during this time of full home-based learning:  
 
   
 *   a computing device to do his home-based learning
@@ -25,7 +24,6 @@ Please use the form below to let us know if your son/ward needs the following su
 *   a conducive HBL environment in school (approved only on a case by case basis)
 *   meals at home during this period of home-based learning (for students only)
 
-**[https://go.gov.sg/sgss-support](https://go.gov.sg/sgss-support)**
 
 2. <b><u>Financial Assistance from School (MOE / SGSS Financial Assistance)</u></b> 
 
@@ -49,9 +47,9 @@ Please complete and submit the application form early before 24 October for the 
 
 [](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/Link/Parents%20Links/MOE%20FAS%20Application%20Form%20(from%201%20April%202020).pdf)
 
-*   [**MOE FAS Pamphlet**](/files/MOE%20FAS%20pamphlet%202023_updated.pdf)
+*   **[MOE FAS Pamphlet](/files/MOE%20FAS%20pamphlet%202023_updated.pdf)**
 
-*   **[FAS Application Form](/files/GGAS_Application%20Form_updated.pdf)**
+*   **[FAS Application Form](/files/Links/Parents/GGAS%20Application%20Form.pdf)**
 
 
 3. **<u>Financial Assistance Outside School</u>**
