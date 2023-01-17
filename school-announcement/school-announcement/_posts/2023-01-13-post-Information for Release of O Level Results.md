@@ -6,9 +6,21 @@ layout: post
 description: ""
 image: ""
 ---
+Dear parents,  
+  
+Click **[here](https://docs.google.com/presentation/d/1RzGD2BSzVWZTzoK5I22-tYHJ6H1nwJA8/edit?usp=share_link&ouid=108771613026602386091&rtpof=true&sd=true)** to access briefing slides.  
+  
+Do take note of all the application dates and submit the online form to indicate your plans for 2023 and beyond.  
 
-Dear Gabrielites and Parents,
+*   Compulsory to submit: Plans for 2023 and Beyond
+*   Optional: Invitation to sing up as Alumni Tutor, and Old Boy's Association (OBA)
 
-Please be informed that Gabrielites from Secondary 1 to 5 will be dismissed at 12.30pm on Thursday, 12 January 2023. This will facilitate the school for preparations to release the 2022 GCE ‘O’ Level results.
-
-Students from Secondary 4NA and Secondary 3 (2022) who took ‘O’ Level subjects in 2022 will be required to remain in school to collect their results. They will be required to assemble in the school hall at 1.30pm.
+In addition, do indicate if you would like to serve as an Alumni Tuor for 2023's graduating cohort.  
+  
+If any student would like to apply to repeat 4E or 5Na, please look for your FTs for discussion.  
+  
+It has been a great journey with all of you. Thank you and please take care! All the best to your future endeavours!  
+  
+Be THE BEST!  
+  
+Once a Gabrielite, Always a Gabrielite!
