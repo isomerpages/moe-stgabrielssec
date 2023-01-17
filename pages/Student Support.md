@@ -43,11 +43,9 @@ The application form can be obtained from our school’s General Office or downl
 
 Please complete and submit the application form early before 24 October for the financial assistance to be effective for purchase of books and uniforms in November 2022. You may refer to the attached MOE FAS pamphlet for more information regarding the MOE FAS scheme.  
 
-  
 
-[](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/qql/slot/u153/Link/Parents%20Links/MOE%20FAS%20Application%20Form%20(from%201%20April%202020).pdf)
 
-*   **[MOE FAS Pamphlet](/files/MOE%20FAS%20pamphlet%202023_updated.pdf)**
+*   **[MOE FAS Pamphlet](/files/Student%20Support/MOE%20FAS%20Pamphlet%202023.pdf)**
 
 *   **[FAS Application Form](/files/Links/Parents/GGAS%20Application%20Form.pdf)**
 
@@ -102,26 +100,26 @@ You can also call the below organisations directly should you not be in school b
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-e2rw">Samaritans of Singapore (SOS)</th>
-    <th class="tg-e2rw">1800 - 2214444 (24h)<br></th>
+    <th class="tg-e2rw"><br>Samaritans of Singapore (SOS)<br></th>
+    <th class="tg-e2rw"><br>1800 - 2214444 (24h)<br><br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-e2rw">Emergency Helpline (IMH)<br></td>
-    <td class="tg-z8rh"><span style="color:#222"> </span>6389 2222 (24h)</td>
+    <td class="tg-e2rw"><br>Emergency Helpline (IMH)<br><br></td>
+    <td class="tg-e2rw"><span style="color:#222"> </span><br>6389 2222 (24h)</td>
   </tr>
   <tr>
-    <td class="tg-e2rw">Touch Community Services (Counselling / Cyber Wellness Helpline)<br></td>
-    <td class="tg-e2rw">6377 0122 / 6273 5568 <br></td>
+    <td class="tg-e2rw"><br>Touch Community Services (Counselling / Cyber Wellness Helpline)<br></td>
+    <td class="tg-e2rw"><br>6377 0122 / 6273 5568 <br><br></td>
   </tr>
   <tr>
-    <td class="tg-e2rw">eCounselling Centre (EC2)</td>
-    <td class="tg-uq0r"><a href="https://www.ec2.sg/">https://www.ec2.sg</a><br><span style="color:#222">(Mon – Fri: 10am – 12pm and</span><br><span style="color:#222">2pm – 5pm, excluding public holidays)</span></td>
+    <td class="tg-e2rw"><br><br>eCounselling Centre (EC2)</td>
+    <td class="tg-uq0r"><br><a href="https://www.ec2.sg/">https://www.ec2.sg</a><br><span style="color:#222">(Mon – Fri: 10am – 12pm and</span><br><span style="color:#222">2pm – 5pm, excluding public holidays)<br></span></td>
   </tr>
   <tr>
-    <td class="tg-e2rw">CARE Singapore</td>
-    <td class="tg-e2rw">6978 2728<br><span style="color:#222">(Mon - Fri: 10am - 5pm)</span></td>
+    <td class="tg-e2rw"><br>CARE Singapore</td>
+    <td class="tg-e2rw"><br>6978 2728<br><span style="color:#222">(Mon - Fri: 10am - 5pm)<br></span><br></td>
   </tr>
 </tbody>
 </table>
