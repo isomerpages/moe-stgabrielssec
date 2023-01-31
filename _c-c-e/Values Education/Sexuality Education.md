@@ -99,7 +99,7 @@ _eTeens_ is a programme developed by Health Promotion Board, in collaboration w
 
 Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
 
-For parents of **Lower Secondary and Sec 4/5 students** who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [**here**](/files/LS%20and%20Sec%2045%20SEd%20Parent%20Opt%20Out%20Form%202022%20SGSS.pdf).
+For parents of **Lower Secondary and Sec 4/5 students** who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [**here**](/files/LS%20and%20Sec%204-5%20SEd%20Parent%20Opt%20Out%20Form%202023%20SGSS.pdf).
 
 For parents of **Secondary 3 students** who wish to opt their children out of the **Sexuality Education lessons** and **eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [**here**](/files/Sec%203%20SEd%20Parent%20Opt%20Out%20Form%202023%20SGSS.pdf).
 
