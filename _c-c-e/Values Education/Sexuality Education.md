@@ -31,7 +31,7 @@ The key messages of Sexuality Education are:
 
 You may click **[here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education)** for more information on MOE Sexuality Education
 
-**<u>Overview of St. Gabriel’s Secondary School’s Sexuality Education Programme for 2022</u>**
+**<u>Overview of St. Gabriel’s Secondary School’s Sexuality Education Programme for 2023</u>**
 
 Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click **[here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools)** for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -48,7 +48,7 @@ The values and attitudes of our youth towards sexuality are increasingly shaped 
 
 Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-**At St. Gabriel’s Secondary School, the following lessons from the** **Sexuality Education Programme** **will be taught in <u>2022:</u>**
+**At St. Gabriel’s Secondary School, the following lessons from the** **Sexuality Education Programme** **will be taught in <u>2023:</u>**
 
 *   **[Secondary 1](/files/Sec%201%20SEd%20Timeline.pdf)**
 *   **[Secondary 2](/files/Sec%202%20SEd%20Timeline.pdf)**
@@ -56,12 +56,12 @@ Through the Sexuality Education lessons, secondary students will have the opport
 *   **[Secondary 4](/files/Sec%204%20SEd%20Timeline.pdf)**
 *   **[Secondary 5](/files/Sec%205%20SEd%20Timeline.pdf)**
 
-**Upper Secondary**<br>
+**Secondary 3**<br>
 **_eTeens_ Programme:**  
 
 _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
-**At St. Gabriel’s Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+**At St. Gabriel’s Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -103,7 +103,7 @@ For parents of **Lower Secondary and Sec 4/5 students** who wish to opt their 
 
 For parents of **Secondary 3 students** who wish to opt their children out of the **Sexuality Education lessons** and **eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [**here**](/files/Sec%203%20SEd%20Parent%20Opt%20Out%20Form%202022%20SGSS.pdf).
 
-A hardcopy of the form, duly completed and signed, is to be submitted by 28/02/2022. 
+A hardcopy of the form, duly completed and signed, is to be submitted by 28/02/2023. 
 
 Parents can contact the school at **62889470** or [**stgss@moe.edu.sg**](mailto:stgss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 
