@@ -23,22 +23,22 @@ The Vocal Ensemble has been active since 2002, starting out with only five membe
 .tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
 .tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
 </style>
+
 <table class="tg">
-<thead>
-<tr>
-    <th class="tg-tlx9"><img style="width:100%" src="/images/CCA/Performing%20Arts/Vocal%20Ensemble/Singing%20their%20Swan%20Song.jpg"></th>
-	<th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img class="tg-tlx9"><img style="width:94%" src="/images/CCA/Performing%20Arts/Vocal%20Ensemble/Vocal.jpg">
-    </th>
-  </th></tr>
-</thead>
-<tbody>
-	  <tr>
-				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Singing their Swan Song</span></td>
-    <td class="tg-apyk"><br></td>
-    <td class="tg-apyk">Voices of Singapore Festival
-  </tr>
-</tbody>
+  <thead>
+    <tr>
+      <th class="tg-tlx9"><img style="width:100%" src="/images/CCA/Performing%20Arts/Vocal%20Ensemble/Singing%20their%20Swan%20Song.jpg" alt="Singing%20their%20Swan%20Song"></th>
+      <th class="tg-tlx9"></th>
+      <th class="tg-tlx9"><img class="tg-tlx9" alt=""><img style="width:94%" src="/images/CCA/Performing%20Arts/Vocal%20Ensemble/Vocal.jpg" alt="Vocal"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Singing their Swan Song</span></td>
+      <td class="tg-apyk"><br></td>
+      <td class="tg-apyk">Voices of Singapore Festival</td>
+    </tr>
+  </tbody>
 </table>
 
 ##### Teachers-in-charge<br>
