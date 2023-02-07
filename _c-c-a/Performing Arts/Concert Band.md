@@ -38,17 +38,15 @@ Venue: Band Room
 .tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
 .tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
 </style>
+
 <table class="tg">
-<thead>
-<tr>
-    <th class="tg-tlx9"><img style="width:100%" src="/images/CCA/Performing%20Arts/Concert%20Band/Concert%20Band%2001.jpeg"></th>
-	<th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img class="tg-tlx9"><img style="width:100%" src="/images/CCA/Performing%20Arts/Concert%20Band/Concert%20Band%2002.jpeg">
-    </th>
-  </th></tr>
-</thead>
-<tbody>
-</tbody>
+  <thead>
+    <tr>
+      <th class="tg-tlx9"><img style="width:100%" src="/images/CCA/Performing%20Arts/Concert%20Band/Concert%20Band%2001.jpeg" alt="Concert%20Band%2001"></th>
+      <th class="tg-tlx9"></th>
+      <th class="tg-tlx9"><img class="tg-tlx9" alt=""><img style="width:100%" src="/images/CCA/Performing%20Arts/Concert%20Band/Concert%20Band%2002.jpeg" alt="Concert%20Band%2002"></th>
+    </tr>
+  </thead>
 </table>
 
 ##### <u>Achievements</u>
