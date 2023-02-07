@@ -197,8 +197,8 @@ The learning of Geography or History as an elective is meant to deepen the stude
 
 #### Teachers in Elements of Business Studies
 
-1.  Mr. Rodney Goh (Coordinator)
-2.  Ms. Farah Zeeba
+1 \.  Mr. Rodney Goh (Coordinator)<br>
+2 \.  Ms. Farah Zeeba
 
 ##### <u>Introduction</u>
 
