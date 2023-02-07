@@ -14,15 +14,15 @@ St. Gabriel’s Softball team was established in 2009 with 15 players and it has
 Through our Softball training programme, we strive to develop our young players into gentlemen who exemplify the school values of Respect, Responsibility, Resilience and Care. Our training programme emphasises on character development and discipline, and provides opportunities and learning experiences for our players to achieve academic and sporting excellence.
 
 </style>
+
 <table class="tg">
-<thead>
-<tr>
-    <th class="tg-tlx9"><img style="width:100%" src="/images/CCA/Sports%20&%20Games/Softball/Softball%20-%202.jpeg"></th>
-	<th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img class="tg-tlx9"><img style="width:100%" src="/images/CCA/Sports%20&%20Games/Softball/Softball%20-%203.jpeg">
-    </th>
-  </th></tr>
-</thead>
+  <thead>
+    <tr>
+      <th class="tg-tlx9"><img style="width:100%" src="/images/CCA/Sports%20&amp;%20Games/Softball/Softball%20-%202.jpeg" alt="Softball%20-%202"></th>
+      <th class="tg-tlx9"></th>
+      <th class="tg-tlx9"><img class="tg-tlx9" alt=""><img style="width:100%" src="/images/CCA/Sports%20&amp;%20Games/Softball/Softball%20-%203.jpeg" alt="Softball%20-%203"></th>
+    </tr>
+  </thead>
 </table>
 		 
 Our softballers continues to contribute back to the school even after their graduation. Every year, St. Gabriel's Softball Alumni team organises the St. Gabriel's Alumni Cup where they raise funds to Brother Dennis Care Fund.
