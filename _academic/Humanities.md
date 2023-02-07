@@ -234,38 +234,27 @@ The syllabus outcomes are:
 
 The syllabus intends for students to develop knowledge and understanding of:
 
-• basic business activities in the Travel and Tourism, Hospitality, and Retail industries 
-
-• basic marketing that focuses on understanding the needs and wants of customers and the marketing mix; and 
-
+• basic business activities in the Travel and Tourism, Hospitality, and Retail industries <br>
+• basic marketing that focuses on understanding the needs and wants of customers and the marketing mix; and <br>
 • basic customer relations focusing on communicating with customers and providing quality customer service. 
 
 **<u>SKILLS</u>**
 
 The syllabus intends for students to develop the ability to:
 
-• apply concepts in marketing and customer relations, including the use of relevant terminology, to different contexts in the Travel and Tourism, Hospitality, and Retail industries 
-
-• gather, select, interpret, analyse and evaluate information for the investigation of a business 
-
-• think critically and innovatively to generate solutions and make decisions to improve marketing and customer relations 
-
-• self-manage and direct personal learning to work independently and collaboratively 
-
-• communicate effectively; and 
-
+• apply concepts in marketing and customer relations, including the use of relevant terminology, to different contexts in the Travel and Tourism, Hospitality, and Retail industries <br>
+• gather, select, interpret, analyse and evaluate information for the investigation of a business <br>
+• think critically and innovatively to generate solutions and make decisions to improve marketing and customer relations <br>
+• self-manage and direct personal learning to work independently and collaboratively <br>
+• communicate effectively; and <br>
 • harness the use of information and communication technologies (ICT) where appropriate. 
 
 **<u>VALUES AND ATTITUDES</u>**
 
 The syllabus intends for students to develop the values and attitudes of:
 
-• integrity and responsibility in making decisions 
-
-• respect and social awareness in managing relationships with others 
-
-• an enterprising mindset 
-
-• resilience in overcoming challenges; and 
-
+• integrity and responsibility in making decisions <br>
+• respect and social awareness in managing relationships with others <br>
+• an enterprising mindset <br>
+• resilience in overcoming challenges; and <br>
 • passion to pursue lifelong learning.
