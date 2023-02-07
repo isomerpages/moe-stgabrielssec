@@ -193,7 +193,7 @@ The learning of Geography or History as an elective is meant to deepen the stude
 </table>
 
 
-### Elements of Business Studies (EBS) ###
+### Elements of Business Studies (EBS) 
 
 #### Teachers in Elements of Business Studies
 
