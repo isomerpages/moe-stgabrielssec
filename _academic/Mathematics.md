@@ -13,17 +13,17 @@ Welcome to St. Gabriel’s Secondary Mathematics Department Webpage. As Mathemat
 **Our Vision and Mission**
 
 
-<u>**Vision**</u>
+**<u>Vision</u>**
 
 Every Gabrielite is a confident problem-solver who can effectively apply Mathematics in life.
 
-<u>**Mission**</u>
+**<u>Mission</u>**
 
 To be a team of collaborative and reflective educators who provide engaging experiences for students to become confident problem-solvers
 
 <img style="width: 60%;" src="/images/Academic/Mathematics/Mathematical%20Problem%20Solving.png">
 
-<u>**Enrichment** </u>
+**<u>Enrichment</u>**
 <br>
 **All Singapore Secondary Mathematics Competition For Normal Course Students**
 
