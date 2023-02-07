@@ -124,9 +124,7 @@ Students are encouraged to explore, to create, and to reach their full potential
 |  |  | 
 | -------- | -------- | 
 |  ![](/images/Academic/Art/Digital%20Media%20Art%20-%201.png)    |    ![](/images/Academic/Art/Digital%20Media%20Art%20-%202.png) | 
-
-|  |  | 
-| -------- | -------- | 
+|  |  |
 
 **Participation:**
 
