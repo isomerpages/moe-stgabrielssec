@@ -9,7 +9,8 @@ description: ""
 
 ##### [Student Learning Space Portal (SLS)](https://vle.learning.moe.edu.sg/login)
 Click on this [link](https://vle.learning.moe.edu.sg/login) to access the SLS Portal (recommended to view in Google Chrome)
-***
+
+---
 
 *   **[Guide to SLS Account Management - Instructions for Students]([](/files/Links/Students/Guide%20to%20SLS%20Account%20Management%20–%20Instructions%20for%20Students.pdf)**
 *   **[Guide on Register Verified Email Address]([](/files/Links/Students/User%20Guide%20-%20Register%20Verified%20Email%20Address.pdf)**
@@ -19,20 +20,24 @@ Click on this [link](https://vle.learning.moe.edu.sg/login) to access the SLS 
 
 ##### [ASKNLearn (LMS) Portal](https://lms.wizlearn.com/STGSS/login.aspx)
 Click on this [link](https://lms.wizlearn.com/STGSS/login.aspx) to access the Admin Breeze Portal
-***
+
+---
 
 ##### [Student ICON](https://schoolibrary.moe.edu.sg/stgabrielssec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) 
-***
+
+---
 
 *   **[Guide on Onboarding Student ICON]([](/files/Links/Students/Onboard%20Student%20ICON%20Guide%20for%20School%20Website.pdf))**
 *   **Click [here](https://workspace.google.com/dashboard) to access the Student ICON**
 *  **[Student ICON Reset Password Form](http://tinyurl.com/slsandiconresetpasswordform)**
 <br>
-***
+
 
 **[Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/stgabrielssec)**<br>
 Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access the OPAC
-***
+
+---
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
