@@ -7,7 +7,7 @@ description: ""
 
 ![](/images/Students%20Link.jpeg)
 
-##### <center>[Student Learning Space Portal (SLS)](https://vle.learning.moe.edu.sg/login)</center>  
+##### [Student Learning Space Portal (SLS)](https://vle.learning.moe.edu.sg/login)
 Click on this [link](https://vle.learning.moe.edu.sg/login) to access the SLS Portal (recommended to view in Google Chrome)
 ***
 
@@ -17,17 +17,21 @@ Click on this [link](https://vle.learning.moe.edu.sg/login) to access the SLS 
 *   **[SLS Reset Password Form](http://tinyurl.com/slsandiconresetpasswordform)**
 
 
-##### <center>[Admin Breeze](https://stgabrielssec.adminbreeze.com/)</center>
-Click on this [link](https://stgabrielssec.adminbreeze.com/) to access the Admin Breeze Portal
-* * *
+##### [ASKNLearn (LMS) Portal](https://lms.wizlearn.com/STGSS/login.aspx)
+Click on this [link](https://lms.wizlearn.com/STGSS/login.aspx) to access the Admin Breeze Portal
+***
 
-##### <center>[Student ICON](https://workspace.google.com/dashboard) </center>
+##### [Student ICON](https://schoolibrary.moe.edu.sg/stgabrielssec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME) 
+***
 
-* * *
 *   **[Guide on Onboarding Student ICON]([](/files/Links/Students/Onboard%20Student%20ICON%20Guide%20for%20School%20Website.pdf))**
 *   **Click [here](https://workspace.google.com/dashboard) to access the Student ICON**
 *  **[Student ICON Reset Password Form](http://tinyurl.com/slsandiconresetpasswordform)**
 <br>
+***
+
+**[Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/stgabrielssec)**<br>
+Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access the OPAC
 ***
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -40,10 +44,6 @@ Click on this [link](https://stgabrielssec.adminbreeze.com/) to access the Adm
 .tg .tg-otbs{background-color:#EAEAEA;color:#0C343D;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
 </style>
-
-**[Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/stgabrielssec)**<br>
-Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access the OPAC
-
 
 <br>
 
