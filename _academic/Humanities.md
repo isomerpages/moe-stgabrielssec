@@ -149,30 +149,47 @@ The learning of Geography or History as an elective is meant to deepen the stude
 .tg .tg-x4o9{background-color:#EAEAEA;color:#0C343D;text-align:left;vertical-align:top}
 .tg .tg-f187{background-color:#EAEAEA;color:#0C343D;text-align:center;vertical-align:top}
 </style>
+
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-rj1p">Social Studies</th>
-    <th class="tg-rj1p">History</th>
-    <th class="tg-rj1p">Geography</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-x4o9" colspan="3"><a href="https://www.straitstimes.com/"><center>https://www.straitstimes.com/</a></td>
-  </tr>
-  <tr>
-    <td class="tg-x4o9" colspan="3"><a href="https://www.nlb.gov.sg/"><center>https://www.nlb.gov.sg/</a></td>
-  </tr>
-  <tr>
-    <td class="tg-f187" colspan="2"><a href="https://www.nhb.gov.sg/">https://www.nhb.gov.sg/</a></td>
-    <td class="tg-x4o9"><a href="https://www.nationalgeographic.com/">https://www.nationalgeographic.com/</a></td>
-  </tr>
-  <tr>
-    <td class="tg-y7qa" colspan="2"></td>
-    <td class="tg-x4o9"><a href="https://www.asiangeo.com/">https://www.asiangeo.com/</a></td>
-  </tr>
-	</tbody>
+  <thead>
+    <tr>
+      <th class="tg-rj1p">Social Studies</th>
+      <th class="tg-rj1p">History</th>
+      <th class="tg-rj1p">Geography</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="tg-x4o9" colspan="3">
+        <a href="https://www.straitstimes.com/">
+        <center>
+          https://www.straitstimes.com/
+        </center></a>
+      </td>
+    </tr>
+    <tr>
+      <td class="tg-x4o9" colspan="3">
+        <a href="https://www.nlb.gov.sg/">
+        <center>
+          https://www.nlb.gov.sg/
+        </center></a>
+      </td>
+    </tr>
+    <tr>
+      <td class="tg-f187" colspan="2">
+        <a href="https://www.nhb.gov.sg/">https://www.nhb.gov.sg/</a>
+      </td>
+      <td class="tg-x4o9">
+        <a href="https://www.nationalgeographic.com/">https://www.nationalgeographic.com/</a>
+      </td>
+    </tr>
+    <tr>
+      <td class="tg-y7qa" colspan="2"></td>
+      <td class="tg-x4o9">
+        <a href="https://www.asiangeo.com/">https://www.asiangeo.com/</a>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 
