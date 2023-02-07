@@ -15,44 +15,38 @@ The Troop also takes part in events at the Area and National levels, such as cam
 
 In 2022, the Scouts planned training and activities where there were opportunities to continue patrol bonding among them. They also forged new relationships with their juniors from St. Gabriel’s Primary School. Additionally, the troop made history by taking part in the National Day Parade and Braddell Heights Mini Parade 2022.
 
-</style>
 <table class="tg">
-<thead>
-<tr>
-    <th class="tg-tlx9"><img style="width:100%" src="/images/CCA/Uniformed%20Groups/Scouts/Scout.png"></th>
-	<th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img class="tg-tlx9"><img style="width:100%" src="/images/CCA/Uniformed%20Groups/Scouts/Scouts%201.png">
-    </th>
-  </th></tr>
-</thead>
-<tbody>
-	  <tr>
-				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">2006 St. Gabriel’s Southern Cross Scout Troop</span></td>
-    <td class="tg-apyk"><br></td>
-    <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Our President Scout Awardee, Abhimanyu Selvakumar
-
-  </tr>
-</tbody>
+  <thead>
+    <tr>
+      <th class="tg-tlx9"><img style="width:100%" src="/images/CCA/Uniformed%20Groups/Scouts/Scout.png" alt="Scout"></th>
+      <th class="tg-tlx9"></th>
+      <th class="tg-tlx9"><img class="tg-tlx9" alt=""><img style="width:100%" src="/images/CCA/Uniformed%20Groups/Scouts/Scouts%201.png" alt="Scouts%201"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">2006 St. Gabriel’s Southern Cross Scout Troop</span></td>
+      <td class="tg-apyk"><br></td>
+      <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Our President Scout Awardee, Abhimanyu Selvakumar</span></td>
+    </tr>
+  </tbody>
 </table>
 
-</style>
 <table class="tg">
-<thead>
-<tr>
-    <th class="tg-tlx9"><img style="width:100%" src="/images/CCA/Uniformed%20Groups/Scouts/Scouts%202.jpeg"></th>
-	<th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img class="tg-tlx9"><img style="width:100%" src="/images/CCA/Uniformed%20Groups/Scouts/Scouts%203.jpeg">
-    </th>
-  </th></tr>
-</thead>
-<tbody>
-	  <tr>
-				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">NDP22 2006 Scout Troop in Action</span></td>
-    <td class="tg-apyk"><br></td>
-    <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Collaboration with SGPS Cub Scouts
-
-  </tr>
-</tbody>
+  <thead>
+    <tr>
+      <th class="tg-tlx9"><img style="width:100%" src="/images/CCA/Uniformed%20Groups/Scouts/Scouts%202.jpeg" alt="Scouts%202"></th>
+      <th class="tg-tlx9"></th>
+      <th class="tg-tlx9"><img class="tg-tlx9" alt=""><img style="width:100%" src="/images/CCA/Uniformed%20Groups/Scouts/Scouts%203.jpeg" alt="Scouts%203"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">NDP22 2006 Scout Troop in Action</span></td>
+      <td class="tg-apyk"><br></td>
+      <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Collaboration with SGPS Cub Scouts</span></td>
+    </tr>
+  </tbody>
 </table>
 
 ##### Teachers-in-charge<br>
