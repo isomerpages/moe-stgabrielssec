@@ -3,8 +3,6 @@ title: Quick Links (Students)
 permalink: /links/Quick-Links-Students/
 description: ""
 ---
-
-
 ## QUICK LINKS (STUDENTS)
 
 ![](/images/Students%20Link.jpeg)
@@ -17,7 +15,7 @@ Click on this [link](https://vle.learning.moe.edu.sg/login) to access the SLS 
 *   **[Guide on Register Verified Email Address]([](/files/Links/Students/User%20Guide%20-%20Register%20Verified%20Email%20Address.pdf)**
 *   **[Password Reset Guide]([](/files/Links/Students/Password%20Reset%20Guide.pdf)**
 *   **[SLS Reset Password Form](http://tinyurl.com/slsandiconresetpasswordform)**
-* * *
+
 
 ##### <center>[Admin Breeze](https://stgabrielssec.adminbreeze.com/)</center>
 Click on this [link](https://stgabrielssec.adminbreeze.com/) to access the Admin Breeze Portal
@@ -59,27 +57,55 @@ Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access 
 .tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
 .tg .tg-otbs{background-color:#EAEAEA;color:#0C343D;font-weight:bold;text-align:center;vertical-align:top}
 </style>
+
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-otbs"><br><a href="(/files/Links/Students/School%20Rules%20and%20Regulation%202023.pdf)">School Rules &amp; Regulations</a><br></th>
-    <th class="tg-n4qt"><br><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html">Education and Career Guidance</a><br><br></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-n4qt"><br><a href="https://sgss.edupage.org/timetable/">Class Timetable</a><br><br></td>
-    <td class="tg-otbs"><br><a href="https://www.moe.gov.sg/education/admissions/jae/">JAE Internet System (JAE-IS)</a><br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-n4qt"><br><a href="https://stgabrielssec-moe-edu-sg-admin.cwp.sg/links/quick-links-students/booklist">Booklist for Year 2023</a><br><br></td>
-    <td class="tg-otbs"><br><a href="/files/Links/Students/Locker%20Rental%20Application%20Form.pdf">Locker Rental Application Form</a><br><br></td>
-  </tr>
-  <tr>
-    <td class="tg-otbs"><span style="color:#222;background-color:#EAEAEA"> </span><br><a href="http://portal.swn.moe.edu.sg/">School WiFi Log In / Log Off Portal</a> <br><br></td>
-    <td class="tg-otbs"></td>
-  </tr>
-</tbody>
+  <thead>
+    <tr>
+      <th class="tg-otbs">
+        <br>
+        <a href="(/files/Links/Students/School%20Rules%20and%20Regulation%202023.pdf)">School Rules & Regulations</a><br>
+      </th>
+      <th class="tg-n4qt">
+        <br>
+        <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html">Education and Career Guidance</a><br>
+        <br>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="tg-n4qt">
+        <br>
+        <a href="https://sgss.edupage.org/timetable/">Class Timetable</a><br>
+        <br>
+      </td>
+      <td class="tg-otbs">
+        <br>
+        <a href="https://www.moe.gov.sg/education/admissions/jae/">JAE Internet System (JAE-IS)</a><br>
+        <br>
+      </td>
+    </tr>
+    <tr>
+      <td class="tg-n4qt">
+        <br>
+        <a href="https://stgabrielssec-moe-edu-sg-admin.cwp.sg/links/quick-links-students/booklist">Booklist for Year 2023</a><br>
+        <br>
+      </td>
+      <td class="tg-otbs">
+        <br>
+        <a href="/files/Links/Students/Locker%20Rental%20Application%20Form.pdf">Locker Rental Application Form</a><br>
+        <br>
+      </td>
+    </tr>
+    <tr>
+      <td class="tg-otbs">
+        <br>
+        <a href="http://portal.swn.moe.edu.sg/">School WiFi Log In / Log Off Portal</a><br>
+        <br>
+      </td>
+      <td class="tg-otbs"></td>
+    </tr>
+  </tbody>
 </table>
 
 ***
