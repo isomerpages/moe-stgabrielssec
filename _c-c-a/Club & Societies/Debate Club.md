@@ -19,11 +19,15 @@ Our debaters also have chances to showcase their creativity and insight through 
 1.  Ms Jo-Anne Seet
 
 ##### <u>Training Schedule </u>
-Practice Session:
-<br>
-Wed: 2.50pm - 5.00pm (for Sec 1s only) [TBC]
-<br>
-Fri: 2.20pm - 5.30pm (for Sec 2s and 3s)
+
+|  |  |  |
+| -------- | -------- | -------- |
+| Thursday, 3.00pm - 5.00pm | Junior Debate Training Session (Sec 1s) |     |
+| Friday, 1.30pm - 2.30pm | Competition Training Session |
+|Friday, 2.30pm - 5.30pm | Senior Debate Training Session (Sec 2s and 3s) |
+|  |  |  |
+
+
 <br>
 Venue: Computer Lab 4
 <br><br>
