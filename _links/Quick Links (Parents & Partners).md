@@ -52,8 +52,10 @@ Click [**here**](http://tinyurl.com/virtualdialoguesession) to watch the Virtu
 | --- 
 
 ##### Parents Gateway
-***
-*   **[PG Gateway - Parent Teacher Meeting Guide](/files/Links/Parents/PG%20Meetings%20-%20User%20Guide%20for%20Parents%20-%20Aug%202020.pdf)**
+
+|**[PG Gateway - Parent Teacher Meeting Guide](/files/Links/Parents/PG%20Meetings%20-%20User%20Guide%20for%20Parents%20-%20Aug%202020.pdf)**| 
+| ---
+<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
