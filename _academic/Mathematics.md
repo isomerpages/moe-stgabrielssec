@@ -70,7 +70,7 @@ N˜
 
   
 
-<u>**Enrichment**</u>
+**<u>Enrichment</u>**
 
 **External Competition – Annual Financial Literacy for Youths Race (FLY)**
 
