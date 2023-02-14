@@ -160,7 +160,7 @@ The learning of Geography or History as an elective is meant to deepen the stude
   </thead>
   <tbody>
     <tr>
-      <td class="tg-x4o9" colspan="3">
+      <td class="tg-f187" colspan="3">
         <a href="https://www.straitstimes.com/">
         <center>
           https://www.straitstimes.com/
@@ -168,7 +168,7 @@ The learning of Geography or History as an elective is meant to deepen the stude
       </td>
     </tr>
     <tr>
-      <td class="tg-x4o9" colspan="3">
+      <td class="tg-f187" colspan="3">
         <a href="https://www.nlb.gov.sg/">
         <center>
           https://www.nlb.gov.sg/
