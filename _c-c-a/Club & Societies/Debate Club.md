@@ -27,12 +27,10 @@ Our debaters also have chances to showcase their creativity and insight through 
 |Friday, 2.30pm - 5.30pm | Senior Debate Training Session (Sec 2s and 3s) |
 |  |  |  |
 
-
-<br>
 Venue: Computer Lab 4
-<br><br>
-Dates and timings are subject to change during debating tournament preparation periods.
 <br>
+Dates and timings are subject to change during debating tournament preparation periods.
+<br><br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
