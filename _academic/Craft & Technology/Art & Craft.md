@@ -128,7 +128,7 @@ Students are encouraged to explore, to create, and to reach their full potential
 
 **Participation:**
 
-* Participation in School Arts Buzz (Two weeks long of Art program and activities) </center> <center>Arts Buzz - 2018</center>
+* Participation in School Arts Buzz (Two weeks long of Art program and activities) <center>Arts Buzz - 2018</center>
 
 ![](/images/Academic/Art/Arts%20Buzz%202018.jpeg) <br>
 
