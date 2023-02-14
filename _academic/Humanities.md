@@ -207,7 +207,8 @@ This syllabus is an introduction to business through an understanding of busines
 <br>
 
 <img style="width: 50%;" src="/images/Academic/Elements%20of%20Business%20Studies/EBS.png">
-
+ <br>
+ 
 **<u>Unit 1: Understanding business activities</u>** 
 
 This unit helps students to understand the purpose of a business and the various types of businesses in the Travel and Tourism, Hospitality, and Retail industries. Impact of competition and trends on the businesses, and careers in these industries, are also examined to develop an understanding of the challenges and opportunities presented. 
