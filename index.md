@@ -20,4 +20,11 @@ sections:
       image: /images/Home Based Learning/HBL.png
       alt: Image alt text
       subtitle: St. Gabriel's Secondary School
+  - infopic:
+      title: St. Gabriel's 70th Anniversary Dinner
+      subtitle: ST. GABRIEL'S SECONDARY SCHOOL
+      button: Click here for more info
+      url: /St-Gabriels-70th-Anniversary-Dinner/
+      image: /images/70th Anniversary Dinner.jpg
+      alt: Image alt text
 ---
