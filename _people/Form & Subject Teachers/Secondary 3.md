@@ -238,102 +238,160 @@ third_nav_title: Form & Subject Teachers
 </thead>
 <tbody>
   <tr>
-    <td>English</td>
-    <td>Ms</td>
-    <td><a href="mailto:nur_syarmeen_ehsan_ahmad@moe.edu.sg">Nur Syarmeen</a></td>
-    <td>nur_syarmeen_ehsan_ahmad@moe.edu.sg</td>
-    <td>149</td>
-  </tr>
-  <tr>
-    <td>Additional Mathematics </td>
-    <td>Ms</td>
-    <td><a href="mailto:lim_shanrui_joanne@moe.edu.sg">Joanne Lim</a></td>
-    <td>lim_shanrui_joanne@moe.edu.sg</td>
-    <td>127</td>
-  </tr>
-  <tr>
-    <td>Mathematics</td>
-    <td>Ms</td>
-    <td><a href="mailto:lim_shanrui_joanne@moe.edu.sg">Joanne Lim</a></td>
-    <td>lim_shanrui_joanne@moe.edu.sg</td>
-    <td>127</td>
-  </tr>
-  <tr>
-    <td>Physics</td>
-    <td>Mr</td>
-    <td><a href="mailto:lee_cheng_soon@moe.edu.sg">Lee Cheng Soon</a></td>
-    <td>lee_cheng_soon@moe.edu.sg</td>
-    <td>143</td>
-  </tr>
-  <tr>
-    <td> Chemistry</td>
-    <td>Mrs</td>
-    <td><a href="mailto:yip_chin_ngan@moe.edu.sg">Chang Chin Ngan</a></td>
-    <td>yip_chin_ngan@moe.edu.sg</td>
-    <td>129</td>
-  </tr>
-  <tr>
-    <td>Chinese</td>
-    <td>Mr</td>
-    <td><a href="mailto:lee_song_nian@moe.edu.sg">Lee Song Nian</a></td>
-    <td>lee_song_nian@moe.edu.sg</td>
-    <td>126</td>
-  </tr>
-  <tr>
-    <td>Basic Chinese</td>
-    <td>Mr</td>
-    <td> <a href="mailto:ong_han_guan@moe.edu.sg">Ong Han Guan</a></td>
-    <td>ong_han_guan@moe.edu.sg</td>
-    <td>210</td>
-  </tr>
-  <tr>
-    <td>Malay</td>
-    <td>Mdm</td>
-    <td><a href="mailto:rose_fadillah_aris@moe.edu.sg">Rose Fadillah</a></td>
-    <td>rose_fadillah_aris@moe.edu.sg</td>
-    <td>220</td>
-  </tr>
-  <tr>
-    <td> Higher Tamil</td>
-    <td>Ms</td>
-    <td><a href="mailto:krishnasamy_poongulali@moe.edu.sg">Krishnasamy Poongulali</a></td>
-    <td>krishnasamy_poongulali@moe.edu.sg</td>
-    <td>151</td>
-  </tr>
-  <tr>
-    <td>Tamil</td>
-    <td>Ms</td>
-    <td><a href="mailto:subhalakshmi_laksmanan@moe.edu.sg">Subhalakshmi</a></td>
-    <td> subhalakshmi_laksmanan@moe.edu.sg</td>
-    <td>152</td>
-  </tr>
-  <tr>
-    <td>SS &amp; Geography</td>
-    <td>Ms</td>
-    <td><a href="mailto:tan_ying_a@moe.edu.sg">Tan Ying</a></td>
-    <td>tan_ying_a@moe.edu.sg</td>
-    <td>153</td>
-  </tr>
-  <tr>
-    <td>SS &amp; History</td>
-    <td>Mr</td>
-    <td><a href="mailto:ng_kai_yang_ivan@moe.edu.sg">Ivan Ng</a></td>
-    <td>ng_kai_yang_ivan@moe.edu.sg</td>
-    <td>150</td>
-  </tr>
-  <tr>
-    <td>Principles of Account </td>
-    <td>Ms</td>
-    <td><a href="mailto:cheah_lai_hee_ruby@moe.edu.sg">Ruby Cheah</a></td>
-    <td>cheah_lai_hee_ruby@moe.edu.sg</td>
-    <td>125</td>
-  </tr>
-  <tr>
-    <td>Physical Education</td>
-    <td>Mr</td>
-    <td><a href="mailto:ng_rong_yaw@moe.edu.sg">Ng Rong Yaw</a></td>
-    <td>ng_rong_yaw@moe.edu.sg</td>
-    <td>173</td>
+<td style="width: 60px;">English
+</td>
+<td style="width: 60px;">Mr
+</td>
+<td style="width: 60px;"><a href="mailto:goh_huan_shen_rodney@moe.edu.sg" target="">Rodney Goh</a>
+</td>
+<td style="width: 60px;">goh_huan_shen_rodney@moe.edu.sg&nbsp;
+</td>
+<td style="width: 60px;">146
+</td>
+</tr>
+<tr>
+<td>Additional Mathematics &amp; Mathematics
+</td>
+<td>Mr
+</td>
+<td><a href="mailto:poh_wei_beng@moe.edu.sg" target="">Poh Wei Beng</a>
+</td>
+<td>poh_wei_beng@moe.edu.sg
+</td>
+<td>114
+</td>
+</tr>
+<tr>
+<td>Biology
+</td>
+<td>Ms<br>Mr
+</td>
+<td><a href="mailto:zhou_jie_jane@moe.edu.sg" target="">Jane Zhou</a><br><a href="mailto:tang_chong_tong_anthony@moe.edu.sg" target="">Anthony Tang</a>
+</td>
+<td>zhou_jie_jane@moe.edu.sg<br>tang_chong_tong_anthony@moe.edu.sg<br>
+</td>
+<td>142<br>142
+</td>
+</tr>
+<tr>
+<td>Physics
+</td>
+<td>Mr
+</td>
+<td><a href="mailto:chow_yew_kai@moe.edu.sg" target="">Nick Chow</a>
+</td>
+<td>chow_yew_kai@moe.edu.sg
+</td>
+<td>216
+</td>
+</tr>
+<tr>
+<td>&nbsp;Chemistry
+</td>
+<td>Ms<br>Mr
+</td>
+<td><a href="mailto:koh_joo_kim_jean@moe.edu.sg" target="">Jean Koh</a><br><a href="mailto:benjamin_tan_a@moe.edu.sg" target="">Benjamin Tan</a><a href="mailto:goh_kok_ho@moe.edu.sg" target=""></a><a href="/"></a>
+</td>
+<td>koh_joo_kim_jean@moe.edu.sg<br>benjamin_tan_a@moe.edu.sg<br>
+</td>
+<td>125<br>145
+</td>
+</tr>
+<tr>
+<td>Chinese
+</td>
+<td>Mr
+</td>
+<td><a href="mailto:see_wei_liang_clement@moe.edu.sg" target="">Clement See</a>
+</td>
+<td>see_wei_liang_clement@moe.edu.sg
+</td>
+<td>115
+</td>
+</tr>
+<tr>
+<td>Basic Chinese
+</td>
+<td>Mr
+</td>
+<td><a href="mailto:qiao_cheng_yan@moe.edu.sg" target="">Qiao Cheng Yan</a>
+</td>
+<td>qiao_cheng_yan@moe.edu.sg
+</td>
+<td>215
+</td>
+</tr>
+<tr>
+<td>Malay
+</td>
+<td>Mdm
+</td>
+<td><a href="mailto:rose_fadillah_aris@moe.edu.sg" target="">Rose Fadillah</a>
+</td>
+<td>rose_fadillah_aris@moe.edu.sg
+</td>
+<td>220
+</td>
+</tr>
+<tr>
+<td>Higher Tamil
+</td>
+<td>Ms
+</td>
+<td><a href="mailto:subhalakshmi_laksmanan@moe.edu.sg" target="">Subhalakshmi</a>
+</td>
+<td>subhalakshmi_laksmanan@moe.edu.sg
+</td>
+<td>152
+</td>
+</tr>
+<tr>
+<td>Tamil
+</td>
+<td>Ms
+</td>
+<td><a href="mailto:mogana_ap_devinthoran@moe.edu.sg" target="">Mogana Devinthoran</a><br><a href="mailto:mogana_ap_devinthoran@moe.edu.sg" target=""></a>
+</td>
+<td>mogana_ap_devinthoran@moe.edu.sg
+</td>
+<td>208
+</td>
+</tr>
+<tr>
+<td>Geography
+</td>
+<td>Mrs
+</td>
+<td><a href="mailto:tanny_koh_tien_tien@moe.edu.sg" target="">Tanny Ho
+</td>
+<td>tanny_koh_tien_tien@moe.edu.sg<br>
+</td>
+<td>156
+</td>
+</tr>
+<tr>
+<td>Social Studies &amp; History
+</td>
+<td>Ms
+</td>
+<td><a href="mailto:samantha_gracie_daishini_thevan@moe.edu.sg" target="">Samantha Daishini</a>
+</td>
+<td>samantha_gracie_daishini_thevan@moe.edu.sg
+</td>
+<td>153
+</td>
+</tr>
+<tr>
+<td>Physical Education
+</td>
+<td>Mr
+</td>
+<td><a href="mailto:ong_chin_ming@moe.edu.sg" target="">Ong Chin Ming</a>
+</td>
+<td>ong_chin_ming@moe.edu.sg
+</td>
+<td>112
+</td>
   </tr>
 </tbody>
 </table>
@@ -352,102 +410,160 @@ third_nav_title: Form & Subject Teachers
 </thead>
 <tbody>
   <tr>
-    <td>English</td>
-    <td>Ms</td>
-    <td><a href="mailto:nur_syarmeen_ehsan_ahmad@moe.edu.sg">Nur Syarmeen</a></td>
-    <td>nur_syarmeen_ehsan_ahmad@moe.edu.sg</td>
-    <td>149</td>
-  </tr>
-  <tr>
-    <td>Additional Mathematics </td>
-    <td>Ms</td>
-    <td><a href="mailto:lim_shanrui_joanne@moe.edu.sg">Joanne Lim</a></td>
-    <td>lim_shanrui_joanne@moe.edu.sg</td>
-    <td>127</td>
-  </tr>
-  <tr>
-    <td>Mathematics</td>
-    <td>Ms</td>
-    <td><a href="mailto:lim_shanrui_joanne@moe.edu.sg">Joanne Lim</a></td>
-    <td>lim_shanrui_joanne@moe.edu.sg</td>
-    <td>127</td>
-  </tr>
-  <tr>
-    <td>Physics</td>
-    <td>Mr</td>
-    <td><a href="mailto:lee_cheng_soon@moe.edu.sg">Lee Cheng Soon</a></td>
-    <td>lee_cheng_soon@moe.edu.sg</td>
-    <td>143</td>
-  </tr>
-  <tr>
-    <td> Chemistry</td>
-    <td>Mrs</td>
-    <td><a href="mailto:yip_chin_ngan@moe.edu.sg">Chang Chin Ngan</a></td>
-    <td>yip_chin_ngan@moe.edu.sg</td>
-    <td>129</td>
-  </tr>
-  <tr>
-    <td>Chinese</td>
-    <td>Mr</td>
-    <td><a href="mailto:lee_song_nian@moe.edu.sg">Lee Song Nian</a></td>
-    <td>lee_song_nian@moe.edu.sg</td>
-    <td>126</td>
-  </tr>
-  <tr>
-    <td>Basic Chinese</td>
-    <td>Mr</td>
-    <td> <a href="mailto:ong_han_guan@moe.edu.sg">Ong Han Guan</a></td>
-    <td>ong_han_guan@moe.edu.sg</td>
-    <td>210</td>
-  </tr>
-  <tr>
-    <td>Malay</td>
-    <td>Mdm</td>
-    <td><a href="mailto:rose_fadillah_aris@moe.edu.sg">Rose Fadillah</a></td>
-    <td>rose_fadillah_aris@moe.edu.sg</td>
-    <td>220</td>
-  </tr>
-  <tr>
-    <td> Higher Tamil</td>
-    <td>Ms</td>
-    <td><a href="mailto:krishnasamy_poongulali@moe.edu.sg">Krishnasamy Poongulali</a></td>
-    <td>krishnasamy_poongulali@moe.edu.sg</td>
-    <td>151</td>
-  </tr>
-  <tr>
-    <td>Tamil</td>
-    <td>Ms</td>
-    <td><a href="mailto:subhalakshmi_laksmanan@moe.edu.sg">Subhalakshmi</a></td>
-    <td> subhalakshmi_laksmanan@moe.edu.sg</td>
-    <td>152</td>
-  </tr>
-  <tr>
-    <td>SS &amp; Geography</td>
-    <td>Ms</td>
-    <td><a href="mailto:tan_ying_a@moe.edu.sg">Tan Ying</a></td>
-    <td>tan_ying_a@moe.edu.sg</td>
-    <td>153</td>
-  </tr>
-  <tr>
-    <td>SS &amp; History</td>
-    <td>Mr</td>
-    <td><a href="mailto:ng_kai_yang_ivan@moe.edu.sg">Ivan Ng</a></td>
-    <td>ng_kai_yang_ivan@moe.edu.sg</td>
-    <td>150</td>
-  </tr>
-  <tr>
-    <td>Principles of Account </td>
-    <td>Ms</td>
-    <td><a href="mailto:cheah_lai_hee_ruby@moe.edu.sg">Ruby Cheah</a></td>
-    <td>cheah_lai_hee_ruby@moe.edu.sg</td>
-    <td>125</td>
-  </tr>
-  <tr>
-    <td>Physical Education</td>
-    <td>Mr</td>
-    <td><a href="mailto:ng_rong_yaw@moe.edu.sg">Ng Rong Yaw</a></td>
-    <td>ng_rong_yaw@moe.edu.sg</td>
-    <td>173</td>
+<td style="width: 60px;">English
+</td>
+<td style="width: 60px;">Mr
+</td>
+<td style="width: 60px;"><a href="mailto:suraj_padman@moe.edu.sg" target="">Suraj Padman</a>
+</td>
+<td style="width: 60px;">suraj_padman@moe.edu.sg
+</td>
+<td style="width: 60px;">137
+</td>
+</tr>
+<tr>
+<td>Additional Mathematics &amp; Mathematics
+</td>
+<td>Ms
+</td>
+<td><a href="mailto:nurul_humairah_abu_bakar@moe.edu.sg" target="">Nurul Humairah</a>
+</td>
+<td>nurul_humairah_abu_bakar@moe.edu.sg
+</td>
+<td>212
+</td>
+</tr>
+<tr>
+<td>Physics
+</td>
+<td>Mr
+</td>
+<td><a href="mailto:liang_tianfa@moe.edu.sg" target="">Chris Liang</a>
+</td>
+<td>liang_tianfa@moe.edu.sg
+</td>
+<td>150
+</td>
+</tr>
+<tr>
+<td>&nbsp;Chemistry
+</td>
+<td>Mrs
+</td>
+<td><a href="mailto:yip_chin_ngan@moe.edu.sg" target="">Chang Chin Ngan</a>
+</td>
+<td>yip_chin_ngan@moe.edu.sg
+</td>
+<td>129
+</td>
+</tr>
+<tr>
+<td>Chinese
+</td>
+<td>Ms
+</td>
+<td><a href="mailto:peh_sok_hoon@moe.edu.sg" target="">Peh Sok Hoon</a>
+</td>
+<td>peh_sok_hoon@moe.edu.sg&nbsp;
+</td>
+<td>129
+</td>
+</tr>
+<tr>
+<td>Basic Chinese
+</td>
+<td>Mr
+</td>
+<td><a href="mailto:qiao_cheng_yan@moe.edu.sg" target="">Qiao Cheng Yan</a>
+</td>
+<td>qiao_cheng_yan@moe.edu.sg
+</td>
+<td>215
+</td>
+</tr>
+<tr>
+<td>Malay
+</td>
+<td>Mdm
+</td>
+<td><a href="mailto:rose_fadillah_aris@moe.edu.sg" target="">Rose Fadillah</a>
+</td>
+<td>rose_fadillah_aris@moe.edu.sg
+</td>
+<td>220
+</td>
+</tr>
+<tr>
+<td>Higher Tamil
+</td>
+<td>Ms
+</td>
+<td><a href="mailto:subhalakshmi_laksmanan@moe.edu.sg" target="">Subhalakshmi</a>
+</td>
+<td>subhalakshmi_laksmanan@moe.edu.sg
+</td>
+<td>152
+</td>
+</tr>
+<tr>
+<td>Tamil
+</td>
+<td>Ms
+</td>
+<td><a href="mailto:mogana_ap_devinthoran@moe.edu.sg" target="">Mogana Devinthoran</a><br><a href="mailto:mogana_ap_devinthoran@moe.edu.sg" target=""></a>
+</td>
+<td>mogana_ap_devinthoran@moe.edu.sg
+</td>
+<td>149
+</td>
+</tr>
+<tr>
+<td>Geography
+</td>
+<td>Ms<br>
+</td>
+<td><a href="mailto:tan_ying_a@moe.edu.sg" target="">Tan Ying</a><br>
+</td>
+<td>tan_ying_a@moe.edu.sg<br>
+</td>
+<td>208<br>
+</td>
+</tr>
+<tr>
+<td>SS &amp; History
+</td>
+<td>Mr
+</td>
+<td><a href="mailto:de_souza_paul_francis@moe.edu.sg" target="">Paul De Souza</a>
+</td>
+<td>de_souza_paul_francis@moe.edu.sg&nbsp;
+</td>
+<td>147
+</td>
+</tr>
+<tr>
+<td>Principles of Account
+</td>
+<td>Ms<br>Mr
+</td>
+<td>Karen Chong<br><a href="mailto:nicholas_ng_sin_guan@moe.edu.sg" target="">Nicholas Ng</a>
+</td>
+<td><br>nicholas_ng_sin_guan@moe.edu.sg
+</td>
+<td><br>143
+</td>
+</tr>
+<tr>
+<td>Physical Education
+</td>
+<td>Mr
+</td>
+<td><a href="mailto:mohammad_zahed_md_yatim@moe.edu.sg" target="">Mohammad Zahed</a>
+</td>
+<td>mohammad_zahed_md_yatim@moe.edu.sg
+</td>
+<td>117
+</td>
   </tr>
 </tbody>
 </table>
