@@ -1837,7 +1837,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Mr
 </td>
-<td>Damon Chu<a href="mailto:ong_chin_ming@moe.edu.sg" target=""></a>
+<td><a href="mailto:chu_kin_cheong@moe.edu.sg" target="">Damon Chu</a>
 </td>
 <td>chu_kin_cheong@moe.edu.sg
 </td>
@@ -1861,7 +1861,7 @@ third_nav_title: Form & Subject Teachers
 </th>
 </tr>
 <tr>
-<td>&nbsp;English
+<td>English
 </td>
 <td>Mr
 </td>
