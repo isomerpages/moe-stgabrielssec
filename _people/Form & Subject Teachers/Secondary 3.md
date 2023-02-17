@@ -742,7 +742,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Mr
 </td>
-<td><a href="mailto:goh_toh_fook@moe.edu.sg" target="">Alvin Goh</a><a href="mailto:leong_heng_wah@moe.edu.sg" target=""></a><a href="mailto:goh_toh_fook@moe.edu.sg" target=""></a>
+<td><a href="mailto:goh_toh_fook@moe.edu.sg" target="">Alvin Goh</a>
 </td>
 <td>goh_toh_fook@moe.edu.sg
 </td>
@@ -770,7 +770,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td style="width: 60px;">Ms
 </td>
-<td style="width: 60px;"><a href="mailto:nur_syarmeen_ehsan_ahmad@moe.edu.sg" target="">Nur Syarmeen</a>&nbsp;<a href="mailto:nurul_natasha_rafiq@moe.edu.sg" target=""></a><a href="mailto:saffiah_mohammad_amin@moe.edu.sg" target=""></a><a href="mailto:tong_ming_yan@moe.edu.sg" target=""></a>
+<td style="width: 60px;"><a href="mailto:nur_syarmeen_ehsan_ahmad@moe.edu.sg" target="">Nur Syarmeen</a>
 </td>
 <td style="width: 60px;">nur_syarmeen_ehsan_ahmad@moe.edu.sg&nbsp;
 </td>
@@ -782,7 +782,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td style="width: 60px;">Ms
 </td>
-<td style="width: 60px;"><a href="mailto:teo_chen_nee@moe.edu.sg" target="">Teo Chen Nee</a><a href="mailto:ouyeong_yew_wah@moe.edu.sg" target=""></a><a href="mailto:lim_shanrui_joanne@moe.edu.sg" target=""></a>
+<td style="width: 60px;"><a href="mailto:teo_chen_nee@moe.edu.sg" target="">Teo Chen Nee</a>
 </td>
 <td style="width: 60px;">teo_chen_nee@moe.edu.sg&nbsp;
 </td>
@@ -794,7 +794,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Mr
 </td>
-<td><a href="mailto:koh_keng_wee@moe.edu.sg" target="">Koh Keng Wee</a><a href="mailto:chow_yew_kai@moe.edu.sg" target=""></a>
+<td><a href="mailto:koh_keng_wee@moe.edu.sg" target="">Koh Keng Wee</a>
 </td>
 <td>koh_keng_wee@moe.edu.sg
 </td>
@@ -806,7 +806,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Mr
 </td>
-<td><a href="mailto:chua_chong_yi_mario@moe.edu.sg" target="">Mario Chua</a><a href="https://stgabrielssec-moe-edu-sg-admin.cwp.sg/"></a>
+<td><a href="mailto:chua_chong_yi_mario@moe.edu.sg" target="">Mario Chua</a>
 </td>
 <td>chua_chong_yi_mario@moe.edu.sg
 </td>
@@ -818,9 +818,9 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Mr
 </td>
-<td><a href="mailto:goh_kok_ho@moe.edu.sg" target="">Sebastian Goh</a><a href="mailto:loh_yue_yan_amelia@moe.edu.sg" target=""></a>
+<td><a href="mailto:goh_kok_ho@moe.edu.sg" target="">Sebastian Goh</a>
 </td>
-<td>goh_kok_ho@moe.edu.sg&nbsp;
+<td>goh_kok_ho@moe.edu.sg
 </td>
 <td>128
 </td>
@@ -830,7 +830,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Mr
 </td>
-<td><a href="mailto:tan_yong_xian@moe.edu.sg" target="">Tan Yong Xian</a><a href="mailto:peh_sok_hoon@moe.edu.sg" target=""></a>
+<td><a href="mailto:tan_yong_xian@moe.edu.sg" target="">Tan Yong Xian</a>
 </td>
 <td>tan_yong_xian@moe.edu.sg
 </td>
@@ -842,7 +842,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Mr
 </td>
-<td><a href="mailto:qiao_cheng_yan@moe.edu.sg" target="">Qiao Cheng Yan</a><a href="mailto:ong_han_guan@moe.edu.sg" target=""></a>
+<td><a href="mailto:qiao_cheng_yan@moe.edu.sg" target="">Qiao Cheng Yan</a>
 </td>
 <td>qiao_cheng_yan@moe.edu.sg
 </td>
@@ -866,7 +866,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Ms
 </td>
-<td><a href="mailto:subhalakshmi_laksmanan@moe.edu.sg" target="">Subhalakshmi</a><a href="mailto:mogana_ap_devinthoran@moe.edu.sg" target=""></a>
+<td><a href="mailto:subhalakshmi_laksmanan@moe.edu.sg" target="">Subhalakshmi</a>
 </td>
 <td>&nbsp;subhalakshmi_laksmanan@moe.edu.sg
 </td>
@@ -880,29 +880,29 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td><a href="mailto:mogana_ap_devinthoran@moe.edu.sg" target="">Mogana Devinthoran</a>
 </td>
-<td>mogana_ap_devinthoran@moe.edu.sg&nbsp;
+<td>mogana_ap_devinthoran@moe.edu.sg
 </td>
-<td>&nbsp;208
+<td>208
 </td>
 </tr>
 <tr>
-<td>&nbsp;Literature
+<td>Literature
 </td>
 <td>Ms
 </td>
 <td><a href="mailto:marianne_li@moe.edu.sg" target="">Marianne Li</a>
 </td>
-<td>marianne_li@moe.edu.sg&nbsp;
+<td>marianne_li@moe.edu.sg
 </td>
-<td>&nbsp;139
+<td>139
 </td>
 </tr>
 <tr>
-<td>&nbsp;Social Studies
+<td>Social Studies
 </td>
 <td>Mr<br>Ms
 </td>
-<td><a href="mailto:simranpal_singh_sanohu@moe.edu.sg" target="">Simranpal Singh</a><br>Siti Rafeah (Sem 1)
+<td><a href="mailto:simranpal_singh_sanohu@moe.edu.sg" target="">Simranpal Singh</a><br><a href="mailto:siti_rafeah_rahmat@moe.edu.sg" target="">Siti Rafeah (Sem 1)
 </td>
 <td>simranpal_singh_sanohu@moe.edu.sg<br>siti_rafeah_rahmat@moe.edu.sg
 </td>
@@ -914,7 +914,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Mrs
 </td>
-<td><a href="mailto:tanny_koh_tien_tien@moe.edu.sg" target="">Tanny Ho</a><a href="mailto:lim_siew_gek_a@moe.edu.sg" target=""></a>
+	<td><a href="mailto:tanny_koh_tien_tien@moe.edu.sg" target="">Tanny Ho</a>
 </td>
 <td>tanny_koh_tien_tien@moe.edu.sg<br>
 </td>
@@ -926,7 +926,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Mr
 </td>
-<td><a href="mailto:de_souza_paul_francis@moe.edu.sg" target="">Paul De Souza</a><a href="mailto:ng_kai_yang_ivan@moe.edu.sg" target=""></a><a href="mailto:de_souza_paul_francis@moe.edu.sg" target=""></a>
+<td><a href="mailto:de_souza_paul_francis@moe.edu.sg" target="">Paul De Souza</a>
 </td>
 <td>de_souza_paul_francis@moe.edu.sg
 </td>
@@ -934,11 +934,11 @@ third_nav_title: Form & Subject Teachers
 </td>
 </tr>
 <tr>
-<td>Principles of Account&nbsp;
+<td>Principles of Account
 </td>
 <td>Ms
 </td>
-<td><a href="mailto:cheah_lai_hee_ruby@moe.edu.sg" target="">Ruby Cheah</a><a href="mailto:han_liying@moe.edu.sg" target=""></a>
+<td><a href="mailto:cheah_lai_hee_ruby@moe.edu.sg" target="">Ruby Cheah</a>
 </td>
 <td>cheah_lai_hee_ruby@moe.edu.sg
 </td>
@@ -950,7 +950,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Mr
 </td>
-<td><a href="mailto:zach.scotts.wu@gmail.com" target="">Zachary Scott Wu</a><a href="mailto:chu_kin_cheong@moe.edu.sg" target=""></a><a href="mailto:goh_toh_fook@moe.edu.sg" target=""></a>
+<td><a href="mailto:zach.scotts.wu@gmail.com" target="">Zachary Scott Wu</a>
 </td>
 <td>zach.scotts.wu@gmail.com
 </td>
@@ -2022,11 +2022,11 @@ third_nav_title: Form & Subject Teachers
 </td>
 </tr>
 <tr>
-<td>&nbsp;Science (T)
+<td>Science (T)
 </td>
 <td>Ms
 </td>
-<td>Siti Nazaafah<a href="mailto:brandon_foo_jong_heng@moe.edu.sg" target=""></a>
+<td><a href="mailto:siti_nazeefah_md_mansor@moe.edu.sg" target="">Siti Nazaafah</a>
 </td>
 <td>siti_nazeefah_md_mansor@moe.edu.sg
 </td>
