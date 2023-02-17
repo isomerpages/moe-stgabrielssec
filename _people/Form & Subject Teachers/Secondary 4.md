@@ -1865,7 +1865,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Mr
 </td>
-<td><a href="mailto:suraj_padman@moe.edu.sg" target="">Suraj</a><a href="mailto:goh_huan_shen_rodney@moe.edu.sg" target=""></a>
+<td><a href="mailto:suraj_padman@moe.edu.sg" target="">Suraj Padman</a>
 </td>
 <td>suraj_padman@moe.edu.sg
 </td>
@@ -1873,11 +1873,11 @@ third_nav_title: Form & Subject Teachers
 </td>
 </tr>
 <tr>
-<td>&nbsp;English 'N'
+<td>English 'N'
 </td>
 <td>Mr
 </td>
-<td><a href="mailto:lim_zhengxiong_benjamin@moe.edu.sg" target="">Benjamin Lim</a><a href="mailto:suraj_padman@moe.edu.sg" target=""></a>
+<td><a href="mailto:lim_zhengxiong_benjamin@moe.edu.sg" target="">Benjamin Lim</a>
 </td>
 <td>lim_zhengxiong_benjamin@moe.edu.sg
 </td>
@@ -1889,7 +1889,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Ms
 </td>
-<td><a href="mailto:koh_shiew_cher@moe.edu.sg" target="">Koh Shiew Cher</a><a href="mailto:ouyeong_yew_wah@moe.edu.sg" target=""></a>
+<td><a href="mailto:koh_shiew_cher@moe.edu.sg" target="">Koh Shiew Cher</a>
 </td>
 <td>koh_shiew_cher@moe.edu.sg<br>
 </td>
@@ -1901,7 +1901,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Mr
 </td>
-<td><a href="mailto:james_peh@moe.edu.sg" target="">James Peh</a><a href="mailto:low_ting_ting_cherina@moe.edu.sg" target=""></a>
+<td><a href="mailto:james_peh@moe.edu.sg" target="">James Peh</a>
 </td>
 <td>james_peh@moe.edu.sg
 </td>
@@ -1909,11 +1909,11 @@ third_nav_title: Form & Subject Teachers
 </td>
 </tr>
 <tr>
-<td>Science (Phy) 'N'&nbsp;
+<td>Science (Phy) 'N'
 </td>
 <td>Mr
 </td>
-<td>&nbsp;<a href="mailto:koh_keng_wee@moe.edu.sg" target="">Koh Keng Wee</a>
+<td><a href="mailto:koh_keng_wee@moe.edu.sg" target="">Koh Keng Wee</a>
 </td>
 <td>koh_keng_wee@moe.edu.sg&nbsp;
 </td>
@@ -1921,7 +1921,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 </tr>
 <tr>
-<td>Science (Chem) 'N'&nbsp;&nbsp;
+<td>Science (Chem) 'N'
 </td>
 <td>Ms
 </td>
