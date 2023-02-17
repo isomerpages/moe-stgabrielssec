@@ -737,7 +737,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Mr
 </td>
-<td><a href="mailto:leong_heng_wah@moe.edu.sg" target="">Joshua Leong</a><a href="mailto:mohammad_zahed_md_yatim@moe.edu.sg" target=""></a><a href="mailto:goh_toh_fook@moe.edu.sg" target=""></a>
+<td><a href="mailto:leong_heng_wah@moe.edu.sg" target="">Joshua Leong</a>
 </td>
 <td>leong_heng_wah@moe.edu.sg
 </td>
