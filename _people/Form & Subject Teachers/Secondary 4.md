@@ -1569,7 +1569,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Mdm
 </td>
-<td><a href="mailto:rose_fadillah_aris@moe.edu.sg" target="">Rose Fadillah</a><a href="mailto:hasnah_hassan@moe.edu.sg" target=""></a>
+<td><a href="mailto:rose_fadillah_aris@moe.edu.sg" target="">Rose Fadillah</a>
 </td>
 <td>rose_fadillah_aris@moe.edu.sg
 </td>
@@ -1593,9 +1593,9 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Ms
 </td>
-<td><a href="mailto:subhalakshmi_laksmanan@moe.edu.sg" target="">Subhalakshmi</a><a href="mailto:mogana_ap_devinthoran@moe.edu.sg" target=""></a>
+<td><a href="mailto:subhalakshmi_laksmanan@moe.edu.sg" target="">Subhalakshmi</a>
 </td>
-<td>&nbsp;subhalakshmi_laksmanan@moe.edu.sg
+<td>subhalakshmi_laksmanan@moe.edu.sg
 </td>
 <td>152
 </td>
@@ -1605,7 +1605,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Mr
 </td>
-<td><a href="mailto:sreetharan_rajaselvan@moe.edu.sg" target="">Sreetharan</a><a href="mailto:lim_siew_gek_a@moe.edu.sg" target=""></a>
+<td><a href="mailto:sreetharan_rajaselvan@moe.edu.sg" target="">Sreetharan</a>
 </td>
 <td>sreetharan_rajaselvan@moe.edu.sg
 </td>
@@ -1619,7 +1619,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td><a href="mailto:ng_kai_yang_ivan@moe.edu.sg" target="">Ivan Ng</a>
 </td>
-<td>&nbsp;ng_kai_yang_ivan@moe.edu.sg
+<td>ng_kai_yang_ivan@moe.edu.sg
 </td>
 <td>150
 </td>
@@ -1671,7 +1671,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td style="width: 60px;"><a href="mailto:goh_huan_shen_rodney@moe.edu.sg" target="">Rodney Goh</a><br><a href="mailto:hamdi_abdul_karim@moe.edu.sg" target="">Hamdi</a><a href="mailto:nur_syarmeen_ehsan_ahmad@moe.edu.sg" target=""></a>
 </td>
-<td style="width: 60px;">goh_huan_shen_rodney@moe.edu.sg<br>hamdi_abdul_karim@moe.edu.sg&nbsp; &nbsp;&nbsp;
+<td style="width: 60px;">goh_huan_shen_rodney@moe.edu.sg<br>hamdi_abdul_karim@moe.edu.sg
 </td>
 <td style="width: 60px;">146<br>155
 </td>
@@ -1693,7 +1693,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Mr<br>Mr
 </td>
-<td><a href="mailto:koh_keng_wee@moe.edu.sg" target="">Koh Keng Wee</a><br><a href="mailto:chow_yew_kai@moe.edu.sg" target="">Nick Chow</a><a href="mailto:lee_cheng_soon@moe.edu.sg" target=""></a>
+<td><a href="mailto:koh_keng_wee@moe.edu.sg" target="">Koh Keng Wee</a><br><a href="mailto:chow_yew_kai@moe.edu.sg" target="">Nick Chow</a>
 </td>
 <td>koh_keng_wee@moe.edu.sg<br>chow_yew_kai@moe.edu.sg<br>
 </td>
@@ -1701,11 +1701,11 @@ third_nav_title: Form & Subject Teachers
 </td>
 </tr>
 <tr>
-<td>&nbsp;Science (Chem)
+<td>Science (Chem)
 </td>
 <td>Ms<br>Ms
 </td>
-<td><a href="mailto:low_ting_ting_cherina@moe.edu.sg" target="">Cherina Low</a><br><a href="mailto:koh_joo_kim_jean@moe.edu.sg" target="">Jean Koh</a><br><a href="mailto:tang_chong_tong_anthony@moe.edu.sg" target=""></a>
+<td><a href="mailto:low_ting_ting_cherina@moe.edu.sg" target="">Cherina Low</a><br><a href="mailto:koh_joo_kim_jean@moe.edu.sg" target="">Jean Koh</a><br>
 </td>
 <td>low_ting_ting_cherina@moe.edu.sg<br>koh_joo_kim_jean@moe.edu.sg<br>
 </td>
@@ -1717,7 +1717,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Mdm
 </td>
-<td><a href="mailto:ren_junying@moe.edu.sg" target="">Ren Junying</a><a href="mailto:lee_song_nian@moe.edu.sg" target=""></a>
+<td><a href="mailto:ren_junying@moe.edu.sg" target="">Ren Junying</a>
 </td>
 <td>ren_junying@moe.edu.sg<br>
 </td>
@@ -1729,8 +1729,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Mr
 </td>
-<td><a href="mailto:tan_yong_xian@moe.edu.sg" target="">&nbsp;Tan Yong Xian</a><a href="mailto:tan_teow_koon@moe.edu.sg" target=""></a>
-</td>
+<td><a href="mailto:tan_yong_xian@moe.edu.sg" target="">&nbsp;Tan Yong Xian</a>
 <td>tan_yong_xian@moe.edu.sg
 </td>
 <td>141
@@ -1741,7 +1740,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Mdm
 </td>
-<td><a href="mailto:hasnah_hassan@moe.edu.sg" target="" style="">Hasnah Bte Hassan</a><a href="mailto:noor_hayati_mohamed_yusoff@moe.edu.sg" target=""></a>
+<td><a href="mailto:hasnah_hassan@moe.edu.sg" target="" style="">Hasnah Bte Hassan</a>
 </td>
 <td>hasnah_hassan@moe.edu.sg
 </td>
@@ -1777,9 +1776,9 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Ms
 </td>
-<td><a href="mailto:subhalakshmi_laksmanan@moe.edu.sg" target="">Subhalakshmi</a><a href="mailto:mogana_ap_devinthoran@moe.edu.sg" target=""></a>
+<td><a href="mailto:subhalakshmi_laksmanan@moe.edu.sg" target="">Subhalakshmi</a>
 </td>
-<td>&nbsp;subhalakshmi_laksmanan@moe.edu.sg
+<td>subhalakshmi_laksmanan@moe.edu.sg
 </td>
 <td>152
 </td>
@@ -1789,7 +1788,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Ms
 </td>
-<td><a href="mailto:tanny_koh_tien_tien@moe.edu.sg" target="">Tanny Koh</a><a href="mailto:lim_siew_gek_a@moe.edu.sg" target=""></a>
+<td><a href="mailto:tanny_koh_tien_tien@moe.edu.sg" target="">Tanny Koh</a>
 </td>
 <td>tanny_koh_tien_tien@moe.edu.sg
 </td>
@@ -1803,7 +1802,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td><a href="mailto:ng_kai_yang_ivan@moe.edu.sg" target="">Ivan Ng</a><br><a href="mailto:siti_rafeah_rahmat@moe.edu.sg" target="">Siti Rafeah</a><br>
 </td>
-<td>&nbsp;ng_kai_yang_ivan@moe.edu.sg<br>siti_rafeah_rahmat@moe.edu.sg<br>
+<td>ng_kai_yang_ivan@moe.edu.sg<br>siti_rafeah_rahmat@moe.edu.sg<br>
 </td>
 <td>150<br>119
 </td>
@@ -1813,7 +1812,7 @@ third_nav_title: Form & Subject Teachers
 </td>
 <td>Mr
 </td>
-<td><a href="mailto:ng_kok_aun_joseph@moe.edu.sg" target="">Joseph Ng</a><a href="mailto:huang_jia_mei_laura@moe.edu.sg" target=""></a>
+<td><a href="mailto:ng_kok_aun_joseph@moe.edu.sg" target="">Joseph Ng</a>
 </td>
 <td>ng_kok_aun_joseph@moe.edu.sg<br>
 </td>
@@ -1821,13 +1820,13 @@ third_nav_title: Form & Subject Teachers
 </td>
 </tr>
 <tr>
-<td>&nbsp;Art
+<td>Art
 </td>
 <td>Ms
 </td>
 <td><a href="mailto:ng_u-lynn@moe.edu.sg" target="">Ng U-Lynn</a>
 </td>
-<td>ng_u-lynn@moe.edu.sg&nbsp;
+<td>ng_u-lynn@moe.edu.sg
 </td>
 <td>146
 </td>
