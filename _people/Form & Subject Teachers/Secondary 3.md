@@ -7,128 +7,218 @@ third_nav_title: Form & Subject Teachers
 ## SECONDARY 3
 
 
-#### 2022 Form Teachers
+#### 2023 Form Teachers
 
 -------------------------
 
 **_Click on the name to email the teacher. Main line telephone number 6288 9470._**
 
-<table>
-<thead>
-  <tr>
-    <th>Class</th>
-    <th>Salutation                </th>
-    <th>Name</th>
-    <th>E-mail </th>
-    <th>Telephone extension</th>
-  </tr>
-</thead>
+<table class="iveo_table ives_tab_simple3 ive_eobj_center" style="width: 100%;">
 <tbody>
-  <tr>
-    <td>3E1</td>
-    <td>Mr</td>
-    <td><a href="mailto:de_souza_paul_francis@moe.edu.sg">De Souza Paul Francis</a></td>
-    <td>de_souza_paul_francis@moe.edu.sg</td>
-    <td>147</td>
-  </tr>
-  <tr>
-    <td>3E2<br></td>
-    <td>Mrs</td>
-    <td><a href="mailto:koh_joo_kim_jean@moe.edu.sg">Jean Koh</a></td>
-    <td>koh_joo_kim_jean@moe.edu.sg</td>
-    <td>125</td>
-  </tr>
-  <tr>
-    <td>3E3</td>
-    <td>Ms</td>
-    <td><a href="mailto:cheah_lai_hee_ruby@moe.edu.sg">Ruby Cheah</a></td>
-    <td>cheah_lai_hee_ruby@moe.edu.sg</td>
-    <td>125</td>
-  </tr>
-  <tr>
-    <td>3E3</td>
-    <td>Mr</td>
-    <td><a href="mailto:chia_boon_han@moe.edu.sg">Chia Boon Han</a></td>
-    <td>chia_boon_han@moe.edu.sg </td>
-    <td>136</td>
-  </tr>
-  <tr>
-    <td>3E4</td>
-    <td>Ms</td>
-    <td><a href="mailto:han_liying@moe.edu.sg">Han Liying</a></td>
-    <td>han_liying@moe.edu.sg</td>
-    <td>139</td>
-  </tr>
-  <tr>
-    <td>3E4</td>
-    <td>Mr</td>
-    <td><a href="mailto:chu_kin_cheong@moe.edu.sg">Damon Chu</a></td>
-    <td>chu_kin_cheong@moe.edu.sg<br></td>
-    <td>173</td>
-  </tr>
-  <tr>
-    <td>3E5</td>
-    <td>Mr</td>
-    <td><a href="mailto:koh_keng_wee@moe.edu.sg">Koh Keng Wee</a></td>
-    <td>koh_keng_wee@moe.edu.sg</td>
-    <td>131</td>
-  </tr>
-  <tr>
-    <td>3E5</td>
-    <td>Mr</td>
-    <td><a href="mailto:mohamed_fazlin_said_mohd@moe.edu.sg">Mohamed Fazlin</a></td>
-    <td>mohamed_fazlin_said_mohd@moe.edu.sg</td>
-    <td>166</td>
-  </tr>
-  <tr>
-    <td>3N1</td>
-    <td>Ms</td>
-    <td><a href="mailto:mary_magdalene_yong@moe.edu.sg">Mary Magdalene Yong</a></td>
-    <td>mary_magdalene_yong@moe.edu.sg</td>
-    <td>144</td>
-  </tr>
-  <tr>
-    <td>3N2</td>
-    <td>Mrs</td>
-    <td><a href="mailto:yip_chin_ngan@moe.edu.sg">Chang Chin Ngan</a></td>
-    <td>yip_chin_ngan@moe.edu.sg</td>
-    <td>129</td>
-  </tr>
-  <tr>
-    <td>3N2</td>
-    <td>Mdm</td>
-    <td><a href="mailto:ren_junying@moe.edu.sg">Ren Junying</a></td>
-    <td>ren_junying@moe.edu.sg</td>
-    <td>154</td>
-  </tr>
-  <tr>
-    <td>3N3</td>
-    <td>Mr</td>
-    <td><a href="mailto:ng_kok_aun_joseph@moe.edu.sg">Joseph Ng</a></td>
-    <td>ng_kok_aun_joseph@moe.edu.sg</td>
-    <td>166</td>
-  </tr>
-  <tr>
-    <td>3N3</td>
-    <td>Ms</td>
-    <td><a href="mailto:tanny_koh_tien_tien@moe.edu.sg">Tanny Koh</a></td>
-    <td>tanny_koh_tien_tien@moe.edu.sg</td>
-    <td>156</td>
-  </tr>
-  <tr>
-    <td>3T1</td>
-    <td>Ms</td>
-    <td><a href="mailto:koh_shiew_cher@moe.edu.sg">Koh Shiew Cher</a></td>
-    <td>koh_shiew_cher@moe.edu.sg</td>
-    <td>145</td>
-  </tr>
-  <tr>
-    <td>3T1</td>
-    <td>Mr</td>
-    <td><a href="mailto:suraj_padman@moe.edu.sg">Suraj s.o Padman</a></td>
-    <td>suraj_padman@moe.edu.sg</td>
-    <td> 137</td>
-  </tr>
+<tr>
+<th style="width: 69px;"><strong>Class</strong>
+</th>
+<th style="width: 101px;"><strong>Salutation</strong>
+</th>
+<th style="width: 181px;"><strong>Name</strong>
+</th>
+<th style="width: 377px;">E-mail
+</th>
+<th style="width: 163px;"><strong>Telephone extension</strong>
+</th>
+</tr>
+<tr>
+<td>3E1
+</td>
+<td>Mr
+</td>
+<td><a href="mailto:goh_huan_shen_rodney@moe.edu.sg" target="">Rodney Goh</a>
+</td>
+<td style="width: 60px;">goh_huan_shen_rodney@moe.edu.sg
+</td>
+<td>146
+</td>
+</tr>
+<tr>
+<td>3E1
+</td>
+<td>Mr
+</td>
+<td><a href="mailto:benjamin_tan_a@moe.edu.sg" target="">Benjamin Tan</a>
+</td>
+<td>benjamin_tan_a@moe.edu.sg
+</td>
+<td>145
+</td>
+</tr>
+<tr>
+<td>3E2<br>
+</td>
+<td>Ms
+</td>
+<td><a href="mailto:nurul_humairah_abu_bakar@moe.edu.sg" target="">Nurul Humairah</a>
+</td>
+<td style="width: 60px;">nurul_humairah_abu_bakar@moe.edu.sg
+</td>
+<td>212
+</td>
+</tr>
+<tr>
+<td>3E2
+</td>
+<td>Mr
+</td>
+<td><a href="mailto:nicholas_ng_sin_guan@moe.edu.sg" target="">Nicholas Ng</a>
+</td>
+<td>nicholas_ng_sin_guan@moe.edu.sg
+</td>
+<td>143
+</td>
+</tr>
+<tr>
+<td>3E3
+</td>
+<td>Ms
+</td>
+<td><a href="mailto:seet_shuen_ai_jo-anne@moe.edu.sg" target="">Jo-Anne Seet</a>
+</td>
+<td>seet_shuen_ai_jo-anne@moe.edu.sg
+</td>
+<td>152
+</td>
+</tr>
+<tr>
+<td>3E3
+</td>
+<td>Ms
+</td>
+<td><a href="mailto:samantha_gracie_daishini_thevan@moe.edu.sg" target="">Samantha Daishini</a>
+</td>
+<td>samantha_gracie_daishini_thevan@moe.edu.sg
+</td>
+<td>153
+</td>
+</tr>
+<tr>
+<td>3E4
+</td>
+<td>Ms
+</td>
+<td><a href="mailto:teo_chen_nee@moe.edu.sg" target="">Teo Chen Nee</a>
+</td>
+<td style="width: 60px;">teo_chen_nee@moe.edu.sg
+</td>
+<td>126
+</td>
+</tr>
+<tr>
+<td>3E4
+</td>
+<td>Mr
+</td>
+<td><a href="mailto:simranpal_singh_sanohu@moe.edu.sg" target="">Simranpal Singh</a>
+</td>
+<td>simranpal_singh_sanohu@moe.edu.sg<br>
+</td>
+<td>149
+</td>
+</tr>
+<tr>
+<td>3E5
+</td>
+<td>Mr
+</td>
+<td><a href="mailto:tuang_fook_yong@moe.edu.sg" target="">Tuang Fook Yong</a>
+</td>
+<td>tuang_fook_yong@moe.edu.sg
+</td>
+<td>132
+</td>
+</tr>
+<tr>
+<td>3E5
+</td>
+<td>Mr
+</td>
+<td><a href="mailto:keith_chong_jie_hua@moe.edu.sg" target="">Keith Chong</a>
+</td>
+<td style="width: 60px;">keith_chong_jie_hua@moe.edu.sg<br>
+</td>
+<td>137
+</td>
+</tr>
+<tr>
+<td>3N1
+</td>
+<td>Ms
+</td>
+<td><a href="mailto:nur_syarmeen_ehsan_ahmad@moe.edu.sg" target="">Nur Syarmeen</a></a>
+</td>
+<td style="width: 60px;">nur_syarmeen_ehsan_ahmad@moe.edu.sg
+</td>
+<td>130
+</td>
+</tr>
+<tr>
+<td>3N2
+</td>
+<td>Ms
+</td>
+<td><a href="mailto:farah_zeeba_kasbollah@moe.edu.sg" target="">Farah Zeeba</a>
+</td>
+<td style="width: 60px;">farah_zeeba_kasbollah@moe.edu.sg
+</td>
+<td>161
+</td>
+</tr>
+<tr>
+<td>3N3
+</td>
+<td>Ms
+</td>
+<td><a href="mailto:siti_latifah_ishar@moe.edu.sg" target="">Siti Latifah</a>
+</td>
+<td style="width: 60px;">siti_latifah_ishar@moe.edu.sg
+</td>
+<td>212
+</td>
+</tr>
+<tr>
+<td>3N3
+</td>
+<td>Mr
+</td>
+<td><a href="mailto:liang_tianfa@moe.edu.sg" target="">Chris Liang</a>
+</td>
+<td style="width: 60px;">liang_tianfa@moe.edu.sg
+</td>
+<td>150
+</td>
+</tr>
+<tr>
+<td>3T1
+</td>
+<td>Mr
+</td>
+<td><a href="mailto:lim_zhengxiong_benjamin@moe.edu.sg" target="">Benjamin Lim</a>
+</td>
+<td style="width: 60px;">lim_zhengxiong_benjamin@moe.edu.sg<br>
+</td>
+<td>133
+</td>
+</tr>
+<tr>
+<td>3T1
+</td>
+<td>Ms
+</td>
+<td><a href="mailto:siti_nazeefah_md_mansor@moe.edu.sg" target="">Siti Nazeefah</a>
+</td>
+<td>siti_nazeefah_md_mansor@moe.edu.sg
+</td>
+<td>138
+</td>
+</tr>
 </tbody>
 </table>
 
