@@ -6,20 +6,6 @@ third_nav_title: Frequently Asked Questions
 ---
 ### FAQ: STUDENT ADMISSIONS
 
-
-##### Student Admissions
-
-* <a href="returnsg">Returning Singaporeans</a>
-
-* <a href="/links/Frequently-Asked-Questions/Student-Admissions/#returnsg">
-	Returning Singaporeans
-	</a>
-	
-* <a href="/links/Frequently-Asked-Questions/Student-Admissions/#loa">
-	Leave of Absence (LOA) Scheme (Applicable to Returning Singaporeans only)
-	</a>
-  
-
 Returning Singaporeans
 ----------------------
 
