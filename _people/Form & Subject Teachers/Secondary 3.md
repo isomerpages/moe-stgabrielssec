@@ -1552,11 +1552,11 @@ third_nav_title: Form & Subject Teachers
 <table>
   <tbody>
     <tr>
-      <th style="width: 176px;">Subject</th>
-      <th style="width: 80px;">Salutation</th>
-      <th style="width: 209px;">Name</th>
-      <th style="width: 289px;">E-mail</th>
-      <th style="width: 129px;">Telephone Extension</th>
+      <th>Subject</th>
+      <th>Salutation</th>
+      <th>Name</th>
+      <th>E-mail</th>
+      <th>Telephone Extension</th>
     </tr>
     <tr>
       <td style="width: 60px;">English</td>
