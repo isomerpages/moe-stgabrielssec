@@ -1522,7 +1522,7 @@ third_nav_title: Form & Subject Teachers
       <td>History</td>
       <td>Mr</td>
       <td>
-        <a href="mailto:siti_rafeah_rahmat@moe.edu.sg" target="">Siti Rafeah</a><a href="mailto:ng_kai_yang_ivan@moe.edu.sg" target=""></a><a href="mailto:de_souza_paul_francis@moe.edu.sg" target=""></a>
+        <a href="mailto:siti_rafeah_rahmat@moe.edu.sg" target="">Siti Rafeah</a>
       </td>
       <td>siti_rafeah_rahmat@moe.edu.sg</td>
       <td>119</td>
@@ -1533,14 +1533,14 @@ third_nav_title: Form & Subject Teachers
       <td>
         <a href="mailto:ng_u-lynn@moe.edu.sg" target="">Ng U-Lynn</a>
       </td>
-      <td>&nbsp;ng_u-lynn@moe.edu.sg</td>
+      <td>ng_u-lynn@moe.edu.sg</td>
       <td>146</td>
     </tr>
     <tr>
       <td>Physical Education</td>
       <td>Mr</td>
       <td>
-        <a href="mailto:zach.scotts.wu@gmail.com" target="">Zachary Scott Wu</a><a href="mailto:chu_kin_cheong@moe.edu.sg" target=""></a><a href="mailto:goh_toh_fook@moe.edu.sg" target=""></a>
+        <a href="mailto:zach.scotts.wu@gmail.com" target="">Zachary Scott Wu</a>
       </td>
       <td>zach.scotts.wu@gmail.com</td>
       <td>173</td>
@@ -1549,7 +1549,7 @@ third_nav_title: Form & Subject Teachers
 </table><br>
 <b style="font-size: large;">3T1</b>
 <br><br>
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="width: 883.609px;">
+<table>
   <tbody>
     <tr>
       <th style="width: 176px;">Subject</th>
