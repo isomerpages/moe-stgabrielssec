@@ -1370,7 +1370,7 @@ third_nav_title: Form & Subject Teachers
       <td>English 'O'</td>
       <td>Mr</td>
       <td>
-        <a href="mailto:suraj_padman@moe.edu.sg" target="" style="text-decoration-line: underline;">Suraj Padman</a>
+        <a href="mailto:suraj_padman@moe.edu.sg" target="">Suraj Padman</a>
       </td>
       <td>suraj_padman@moe.edu.sg</td>
       <td>137</td>
