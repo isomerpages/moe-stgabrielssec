@@ -1450,7 +1450,7 @@ third_nav_title: Form & Subject Teachers
       <td>Basic Chinese</td>
       <td>Mr</td>
       <td>
-        <a href="mailto:qiao_cheng_yan@moe.edu.sg" target="">Qiao Cheng Yan</a><a href="mailto:ong_han_guan@moe.edu.sg" target=""></a>
+        <a href="mailto:qiao_cheng_yan@moe.edu.sg" target="">Qiao Cheng Yan</a>
       </td>
       <td>qiao_cheng_yan@moe.edu.sg</td>
       <td>215</td>
@@ -1461,7 +1461,7 @@ third_nav_title: Form & Subject Teachers
       <td>
         <a href="mailto:hasnah_hassan@moe.edu.sg" target="">Hasnah Bte Hassan</a>
       </td>
-      <td>hasnah_hassan@moe.edu.sg&nbsp;</td>
+      <td>hasnah_hassan@moe.edu.sg</td>
       <td>206</td>
     </tr>
     <tr>
@@ -1487,35 +1487,35 @@ third_nav_title: Form & Subject Teachers
       <td>Tamil 'O'</td>
       <td>Ms</td>
       <td>
-        <a href="mailto:mogana_ap_devinthoran@moe.edu.sg" target="">Mogana Devinthoran</a><a href="mailto:subhalakshmi_laksmanan@moe.edu.sg" target=""></a><a href="mailto:mogana_ap_devinthoran@moe.edu.sg" target=""></a>
+        <a href="mailto:mogana_ap_devinthoran@moe.edu.sg" target="">Mogana Devinthoran</a>
       </td>
-      <td>&nbsp;mogana_ap_devinthoran@moe.edu.sg</td>
+      <td>mogana_ap_devinthoran@moe.edu.sg</td>
       <td>149</td>
     </tr>
     <tr>
       <td>Geography</td>
-      <td>Mr<br>
+      <td>Mr<br><br>
       Mrs</td>
       <td>
-        <a href="mailto:sreetharan_rajaselvan@moe.edu.sg" target="">Sreetharan</a>&nbsp;(Grp 1)<br>
-        <a href="mailto:tanny_koh_tien_tien@moe.edu.sg" target="">Tanny&nbsp;Ho</a>&nbsp;(Grp 2)
+        <a href="mailto:sreetharan_rajaselvan@moe.edu.sg" target="">Sreetharan</a><br>(Grp 1)<br>
+        <a href="mailto:tanny_koh_tien_tien@moe.edu.sg" target="">Tanny&nbsp;Ho</a><br>(Grp 2)
       </td>
-      <td>sreetharan_rajaselvan@moe.edu.sg<br>
+      <td>sreetharan_rajaselvan@moe.edu.sg<br><br>
       tanny_koh_tien_tien@moe.edu.sg</td>
       <td>209<br>
-      &nbsp;156</td>
+      <br>156</td>
     </tr>
     <tr>
       <td>Social Studies</td>
-      <td>Ms<br>
+      <td>Ms<br><br>
       Mr</td>
       <td>
-        <a href="mailto:siti_rafeah_rahmat@moe.edu.sg" target="">Siti Rafeah</a>&nbsp;(SS/HE)<br>
+        <a href="mailto:siti_rafeah_rahmat@moe.edu.sg" target="">Siti Rafeah</a><br>(SS/HE)<br>
         <a href="mailto:simranpal_singh_sanohu@moe.edu.sg" target="">Simranpal Singh</a> (SS/GE)
       </td>
-      <td>&nbsp;siti_rafeah_rahmat@moe.edu.sg<br>
+      <td>&nbsp;siti_rafeah_rahmat@moe.edu.sg<br><br>
       simranpal_singh_sanohu@moe.edu.sg&nbsp;<br></td>
-      <td>119<br>
+      <td>119<br><br>
       149</td>
     </tr>
     <tr>
