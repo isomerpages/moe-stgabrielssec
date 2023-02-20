@@ -19,9 +19,9 @@ third_nav_title: Form & Subject Teachers
     <tr>
       <td rowspan="7">Physical Sports</td>
       <td>Badminton</td>
-      <td>Alvin Goh</td>
+      <td>Joshua Leong</td>
       <td>
-        <a href="mailto:goh_toh_fook@moe.edu.sg">goh_toh_fook@moe.edu.sg</a>
+        <a href="mailto:leong_heng_wah@moe.edu.sg">leong_heng_wah@moe.edu.sg</a>
       </td>
     </tr>
     <tr>
@@ -40,9 +40,9 @@ third_nav_title: Form & Subject Teachers
     </tr>
     <tr>
       <td>Football</td>
-      <td>Suraj Padman</td>
+      <td>Paul De Souza</td>
       <td>
-        <a href="mailto:suraj_padman@moe.edu.sg">suraj_padman@moe.edu.sg</a><br>
+        <a href="mailto:de_souza_paul_francis@moe.edu.sg">de_souza_paul_francis@moe.edu.sg</a><br>
       </td>
     </tr>
     <tr>
@@ -54,9 +54,9 @@ third_nav_title: Form & Subject Teachers
     </tr>
     <tr>
       <td>Karate</td>
-      <td>Krishnasamy Poongulali</td>
+      <td>Alvin Goh</td>
       <td>
-        <a href="mailto:krishnasamy_poongulali@moe.edu.sg">krishnasamy_poongulali@moe.edu.sg</a>
+        <a href="mailto:goh_toh_fook@moe.edu.sg">goh_toh_fook@moe.edu.sg</a>
       </td>
     </tr>
     <tr>
@@ -76,9 +76,9 @@ third_nav_title: Form & Subject Teachers
     </tr>
     <tr>
       <td>Scouts</td>
-      <td>Hasnah Hassan</td>
+      <td>Zhang Huasheng</td>
       <td>
-        <a href="mailto:hasnah_hassan@moe.edu.sg">hasnah_hassan@moe.edu.sg</a><br>
+        <a href="mailto:zhang_huasheng@moe.edu.sg">zhang_huasheng@moe.edu.sg</a><br>
       </td>
     </tr>
     <tr>
