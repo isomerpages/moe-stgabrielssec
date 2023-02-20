@@ -4,9 +4,6 @@ permalink: /links/Frequently-Asked-Questions/Student-Admissions/
 description: ""
 third_nav_title: Frequently Asked Questions
 ---
-
-
-
 ### FAQ: STUDENT ADMISSIONS
 
 
@@ -21,12 +18,6 @@ third_nav_title: Frequently Asked Questions
 * <a href="/links/Frequently-Asked-Questions/Student-Admissions/#loa">
 	Leave of Absence (LOA) Scheme (Applicable to Returning Singaporeans only)
 	</a>
-
-*   Student Admissions
-
-	 * [International Students](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/links/frequently-asked-questions-faq/faq-student-admissions#studentadmissions)
-	* [Local Students](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/links/frequently-asked-questions-faq/faq-student-admissions#studentadmissions)
-
   
 
 Returning Singaporeans
