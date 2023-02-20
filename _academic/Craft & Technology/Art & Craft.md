@@ -20,7 +20,7 @@ third_nav_title: Craft & Technology
 
 In St. Gabriel's Secondary School, we believe that a strong aesthetics programme is essential in contributing towards achieving our vision to develop all our students to be Servant Leaders, Lifelong Learners & Gracious Citizens.
 
-![](/images/Academic/Art/Art.jpeg)
+<img src="/images/Academic/Art/Art.jpeg" style= "width: 70%">
 
 ##### <u>Objectives</u>
 
