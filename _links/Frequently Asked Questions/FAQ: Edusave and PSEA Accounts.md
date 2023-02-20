@@ -7,27 +7,6 @@ third_nav_title: Frequently Asked Questions
 ### FAQ: EDUSAVE AND PSEA ACCOUNTS
 
 
-#### EDUSAVE Account
-
-*   [Who is eligible for the Edusave Account?](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/links/frequently-asked-questions-faq/faq-edusave-and-psea-accounts#whoeligibleedusaveaccount)
-*   [How much is my child entitled to?](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/links/frequently-asked-questions-faq/faq-edusave-and-psea-accounts#howmuchmychildentitle)
-*   [How can my child make use of the money in his Edusave account?](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/links/frequently-asked-questions-faq/faq-edusave-and-psea-accounts#howcanmychildusemoneyedusaveacc)
-*   [Can my child use his Edusave account money to pay for exam fees, uniforms and textbooks?](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/links/frequently-asked-questions-faq/faq-edusave-and-psea-accounts#canmychilduseedusaceaccmoneypayment)
-*   [What will happen if my child withdraw from a programme paid by Edusave?](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/links/frequently-asked-questions-faq/faq-edusave-and-psea-accounts#whathappenifmychildwithdrawprog)
-*   [How can I find out the balance in my child’s Edusave account?](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/links/frequently-asked-questions-faq/faq-edusave-and-psea-accounts#howcanfindoutedusavebal)
-*   [What will happen to the Edusave account balance when my child leaves school?](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/links/frequently-asked-questions-faq/faq-edusave-and-psea-accounts#whathappenedusaceacc)
-*   [POST-SECONDARY EDUCATION ACCOUNT (PSEA)](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/links/frequently-asked-questions-faq/faq-edusave-and-psea-accounts#psea)
-
-  
-
-##### What is PSEA?
-
-*   [My child is a Permanent Resident. Will he be eligible for the PSEA?](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/links/frequently-asked-questions-faq/faq-edusave-and-psea-accounts#eligibleforpsea)
-*   [Why can’t my child make use of the PSEA for his educational expenses at primary, secondary and junior college levels?](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/links/frequently-asked-questions-faq/faq-edusave-and-psea-accounts#whymychildcannotusepsea)
-*   [Why is there a need to transfer the surplus funds in the PSEA to the account holder’s CPF-Ordinary Account when he turns 30?](https://stgabrielssec-moe-edu-sg-admin.cwp.sg/links/frequently-asked-questions-faq/faq-edusave-and-psea-accounts#pseafunds)
-
-  
-
 ### EDUSAVE ACCOUNT
 
 
