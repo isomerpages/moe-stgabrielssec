@@ -186,7 +186,7 @@ third_nav_title: Form & Subject Teachers
   <tbody>
     <tr>
       <td>English</td>
-      <td >Mr</td>
+      <td>Mr</td>
       <td>
         <a href="mailto:goh_huan_shen_rodney@moe.edu.sg" target="">Rodney Goh</a>
       </td>
@@ -310,10 +310,7 @@ third_nav_title: Form & Subject Teachers
       <td>112</td>
     </tr>
   </tbody>
-</table>
-
-**3E2**
-
+</table>**3E2**
 <table>
   <thead>
     <tr>
@@ -448,10 +445,7 @@ third_nav_title: Form & Subject Teachers
       <td>117</td>
     </tr>
   </tbody>
-</table>
-
-**3E3**
-
+</table>**3E3**
 <table>
   <thead>
     <tr>
@@ -592,8 +586,8 @@ third_nav_title: Form & Subject Teachers
     </tr>
   </tbody>
 </table><br>
-<b style="font-size: large;">3E4</b>
-<br><br>
+<b style="font-size: large;">3E4</b><br>
+<br>
 <table class="ive_eobj_center iveo_table ives_tab_simple3" style="width: 883.609px;">
   <tbody>
     <tr>
@@ -753,8 +747,8 @@ third_nav_title: Form & Subject Teachers
     </tr>
   </tbody>
 </table><br>
-<b style="font-size: large;">3E5</b>
-<br><br>
+<b style="font-size: large;">3E5</b><br>
+<br>
 <table>
   <tbody>
     <tr>
@@ -924,15 +918,15 @@ third_nav_title: Form & Subject Teachers
       <td>Physical Education</td>
       <td>Mr</td>
       <td>
-        <a href="mailto:mohammad_zahed_md_yatim@moe.edu.sg" target="">Mohammad&nbsp;Zahed/a>
+        <a href="mailto:mohammad_zahed_md_yatim@moe.edu.sg" target="">Mohammad&nbsp;Zahed/a&gt;</a>
       </td>
       <td>mohammad_zahed_md_yatim@moe.edu.sg</td>
       <td>117</td>
     </tr>
   </tbody>
 </table><br>
-<b style="font-size: large;">3N1</b>
-<br><br>
+<b style="font-size: large;">3N1</b><br>
+<br>
 <table>
   <tbody>
     <tr>
@@ -1135,8 +1129,8 @@ third_nav_title: Form & Subject Teachers
     </tr>
   </tbody>
 </table><br>
-<b style="font-size: large;">3N2</b>
-<br><br>
+<b style="font-size: large;">3N2</b><br>
+<br>
 <table>
   <tbody>
     <tr>
@@ -1286,22 +1280,27 @@ third_nav_title: Form & Subject Teachers
       <td>Tamil 'O'</td>
       <td>Ms</td>
       <td>
-				<a href="mailto:mogana_ap_devinthoran@moe.edu.sg" target="">Mogana Devinthoran</a>
+        <a href="mailto:mogana_ap_devinthoran@moe.edu.sg" target="">Mogana Devinthoran</a>
       </td>
       <td>mogana_ap_devinthoran@moe.edu.sg</td>
       <td>149</td>
     </tr>
     <tr>
       <td>Geography</td>
-      <td>Mr<br><br>
+      <td>Mr<br>
+      <br>
       Mrs</td>
       <td>
-        <a href="mailto:sreetharan_rajaselvan@moe.edu.sg" target="">Sreetharan</a><br>(Grp 1)<br>
-        <a href="mailto:tanny_koh_tien_tien@moe.edu.sg" target="">Tanny Ho</a><br>(Grp 2)
+        <a href="mailto:sreetharan_rajaselvan@moe.edu.sg" target="">Sreetharan</a><br>
+        (Grp 1)<br>
+        <a href="mailto:tanny_koh_tien_tien@moe.edu.sg" target="">Tanny Ho</a><br>
+        (Grp 2)
       </td>
-      <td>sreetharan_rajaselvan@moe.edu.sg<br><br>
+      <td>sreetharan_rajaselvan@moe.edu.sg<br>
+      <br>
       tanny_koh_tien_tien@moe.edu.sg<br></td>
-      <td>209<br><br>
+      <td>209<br>
+      <br>
       156</td>
     </tr>
     <tr>
@@ -1346,8 +1345,8 @@ third_nav_title: Form & Subject Teachers
     </tr>
   </tbody>
 </table><br>
-<b style="font-size: large;">3N3</b>
-<br><br>
+<b style="font-size: large;">3N3</b><br>
+<br>
 <table>
   <tbody>
     <tr>
@@ -1425,6 +1424,7 @@ third_nav_title: Form & Subject Teachers
       <td>Mr</td>
       <td>
         <a href="mailto:goh_kok_ho@moe.edu.sg" target="">Sebastian Goh</a>
+      </td>
       <td>goh_kok_ho@moe.edu.sg</td>
       <td>128</td>
     </tr>
@@ -1494,28 +1494,37 @@ third_nav_title: Form & Subject Teachers
     </tr>
     <tr>
       <td>Geography</td>
-      <td>Mr<br><br>
+      <td>Mr<br>
+      <br>
       Mrs</td>
       <td>
-        <a href="mailto:sreetharan_rajaselvan@moe.edu.sg" target="">Sreetharan</a><br>(Grp 1)<br>
-        <a href="mailto:tanny_koh_tien_tien@moe.edu.sg" target="">Tanny&nbsp;Ho</a><br>(Grp 2)
+        <a href="mailto:sreetharan_rajaselvan@moe.edu.sg" target="">Sreetharan</a><br>
+        (Grp 1)<br>
+        <a href="mailto:tanny_koh_tien_tien@moe.edu.sg" target="">Tanny&nbsp;Ho</a><br>
+        (Grp 2)
       </td>
-      <td>sreetharan_rajaselvan@moe.edu.sg<br><br>
+      <td>sreetharan_rajaselvan@moe.edu.sg<br>
+      <br>
       tanny_koh_tien_tien@moe.edu.sg</td>
       <td>209<br>
-      <br>156</td>
+      <br>
+      156</td>
     </tr>
     <tr>
       <td>Social Studies</td>
-      <td>Ms<br><br>
+      <td>Ms<br>
+      <br>
       Mr</td>
       <td>
-        <a href="mailto:siti_rafeah_rahmat@moe.edu.sg" target="">Siti Rafeah</a><br>(SS/HE)<br>
+        <a href="mailto:siti_rafeah_rahmat@moe.edu.sg" target="">Siti Rafeah</a><br>
+        (SS/HE)<br>
         <a href="mailto:simranpal_singh_sanohu@moe.edu.sg" target="">Simranpal Singh</a> (SS/GE)
       </td>
-      <td>&nbsp;siti_rafeah_rahmat@moe.edu.sg<br><br>
+      <td>&nbsp;siti_rafeah_rahmat@moe.edu.sg<br>
+      <br>
       simranpal_singh_sanohu@moe.edu.sg&nbsp;<br></td>
-      <td>119<br><br>
+      <td>119<br>
+      <br>
       149</td>
     </tr>
     <tr>
@@ -1547,8 +1556,8 @@ third_nav_title: Form & Subject Teachers
     </tr>
   </tbody>
 </table><br>
-<b style="font-size: large;">3T1</b>
-<br><br>
+<b style="font-size: large;">3T1</b><br>
+<br>
 <table>
   <tbody>
     <tr>
@@ -1586,7 +1595,7 @@ third_nav_title: Form & Subject Teachers
       <td>
         <a href="mailto:amira_filza_mohamed_ibrahim@moe.edu.sg" target="">Amira Filza</a>
       </td>
- <td>amira_filza_mohamed_ibrahim@moe.edu.sg<br></td>
+      <td>amira_filza_mohamed_ibrahim@moe.edu.sg<br></td>
       <td>209</td>
     </tr>
     <tr>
@@ -1640,8 +1649,7 @@ third_nav_title: Form & Subject Teachers
       <td>
         <a href="mailto:muhammad_rizlan_abdul_rahman@moe.edu.sg" target="">Muhammad Rizlan</a>
       </td>
-    <td>muhammad_rizlan_abdul_rahman@moe.edu.sg
-			</td>
+      <td>muhammad_rizlan_abdul_rahman@moe.edu.sg</td>
       <td>154</td>
     </tr>
     <tr>
@@ -1689,7 +1697,7 @@ third_nav_title: Form & Subject Teachers
       <td>
         <a href="mailto:mohammad_zahed_md_yatim@moe.edu.sg" target="">Mohammad&nbsp;Zahed</a>
       </td>
- <td>mohammad_zahed_md_yatim@moe.edu.sg</td>
+      <td>mohammad_zahed_md_yatim@moe.edu.sg</td>
       <td>117</td>
     </tr>
   </tbody>
