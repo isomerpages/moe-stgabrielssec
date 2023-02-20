@@ -1136,7 +1136,8 @@ third_nav_title: Form & Subject Teachers
     </tr>
   </tbody>
 </table><br>
-<b style="font-size: large;">3N2<br></b>
+<b style="font-size: large;">3N2</b>
+<br><br>
 <table class="ive_eobj_center iveo_table ives_tab_simple3" style="width: 883.609px;">
   <tbody>
     <tr>
@@ -1549,7 +1550,8 @@ third_nav_title: Form & Subject Teachers
     </tr>
   </tbody>
 </table><br>
-<b style="font-size: large;">3T1<br></b>
+<b style="font-size: large;">3T1</b>
+<br><br>
 <table class="ive_eobj_center iveo_table ives_tab_simple3" style="width: 883.609px;">
   <tbody>
     <tr>
