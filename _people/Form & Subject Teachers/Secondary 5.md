@@ -48,14 +48,10 @@ third_nav_title: Form & Subject Teachers
 </thead>
 <tbody>
   <tr>
-<td>English
-</td>
-<td>Ms
-</td>
-<td><a href="mailto:lim_zhengxiong_benjamin@moe.edu.sg" target="">Benjamin Lim</a>
-</td>
-<td>lim_zhengxiong_benjamin@moe.edu.sg
-</td>
+	<td>English</td>
+	<td>Ms</td>
+<td><a href="mailto:lim_zhengxiong_benjamin@moe.edu.sg" target="">Benjamin Lim</a></td>
+<td>lim_zhengxiong_benjamin@moe.edu.sg</td>
 <td>133</td>
 </tr>
 <tr>
