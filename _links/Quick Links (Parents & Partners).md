@@ -16,9 +16,9 @@ description: ""
 
 *   Briefing slides for Sec 1 Parents on NDLP
 
-*   **[Frequently Asked Questions](/files/PDLP%20FAQs.pdf)**
+*   **[Frequently Asked Questions](/files/Links/Parents/PDLP%20FAQs.pdf)**
 
-*   **[Application Form for Subsidy for Purchase of Personal Learning Device (PLD)](/files/PDLP%20Application%20Form%20for%20Subsidy%20OF%20EF.pdf)**
+*   Application Form for Subsidy for Purchase of Personal Learning Device (PLD)
 
 You would have received a letter titled **“National Digital Literacy Programme”** which gives you details about this initiative. You may refer to the briefing slides above for details of the programme.
 
