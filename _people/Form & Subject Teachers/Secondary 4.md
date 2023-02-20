@@ -242,7 +242,7 @@ third_nav_title: Form & Subject Teachers
       <td>Malay</td>
       <td>Mdm</td>
       <td>
-        <a href="mailto:rose_fadillah_aris@moe.edu.sg" target="">Rose Fadillah</a>
+      <a href="mailto:rose_fadillah_aris@moe.edu.sg" target="">Rose Fadillah</a>
       </td>
       <td>rose_fadillah_aris@moe.edu.sg</td>
       <td>220</td>
@@ -927,8 +927,7 @@ third_nav_title: Form & Subject Teachers
       <td>English 'O'</td>
       <td>Mr</td>
       <td>
-        <a href="mailto:goh_huan_shen_rodney@moe.edu.sg" target="">Rodney Goh</a>
-      </td>
+        <a href="mailto:goh_huan_shen_rodney@moe.edu.sg" target="">Rodney Goh</a></td>
       <td>goh_huan_shen_rodney@moe.edu.sg</td>
       <td>146</td>
     </tr>
@@ -936,8 +935,7 @@ third_nav_title: Form & Subject Teachers
       <td>Mathematics</td>
       <td>Ms</td>
       <td>
-        <a href="mailto:poh_ee-mien_lynnette@moe.edu.sg" target="">Lynnette Poh</a>
-      </td>
+        <a href="mailto:poh_ee-mien_lynnette@moe.edu.sg" target="">Lynnette Poh</a></td>
       <td>poh_ee-mien_lynnette@moe.edu.sg</td>
       <td>223</td>
     </tr>
@@ -945,8 +943,7 @@ third_nav_title: Form & Subject Teachers
       <td>Additional Mathematics & Mathematics 'O'</td>
       <td>Mr</td>
       <td>
-        <a href="mailto:chan_chih_choong@moe.edu.sg" target="">Lincoln Chan</a>
-      </td>
+        <a href="mailto:chan_chih_choong@moe.edu.sg" target="">Lincoln Chan</a></td>
       <td>chan_chih_choong@moe.edu.sg&nbsp;</td>
       <td>148</td>
     </tr>
@@ -956,8 +953,7 @@ third_nav_title: Form & Subject Teachers
       <br>
       Mr</td>
       <td>
-        <a href="mailto:koh_keng_wee@moe.edu.sg" target="">Koh Keng Wee</a><br>
-        <a href="mailto:liang_tianfa@moe.edu.sg" target="">Chris Liang</a>
+        <a href="mailto:koh_keng_wee@moe.edu.sg" target="">Koh Keng Wee</a><br><a href="mailto:liang_tianfa@moe.edu.sg" target="">Chris Liang</a>
       </td>
       <td>koh_keng_wee@moe.edu.sg<br>
       <br>
@@ -1305,48 +1301,35 @@ third_nav_title: Form & Subject Teachers
       <th>Telephone Extension</th>
     </tr>
     <tr>
-      <td style="width: 60px;">English</td>
-      <td style="width: 60px;">Mr<br>
-      Mr</td>
-      <td style="width: 60px;">
-        <a href="mailto:goh_huan_shen_rodney@moe.edu.sg" target="">Rodney Goh</a><br>
-        <a href="mailto:hamdi_abdul_karim@moe.edu.sg" target="">Hamdi</a><a href="mailto:nur_syarmeen_ehsan_ahmad@moe.edu.sg" target=""></a>
-      </td>
-      <td style="width: 60px;">goh_huan_shen_rodney@moe.edu.sg<br>
+      <td>English</td>
+      <td>Mr<br>Mr</td>
+      <td>
+       <a href="mailto:goh_huan_shen_rodney@moe.edu.sg" target="">Rodney Goh</a><br><a href="mailto:hamdi_abdul_karim@moe.edu.sg" target="">Hamdi</a><a href="mailto:nur_syarmeen_ehsan_ahmad@moe.edu.sg" target=""></a></td>
+      <td>goh_huan_shen_rodney@moe.edu.sg<br>
       hamdi_abdul_karim@moe.edu.sg</td>
-      <td style="width: 60px;">146<br>
-      155</td>
+      <td>146<br>155</td>
     </tr>
     <tr>
       <td>Mathematics</td>
-      <td>Mr<br>
-      Mr</td>
+      <td>Mr<br> Mr</td>
       <td>
-        <a href="mailto:chan_chih_choong@moe.edu.sg" target="">Lincoln Chan</a><br>
-        <a href="mailto:goh_toh_fook@moe.edu.sg" target="">Alvin Goh</a>
-      </td>
+        <a href="mailto:chan_chih_choong@moe.edu.sg" target="">Lincoln Chan</a><br><a href="mailto:goh_toh_fook@moe.edu.sg" target="">Alvin Goh</a></td>
       <td>chan_chih_choong@moe.edu.sg<br>
       goh_toh_fook@moe.edu.sg</td>
-      <td>148<br>
-      173</td>
+      <td>148<br>173</td>
     </tr>
     <tr>
       <td>Science (Phy)</td>
-      <td>Mr<br>
-      Mr</td>
+      <td>Mr<br><br>Mr</td>
       <td>
-        <a href="mailto:koh_keng_wee@moe.edu.sg" target="">Koh Keng Wee</a><br>
-        <a href="mailto:chow_yew_kai@moe.edu.sg" target="">Nick Chow</a>
+        <a href="mailto:koh_keng_wee@moe.edu.sg" target="">Koh Keng Wee</a><br><a href="mailto:chow_yew_kai@moe.edu.sg" target="">Nick Chow</a>
       </td>
-      <td>koh_keng_wee@moe.edu.sg<br>
-      chow_yew_kai@moe.edu.sg<br></td>
-      <td>131<br>
-      216<br></td>
+      <td>koh_keng_wee@moe.edu.sg<br><br>chow_yew_kai@moe.edu.sg<br></td>
+      <td>131<br><br>216<br></td>
     </tr>
     <tr>
       <td>Science (Chem)</td>
-      <td>Ms<br>
-      Ms</td>
+      <td>Ms<br>Ms</td>
       <td>
         <a href="mailto:low_ting_ting_cherina@moe.edu.sg" target="">Cherina Low</a><br>
         <a href="mailto:koh_joo_kim_jean@moe.edu.sg" target="">Jean Koh</a><br>
