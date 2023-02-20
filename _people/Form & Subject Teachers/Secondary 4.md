@@ -1459,7 +1459,8 @@ third_nav_title: Form & Subject Teachers
       <td>English 'N'</td>
       <td>Mr</td>
       <td>
-        <a href="mailto:lim_zhengxiong_benjamin@moe.edu.sg" target="">Benjamin Lim</a></td>
+        <a href="mailto:lim_zhengxiong_benjamin@moe.edu.sg" target="">Benjamin Lim</a>
+      </td>
       <td>lim_zhengxiong_benjamin@moe.edu.sg</td>
       <td>133</td>
     </tr>
@@ -1494,7 +1495,8 @@ third_nav_title: Form & Subject Teachers
       <td>Science (Chem) 'N'</td>
       <td>Ms</td>
       <td>
-        <a href="mailto:low_ting_ting_cherina@moe.edu.sg" target="">Cherina Low</a></td>
+        <a href="mailto:low_ting_ting_cherina@moe.edu.sg" target="">Cherina Low</a>
+      </td>
       <td>low_ting_ting_cherina@moe.edu.sg</td>
       <td>128</td>
     </tr>
@@ -1575,6 +1577,7 @@ third_nav_title: Form & Subject Teachers
       <td>Mr</td>
       <td>
         <a href="mailto:leong_heng_wah@moe.edu.sg" target="">Joshua Leong</a>
+      </td>
       <td>leong_heng_wah@moe.edu.sg</td>
       <td>173</td>
     </tr>
