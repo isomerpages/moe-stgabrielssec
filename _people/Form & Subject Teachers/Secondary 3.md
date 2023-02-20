@@ -13,7 +13,7 @@ third_nav_title: Form & Subject Teachers
 
 **_Click on the name to email the teacher. Main line telephone number 6288 9470._**
 
-<table class="iveo_table ives_tab_simple3 ive_eobj_center" style="width: 100%;">
+<table>
   <tbody>
     <tr>
       <th style="width: 69px;"><strong>Class</strong></th>
@@ -185,13 +185,13 @@ third_nav_title: Form & Subject Teachers
   </thead>
   <tbody>
     <tr>
-      <td style="width: 60px;">English</td>
-      <td style="width: 60px;">Mr</td>
-      <td style="width: 60px;">
+      <td>English</td>
+      <td >Mr</td>
+      <td>
         <a href="mailto:goh_huan_shen_rodney@moe.edu.sg" target="">Rodney Goh</a>
       </td>
-      <td style="width: 60px;">goh_huan_shen_rodney@moe.edu.sg&nbsp;</td>
-      <td style="width: 60px;">146</td>
+      <td>goh_huan_shen_rodney@moe.edu.sg&nbsp;</td>
+      <td>146</td>
     </tr>
     <tr>
       <td>Additional Mathematics & Mathematics</td>
@@ -225,12 +225,12 @@ third_nav_title: Form & Subject Teachers
       <td>216</td>
     </tr>
     <tr>
-      <td>&nbsp;Chemistry</td>
+      <td>Chemistry</td>
       <td>Ms<br>
       Mr</td>
       <td>
         <a href="mailto:koh_joo_kim_jean@moe.edu.sg" target="">Jean Koh</a><br>
-        <a href="mailto:benjamin_tan_a@moe.edu.sg" target="">Benjamin Tan</a><a href="mailto:goh_kok_ho@moe.edu.sg" target=""></a><a href="/"></a>
+        <a href="mailto:benjamin_tan_a@moe.edu.sg" target="">Benjamin Tan</a>
       </td>
       <td>koh_joo_kim_jean@moe.edu.sg<br>
       benjamin_tan_a@moe.edu.sg<br></td>
@@ -278,7 +278,6 @@ third_nav_title: Form & Subject Teachers
       <td>Ms</td>
       <td>
         <a href="mailto:mogana_ap_devinthoran@moe.edu.sg" target="">Mogana Devinthoran</a><br>
-        <a href="mailto:mogana_ap_devinthoran@moe.edu.sg" target=""></a>
       </td>
       <td>mogana_ap_devinthoran@moe.edu.sg</td>
       <td>208</td>
@@ -327,13 +326,13 @@ third_nav_title: Form & Subject Teachers
   </thead>
   <tbody>
     <tr>
-      <td style="width: 60px;">English</td>
-      <td style="width: 60px;">Mr</td>
-      <td style="width: 60px;">
+      <td>English</td>
+      <td>Mr</td>
+      <td>
         <a href="mailto:suraj_padman@moe.edu.sg" target="">Suraj Padman</a>
       </td>
-      <td style="width: 60px;">suraj_padman@moe.edu.sg</td>
-      <td style="width: 60px;">137</td>
+      <td>suraj_padman@moe.edu.sg</td>
+      <td>137</td>
     </tr>
     <tr>
       <td>Additional Mathematics & Mathematics</td>
@@ -354,7 +353,7 @@ third_nav_title: Form & Subject Teachers
       <td>150</td>
     </tr>
     <tr>
-      <td>&nbsp;Chemistry</td>
+      <td>Chemistry</td>
       <td>Mrs</td>
       <td>
         <a href="mailto:yip_chin_ngan@moe.edu.sg" target="">Chang Chin Ngan</a>
@@ -368,7 +367,7 @@ third_nav_title: Form & Subject Teachers
       <td>
         <a href="mailto:peh_sok_hoon@moe.edu.sg" target="">Peh Sok Hoon</a>
       </td>
-      <td>peh_sok_hoon@moe.edu.sg&nbsp;</td>
+      <td>peh_sok_hoon@moe.edu.sg</td>
       <td>129</td>
     </tr>
     <tr>
