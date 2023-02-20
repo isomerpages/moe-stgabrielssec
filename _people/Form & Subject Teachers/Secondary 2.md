@@ -160,7 +160,10 @@ third_nav_title: Form & Subject Teachers
     </tr>
   </tbody>
 </table><br>
-#### Subject Teachers <b style="font-size: large;">2E1<br></b>
+
+#### Subject Teachers 
+
+<b style="font-size: large;">2E1</b>
 <table class="ive_eobj_center iveo_table ives_tab_simple3" style="width: 883.609px;">
   <tbody>
     <tr>
