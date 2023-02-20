@@ -16,7 +16,7 @@ sections:
       title: Home-Based Learning
       description: Please click the link below to access
       button: Click here to access
-      url: https://sites.google.com/moe.edu.sg/sgsspdlp/home-based-learning
+      url: https://sites.google.com/moe.edu.sg/sgsspdlp/home
       image: /images/Home Based Learning/HBL.png
       alt: Image alt text
       subtitle: St. Gabriel's Secondary School
