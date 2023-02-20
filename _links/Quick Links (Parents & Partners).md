@@ -12,21 +12,15 @@ description: ""
 
 **Parent Engagement**  
 
-*   **[Letter to Sec 1 Parents for PLD Procurement](/files/Links/Parents/Letter%20to%20Sec%201%20Parents%20for%20PDLP%20Procurement.pdf)**
+*   Letter to Sec 1 Parents for PLD Procurement
 
-*   **[Briefing slides for Sec 1 Parents on NDLP](/files/Links/Parents/Briefing%20for%20Sec%201%20Parents_PDLP.pdf)**
-
-Please view the videos via the links below to have a good sense about the Personal Learning Device Initiative for your child.  
-
-You would have received a letter titled **“National Digital Literacy Programme”** which gives you details about this initiative. Do watch these briefing videos before the Virtual Dialogue session regarding the implementation of Personal Device Learning Programme.
-
-*   **[Personal Learning Device Briefing Videos](/files/Personal%20Learning%20Device%20Briefing%20Videos.pdf)**
-
-Click [**here**](http://tinyurl.com/virtualdialoguesession) to watch the Virtual Dialogue session.  
+*   Briefing slides for Sec 1 Parents on NDLP
 
 *   **[Frequently Asked Questions](/files/PDLP%20FAQs.pdf)**
 
 *   **[Application Form for Subsidy for Purchase of Personal Learning Device (PLD)](/files/PDLP%20Application%20Form%20for%20Subsidy%20OF%20EF.pdf)**
+
+You would have received a letter titled **“National Digital Literacy Programme”** which gives you details about this initiative. You may refer to the briefing slides above for details of the programme.
 
 **Resources for Parents**  
 
