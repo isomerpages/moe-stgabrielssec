@@ -1559,20 +1559,20 @@ third_nav_title: Form & Subject Teachers
       <th>Telephone Extension</th>
     </tr>
     <tr>
-      <td style="width: 60px;">English</td>
-      <td style="width: 60px;">Mr</td>
-      <td style="width: 60px;">
-        <a href="mailto:lim_zhengxiong_benjamin@moe.edu.sg" target="">Benjamin Lim</a><a href="mailto:suraj_padman@moe.edu.sg" target=""></a>
+      <td>English</td>
+      <td>Mr</td>
+      <td>
+        <a href="mailto:lim_zhengxiong_benjamin@moe.edu.sg" target="">Benjamin Lim</a>
       </td>
-      <td style="width: 60px;">lim_zhengxiong_benjamin@moe.edu.sg</td>
-      <td style="width: 60px;">133</td>
+      <td>lim_zhengxiong_benjamin@moe.edu.sg</td>
+      <td>133</td>
     </tr>
     <tr>
       <td>English 'N'</td>
       <td>Ms<br>
       Ms</td>
       <td>
-        <a href="mailto:nur_syarmeen_ehsan_ahmad@moe.edu.sg" target="">Nur Syarmeen</a>&nbsp;<br>
+        <a href="mailto:nur_syarmeen_ehsan_ahmad@moe.edu.sg" target="">Nur Syarmeen</a><br>
         <a href="mailto:farah_zeeba_kasbollah@moe.edu.sg" target="">Farah Zeeba</a>
       </td>
       <td>nur_syarmeen_ehsan_ahmad@moe.edu.sg<br>
@@ -1581,9 +1581,9 @@ third_nav_title: Form & Subject Teachers
       161</td>
     </tr>
     <tr>
-      <td style="width: 60px;">Mathematics</td>
-      <td style="width: 60px;">Ms</td>
-      <td style="width: 60px;">
+      <td>Mathematics</td>
+      <td>Ms</td>
+      <td>
         <a href="mailto:amira_filza_mohamed_ibrahim@moe.edu.sg" target="">Amira Filza</a><a href="mailto:koh_shiew_cher@moe.edu.sg" target=""></a><a href="mailto:lim_shanrui_joanne@moe.edu.sg" target=""></a>
       </td>
       <td style="width: 60px;">amira_filza_mohamed_ibrahim@moe.edu.sg<br></td>
