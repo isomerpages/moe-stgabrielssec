@@ -1336,8 +1336,7 @@ third_nav_title: Form & Subject Teachers
       </td>
       <td>low_ting_ting_cherina@moe.edu.sg<br>
       koh_joo_kim_jean@moe.edu.sg<br></td>
-      <td>128<br>
-      125</td>
+      <td>128<br>125</td>
     </tr>
     <tr>
       <td>Chinese</td>
@@ -1352,8 +1351,7 @@ third_nav_title: Form & Subject Teachers
       <td>Chinese Syllabus B</td>
       <td>Mr</td>
       <td>
-        <a href="mailto:tan_yong_xian@moe.edu.sg" target="">&nbsp;Tan Yong Xian</a>
-      </td>
+        <a href="mailto:tan_yong_xian@moe.edu.sg" target="">&nbsp;Tan Yong Xian</a></td>
       <td>tan_yong_xian@moe.edu.sg</td>
       <td>141</td>
     </tr>
@@ -1361,8 +1359,7 @@ third_nav_title: Form & Subject Teachers
       <td>Malay</td>
       <td>Mdm</td>
       <td>
-        <a href="mailto:hasnah_hassan@moe.edu.sg" target="" style="">Hasnah Bte Hassan</a>
-      </td>
+        <a href="mailto:hasnah_hassan@moe.edu.sg" target="" style="">Hasnah Bte Hassan</a></td>
       <td>hasnah_hassan@moe.edu.sg</td>
       <td>206</td>
     </tr>
@@ -1370,8 +1367,7 @@ third_nav_title: Form & Subject Teachers
       <td>Malay 'O'</td>
       <td>Mdm</td>
       <td>
-        <a href="mailto:rose_fadillah_aris@moe.edu.sg" target="">Rose Fadillah</a><br>
-      </td>
+        <a href="mailto:rose_fadillah_aris@moe.edu.sg" target="">Rose Fadillah</a><br></td>
       <td>rose_fadillah_aris@moe.edu.sg<br></td>
       <td>220</td>
     </tr>
@@ -1379,8 +1375,7 @@ third_nav_title: Form & Subject Teachers
       <td>Tamil</td>
       <td>Ms</td>
       <td>
-        <a href="mailto:mogana_ap_devinthoran@moe.edu.sg" target="">Mogana Devinthoran</a>
-      </td>
+        <a href="mailto:mogana_ap_devinthoran@moe.edu.sg" target="">Mogana Devinthoran</a></td>
       <td>mogana_ap_devinthoran@moe.edu.sg</td>
       <td>149</td>
     </tr>
@@ -1388,8 +1383,7 @@ third_nav_title: Form & Subject Teachers
       <td>Tamil 'O'</td>
       <td>Ms</td>
       <td>
-        <a href="mailto:subhalakshmi_laksmanan@moe.edu.sg" target="">Subhalakshmi</a>
-      </td>
+        <a href="mailto:subhalakshmi_laksmanan@moe.edu.sg" target="">Subhalakshmi</a></td>
       <td>subhalakshmi_laksmanan@moe.edu.sg</td>
       <td>152</td>
     </tr>
@@ -1404,16 +1398,14 @@ third_nav_title: Form & Subject Teachers
     </tr>
     <tr>
       <td>SS & History</td>
-      <td>Mr<br>
-      Ms</td>
+      <td>Mr<br>Ms</td>
       <td>
         <a href="mailto:ng_kai_yang_ivan@moe.edu.sg" target="">Ivan Ng</a><br>
         <a href="mailto:siti_rafeah_rahmat@moe.edu.sg" target="">Siti Rafeah</a><br>
       </td>
       <td>ng_kai_yang_ivan@moe.edu.sg<br>
       siti_rafeah_rahmat@moe.edu.sg<br></td>
-      <td>150<br>
-      119</td>
+      <td>150<br>119</td>
     </tr>
     <tr>
       <td>Design & Technology</td>
@@ -1445,14 +1437,14 @@ third_nav_title: Form & Subject Teachers
   </tbody>
 </table><br>
 <b style="font-size: large;">4T1<br></b>
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="width: 883.609px;">
+<table>
   <tbody>
     <tr>
-      <th style="width: 176px;">Subject</th>
-      <th style="width: 80px;">Salutation</th>
-      <th style="width: 209px;">Name</th>
-      <th style="width: 289px;">E-mail</th>
-      <th style="width: 129px;">Telephone Extension</th>
+      <th>Subject</th>
+      <th>Salutation</th>
+      <th>Name</th>
+      <th>E-mail</th>
+      <th>Telephone Extension</th>
     </tr>
     <tr>
       <td>English</td>
@@ -1467,8 +1459,7 @@ third_nav_title: Form & Subject Teachers
       <td>English 'N'</td>
       <td>Mr</td>
       <td>
-        <a href="mailto:lim_zhengxiong_benjamin@moe.edu.sg" target="">Benjamin Lim</a>
-      </td>
+        <a href="mailto:lim_zhengxiong_benjamin@moe.edu.sg" target="">Benjamin Lim</a></td>
       <td>lim_zhengxiong_benjamin@moe.edu.sg</td>
       <td>133</td>
     </tr>
@@ -1503,8 +1494,7 @@ third_nav_title: Form & Subject Teachers
       <td>Science (Chem) 'N'</td>
       <td>Ms</td>
       <td>
-        <a href="mailto:low_ting_ting_cherina@moe.edu.sg" target="">Cherina Low</a>
-      </td>
+        <a href="mailto:low_ting_ting_cherina@moe.edu.sg" target="">Cherina Low</a></td>
       <td>low_ting_ting_cherina@moe.edu.sg</td>
       <td>128</td>
     </tr>
@@ -1584,8 +1574,7 @@ third_nav_title: Form & Subject Teachers
       <td>Physical Education</td>
       <td>Mr</td>
       <td>
-        <a href="mailto:leong_heng_wah@moe.edu.sg" target="">Joshua Leong</a><a href="mailto:chu_kin_cheong@moe.edu.sg" target=""></a>
-      </td>
+        <a href="mailto:leong_heng_wah@moe.edu.sg" target="">Joshua Leong</a>
       <td>leong_heng_wah@moe.edu.sg</td>
       <td>173</td>
     </tr>
