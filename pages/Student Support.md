@@ -7,43 +7,32 @@ description: ""
 
 We understand this is a difficult time for everyone. We would like to support our students and their caregivers as much as we can. 
 
-  *   **[HBL@School](https://stgabrielssec.moe.edu.sg/student-support#HBL@School)**
-*   **[Financial Assistance from School (MOE/SGSS Financial Assistance)](https://stgabrielssec.moe.edu.sg/student-support#Financial-Assistance-From-School)**
-*   **[Financial Assistance Outside School](https://stgabrielssec.moe.edu.sg/student-support#Financial-Assistance-Outside-School)**
-*   **[Seeking Support In School](https://stgabrielssec.moe.edu.sg/student-support#Seeking-Support-In-School)**
-*   **[Seeking Support Outside School](https://stgabrielssec.moe.edu.sg/student-support#Seeking-Support-Outside-School)**
 
 1. **<u>HBL@School</u>**
 
-Please use the form below (to be updated) to let us know if your son/ward needs the following support during this time of full home-based learning:  
+Please use the form below to let us know if your son/ward needs the following support during home-based learning:  
 
-  
 *   a computing device to do his home-based learning
 *   internet access to do his home-based learning
-*   counselling support (for students only)
+*   counselling support
+*   support for students with learning needs
 *   a conducive HBL environment in school (approved only on a case by case basis)
-*   meals at home during this period of home-based learning (for students only)
+
+https://go.gov.sg/hblsptsgss
+
+<img src="/images/Student%20Support/Student%20Support%20QR%20Code.png" style= "width: 70%">
 
 
 2. <b><u>Financial Assistance from School (MOE / SGSS Financial Assistance)</u></b> 
 
-  
 
 Our school can help with school-going expenses and other expenses related to school programmes.
 
-  
-
 Only Singapore citizens are eligible for the MOE Financial Assistance Scheme ([**https://www.moe.gov.sg/financial-matters/financial-assistance**](https://www.moe.gov.sg/financial-matters/financial-assistance)). Students who do not meet the criteria for the MOE FAS will be helped through our **SGSS Financial Assistance Scheme**.
-
-  
 
 The application form can be obtained from our school’s General Office or downloaded via the link below. Completed forms together with all relevant supporting documents should be submitted to our school’s General Office or via email [**stgss@moe.edu.sg**](mailto:stgss@moe.edu.sg).
 
-  
-
-Please complete and submit the application form early before 24 October for the financial assistance to be effective for purchase of books and uniforms in November 2022. You may refer to the attached MOE FAS pamphlet for more information regarding the MOE FAS scheme.  
-
-
+Please complete and submit the application form early before 15th October each year for the financial assistance to be effective for purchase of books and uniforms in November. You may refer to the attached MOE FAS pamphlet for more information regarding the MOE FAS scheme.  
 
 *   **[MOE FAS Pamphlet](/files/Student%20Support/MOE%20FAS%20Pamphlet%202023.pdf)**
 
@@ -79,7 +68,7 @@ You may also visit these websites for information:
 
 If you are struggling with a difficult situation and feel stressed as a result, you can always seek help from your form teachers, Year Heads or any other staff in school whom you trust.
 
-  Alternatively, you can also look for the School Counsellor, Mrs. Florence Loo (@3rd floor, between The Common Space room and the Library).
+Alternatively, you can also look for the School Counsellor, Mrs. Florence Loo (@3rd floor, Sunshine Cove 1, before the Library; and Ms Marinder Kaur @ 3rd floor, Sunshine Cove 2, between The Common Space and the Library).
 	
 5. **<u>Seeking Support Outside School</u>**
 
