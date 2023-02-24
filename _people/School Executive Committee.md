@@ -9,7 +9,7 @@ description: ""
 |:----------------------------------------------------:|:-----------------------------------------------------------------------------------------:|:-------------------:|
 |                       Principal                      |                                        Mr Shawn Lim                                       |         104         |
 |                    Vice Principal                    |                                     Mdm Yee Whoy Chong                                    |         103         |
-|                Vice Principal (Admin)                |                                        Mr Christopher Thomas                                      |          109       |
+|                Vice Principal                |                                        Mr Christopher Thomas                                      |          109       |
 |                       Year Head  (Sec 4/5)  <br> Year Head  (Sec 3) <br> Year Head (Sec 2)<br> Year Head (Sec 1)|  Mr Nick Chow <br> Ms Jane Han <br>Ms Jessica Yap  <br>Ms Elyn Lim |   216 <br>136 <br>132 <br>222                            |                                                                         
 |        Teaching & Learning <br>Head of Department        |                                      Mr Peh Chin Heng                                     |          116        |
 |           Mother Tongue <br>Head of Department           |                                       Mr Clement See                                      |          115        |
