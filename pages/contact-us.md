@@ -2,31 +2,24 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: St. Gabriel's Secondary School
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  - address:
+      - 24 Serangoon Avenue 1
+      - Singapore 556140
+      - ""
+    operating_hours: []
+    maps_link: https://goo.gl/maps/HnC99A6omB3MVUrS7
+    title: St Gabriel's Secondary School
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6288 9470
+      - email: stgss@moe.edu.sg
+      - other: ""
+    title: Telephone
+  - content:
+      - phone: +65 6562 8986
+      - email: ""
+      - other: ""
+    title: Fax
 ---
