@@ -12,7 +12,7 @@ description: ""
 
 **Parent Engagement**  
 
-*   Letter to Sec 1 Parents for PLD Procurement
+*   **[Letter to Sec 1 Parents for PLD Procurement](/files/Links/Parents/2023%20Letter%20to%20Parents%20for%20PDLP%20Procurement.pdf)**
 
 *   Briefing slides for Sec 1 Parents on NDLP
 
