@@ -18,7 +18,7 @@ description: ""
 
 *   **[Frequently Asked Questions](/files/Links/Parents/PDLP%20FAQs.pdf)**
 
-*   Application Form for Subsidy for Purchase of Personal Learning Device (PLD)
+*   **[Application Form for Subsidy for Purchase of Personal Learning Device (PLD)](/files/Links/Parents/Application%20for%20Subsidy%20for%20Purchase%20of%20PLD.pdf)**
 
 You would have received a letter titled **“National Digital Literacy Programme”** which gives you details about this initiative. You may refer to the briefing slides above for details of the programme.
 
