@@ -14,7 +14,7 @@ description: ""
 
 *   **[Letter to Sec 1 Parents for PLD Procurement](/files/Links/Parents/2023%20Letter%20to%20Parents%20for%20PDLP%20Procurement.pdf)**
 
-*   Briefing slides for Sec 1 Parents on NDLP
+*   **[Information Slides for Sec 1 Parents PDLP 2023](/files/Links/Parents/Information%20Slides%20for%20Sec%201%20Parents%20PDLP%202023.pdf)**
 
 *   **[Frequently Asked Questions](/files/Links/Parents/PDLP%20FAQs.pdf)**
 
