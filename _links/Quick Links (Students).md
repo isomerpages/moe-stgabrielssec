@@ -147,12 +147,14 @@ Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access 
     <td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/2NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
   <tr>
     <td class="tg-n4qt"> <a href="/files/Links/Students/2023%20Booklist/1NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
-    <td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/2NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td></table>
+    <td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/2NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
+	</table><br>
 	
-<u>Upper Secondary</u>
-
 <table class="tg">
 <thead>
+<u>Upper Secondary</u>
+<table class="tg">
+	<thead>
   <tr>
     <th class="tg-dwlh"><span style="color:#FFFFFF;background-color:#07416f">Secondary 3</span></th>
     <th class="tg-dwlh"><span style="color:#FFFFFF;background-color:#07416f">Secondary 4</span></th>
@@ -167,8 +169,8 @@ Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access 
 		  <tr>
     <td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/3NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a></td>
     <td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/4NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
-				<td class="tg-otbs"><span style="text-decoration:none;color:#0C343D"></span></a><br></td>
+				<td class="tg-otbs"><span style="text-decoration:none;color:#0C343D"></span><br></td>
   <tr>
     <td class="tg-n4qt"> <a href="/files/Links/Students/2023%20Booklist/3NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
     <td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/4NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
-		<td class="tg-otbs"><span style="text-decoration:none;color:#0C343D"></span></a></td>
+		<td class="tg-otbs"><span style="text-decoration:none;color:#0C343D"></span></td>
