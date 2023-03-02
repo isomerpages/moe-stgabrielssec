@@ -123,54 +123,65 @@ Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access 
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-dwlh{background-color:#07416f;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-otbs{background-color:#EAEAEA;color:#0C343D;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-qq4b{background-color:#07416f;border-color:inherit;color:#ffffff;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
-<u>Lower Secondary</u>
+  <tr>
+    <th class="tg-qq4b">Secondary 1 </th>
+    <th class="tg-qq4b">Secondary 2</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/1E.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a></td>
+    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/2E.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/1NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a></td>
+    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/2NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
+  </tr>
+  <tr>
+    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/1NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
+    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/2NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
+  </tr>
+</tbody>
+</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-qq4b{background-color:#07416f;border-color:inherit;color:#ffffff;text-align:center;vertical-align:top}
+.tg .tg-4aj6{background-color:#07416f;color:#ffffff;text-align:center;vertical-align:top}
+</style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-dwlh"><span style="color:#FFFFFF;background-color:#07416f">Secondary 1</span></th>
-    <th class="tg-dwlh"><span style="color:#FFFFFF;background-color:#07416f">Secondary 2</span></th>
-		  </tr>
+    <th class="tg-qq4b">Secondary 3 </th>
+    <th class="tg-qq4b">Secondary 4</th>
+    <th class="tg-4aj6">Secondary 5</th>
+  </tr>
 </thead>
 <tbody>
-	<tr>
-    <td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/1E.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a></td>
-    <td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/2E.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a><br></td>
-		  <tr>
-    <td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/1NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a></td>
-    <td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/2NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
   <tr>
-    <td class="tg-n4qt"> <a href="/files/Links/Students/2023%20Booklist/1NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
-    <td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/2NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
-	</table><br>
-	
-<table class="tg">
-<thead>
-<u>Upper Secondary</u>
-<table class="tg">
-	<thead>
+    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/3E.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a></td>
+    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/4E.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a><br></td>
+    <td class="tg-baqh"><a href="/files/Links/Students/2023%20Booklist/5NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
+  </tr>
   <tr>
-    <th class="tg-dwlh"><span style="color:#FFFFFF;background-color:#07416f">Secondary 3</span></th>
-    <th class="tg-dwlh"><span style="color:#FFFFFF;background-color:#07416f">Secondary 4</span></th>
-		    <th class="tg-dwlh"><span style="color:#FFFFFF;background-color:#07416f">Secondary 5</span></th>
-		  </tr>
-</thead>
-<tbody>
-	<tr>
-    <td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/3E.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a></td>
-    <td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/4E.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a><br></td>
-		<td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/5NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
-		  <tr>
-    <td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/3NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a></td>
-    <td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/4NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
-				<td class="tg-otbs"><span style="text-decoration:none;color:#0C343D"></span><br></td>
+    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/3NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a></td>
+    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/4NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
+    <td class="tg-baqh">-</td>
+  </tr>
   <tr>
-    <td class="tg-n4qt"> <a href="/files/Links/Students/2023%20Booklist/3NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
-    <td class="tg-otbs"><a href="/files/Links/Students/2023%20Booklist/4NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
-		<td class="tg-otbs"><span style="text-decoration:none;color:#0C343D"></span></td>
+    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/3NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
+    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/4NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
+    <td class="tg-baqh">-</td>
+  </tr>
+</tbody>
+</table>
