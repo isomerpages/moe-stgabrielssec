@@ -41,14 +41,16 @@ You would have received a letter titled **“National Digital Literacy Programm
 
 
 ##### Admin Breeze
+***
 
 Click on the [link](https://stgabrielssec.adminbreeze.com/) to access the Admin Breeze Portal 
-***
+
 
 ##### Parents Gateway
+***
 
 **[PG Gateway - Parent Teacher Meeting Guide](/files/Links/Parents/PG%20Meetings%20-%20User%20Guide%20for%20Parents%20-%20Aug%202020.pdf)**
-***
+
 <br>
 
 <style type="text/css">
