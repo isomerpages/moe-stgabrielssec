@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+The school will close at 5 pm from 13 - 17 Mar 2023 being the March School Holidays.
