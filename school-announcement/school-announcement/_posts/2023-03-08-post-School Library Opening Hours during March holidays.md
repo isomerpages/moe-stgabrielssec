@@ -6,6 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-The School Library is open daily from 8am to 4.50pm during the March School Holidays except on the following days:
+The School Library is open daily from 8am to 4.00pm during the March School Holidays except on the following days:
 
 ·         15th March 2023 (Wednesday)
