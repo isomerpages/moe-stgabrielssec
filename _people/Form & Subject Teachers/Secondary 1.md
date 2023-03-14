@@ -73,6 +73,13 @@ third_nav_title: Form & Subject Teachers
     <td>peh_sok_hoon@moe.edu.sg</td>
     <td>129</td>
   </tr>
+	  <tr>
+    <td>1N1</td>
+    <td>Ms</td>
+    <td>Kalyani</a></td>
+    <td></td>
+    <td></td>
+  </tr>
   <tr>
     <td>1N2</td>
     <td>Ms</td>
