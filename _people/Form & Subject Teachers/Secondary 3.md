@@ -86,15 +86,6 @@ third_nav_title: Form & Subject Teachers
       <td>126</td>
     </tr>
     <tr>
-      <td>3E4</td>
-      <td>Mr</td>
-      <td>
-        <a href="mailto:simranpal_singh_sanohu@moe.edu.sg" target="">Simranpal Singh</a>
-      </td>
-      <td>simranpal_singh_sanohu@moe.edu.sg<br></td>
-      <td>149</td>
-    </tr>
-    <tr>
       <td>3E5</td>
       <td>Mr</td>
       <td>
@@ -702,16 +693,12 @@ third_nav_title: Form & Subject Teachers
     </tr>
     <tr>
       <td>Social Studies</td>
-      <td>Mr<br>
-      Ms</td>
+      <td>Ms</td>
       <td>
-        <a href="mailto:simranpal_singh_sanohu@moe.edu.sg" target="">Simranpal Singh</a><br>
-        <a href="mailto:siti_rafeah_rahmat@moe.edu.sg" target="">Siti Rafeah <br>(Sem 1)</a>
+ <a href="mailto:siti_rafeah_rahmat@moe.edu.sg" target="">Siti Rafeah <br>(Sem 1)</a>
       </td>
-      <td>simranpal_singh_sanohu@moe.edu.sg<br>
-      siti_rafeah_rahmat@moe.edu.sg</td>
-      <td>149<br>
-      119</td>
+      <td>siti_rafeah_rahmat@moe.edu.sg</td>
+      <td>119</td>
     </tr>
     <tr>
       <td>Geography</td>
@@ -847,9 +834,8 @@ third_nav_title: Form & Subject Teachers
       <td>Tamil</td>
       <td>Ms</td>
       <td>
-        &nbsp;<a href="mailto:mogana_ap_devinthoran@moe.edu.sg" target="">Mogana Devinthoran</a>
-      </td>
-      <td>mogana_ap_devinthoran@moe.edu.sg&nbsp;&nbsp;</td>
+        <a href="mailto:mogana_ap_devinthoran@moe.edu.sg" target="">Mogana Devinthoran</a>
+      </td><td>mogana_ap_devinthoran@moe.edu.sg</td>
       <td>208</td>
     </tr>
     <tr>
@@ -880,15 +866,15 @@ third_nav_title: Form & Subject Teachers
     </tr>
     <tr>
       <td>Principles of Account</td>
-      <td>Mr<br>
+      <td>Mr<br><br>
       Mr</td>
       <td>
         <a href="mailto:tuang_fook_yong@moe.edu.sg" target="">Tuang Fook Yong</a><br>
         <a href="mailto:nicholas_ng_sin_guan@moe.edu.sg" target="">Nicholas Ng</a>
       </td>
-      <td>tuang_fook_yong@moe.edu.sg<br>
-      nicholas_ng_sin_guan@moe.edu.sg<br></td>
-      <td>132<br>
+      <td>tuang_fook_yong@moe.edu.sg<br><br>
+      nicholas_ng_sin_guan@moe.edu.sg</td>
+      <td>132<br><br>
       143</td>
     </tr>
     <tr>
