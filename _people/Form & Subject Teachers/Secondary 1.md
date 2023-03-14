@@ -76,7 +76,7 @@ third_nav_title: Form & Subject Teachers
 	  <tr>
     <td>1N1</td>
     <td>Ms</td>
-    <td><a href="mailto:kalyani_ravindharan@moe.edu.sg">Kalyani</a></td>
+    <td><a href="mailto:kalyani_ravindharan@moe.edu.sg">Kalyani Ravindharan</a></td>
     <td>kalyani_ravindharan@moe.edu.sg</td>
     <td>143</td>
   </tr>
