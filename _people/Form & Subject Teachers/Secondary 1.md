@@ -978,14 +978,14 @@ third_nav_title: Form & Subject Teachers
   <tr>
     <td>Mathematics</td>
     <td>Mr</td>
-    <td><a href="mailto:poh_wei_beng@moe.edu.sg">Poh Wei Beng</a></td>
-    <td>poh_wei_beng@moe.edu.sg</td>
-    <td>114</td>
+    <td><a href="mailto:ouyeong_yew_wah@moe.edu.sg">Ouyeong Yew Wah</a></td>
+    <td>ouyeong_yew_wah@moe.edu.sg</td>
+    <td>151</td>
   </tr>
   <tr>
     <td> Mathematics SBB</td>
-    <td>Mr</td>
-    <td><a href="mailto:Koh_LI_HONG_a@moe.edu.sg">John Koh</a></td>
+    <td>Ms</td>
+    <td><a href="mailto:Koh_LI_HONG_a@moe.edu.sg">Nurul Humairah</a></td>
     <td>Koh_LI_HONG_a@moe.edu.sg</td>
     <td>211</td>
   </tr>
