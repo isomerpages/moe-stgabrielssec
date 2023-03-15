@@ -1145,7 +1145,7 @@ third_nav_title: Form & Subject Teachers
       <td>
         <a href="mailto:suraj_padman@moe.edu.sg" target="">Suraj Padman</a>
       </td>
-      <td>&nbsp;suraj_padman@moe.edu.sg</td>
+      <td>suraj_padman@moe.edu.sg</td>
       <td>137</td>
     </tr>
     <tr>
@@ -1303,7 +1303,7 @@ third_nav_title: Form & Subject Teachers
       <td>119</td>
     </tr>
     <tr>
-      <td>&nbsp;Social Studies</td>
+      <td>Social Studies</td>
       <td>Ms</td>
       <td>
         <a href="mailto:samantha_gracie_daishini_thevan@moe.edu.sg" target="">Samantha Daishini</a>
@@ -1434,7 +1434,7 @@ third_nav_title: Form & Subject Teachers
         <a href="mailto:lee_song_nian@moe.edu.sg" target="">Lee Song Nian</a>
       </td>
       <td>Lee_song_nian@moe.edu.sg</td>
-      <td>;126</td>
+      <td>126</td>
     </tr>
     <tr>
       <td>Basic Chinese</td>
@@ -1490,7 +1490,7 @@ third_nav_title: Form & Subject Teachers
       <td>
         <a href="mailto:sreetharan_rajaselvan@moe.edu.sg" target="">Sreetharan</a><br>
         (Grp 1)<br>
-        <a href="mailto:tanny_koh_tien_tien@moe.edu.sg" target="">Tanny&nbsp;Ho</a><br>
+        <a href="mailto:tanny_koh_tien_tien@moe.edu.sg" target="">Tanny Ho</a><br>
         (Grp 2)
       </td>
       <td>sreetharan_rajaselvan@moe.edu.sg<br>
@@ -1503,19 +1503,16 @@ third_nav_title: Form & Subject Teachers
     <tr>
       <td>Social Studies</td>
       <td>Ms<br>
-      <br>
-      Mr</td>
+      <br>Mdm</td>
       <td>
         <a href="mailto:siti_rafeah_rahmat@moe.edu.sg" target="">Siti Rafeah</a><br>
         (SS/HE)<br>
-        <a href="mailto:simranpal_singh_sanohu@moe.edu.sg" target="">Simranpal Singh</a> (SS/GE)
+        <a href="mailto:chew_jia_ay@moe.edu.sg" target="">Chew Jia Ay</a> (SS/GE)
       </td>
-      <td>&nbsp;siti_rafeah_rahmat@moe.edu.sg<br>
-      <br>
-      simranpal_singh_sanohu@moe.edu.sg&nbsp;<br></td>
+      <td>siti_rafeah_rahmat@moe.edu.sg<br>
+      <br>chew_jia_ay@moe.edu.sg<br></td>
       <td>119<br>
-      <br>
-      149</td>
+      <br>213</td>
     </tr>
     <tr>
       <td>History</td>
