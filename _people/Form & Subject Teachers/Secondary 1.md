@@ -1021,7 +1021,7 @@ third_nav_title: Form & Subject Teachers
     <td> Malay</td>
     <td>Mdm</td>
     <td><a href="mailto:noor_hayati_mohamed_yusoff@moe.edu.sg">Noor Hayati</a></td>
-    <td>noor_hayati_mohamed_yusoff@moe.edu.sg<br></td>
+  <td>noor_hayati_mohamed_yusoff@moe.edu.sg<br></td>
     <td>168</td>
   </tr>
   <tr>
@@ -1032,11 +1032,11 @@ third_nav_title: Form & Subject Teachers
     <td>220</td>
   </tr>
   <tr>
-    <td> Tamil</td>
-    <td>Ms</td>
-    <td><a href="mailto:mogana_ap_devinthoran@moe.edu.sg">Mogana Devinthoran</a></td>
-    <td>mogana_ap_devinthoran@moe.edu.sg<br></td>
-    <td>149</td>
+    <td>Tamil</td>
+    <td>Mdm</td>
+    <td><a href="mailto:krishnasamy_poongulali@moe.edu.sg">Krishnasamy</a></td>
+    <td>krishnasamy_poongulali@moe.edu.sg <br></td>
+    <td>151</td>
   </tr>
   <tr>
     <td>Tamil SBB</td>
