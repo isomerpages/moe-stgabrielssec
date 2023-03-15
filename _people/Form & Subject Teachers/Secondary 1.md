@@ -971,9 +971,9 @@ third_nav_title: Form & Subject Teachers
   <tr>
     <td>English SBB </td>
     <td>Ms</td>
-    <td><a href="mailto:jessica_anne_yap@moe.edu.sg">Jessica Yap</a><br></td>
-    <td>jessica_anne_yap@moe.edu.sg<br></td>
-    <td>132</td>
+    <td><a href="mailto:cheong_li_yun@moe.edu.sg">Cheong Li Yun</a><br></td>
+    <td>cheong_li_yun@moe.edu.sg</td>
+    <td>140</td>
   </tr>
   <tr>
     <td>Mathematics</td>
