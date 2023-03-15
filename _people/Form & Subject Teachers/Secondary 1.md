@@ -1076,16 +1076,16 @@ third_nav_title: Form & Subject Teachers
   <tr>
     <td>Physical Education</td>
     <td>Mr</td>
-    <td><a href="mailto:ong_chin_ming@moe.edu.sg">Ong Ching Ming</a></td>
-    <td>ong_chin_ming@moe.edu.sg</td>
-    <td>112</td>
+    <td><a href="mailto:ng_rong_yaw@moe.edu.sg">Ng Rong Yaw</a></td>
+    <td>ng_rong_yaw@moe.edu.sg </td>
+    <td>173</td>
   </tr>
   <tr>
     <td>FCE</td>
     <td>Ms</td>
-    <td><a href="mailto:khairunnisa_binte_ismail@moe.edu.sg">Khairunnisa</a></td>
-    <td>khairunnisa_binte_ismail@moe.edu.sg</td>
-    <td>133</td>
+    <td><a href="mailto:huang_jia_mei_laura@moe.edu.sg">Laura Huang</a></td>
+    <td>huang_jia_mei_laura@moe.edu.sg </td>
+    <td>206</td>
   </tr>
 </tbody>
 </table>
