@@ -1005,10 +1005,10 @@ third_nav_title: Form & Subject Teachers
   </tr>
   <tr>
     <td>Chinese</td>
-    <td>Mr</td>
-    <td><a href="mailto:tai_mao_shen@moe.edu.sg">Tai Maoshen</td>
-    <td>tai_mao_shen@moe.edu.sg</td>
-    <td>131</td>
+    <td>Mdm</td>
+    <td><a href="mailto:Ren_junying@moe.edu.sg">Ren Junying</td>
+    <td>Ren_junying@moe.edu.sg</td>
+    <td>154</td>
   </tr>
   <tr>
     <td> Malay</td>
