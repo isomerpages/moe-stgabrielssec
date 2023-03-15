@@ -964,9 +964,9 @@ third_nav_title: Form & Subject Teachers
   <tr>
     <td>English</td>
     <td>Ms</td>
-    <td><a href="mailto:s_rani@moe.edu.sg">S Rani </a></td>
-    <td>s_rani@moe.edu.sg</td>
-    <td>135</td>
+    <td><a href="mailto:s_rani@moe.edu.sg">Marianne Li </a></td>
+    <td>marianne_li@moe.edu.sg</td>
+    <td>139</td>
   </tr>
   <tr>
     <td>English SBB </td>
