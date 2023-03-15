@@ -899,14 +899,14 @@ third_nav_title: Form & Subject Teachers
   <tr>
     <td>Literature</td>
     <td>Ms</td>
-    <td><a href="mailto:jessica_anne_yap@moe.edu.sg">Jessica Yap</a></td>
-    <td>jessica_anne_yap@moe.edu.sg</td>
-    <td>132</td>
+    <td><a href="mailto:kalyani_ravindharan@moe.edu.sg">Kalyani Ravindharan</a></td>
+    <td>kalyani_ravindharan@moe.edu.sg</td>
+    <td>143</td>
   </tr>
   <tr>
     <td>Geography</td>
     <td>Mr</td>
-    <td>Sreetharan</td>
+    <td><a href="mailto:sreetharan_rajaselvan@moe.edu.sg">Sreetharan</td>
     <td>sreetharan_rajaselvan@moe.edu.sg</td>
     <td>209</td>
   </tr>
