@@ -1054,10 +1054,10 @@ third_nav_title: Form & Subject Teachers
   </tr>
   <tr>
     <td>Social Studies</td>
-    <td>Mr</td>
-    <td><a href="mailto:ng_kai_yang_ivan@moe.edu.sg">Ivan Ng</a></td>
-    <td>ng_kai_yang_ivan@moe.edu.sg </td>
-    <td>150</td>
+    <td>Mr<br>Mdm</td>
+    <td><a href="mailto:ng_kai_yang_ivan@moe.edu.sg">Ivan Ng</a><br><a href="mailto:chew_jia_ay@moe.edu.sg">Chew Jia Ay</a></td>
+<td>ng_kai_yang_ivan@moe.edu.sg<br>chew_jia_ay@moe.edu.sg</td>
+    <td>150<br>213</td>
   </tr>
   <tr>
     <td> Art</td>
