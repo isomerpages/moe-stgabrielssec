@@ -1048,9 +1048,9 @@ third_nav_title: Form & Subject Teachers
   <tr>
     <td>Computer Application</td>
     <td>Mr</td>
-    <td><a href="mailto:ho_chung_sing@moe.edu.sg">Ho Chung Sing</a></td>
-    <td>ho_chung_sing@moe.edu.sg</td>
-    <td>113</td>
+    <td><a href="mailto:ho_chung_sing@moe.edu.sg">Chia Boon Han</a></td>
+    <td>chia_boon_han@moe.edu.sg</td>
+    <td>139</td>
   </tr>
   <tr>
     <td>Social Studies</td>
