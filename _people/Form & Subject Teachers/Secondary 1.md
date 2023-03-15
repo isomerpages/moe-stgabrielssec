@@ -1006,16 +1006,9 @@ third_nav_title: Form & Subject Teachers
   <tr>
     <td>Chinese</td>
     <td>Mr</td>
-    <td>Tai Maoshen</td>
+    <td><a href="mailto:tai_mao_shen@moe.edu.sg">Tai Maoshen</td>
     <td>tai_mao_shen@moe.edu.sg</td>
     <td>131</td>
-  </tr>
-  <tr>
-    <td> Chinese SBB</td>
-    <td>Mr</td>
-    <td><a href="mailto:ong_han_guan@moe.edu.sg">Ong Han Guan</a></td>
-    <td>ong_han_guan@moe.edu.sg</td>
-    <td>210</td>
   </tr>
   <tr>
     <td> Malay</td>
