@@ -439,10 +439,10 @@ third_nav_title: Form & Subject Teachers
       <td style="width: 60px;">English</td>
       <td style="width: 60px;">Ms</td>
       <td style="width: 60px;">
-        <a href="mailto:chew_jia_ay@moe.edu.sg" target="">Chew Jia Ay</a>
+        <a href="mailto:kalyani_ravindharan@moe.edu.sg" target="">Kalyani Ravindharan</a>
       </td>
-      <td style="width: 60px;">chew_jia_ay@moe.edu.sg</td>
-      <td style="width: 60px;">211</td>
+      <td style="width: 60px;">kalyani_ravindharan@moe.edu.sg</td>
+      <td style="width: 60px;">143</td>
     </tr>
     <tr>
       <td style="width: 60px;">Mathematics</td>
