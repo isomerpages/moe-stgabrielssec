@@ -997,11 +997,11 @@ third_nav_title: Form & Subject Teachers
     <td>144</td>
   </tr>
   <tr>
-    <td>Science SBB </td>
-    <td>Mr</td>
-    <td><a href="mailto:james_peh@moe.edu.sg">James Peh</a></td>
-    <td>james_peh@moe.edu.sg</td>
-    <td>116</td>
+    <td>Science SBB</td>
+    <td>Mr<br><br>Mr</td>
+    <td><a href="mailto:liang_tianfa@moe.edu.sg">Chris Liang (SBB1)</a><br><a href="mailto:anthony_tang_chong_tong@moe.edu.sg">Anthony Tang (SBB2)</td>
+    <td>liang_tianfa@moe.edu.sg<br><br>anthony_tang_chong_tong@moe.edu.sg</td>
+    <td>150<br><br>142</td>
   </tr>
   <tr>
     <td>Chinese</td>
