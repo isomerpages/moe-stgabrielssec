@@ -1054,10 +1054,10 @@ third_nav_title: Form & Subject Teachers
   </tr>
   <tr>
     <td>Social Studies</td>
-    <td>Ms</td>
-    <td><a href="mailto:tanny_koh_tien_tien@moe.edu.sg">Tanny Koh</a></td>
-    <td>tanny_koh_tien_tien@moe.edu.sg</td>
-    <td>156</td>
+    <td>Mr</td>
+    <td><a href="mailto:ng_kai_yang_ivan@moe.edu.sg">Ivan Ng</a></td>
+    <td>ng_kai_yang_ivan@moe.edu.sg </td>
+    <td>150</td>
   </tr>
   <tr>
     <td> Art</td>
