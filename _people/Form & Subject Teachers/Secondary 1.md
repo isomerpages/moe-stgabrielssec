@@ -991,10 +991,10 @@ third_nav_title: Form & Subject Teachers
   </tr>
   <tr>
     <td>Science</td>
-    <td>Ms</td>
-    <td><a href="mailto:low_ting_ting_cherina@moe.edu.sg">Cherina Low</a></td>
-    <td>low_ting_ting_cherina@moe.edu.sg<br></td>
-    <td>128</td>
+    <td>Mr</td>
+    <td><a href="mailto:kan_vincent@moe.edu.sg">Vincent Kan</a></td>
+    <td>kan_vincent@moe.edu.sg<br></td>
+    <td>144</td>
   </tr>
   <tr>
     <td>Science SBB </td>
