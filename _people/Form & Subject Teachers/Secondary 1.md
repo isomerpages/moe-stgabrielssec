@@ -1010,6 +1010,13 @@ third_nav_title: Form & Subject Teachers
     <td>Ren_junying@moe.edu.sg</td>
     <td>154</td>
   </tr>
+	<tr>
+    <td>Chinese SBB</td>
+    <td>Ms</td>
+    <td><a href="mailto:teo_bai_hui_pauline@moe.edu.sg">Pauline Teo</td>
+    <td>teo_bai_hui_pauline@moe.edu.sg</td>
+    <td>134</td>
+  </tr>
   <tr>
     <td> Malay</td>
     <td>Mdm</td>
