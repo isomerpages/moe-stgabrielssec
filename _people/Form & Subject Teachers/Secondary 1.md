@@ -265,39 +265,39 @@ third_nav_title: Form & Subject Teachers
     <td>Malay</td>
     <td>Mdm</td>
     <td><a href="mailto:hasnah_hassan@moe.edu.sg">Hasnah Bte Hassan</a></td>
-    <td>hasnah_hassan@moe.edu.sg </td>
+    <td>hasnah_hassan@moe.edu.sg</td>
     <td>206</td>
   </tr>
   <tr>
     <td>Tamil</td>
     <td>Ms</td>
     <td><a href="mailto:mogana_ap_devinthoran@moe.edu.sg">Mogana Devinthoran</a></td>
-    <td> mogana_ap_devinthoran@moe.edu.sg</td>
+    <td>mogana_ap_devinthoran@moe.edu.sg</td>
     <td>149</td>
   </tr>
   <tr>
     <td>Literature</td>
     <td>Ms</td>
-    <td><a href="mailto:siti_latifah_ishar@moe.edu.sg ">Siti Latifah</a></td>
-    <td>siti_latifah_ishar@moe.edu.sg  </td>
+    <td><a href="mailto:siti_latifah_ishar@moe.edu.sg">Siti Latifah</a></td>
+    <td>siti_latifah_ishar@moe.edu.sg</td>
     <td>212</td>
   </tr>
   <tr>
     <td>Geography</td>
-    <td> Ms</td>
+    <td>Ms</td>
     <td><a href="mailto:tan_ying_a@moe.edu.sg">Tan Ying</a></td>
-    <td>tan_ying_a@moe.edu.sg </td>
+    <td>tan_ying_a@moe.edu.sg</td>
     <td>208</td>
   </tr>
   <tr>
     <td>History</td>
     <td>Ms</td>
     <td><a href="mailto:samantha_gracie_daishini_thevan@moe.edu.sg">Samantha Daishini</a></td>
-    <td>	samantha_gracie_daishini_thevan@moe.edu.sg</td>
+    <td>samantha_gracie_daishini_thevan@moe.edu.sg</td>
     <td>153</td>
   </tr>
   <tr>
-    <td> Art</td>
+    <td>Art</td>
     <td>Mr</td>
     <td><a href="mailto:lim_fung_chee@moe.edu.sg">Kelvin Lim</a></td>
     <td>lim_fung_chee@moe.edu.sg</td>
@@ -307,7 +307,7 @@ third_nav_title: Form & Subject Teachers
     <td>Music</td>
     <td>Mr</td>
     <td><a href="mailto:ong_ting_kai@moe.edu.sg">Ong Ting Kai</a></td>
-    <td>ong_ting_kai@moe.edu.sg </td>
+    <td>ong_ting_kai@moe.edu.sg</td>
     <td>221</td>
   </tr>
   <tr>
@@ -319,10 +319,10 @@ third_nav_title: Form & Subject Teachers
   </tr>
   <tr>
     <td>FCE</td>
-    <td>Ms <br><br> Ms</td>
-    <td><a href="mailto:huang_jia_mei_laura@moe.edu.sg">Laura Huang</a> <br><a href="mailto:khairunnisa_binte_ismail@moe.edu.sg">Khairunnisa</a></td>
-    <td>huang_jia_mei_laura@moe.edu.sg <br><br>khairunnisa_binte_ismail@moe.edu.sg</td>
-    <td>136 <br><br> 133</td>
+    <td>Ms<br><br>Ms</td>
+    <td><a href="mailto:huang_jia_mei_laura@moe.edu.sg">Laura Huang</a><br><a href="mailto:khairunnisa_binte_ismail@moe.edu.sg">Khairunnisa</a></td>
+    <td>huang_jia_mei_laura@moe.edu.sg<br><br>khairunnisa_binte_ismail@moe.edu.sg</td>
+    <td>136<br><br>133</td>
   </tr>
 </tbody>
 </table>
