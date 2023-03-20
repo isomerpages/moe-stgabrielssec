@@ -439,10 +439,10 @@ third_nav_title: Form & Subject Teachers
       <td style="width: 60px;">English</td>
       <td style="width: 60px;">Ms</td>
       <td style="width: 60px;">
-        <a href="mailto:chew_jia_ay@moe.edu.sg" target="">Chew Jia Ay</a>
+        <a href="mailto:kalyani_ravindharan@moe.edu.sg" target="">Kalyani Ravindharan</a>
       </td>
-      <td style="width: 60px;">chew_jia_ay@moe.edu.sg</td>
-      <td style="width: 60px;">211</td>
+      <td style="width: 60px;">kalyani_ravindharan@moe.edu.sg</td>
+      <td style="width: 60px;">143</td>
     </tr>
     <tr>
       <td style="width: 60px;">Mathematics</td>
@@ -654,7 +654,7 @@ third_nav_title: Form & Subject Teachers
       <td>Mr<br>
       Mr</td>
       <td>
-        <a href="mailto:ng_kok_aun_joseph@moe.edu.sg" target="">Joseph Ng</a>&nbsp;<br>
+        <a href="mailto:ng_kok_aun_joseph@moe.edu.sg" target="">Joseph Ng</a><br>
         <a href="mailto:low_seo_khang@moe.edu.sg" target="">Mark Low</a><br>
         <a href="mailto:mohamed_fazlin_said_mohd@moe.edu.sg" target=""></a>
       </td>
@@ -704,16 +704,12 @@ third_nav_title: Form & Subject Teachers
     </tr>
     <tr>
       <td style="width: 60px;">English</td>
-      <td style="width: 60px;">Ms<br>
-      Mr</td>
+      <td style="width: 60px;">Ms</td>
       <td style="width: 60px;">
-        <a href="mailto:cheong_li_yun@moe.edu.sg" target="">Cheong Li Yun</a><br>
-        <a href="mailto:simranpal_singh_sanohu@moe.edu.sg" target="">Simranpal Singh</a><br>
+        <a href="mailto:cheong_li_yun@moe.edu.sg" target="">Cheong Li Yun</a>
       </td>
-      <td style="width: 60px;">cheong_li_yun@moe.edu.sg<br>
-      simranpal_singh_sanohu@moe.edu.sg<br></td>
-      <td style="width: 60px;">140<br>
-      149</td>
+      <td style="width: 60px;">cheong_li_yun@moe.edu.sg</td>
+      <td style="width: 60px;">140</td>
     </tr>
     <tr>
       <td style="width: 60px;">Mathematics</td>
@@ -930,7 +926,7 @@ third_nav_title: Form & Subject Teachers
       <td>206</td>
     </tr>
     <tr>
-      <td>&nbsp;Tamil</td>
+      <td>Tamil</td>
       <td>Ms</td>
       <td>
         <a href="mailto:subhalakshmi_laksmanan@moe.edu.sg" target="">Subhalakshmi</a><a href="mailto:krishnasamy_poongulali@moe.edu.sg" target=""></a>
@@ -1028,12 +1024,12 @@ third_nav_title: Form & Subject Teachers
     </tr>
     <tr>
       <td style="width: 60px;">English</td>
-      <td style="width: 60px;">Mr</td>
+      <td style="width: 60px;">Mdm</td>
       <td style="width: 60px;">
-        <a href="mailto:simranpal_singh_sanohu@moe.edu.sg" target="">Simranpal Singh</a>
+        <a href="mailto:chew_jia_ay@moe.edu.sg" target="">Chew Jia Ay</a>
       </td>
-      <td style="width: 60px;">simranpal_singh_sanohu@moe.edu.sg<br></td>
-      <td style="width: 60px;">149</td>
+      <td style="width: 60px;">chew_jia_ay@moe.edu.sg<br></td>
+      <td style="width: 60px;">213</td>
     </tr>
     <tr>
       <td>English SBB</td>

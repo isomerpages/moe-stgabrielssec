@@ -86,15 +86,6 @@ third_nav_title: Form & Subject Teachers
       <td>126</td>
     </tr>
     <tr>
-      <td>3E4</td>
-      <td>Mr</td>
-      <td>
-        <a href="mailto:simranpal_singh_sanohu@moe.edu.sg" target="">Simranpal Singh</a>
-      </td>
-      <td>simranpal_singh_sanohu@moe.edu.sg<br></td>
-      <td>149</td>
-    </tr>
-    <tr>
       <td>3E5</td>
       <td>Mr</td>
       <td>
@@ -702,16 +693,12 @@ third_nav_title: Form & Subject Teachers
     </tr>
     <tr>
       <td>Social Studies</td>
-      <td>Mr<br>
-      Ms</td>
+      <td>Ms</td>
       <td>
-        <a href="mailto:simranpal_singh_sanohu@moe.edu.sg" target="">Simranpal Singh</a><br>
-        <a href="mailto:siti_rafeah_rahmat@moe.edu.sg" target="">Siti Rafeah <br>(Sem 1)</a>
+ <a href="mailto:siti_rafeah_rahmat@moe.edu.sg" target="">Siti Rafeah <br>(Sem 1)</a>
       </td>
-      <td>simranpal_singh_sanohu@moe.edu.sg<br>
-      siti_rafeah_rahmat@moe.edu.sg</td>
-      <td>149<br>
-      119</td>
+      <td>siti_rafeah_rahmat@moe.edu.sg</td>
+      <td>119</td>
     </tr>
     <tr>
       <td>Geography</td>
@@ -847,9 +834,8 @@ third_nav_title: Form & Subject Teachers
       <td>Tamil</td>
       <td>Ms</td>
       <td>
-        &nbsp;<a href="mailto:mogana_ap_devinthoran@moe.edu.sg" target="">Mogana Devinthoran</a>
-      </td>
-      <td>mogana_ap_devinthoran@moe.edu.sg&nbsp;&nbsp;</td>
+        <a href="mailto:mogana_ap_devinthoran@moe.edu.sg" target="">Mogana Devinthoran</a>
+      </td><td>mogana_ap_devinthoran@moe.edu.sg</td>
       <td>208</td>
     </tr>
     <tr>
@@ -880,15 +866,15 @@ third_nav_title: Form & Subject Teachers
     </tr>
     <tr>
       <td>Principles of Account</td>
-      <td>Mr<br>
+      <td>Mr<br><br>
       Mr</td>
       <td>
         <a href="mailto:tuang_fook_yong@moe.edu.sg" target="">Tuang Fook Yong</a><br>
         <a href="mailto:nicholas_ng_sin_guan@moe.edu.sg" target="">Nicholas Ng</a>
       </td>
-      <td>tuang_fook_yong@moe.edu.sg<br>
-      nicholas_ng_sin_guan@moe.edu.sg<br></td>
-      <td>132<br>
+      <td>tuang_fook_yong@moe.edu.sg<br><br>
+      nicholas_ng_sin_guan@moe.edu.sg</td>
+      <td>132<br><br>
       143</td>
     </tr>
     <tr>
@@ -1159,7 +1145,7 @@ third_nav_title: Form & Subject Teachers
       <td>
         <a href="mailto:suraj_padman@moe.edu.sg" target="">Suraj Padman</a>
       </td>
-      <td>&nbsp;suraj_padman@moe.edu.sg</td>
+      <td>suraj_padman@moe.edu.sg</td>
       <td>137</td>
     </tr>
     <tr>
@@ -1317,7 +1303,7 @@ third_nav_title: Form & Subject Teachers
       <td>119</td>
     </tr>
     <tr>
-      <td>&nbsp;Social Studies</td>
+      <td>Social Studies</td>
       <td>Ms</td>
       <td>
         <a href="mailto:samantha_gracie_daishini_thevan@moe.edu.sg" target="">Samantha Daishini</a>
@@ -1448,7 +1434,7 @@ third_nav_title: Form & Subject Teachers
         <a href="mailto:lee_song_nian@moe.edu.sg" target="">Lee Song Nian</a>
       </td>
       <td>Lee_song_nian@moe.edu.sg</td>
-      <td>;126</td>
+      <td>126</td>
     </tr>
     <tr>
       <td>Basic Chinese</td>
@@ -1504,7 +1490,7 @@ third_nav_title: Form & Subject Teachers
       <td>
         <a href="mailto:sreetharan_rajaselvan@moe.edu.sg" target="">Sreetharan</a><br>
         (Grp 1)<br>
-        <a href="mailto:tanny_koh_tien_tien@moe.edu.sg" target="">Tanny&nbsp;Ho</a><br>
+        <a href="mailto:tanny_koh_tien_tien@moe.edu.sg" target="">Tanny Ho</a><br>
         (Grp 2)
       </td>
       <td>sreetharan_rajaselvan@moe.edu.sg<br>
@@ -1517,19 +1503,16 @@ third_nav_title: Form & Subject Teachers
     <tr>
       <td>Social Studies</td>
       <td>Ms<br>
-      <br>
-      Mr</td>
+      <br>Mdm</td>
       <td>
         <a href="mailto:siti_rafeah_rahmat@moe.edu.sg" target="">Siti Rafeah</a><br>
         (SS/HE)<br>
-        <a href="mailto:simranpal_singh_sanohu@moe.edu.sg" target="">Simranpal Singh</a> (SS/GE)
+        <a href="mailto:chew_jia_ay@moe.edu.sg" target="">Chew Jia Ay</a> (SS/GE)
       </td>
-      <td>&nbsp;siti_rafeah_rahmat@moe.edu.sg<br>
-      <br>
-      simranpal_singh_sanohu@moe.edu.sg&nbsp;<br></td>
+      <td>siti_rafeah_rahmat@moe.edu.sg<br>
+      <br>chew_jia_ay@moe.edu.sg<br></td>
       <td>119<br>
-      <br>
-      149</td>
+      <br>213</td>
     </tr>
     <tr>
       <td>History</td>
