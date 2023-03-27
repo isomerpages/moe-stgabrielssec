@@ -315,7 +315,7 @@ third_nav_title: Form & Subject Teachers
     </tr>
     <tr>
       <td style="width: 60px;">Mathematics</td>
-      <td style="width: 60px;">Ms</td>
+      <td style="width: 60px;">Mr</td>
       <td style="width: 60px;">
         <a href="mailto:chia_boon_han@moe.edu.sg" target="">Chia Boon Han</a>
       </td>
@@ -324,7 +324,7 @@ third_nav_title: Form & Subject Teachers
     </tr>
     <tr>
       <td>Science</td>
-      <td>Mr</td>
+      <td>Ms</td>
       <td>
         <a href="mailto:zhou_jie_jane@moe.edu.sg" target="">Jane Zhou</a>
       </td>
