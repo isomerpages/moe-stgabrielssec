@@ -142,7 +142,7 @@ third_nav_title: Form & Subject Teachers
   </tr>
   <tr>
     <td>Science</td>
-    <td>Mr<br>Mr</td>
+    <td>Mr<br>Ms</td>
     <td><a href="mailto:koh_keng_wee@moe.edu.sg">Koh Keng Wee</a><br><a href="mailto:pang_seok_mun@moe.edu.sg">Pang Seok Mun</a></td>
     <td>koh_keng_wee@moe.edu.sg<br><br>pang_seok_mun@moe.edu.sg</td>
     <td>131<br><br>145</td>
