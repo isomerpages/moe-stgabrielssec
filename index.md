@@ -27,4 +27,9 @@ sections:
       image: /images/Home Based Learning/HBL.png
       alt: Image alt text
       subtitle: St. Gabriel's Secondary School
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
