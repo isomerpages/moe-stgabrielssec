@@ -19,6 +19,12 @@ sections:
       url: /St-Gabriels-70th-Anniversary-Dinner/
       image: /images/70th Anniversary Dinner.jpg
       alt: Image alt text
+  - infobar:
+      title: WA2 Schedule
+      subtitle: St. Gabriel's Secondary School
+      description: Please click the link below to access
+      button: CLICK HERE TO ACCESS
+      url: https://docs.google.com/spreadsheets/d/1ZgNMY-my0EFkDO8erjxVg2b679MfRCvCDva5Udh0qqM/edit?usp=sharing
   - infopic:
       title: Home-Based Learning
       description: Please click the link below to access

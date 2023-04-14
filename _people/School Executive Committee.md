@@ -23,7 +23,7 @@ description: ""
 |                ICT<br> Head of Department                |                                      Mr Ho Chung Sing                                     |         113         |
 |                School Staff Developer                |                                     Mr Mohammad Zahed                                     |         117         |
 |                Literature<br> Subject Head               |                                      Ms Marianne Li                                       |         139         |
-|     Mother Tongue (Chinese Language) Subject Head    |                                       Ms Pauline Teo                                      |         134         |
+|     Mother Tongue <br> (Chinese Language) <br> Subject Head    |                                       Ms Pauline Teo                                      |         134         |
 |               Mathematics <br>Subject Head               |                                      Mr Lincoln Chan                                      |         148         |
 |                 Science <br>Subject Head                 |                  Mr Mario Chua <br>                     Ms Cherina Low                                      |        140<br> 128         |
 |                Geography <br>Subject Head                |                                        Ms Tanny Koh                                       |         156         |
