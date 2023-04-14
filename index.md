@@ -27,4 +27,10 @@ sections:
       image: /images/Home Based Learning/HBL.png
       alt: Image alt text
       subtitle: St. Gabriel's Secondary School
+  - infobar:
+      title: WA2 Schedule
+      subtitle: St. Gabriel's Secondary School
+      description: Please click the link below to access
+      button: CLICK HERE TO ACCESS
+      url: https://docs.google.com/spreadsheets/d/1ZgNMY-my0EFkDO8erjxVg2b679MfRCvCDva5Udh0qqM/edit?usp=sharing
 ---
