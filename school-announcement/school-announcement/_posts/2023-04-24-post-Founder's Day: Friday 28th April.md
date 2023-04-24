@@ -9,7 +9,7 @@ image: ""
 Dear Parents/Guardians,
 <br><br>
 As Friday 28th April 2023 is our Founder's Day, students are expected to be back in school for Founder's Day celebration and Empathy Day activities.
-
+<br>
 <br>
 Students are to report before 0725 am in proper school attire and they will be dismissed at 1130 am. Catholic students will continue with GIFT ministries fellowship at 12 pm.
 <br>
