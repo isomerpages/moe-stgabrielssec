@@ -49,7 +49,7 @@ third_nav_title: Form & Subject Teachers
   <tbody>
     <tr>
       <td>English</td>
-      <td>Ms</td>
+      <td>Mr</td>
       <td>
         <a href="mailto:lim_zhengxiong_benjamin@moe.edu.sg" target="">Benjamin Lim</a>
       </td>
@@ -165,7 +165,7 @@ third_nav_title: Form & Subject Teachers
       <td>213</td>
     </tr>
     <tr>
-      <td>Design & Technology</td>
+      <td>Design &amp; Technology</td>
       <td>Ms</td>
       <td>
         <a href="mailto:tan_pei_chen@moe.edu.sg" target="">Ivy Tan</a>
