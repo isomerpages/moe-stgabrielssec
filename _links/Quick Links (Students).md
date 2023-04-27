@@ -12,12 +12,11 @@ description: ""
 As part of the Ministry of Education’s (MOE) commitment to nurture future-ready learners, an online learning platform known as the Singapore Student Learning Space (SLS) is made available to the students. The SLS can be accessed from https://vle.learning.moe.edu.sg/login
 (recommended to view in Google Chrome)
 
----
-
 *   **[Guide to SLS Account Management - Instructions for Students](/files/Links/Students/Guide%20to%20SLS%20Account%20Management%20–%20Instructions%20for%20Students.pdf)**
 *   **[Guide on Register Verified Email Address](/files/Links/Students/User%20Guide%20-%20Register%20Verified%20Email%20Address.pdf)**
 *   **[Password Reset Guide](/files/Links/Students/Password%20Reset%20Guide.pdf)**
 *   **[SLS Reset Password Form](http://tinyurl.com/slsandiconresetpasswordform)**
+---
 
 
 ##### [Admin Breeze Portal](https://lms.wizlearn.com/STGSS/login.aspx)
@@ -29,17 +28,14 @@ Click on this&nbsp;[link](https://stgabrielssec.adminbreeze.com/)&nbsp;to access
 
 Student iCON is a suite of Google apps that helps to better support student’s learning and collaboration with others. Student iCON can be accessed from https://workspace.google.com/dashboard
 
----
-
-
 *   **[Guide on Onboarding Student ICON]([](/files/Links/Students/Onboard%20Student%20ICON%20Guide%20for%20School%20Website.pdf))**
 
 *  **[Student ICON Reset Password Form](http://tinyurl.com/slsandiconresetpasswordform)**
 
+---
 
 ##### [St. Gabriel's Secondary School OPAC](https://schoolibrary.moe.edu.sg/stgabrielssec)
 
-**[Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/stgabrielssec)**<br>
 Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access the OPAC
 
 ---
