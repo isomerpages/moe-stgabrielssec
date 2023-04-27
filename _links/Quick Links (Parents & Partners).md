@@ -3,7 +3,7 @@ title: Quick Links (Parents & Partners)
 permalink: /links/Parents-Partners/
 description: ""
 ---
-## QUICK LINKS (PARENTS & PARTNERS)
+## QUICK LINKS (PARENTS &amp; PARTNERS)
 
 ![](/images/Parents%20Link%201.jpeg)
 
@@ -20,7 +20,7 @@ description: ""
 
 *   **[Application Form for Subsidy for Purchase of Personal Learning Device (PLD)](/files/Links/Parents/Application%20for%20Subsidy%20for%20Purchase%20of%20PLD.pdf)**
 
-You would have received a letter titled **“National Digital Literacy Programme”** which gives you details about this initiative. You may refer to the briefing slides above for details of the programme.
+You would have received a letter titled&nbsp;**“National Digital Literacy Programme”**&nbsp;which gives you details about this initiative. You may refer to the briefing slides above for details of the programme.
 
 **Resources for Parents**  
 
@@ -30,28 +30,33 @@ You would have received a letter titled **“National Digital Literacy Programm
 
 *   **[Student Device Information Kit](/files/Links/Parents/Student%20Device%20Information%20Kit.pdf)**
 
+---
+
 
 #### School Staff
+
+*   **[Form Teachers &amp; Subject Teachers](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/Form-and-Subject-Teachers/Form-Teachers-Subject-Teachers)**
+*   **[CCA&nbsp;Teachers](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/Form-and-Subject-Teachers/CCA-Teachers/)**
+*   **[Heads of Departments &amp; Subject Heads](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/School-Executive-Committee/)**
 ***
-
-*   **[Form Teachers & Subject Teachers](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/Form-and-Subject-Teachers/Form-Teachers-Subject-Teachers)**
-*   **[CCA Teachers](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/Form-and-Subject-Teachers/CCA-Teachers/)**
-*   **[Heads of Departments & Subject Heads](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/School-Executive-Committee/)**
-
 
 
 ##### Admin Breeze
+
+Click on the [link](https://stgabrielssec.adminbreeze.com/) to access the Admin Breeze Portal 
 ***
 
-Click on the [link](https://stgabrielssec.adminbreeze.com/) to access the Admin Breeze Portal 
+
 
 
 ##### Parents Gateway
-***
 
 **[PG Gateway - Parent Teacher Meeting Guide](/files/Links/Parents/PG%20Meetings%20-%20User%20Guide%20for%20Parents%20-%20Aug%202020.pdf)**
+***
 
-<br>
+
+
+##### Other Links
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
