@@ -8,7 +8,9 @@ description: ""
 ![](/images/Students%20Link.jpeg)
 
 ##### [Student Learning Space Portal (SLS)](https://vle.learning.moe.edu.sg/login)
-Click on this&nbsp;[link](https://vle.learning.moe.edu.sg/login)&nbsp;to access the SLS Portal&nbsp;(recommended to view in Google Chrome)
+
+As part of the Ministry of Education’s (MOE) commitment to nurture future-ready learners, an online learning platform known as the Singapore Student Learning Space (SLS) is made available to the students. The SLS can be accessed from https://vle.learning.moe.edu.sg/login
+(recommended to view in Google Chrome)
 
 ---
 
@@ -25,8 +27,10 @@ Click on this&nbsp;[link](https://stgabrielssec.adminbreeze.com/)&nbsp;to access
 
 ##### [Student ICON](https://workspace.google.com/dashboard) 
 
----
 Student iCON is a suite of Google apps that helps to better support student’s learning and collaboration with others. Student iCON can be accessed from https://workspace.google.com/dashboard
+
+---
+
 
 *   **[Guide on Onboarding Student ICON]([](/files/Links/Students/Onboard%20Student%20ICON%20Guide%20for%20School%20Website.pdf))**
 
