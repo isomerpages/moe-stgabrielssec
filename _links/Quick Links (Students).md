@@ -8,7 +8,7 @@ description: ""
 ![](/images/Students%20Link.jpeg)
 
 ##### [Student Learning Space Portal (SLS)](https://vle.learning.moe.edu.sg/login)
-Click on this [link](https://vle.learning.moe.edu.sg/login) to access the SLS Portal (recommended to view in Google Chrome)
+Click on this&nbsp;[link](https://vle.learning.moe.edu.sg/login)&nbsp;to access the SLS Portal&nbsp;(recommended to view in Google Chrome)
 
 ---
 
@@ -18,8 +18,8 @@ Click on this [link](https://vle.learning.moe.edu.sg/login) to access the SLS 
 *   **[SLS Reset Password Form](http://tinyurl.com/slsandiconresetpasswordform)**
 
 
-##### [ASKNLearn (LMS) Portal](https://lms.wizlearn.com/STGSS/login.aspx)
-Click on this [link](https://lms.wizlearn.com/STGSS/login.aspx) to access the Admin Breeze Portal
+##### [Admin Breeze Portal](https://lms.wizlearn.com/STGSS/login.aspx)
+Click on this&nbsp;[link](https://stgabrielssec.adminbreeze.com/)&nbsp;to access the Admin Breeze Portal
 
 ---
 
@@ -28,13 +28,13 @@ Click on this [link](https://lms.wizlearn.com/STGSS/login.aspx) to access the 
 ---
 
 *   **[Guide on Onboarding Student ICON]([](/files/Links/Students/Onboard%20Student%20ICON%20Guide%20for%20School%20Website.pdf))**
-*   **Click [here](https://workspace.google.com/dashboard) to access the Student ICON**
+*   **Click&nbsp;[here](https://workspace.google.com/dashboard)&nbsp;to access the Student ICON**
 *  **[Student ICON Reset Password Form](http://tinyurl.com/slsandiconresetpasswordform)**
 <br>
 
 
 **[Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/stgabrielssec)**<br>
-Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access the OPAC
+Click on this&nbsp;[link](https://schoolibrary.moe.edu.sg/stgabrielssec)&nbsp;to access the OPAC
 
 ---
 
@@ -68,7 +68,7 @@ Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access 
     <tr>
       <th class="tg-otbs">
         <br>
-        <a href="(/files/Links/Students/School%20Rules%20and%20Regulation%202023.pdf)">School Rules & Regulations</a><br>
+        <a href="(/files/Links/Students/School%20Rules%20and%20Regulation%202023.pdf)">School Rules &amp; Regulations</a><br>
       </th>
       <th class="tg-n4qt">
         <br>
