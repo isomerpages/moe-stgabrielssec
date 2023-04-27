@@ -38,23 +38,23 @@ You would have received a letter titled&nbsp;**“National Digital Literacy Prog
 *   **[Form Teachers &amp; Subject Teachers](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/Form-and-Subject-Teachers/Form-Teachers-Subject-Teachers)**
 *   **[CCA&nbsp;Teachers](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/Form-and-Subject-Teachers/CCA-Teachers/)**
 *   **[Heads of Departments &amp; Subject Heads](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/School-Executive-Committee/)**
+
+
 ***
 
 
 ##### Admin Breeze
 
 Click on the [link](https://stgabrielssec.adminbreeze.com/) to access the Admin Breeze Portal 
+
 ***
-
-
-
 
 ##### Parents Gateway
 
 **[PG Gateway - Parent Teacher Meeting Guide](/files/Links/Parents/PG%20Meetings%20-%20User%20Guide%20for%20Parents%20-%20Aug%202020.pdf)**
+
+
 ***
-
-
 
 ##### Other Links
 <br>
