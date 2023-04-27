@@ -40,4 +40,3 @@ description: ""
 *   **[SGSS ICT Equipment Fault Report Form](https://docs.google.com/forms/d/e/1FAIpQLSf2n6WW2c4xLi-gkrptbPSFmTmVrpuqTC0Q2NY7gEEgY1uGmA/viewform)**
 *   **[School WiFi Log In / Log Off](https://portal.swn.moe.edu.sg/)**
 *   **Education and Career Guidance** **([ecareers.sg web portal](https://ecareers.sg/G_Login_SG/ecareersLogin.asp))**
-***
