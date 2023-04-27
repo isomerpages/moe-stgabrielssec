@@ -7,10 +7,7 @@ description: ""
 
 ![](/images/Staffs%20Link.jpeg)
 
-**Intranet Links (VPN required if login from home)**
-
-***
-
+##### Intranet Links (VPN required if login from home)
 
 *   **[MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx)**
 *   **[SSOE2 Service Portal](https://ssoe2.moe.edu.sg/)**
@@ -21,9 +18,9 @@ description: ""
 *   **[MOE School Safety Unit](https://intranet.moe.gov.sg/schoolsafety)**
 *   **[iCollaborate](https://icollaborate.moe.gov.sg/)**
 
-**Internet Links**
+----
 
-***
+##### Internet Links
 
 *   **[iCON Mail](https://icon.moe.edu.sg/)**
 *   **[SC Mobile](https://scmobile.moe.edu.sg/login)**
@@ -42,3 +39,4 @@ description: ""
 *   **[SGSS ICT Equipment Fault Report Form](https://docs.google.com/forms/d/e/1FAIpQLSf2n6WW2c4xLi-gkrptbPSFmTmVrpuqTC0Q2NY7gEEgY1uGmA/viewform)**
 *   **[School WiFi Log In / Log Off](https://portal.swn.moe.edu.sg/)**
 *   **Education and Career Guidance** **([ecareers.sg web portal](https://ecareers.sg/G_Login_SG/ecareersLogin.asp))**
+***
