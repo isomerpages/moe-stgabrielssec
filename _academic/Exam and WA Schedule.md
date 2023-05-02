@@ -7,6 +7,6 @@ description: ""
 
 Please click the following link to access the WA2 Schedule:
 
-https://go.gov.sg/stgss-wa2-schedule
+[https://go.gov.sg/stgss-wa2-schedule](https://go.gov.sg/stgss-wa2-schedule)
 
 ##### Examination
