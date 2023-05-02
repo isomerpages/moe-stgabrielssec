@@ -2,7 +2,6 @@ collections:
   academic:
     output: true
     order:
-      - Exam and WA Schedule.md
       - Craft & Technology/.keep
       - Craft & Technology/Art & Craft.md
       - Craft & Technology/Design and Technology.md
@@ -14,3 +13,4 @@ collections:
       - Mother Tongue.md
       - Physical Education.md
       - Science.md
+      - Exam and WA Schedule.md
