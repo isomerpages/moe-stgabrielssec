@@ -16,6 +16,7 @@ As part of the Ministry of Education’s (MOE) commitment to nurture future-read
 *   **[Guide on Register Verified Email Address](/files/Links/Students/User%20Guide%20-%20Register%20Verified%20Email%20Address.pdf)**
 *   **[Password Reset Guide](/files/Links/Students/Password%20Reset%20Guide.pdf)**
 *   **[SLS Reset Password Form](http://tinyurl.com/slsandiconresetpasswordform)**
+
 ---
 
 
