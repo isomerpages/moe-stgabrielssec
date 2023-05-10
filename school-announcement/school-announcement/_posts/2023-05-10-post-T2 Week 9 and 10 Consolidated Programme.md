@@ -8,10 +8,10 @@ image: ""
 ---
 Details of consolidated programme for Term 2 Week 9 and 10 2023 for each level:
 
-Secondary 1:  [https://tinyurl.com/Sec1w9and10schedule](https://tinyurl.com/Sec1w9and10schedule)
+Secondary 1: [https://tinyurl.com/Sec1w9and10schedule](https://tinyurl.com/Sec1w9and10schedule)
 
 Secondary 2: [https://tinyurl.com/Sec2w9and10schedule](https://tinyurl.com/Sec2w9and10schedule)
 
-Secondary 3:  [https://tinyurl.com/Sec3w9and10schedule](https://tinyurl.com/Sec3w9and10schedule)
+Secondary 3: [https://tinyurl.com/Sec3w9and10schedule](https://tinyurl.com/Sec3w9and10schedule)
 
 Secondary 4/5: TBA
