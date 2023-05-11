@@ -14,4 +14,4 @@ Secondary 2: [https://tinyurl.com/Sec2w9and10schedule](https://tinyurl.com/Sec2w
 
 Secondary 3: [https://tinyurl.com/Sec3w9and10schedule](https://tinyurl.com/Sec3w9and10schedule)
 
-Secondary 4/5: TBA
+Secondary 4/5: [https://tinyurl.com/Sec45w9and10schedule](https://tinyurl.com/Sec45w9and10schedule)
