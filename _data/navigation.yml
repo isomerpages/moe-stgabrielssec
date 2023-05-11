@@ -15,19 +15,19 @@ links:
         url: /people/Parents/Parents/
       - title: Alumni
         url: https://www.gabrielites.org/
-  - title: "Academic "
+  - title: Academic
     collection: academic
   - title: C C A
     collection: c-c-a
   - title: CCE
     collection: c-c-e
-  - title: "Signature Programmes "
+  - title: Signature Programmes
     collection: signature-programmes
   - title: Links
     url: /links/Student-Handbook/
     sublinks:
       - title: Direct School Admission (DSA)
-        url: /files/Direct_School_Admission_SGSS.pdf
+        url: /files/direct_school_admission_sgss_2023.pdf
       - title: Student Handbook
         url: /links/Student-Handbook/
       - title: ACCS
@@ -46,7 +46,7 @@ links:
         url: /links/School-Sports-Safety/
       - title: GPA (Students)
         url: /links/GPA/
-      - title: "St. Gabriel's Primary School "
+      - title: St. Gabriel's Primary School
         url: https://www.stgabrielspri.moe.edu.sg/
   - title: Contact Us
     url: /contact-us/
