@@ -13,10 +13,10 @@ The Red Cross Youth unit in St. Gabriel's School was one of the pioneer units in
 
 ##### Teachers-in-charge<br>
 1. Ms. Rani Rama (OIC)<br>
-2. Mr.  Rodney Goh<br>
+2. Mr. Rodney Goh<br>
 
 ##### <u>Training Schedule</u><br>
-Fri   2.30pm - 5.30pm
+Fri&nbsp; &nbsp;2.30pm - 5.30pm
 
 ##### <u>Achievements</u>
 
