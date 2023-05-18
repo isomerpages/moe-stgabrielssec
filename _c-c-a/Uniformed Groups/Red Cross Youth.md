@@ -11,15 +11,20 @@ The Red Cross Youth unit in St. Gabriel's School was one of the pioneer units in
 
 ![](/images/CCA/Uniformed%20Groups/Red%20Cross%20Youth/Red%20Cross%20Youth.jpeg)
 
-##### Teachers-in-charge<br>
-1. Ms. Rani Rama (OIC)<br>
-2. Mr. Rodney Goh<br>
+##### Teachers-in-charge
+1. Ms. Rani Rama (OIC)
+2. Mr. Rodney Goh
+3. Ms. Mogana Devinthoran
 
 ##### <u>Training Schedule</u><br>
 Fri&nbsp; &nbsp;2.30pm - 5.30pm
 
 ##### <u>Achievements</u>
 
+*   First Aid Championship 2023 (Senior Category) - Silver &amp; Bronze Award  
+*   First Aid Championship 2023 (Junior Category) - Bronze Award
+*   First Aid Championship 2023 (Senior Category) - Gold Award  
+*   Excellent Unit Award 2022 - Silver Award  
 *   First Aid Championship 2019 (Senior Category) - Silver Award  
 *   First Aid Championship 2019 (Junior Category) - Bronze Award  
 *   Excellent Unit Award - Bronze (2018)  
