@@ -6,3 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
+Dear Parents/Guardians,
+
+Please use the link below to access the lesson schedule for Sec 4/5 classes.
+
+[https://go.gov.sg/sec4-5juneholslessons](https://go.gov.sg/sec4-5juneholslessons)
+
+Thank you.
