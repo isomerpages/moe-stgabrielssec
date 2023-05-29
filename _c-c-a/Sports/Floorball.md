@@ -13,6 +13,19 @@ Through our close monitoring, rigourous training and playing of floorball, we ai
 ![](/images/CCA/Sports%20&amp;%20Games/Floorball/graduating%20cohort%20of%202023.jpg)
 **Graduating Cohort of 2023**
 
+With a well-developed floorball programme put in place, our floorball school team has consistently finished within top 8 position of the National Inter-Schools Floorball Championships since 2019, and even achieved B Division Nationals 2nd placing in 2023.
+
+![](/images/CCA/Sports%20&amp;%20Games/Floorball/st%20gabriels's%20floorball%20b%20division%20boys%202023%2001.jpg)
+
+![](/images/CCA/Sports%20&amp;%20Games/Floorball/st%20gabriels's%20floorball%20b%20division%20boys%202023.jpg)
+**St. Gabriel's Floorball B Division Boys 2023**
+
+![](/images/CCA/Sports%20&amp;%20Games/Floorball/b%20division%20captain%20handling%202nd%20placing%20trophy%20to%20mr%20shawn%20lim%20(principal).jpg)
+**B Divison Captain handling 2nd placing trophy to Mr. Shawn Lim (Principal)**
+
+![](/images/CCA/Sports%20&amp;%20Games/Floorball/b%20division%20school%20team%20with%20the%20blessings%20of%20all%20student%20and%20parent%20supporters.jpg)
+**B Divison School Team with the blessings of all student and parent supporters**
+
 ##### Our Leaders
 'B' Division Captain: Ciaran Seth Emmanuel (S4-E4) <br>
 'B' Division Vice-Captain: Samuel Tan Yan Hua (S3-T1)
