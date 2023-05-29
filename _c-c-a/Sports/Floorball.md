@@ -10,7 +10,7 @@ third_nav_title: Sports
 
 "ATTITUDE before APTITUDE"
 
-&nbsp;Aptitude can be learnt, but attitude and beliefs are key factors in determining one's success or failure.&nbsp;  
+Aptitude can be learnt, but attitude and beliefs are key factors in determining one's success or failure. 
 
 Therefore, at St Gabriel's Floorball, we firmly believe that the attitude of every player is critical during their developmental years. Our floorball programme focuses on the holistic outcome of every player, in and out of the classroom. Through our rigourous training and playing of floorball, we aim to inculcate values such as endurance, respect, teamwork, self-discipline and leadership skills.&nbsp;
 
