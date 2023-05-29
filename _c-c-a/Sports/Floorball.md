@@ -8,16 +8,10 @@ third_nav_title: Sports
 
 ##### <u>Introduction</u>
 
-"ATTITUDE before APTITUDE"
+Through our close monitoring, rigourous training and playing of floorball, we aim to inculcate values such as endurance, respect, teamwork, self-discipline and leadership skills.
 
-Aptitude can be learnt, but attitude and beliefs are key factors in determining one's success or failure. 
-
-Therefore, at St Gabriel's Floorball, we firmly believe that the attitude of every player is critical during their developmental years. Our floorball programme focuses on the holistic outcome of every player, in and out of the classroom. Through our rigourous training and playing of floorball, we aim to inculcate values such as endurance, respect, teamwork, self-discipline and leadership skills.&nbsp;
-
-With a well-developed floorball programme put in place, our floorball school team has consistently finished within the top 16 positions of the National Inter-Schools Floorball Championships since 2007.
-
-![](/images/CCA/Sports%20&amp;%20Games/Floorball/Graduating%20Cohort%20of%202021.png)
-**Graduating Cohort of 2021**
+![](/images/CCA/Sports%20&amp;%20Games/Floorball/graduating%20cohort%20of%202023.jpg)
+**Graduating Cohort of 2023**
 
 ##### Our Leaders
 'B' Division Captain: Ciaran Seth Emmanuel (S4-E4) <br>
