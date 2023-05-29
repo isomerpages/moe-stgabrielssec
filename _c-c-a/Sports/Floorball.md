@@ -60,7 +60,6 @@ Floorballers to refer to floorball calendar for holiday training, updates and la
 *   National School Games Floorball Championships 2023: Coming Soon
 
   
-
 **<u>(ii) B Division</u>**
 
 *   National School Games Floorball Championships 2022: Top 16
