@@ -963,10 +963,12 @@ third_nav_title: Form & Subject Teachers
 <tbody>
   <tr>
     <td>English</td>
-    <td>Ms</td>
-    <td><a href="mailto:s_rani@moe.edu.sg">Marianne Li</a></td>
-    <td>marianne_li@moe.edu.sg</td>
-    <td>139</td>
+    <td>Ms<br>
+		Ms</td>
+    <td><a href="mailto:marianne_li@moe.edu.sg">Marianne Li
+			</a><a href="mailto:marianne_li@moe.edu.sg">Koh Hwee Kiang</a></td>
+    <td>marianne_li@moe.edu.sg<br>koh_hwee_kiang@moe.edu.sg</td>
+    <td>139<br>213</td>
   </tr>
   <tr>
     <td>English SBB</td>

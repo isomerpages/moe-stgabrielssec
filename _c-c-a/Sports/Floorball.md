@@ -8,28 +8,45 @@ third_nav_title: Sports
 
 ##### <u>Introduction</u>
 
-"ATTITUDE before APTITUDE"
+Through our close monitoring, rigourous training and playing of floorball, we aim to inculcate values such as endurance, respect, teamwork, self-discipline and leadership skills.
 
- Aptitude can be learnt, but attitude and beliefs are key factors in determining one's success or failure.   
+![](/images/CCA/Sports%20&amp;%20Games/Floorball/graduating%20cohort%20of%202023.jpg)
+**Graduating Cohort of 2023**
 
-Therefore, at St Gabriel's Floorball, we firmly believe that the attitude of every player is critical during their developmental years. Our floorball programme focuses on the holistic outcome of every player, in and out of the classroom. Through our rigourous training and playing of floorball, we aim to inculcate values such as endurance, respect, teamwork, self-discipline and leadership skills. 
+With a well-developed floorball programme put in place, our floorball school team has consistently finished within top 8 position of the National Inter-Schools Floorball Championships since 2019, and even achieved B Division Nationals 2nd placing in 2023.
 
-With a well-developed floorball programme put in place, our floorball school team has consistently finished within the top 16 positions of the National Inter-Schools Floorball Championships since 2007.
+![](/images/CCA/Sports%20&amp;%20Games/Floorball/st%20gabriels's%20floorball%20b%20division%20boys%202023%2001.jpg)
 
-![](/images/CCA/Sports%20&%20Games/Floorball/Graduating%20Cohort%20of%202021.png)
-**Graduating Cohort of 2021**
+![](/images/CCA/Sports%20&amp;%20Games/Floorball/st%20gabriels's%20floorball%20b%20division%20boys%202023.jpg)
+**St. Gabriel's Floorball B Division Boys 2023**
 
-**2021 Level Representatives**
-![](/images/CCA/Sports%20&%20Games/Floorball/2021%20Level%20Representatives.png)
-Sec 3: Aariz Izyan bin Jailani (S3-T1) & Haresh Kishan Gunasegaran (S3-E4)
+![](/images/CCA/Sports%20&amp;%20Games/Floorball/b%20division%20captain%20handling%202nd%20placing%20trophy%20to%20mr%20shawn%20lim%20(principal).jpg)
+**B Divison Captain handling 2nd placing trophy to Mr. Shawn Lim (Principal)**
 
-![](/images/CCA/Sports%20&%20Games/Floorball/S2.png)
-Sec 2: Imran Hadi bin M Razali (S2-E5) & Trevor Tan (S2-T1)
+![](/images/CCA/Sports%20&amp;%20Games/Floorball/b%20division%20school%20team%20with%20the%20blessings%20of%20all%20student%20and%20parent%20supporters.jpg)
+**B Divison School Team with the blessings of all student and parent supporters**
+
+##### Our Leaders
+'B' Division Captain: Ciaran Seth Emmanuel (S4-E4) <br>
+'B' Division Vice-Captain: Samuel Tan Yan Hua (S3-T1)
+
+##### Our Level Representatives
+**Secondary 1** <br>
+Daniel Ren Smith (S1-E4) <br>
+Junior Ng Yuu Hann (S1-N1) <br>
+
+**Secondary 2** <br>
+Lim Yu Feng Ethan (S2-E5) <br>
+Muhammad Aqeil Rayyan bin Saifulnizam (S2-N1) <br>
+
+**Secondary 3** <br>
+Khoo Reyshaun (S3-E3) <br>
+Samuel Tan Yu Hua (S3-T1)
 
 ##### Teachers-in-charge
 
 1. Ms. Laura Huang (OIC)<br>
-2. Mr.  Ivan Ng (2IC) <br>
+2. Mr. Ivan Ng (2IC) <br>
 3. Mr. Tai Maoshen <br>
 4. Ms. Joanne Lim
 
@@ -37,35 +54,20 @@ Sec 2: Imran Hadi bin M Razali (S2-E5) & Trevor Tan (S2-T1)
 ##### Coach
 1. Coach Saravanan
 
-  
-
 ##### <u>Training Schedule</u>
-
-**(i) 'C' Division (Sec 1s & 2s):**
-
-*   Sec 1 - Thu : 3.00pm – 5.00pm
-*   Sec 2 - Mon & Wed: 3.00pm - 4.30pm
-
-**(ii) 'B' Division (Sec 3s, 4s & 5s):**
-
-*   School Team - Mon & Wed: 4.30pm - 6.00pm
-*   Buddy Programme - Thu: 3.00pm - 5.00pm
 
 Floorballers to refer to floorball calendar for holiday training, updates and last minute cancellations.
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_rnuv42e4idoifn747q4sce0ju4%40group.calendar.google.com&ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?src=c_rnuv42e4idoifn747q4sce0ju4%40group.calendar.google.com&amp;ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ##### <u>Achievements</u>
 **(i) C Division**
 
-*   National Inter School Floorball Championships 2017: _Quarter-Finals_
-*   National Inter School Floorball Championships 2016: _3rd Runner-up_
-*   National Inter School Floorball Championships 2015: _Quarter-Finals_
+*   National School Games Floorball Championships 2022: Top 8
+*   National School Games Floorball Championships 2023: Coming Soon
 
   
-
 **<u>(ii) B Division</u>**
 
-*   National Inter School Floorball Championships 2017: _Quarter-Finals_
-*   National Inter School Floorball Championships 2016: _Quarter-Finals_
-*   National Inter School Floorball Championships 2015: _Quarter-Finals_
+*   National School Games Floorball Championships 2022: Top 16
+*   National School Games Floorball Championships 2023: 2nd Nationals
