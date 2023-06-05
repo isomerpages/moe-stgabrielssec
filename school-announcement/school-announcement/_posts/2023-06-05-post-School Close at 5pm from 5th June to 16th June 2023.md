@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+The school will close at 5pm from 5th-16th June 2023 being School June Holidays.
