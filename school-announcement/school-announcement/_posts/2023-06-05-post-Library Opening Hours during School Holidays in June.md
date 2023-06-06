@@ -8,5 +8,5 @@ image: ""
 ---
 #### School Library Opening Hours during School Holidays in June
 
-**5th June to 16th June: 8.00am to 4.00pm**<br>
-**19th June to 23rd June: 8.00am to 5.00pm**
+**5th June to 15th June: 8.00am to 4.00pm**<br>
+**20th June to 23rd June: 8.00am to 5.00pm**
