@@ -51,9 +51,7 @@ Samuel Tan Yu Hua (S3-T1)
 
 1. Ms. Laura Huang (OIC)<br>
 2. Mr. Ivan Ng (2IC) <br>
-3. Mr. Tai Maoshen <br>
-4. Ms. Joanne Lim
-
+3. Ms. Joanne Lim
 
 ##### Coach
 1. Coach Saravanan
