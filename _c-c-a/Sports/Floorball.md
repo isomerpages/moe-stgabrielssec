@@ -12,11 +12,7 @@ third_nav_title: Sports
 
  Aptitude can be learnt, but attitude and beliefs are key factors in determining one's success or failure. 
 
-Therefore, at St Gabriel's Floorball, we firmly believe that the attitude of every player is critical during their developmental years. Our floorball programme focuses on the holistic outcome of every player, in and out of the classroom. Through our rigourous training and playing of floorball, we aim to inculcate values such as endurance, respect, teamwork, self-discipline and leadership skills. 
-
-With a well-developed floorball programme put in place, our floorball school team has consistently finished within the top 16 positions of the National Inter-Schools Floorball Championships since 2007.
-
-Through our close monitoring, rigourous training and playing of floorball, we aim to inculcate values such as endurance, respect, teamwork, self-discipline and leadership skills.
+Therefore, at St Gabriel's Floorball, we firmly believe that the attitude of every player is critical during their developmental years. Our floorball programme focuses on the holistic outcome of every player, in and out of the classroom. Through our close monitoring, rigourous training and playing of floorball, we aim to inculcate values such as endurance, respect, teamwork, self-discipline and leadership skills.
 
 ![](/images/CCA/Sports%20&amp;%20Games/Floorball/graduating%20cohort%20of%202023.jpg)
 **Graduating Cohort of 2023**
@@ -64,7 +60,7 @@ Samuel Tan Yu Hua (S3-T1)
 
 ##### <u>Training Schedule</u>
 
-Floorballers to refer to floorball calendar for holiday training, updates and last minute cancellations.
+Floorballers to refer to floorball calendar for term training, holiday training, updates and last minute cancellations.
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_rnuv42e4idoifn747q4sce0ju4%40group.calendar.google.com&amp;ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
