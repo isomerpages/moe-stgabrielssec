@@ -73,6 +73,7 @@ Selected Saturday 08.00am – 12.00pm
  1. Chua Jia En (Section: Scout)
  2. Nathan Koh Heng Jun (Section: Venture)
 
+![](/images/CCA/Uniformed%20Groups/Scouts/chief%20commissioner%20awardees%20(2022).jpg)
 **Chief Commissioner's Awardees (2022):**  
 1. Ryan Punnose (4E5)<br>
 2. Cayden Chay (4E3)<br>
