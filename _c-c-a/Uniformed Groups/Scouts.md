@@ -69,6 +69,16 @@ Selected Saturday 08.00am – 12.00pm
 **President’s Scout Awardee:**  
 1. Abhimanyu Selvakumar (4E5 of 2018)
 
+ **Chief Commissioner's Well-Done Badge (2023)**
+ 1. Chua Jia En (Section: Scout)
+ 2. Nathan Koh Heng Jun (Section: Venture)
+
+**Chief Commissioner's Awardees (2022):**  
+1. Ryan Punnose (4E5)<br>
+2. Cayden Chay (4E3)<br>
+3. Matthew Tan (4E2)<br>
+4. Lucius Ng (4E3)<br>
+
 **Chief Commissioner's Awardees (2021):**  
 1. Abiara Sherwin Uchenna (4E2)<br>
 2. Cheng Jin Kang (4E2)<br>
