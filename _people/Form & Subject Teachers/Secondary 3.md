@@ -177,11 +177,12 @@ third_nav_title: Form & Subject Teachers
   <tbody>
     <tr>
       <td>English</td>
-      <td>Mr</td>
+      <td>Mr <br>
+			Ms</td>
       <td>
-        <a href="mailto:goh_huan_shen_rodney@moe.edu.sg">Rodney Goh</a>
+        <a href="mailto:goh_huan_shen_rodney@moe.edu.sg">Rodney Goh <br> </a><a href="mailto:goh_huan_shen_rodney@moe.edu.sg">Teo Hui Min</a>
       </td>
-      <td>goh_huan_shen_rodney@moe.edu.sg&nbsp;</td>
+      <td>goh_huan_shen_rodney@moe.edu.sg <br>teo_hui_min@moe.edu.sg </td>
       <td>146</td>
     </tr>
     <tr>
