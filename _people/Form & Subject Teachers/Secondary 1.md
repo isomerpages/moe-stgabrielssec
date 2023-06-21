@@ -54,9 +54,9 @@ third_nav_title: Form & Subject Teachers
   </tr>
   <tr>
     <td>1E4</td>
-    <td>Mr</td>
-    <td><a href="mailto:ong_ting_kai@moe.edu.sg">Ong Ting Kai</a></td>
-    <td>ong_ting_kai@moe.edu.sg</td>
+    <td>Mr <br> Ms</td>
+    <td><a href="mailto:ong_ting_kai@moe.edu.sg">Ong Ting Kai</a> <br> <a href="mailto:teo_hui_min@moe.edu.sg">Teo Hui Min</a></td>
+    <td>ong_ting_kai@moe.edu.sg <br> teo_hui_min@moe.edu.sg</td>
     <td>221</td>
   </tr>
   <tr>
