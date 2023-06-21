@@ -180,7 +180,7 @@ third_nav_title: Form & Subject Teachers
       <td>Mr <br>
 			Ms</td>
       <td>
-        <a href="mailto:goh_huan_shen_rodney@moe.edu.sg">Rodney Goh <br> </a><a href="mailto:goh_huan_shen_rodney@moe.edu.sg">Teo Hui Min</a>
+        <a href="mailto:goh_huan_shen_rodney@moe.edu.sg">Rodney Goh <br> </a><a href="mailto:teo_hui_min@moe.edu.sg">Teo Hui Min</a>
       </td>
       <td>goh_huan_shen_rodney@moe.edu.sg <br>teo_hui_min@moe.edu.sg </td>
       <td>146</td>
@@ -723,9 +723,10 @@ third_nav_title: Form & Subject Teachers
 <tbody>
   <tr>
     <td>English</td>
-    <td>Ms</td>
-    <td><a href="mailto:chew_jieying_anna@moe.edu.sg">Anna Chew</a></td>
-    <td>chew_jieying_anna@moe.edu.sg</td>
+    <td>Ms <br>
+		Ms</td>
+    <td><a href="mailto:chew_jieying_anna@moe.edu.sg">Anna Chew <br> </a><a href="mailto:teo_hui_min@moe.edu.sg">Teo Hui Min</a></td>
+    <td>chew_jieying_anna@moe.edu.sg <br> teo_hui_min@moe.edu.sg</td>
     <td>161</td>
   </tr>
   <tr>
