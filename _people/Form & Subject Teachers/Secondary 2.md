@@ -255,7 +255,7 @@ third_nav_title: Form & Subject Teachers
       <td>154</td>
     </tr>
     <tr>
-      <td>Design & Technology</td>
+      <td>Design &amp; Technology</td>
       <td>Mr<br>
       Mr</td>
       <td>
@@ -386,7 +386,7 @@ third_nav_title: Form & Subject Teachers
       <td>133</td>
     </tr>
     <tr>
-      <td>Design & Technology</td>
+      <td>Design &amp; Technology</td>
       <td>Mr<br>
       Ms</td>
       <td>
@@ -517,7 +517,7 @@ third_nav_title: Form & Subject Teachers
       <td>154</td>
     </tr>
     <tr>
-      <td>Design & Technology</td>
+      <td>Design &amp; Technology</td>
       <td>Mr<br>
       Mr</td>
       <td>
@@ -650,7 +650,7 @@ third_nav_title: Form & Subject Teachers
       <td>133</td>
     </tr>
     <tr>
-      <td>Design & Technology</td>
+      <td>Design &amp; Technology</td>
       <td>Mr<br>
       Mr</td>
       <td>
@@ -784,7 +784,7 @@ third_nav_title: Form & Subject Teachers
       <td>154</td>
     </tr>
     <tr>
-      <td>Design & Technology</td>
+      <td>Design &amp; Technology</td>
       <td>Mr<br>
       Mr</td>
       <td>
@@ -971,7 +971,7 @@ third_nav_title: Form & Subject Teachers
       <td>154</td>
     </tr>
     <tr>
-      <td>Design & Technology</td>
+      <td>Design &amp; Technology</td>
       <td>Mr<br>
       Mr</td>
       <td>
@@ -1095,7 +1095,7 @@ third_nav_title: Form & Subject Teachers
       <td>134</td>
     </tr>
     <tr>
-      <td>&nbsp;Malay</td>
+      <td>Malay</td>
       <td>Mdm</td>
       <td>
         <a href="mailto:rose_fadillah_aris@moe.edu.sg" target="">Rose Fadillah</a>
@@ -1158,7 +1158,7 @@ third_nav_title: Form & Subject Teachers
       <td>133</td>
     </tr>
     <tr>
-      <td>&nbsp;Design & Technology</td>
+      <td>Design &amp; Technology</td>
       <td>Mr<br>
       Ms</td>
       <td>
@@ -1171,7 +1171,7 @@ third_nav_title: Form & Subject Teachers
       166</td>
     </tr>
     <tr>
-      <td>&nbsp;Art</td>
+      <td>Art</td>
       <td>Ms</td>
       <td>
         Ng U-Lynn<a href="mailto:keith_chong_jie_hua@moe.edu.sg" target=""></a>
@@ -1211,11 +1211,11 @@ third_nav_title: Form & Subject Teachers
     </tr>
     <tr>
       <td style="width: 60px;">English</td>
-      <td style="width: 60px;">Ms</td>
+      <td style="width: 60px;">Ms <br> Ms</td>
       <td style="width: 60px;">
-        <a href="mailto:s_rani@moe.edu.sg" target="">S Rani</a>
+        <a href="mailto:s_rani@moe.edu.sg" target="">S Rani <br> </a><a href="mailto:teo_hui_min@moe.edu.sg" target="">Teo Hui Min</a>
       </td>
-      <td style="width: 60px;">s_rani@moe.edu.sg<br></td>
+      <td style="width: 60px;">s_rani@moe.edu.sg<br>teo_hui_min@moe.edu.sg</td>
       <td style="width: 60px;">135</td>
     </tr>
     <tr>
@@ -1326,7 +1326,7 @@ third_nav_title: Form & Subject Teachers
       <td>209</td>
     </tr>
     <tr>
-      <td>Computer Application&nbsp;</td>
+      <td>Computer Application</td>
       <td>Mr</td>
       <td>
         <a href="mailto:ho_chung_sing@moe.edu.sg" target="">Ho Chung Sing</a>
@@ -1335,7 +1335,7 @@ third_nav_title: Form & Subject Teachers
       <td>113</td>
     </tr>
     <tr>
-      <td>Design & Technology</td>
+      <td>Design &amp; Technology</td>
       <td>Mr<br>
       Ms</td>
       <td>
