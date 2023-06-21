@@ -6,3 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
+School closes on 22nd June 2023, Thursday for Staff Learning Day
