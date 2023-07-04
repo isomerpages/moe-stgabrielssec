@@ -69,7 +69,7 @@ In St. Gabriel’s, we aim to develop self-directed and resilient students who s
   </tr>
   <tr>
     <td class="tg-9u4g">Sec 4/ 5:<br>Ready</td>
-    <td class="tg-9u4g">Be Future Ready<br>Equip students with lifeskills and the confidence to live a full and meaningful life beyond the school gates. Assist students to identify reality gaps against their educational and career aspirations.</td>
+		<td class="tg-9u4g"><u>Be Future Ready</u><br>Equip students with lifeskills and the confidence to live a full and meaningful life beyond the school gates. Assist students to identify reality gaps against their educational and career aspirations.</td>
     <td class="tg-fwnj">- Poly Open Houses<br>- Motivational Workshop to Go for the last lap.<br>- Grooming and Presentation Workshop<br>- Job Interviews &amp; Resume Writing<br>- Course Advising<br>- EAE Workshop</td>
   </tr>
 </tbody>
