@@ -18,5 +18,4 @@ In 2021, Empathy Day was inaugurated with the aim of celebrating inclusivity wit
 
 This year, Empathy Week took place between 21st and 28th April 2023 and proved to be a meaningful experience and engagement for our students.
 
-
-
+![](/images/CCE/Our%20Programmes/Empathy%20Week/empathy%20week.jpg)
