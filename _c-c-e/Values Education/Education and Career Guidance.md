@@ -28,12 +28,8 @@ In St. Gabriel’s, we aim to develop self-directed and resilient students who s
 *   To equip students with future ready skills
 
 <center><b>ECG Developmental Model @ SGSS</b></center>
-	
-![](/images/CCE/Education%20and%20Career%20Guidance/ECGDEV_1.png)
-	
-Our ECG programmes are planned and conducted for students at different academic levels in alignment with the ECG Development Model of Guidance Branch, Ministry of Education.
 
-![](/images/CCE/Education%20and%20Career%20Guidance/ECGDEV_1.jpeg)
+![](/images/CCE/Education%20and%20Career%20Guidance/ECGDEV_1.png)
 
 **ECG 4 Year Implementation Plan since 2016 (S.O.A.R. Programme)**
 
@@ -58,7 +54,7 @@ Our ECG programmes are planned and conducted for students at different academic 
 <tbody>
   <tr>
     <td class="tg-9u4g">Sec 1:<br>Self</td>
-    <td class="tg-kwiv">Self &amp; Career Awareness<br>Enable students to identify their personal interests, talents and abilities</td>
+		<td class="tg-9u4g"><u>Self &amp; Career Awareness</u><br>Enable students to identify their personal interests, talents and abilities</td>
     <td class="tg-fwnj">- REISS Profiling<br>- Study &amp; Homework Management Skills<br>- Sec 1 Transition Talk</td>
   </tr>
   <tr>
@@ -78,5 +74,9 @@ Our ECG programmes are planned and conducted for students at different academic 
   </tr>
 </tbody>
 </table>
+
+Our ECG programmes are planned and conducted for students at different academic levels in alignment with the ECG Development Model of Guidance Branch, Ministry of Education.	
+
+![](/images/CCE/Education%20and%20Career%20Guidance/ECGDEV_1.jpeg)
 
 For Education and Career Pathway, please click [here](https://sites.google.com/moe.edu.sg/2021sgsssec4and5/home)
