@@ -59,12 +59,12 @@ In St. Gabriel’s, we aim to develop self-directed and resilient students who s
   </tr>
   <tr>
     <td class="tg-9u4g">Sec 2:<br>Option</td>
-    <td class="tg-9u4g">Educational &amp; Subject Options<br>Deepen students’ understanding of self; assist them in making informed choices for their subject combination during streaming exercise.</td>
+		<td class="tg-9u4g"><u>Educational &amp; Subject Options</u><br>Deepen students’ understanding of self; assist them in making informed choices for their subject combination during streaming exercise.</td>
     <td class="tg-fwnj">- Subject Option Talks for students and parents<br>- Subject Option Trial Exercise<br>- ECG Fair<br>- 2T1 ITE 2-day immersion programme</td>
   </tr>
   <tr>
     <td class="tg-9u4g">Sec 3:<br>Actions</td>
-    <td class="tg-9u4g">Take Actions to fulfil future goals<br>Help students to understand the expectations of world of work and be aware of work values and skills.</td>
+		<td class="tg-9u4g"> <u>Take Actions to fulfil future goals</u><br>Help students to understand the expectations of world of work and be aware of work values and skills.</td>
     <td class="tg-fwnj">- 3NA- Elective Modules<br>- DSA/ESA Talks<br>- PFP/DPP Talks<br>- 3NA World Skills / EIP (Experience ITE Prog)<br>- Career /STEM Fiesta (New)</td>
   </tr>
   <tr>
