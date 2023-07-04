@@ -77,6 +77,6 @@ In St. Gabriel’s, we aim to develop self-directed and resilient students who s
 
 Our ECG programmes are planned and conducted for students at different academic levels in alignment with the ECG Development Model of Guidance Branch, Ministry of Education.	
 
-![](/images/CCE/Education%20and%20Career%20Guidance/ECGDEV_1.jpeg)
+![](/images/CCE/Education%20and%20Career%20Guidance/ecg%20development%20model.png)
 
 For Education and Career Pathway, please click [here](https://sites.google.com/moe.edu.sg/2021sgsssec4and5/home)
