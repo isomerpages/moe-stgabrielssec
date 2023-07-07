@@ -13,11 +13,11 @@ sections:
       subtitle: St. Gabriel's Secondary School
       button: More
   - infobar:
-      title: WA2 Schedule
+      title: Prelim Timetable
       subtitle: St. Gabriel's Secondary School
       description: Please click the link below to access
       button: CLICK HERE TO ACCESS
-      url: https://docs.google.com/spreadsheets/d/1ZgNMY-my0EFkDO8erjxVg2b679MfRCvCDva5Udh0qqM/edit?usp=sharing
+      url: https://drive.google.com/file/d/1iSccUcQThQEHbpFH4L31-tEZr7QVNtem/view?usp=sharing
   - infopic:
       title: Home-Based Learning
       description: Please click the link below to access
