@@ -4,7 +4,6 @@ permalink: /co-curricular/Values-Education/Sexuality-Education/
 description: ""
 third_nav_title: Values Education
 ---
-
 ## SEXUALITY EDUCATION
 
 
@@ -14,11 +13,11 @@ Sexuality Education (SEd) in schools is about enabling students to understand th
 
 The goals of Sexuality Education are to:
 
-(i) To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate **knowledge** on human sexuality and the consequences of sexual activity;
+(i) To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;**knowledge**&nbsp;on human sexuality and the consequences of sexual activity;
 
-(ii) To help students know themselves and build healthy and rewarding relationships through the acquisition of **social and emotional skills** of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and  
+(ii) To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;**social and emotional skills**&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and  
 
-(iii) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of **positive mainstream values and attitudes** about sexuality. 
+(iii) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;**positive mainstream values and attitudes**&nbsp;about sexuality.&nbsp;
 
 The key messages of Sexuality Education are:
 
@@ -30,26 +29,26 @@ The key messages of Sexuality Education are:
 
 (iv) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click **[here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education)** for more information on MOE Sexuality Education
+You may click&nbsp;**[here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education)**&nbsp;for more information on MOE Sexuality Education
 
-**<u>Overview of St. Gabriel’s Secondary School’s Sexuality Education Programme for 2023</u>**
+**<u>Overview of St. Gabriel’s Secondary&nbsp;School’s&nbsp;Sexuality Education Programme for 2023</u>**
 
-Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click **[here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools)** for more information on the scope of Sexuality Education in the school curriculum.
+Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law.&nbsp;You may click&nbsp;**[here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools)**&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
 The subjects that incorporate topics on sexuality include:
 
-a. Science
+a.&nbsp;Science
 
-b. Character and Citizenship Education (CCE)
+b.&nbsp;Character and Citizenship Education (CCE)
 
 
-**<u>Sexuality Education Lessons</u>**: 
+**<u>Sexuality Education Lessons</u>**:&nbsp;
 
-The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly.  Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour. 
+The values and attitudes of our youth towards sexuality are increasingly shaped by their peers, exposure to the media, popular culture and the internet. Adolescence is a complex stage in life as the adolescent attempts to find his/her own identity and often struggles with new social relationships. The period of middle adolescence (generally from 15 – 17 years old) can be a turbulent period for adolescents. The gap between physical and emotional/cognitive maturity may result in a tendency to act on impulse, experiment with various activities (including sexual activities), sometimes without understanding the unpleasant consequences that may arise from such experimentation. The need for peer acceptance can be overwhelmingly strong, and hinder one’s ability to act responsibly.&nbsp; Given the pressures faced by the middle adolescent from within themselves and from peers, it is important to build a strong sense of self-worth, personal conviction and an understanding of the possible consequences of sexual behaviour.&nbsp;
 
 Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-**At St. Gabriel’s Secondary School, the following lessons from the** **Sexuality Education Programme** **will be taught in <u>2023:</u>**
+**At St. Gabriel’s Secondary School, the following lessons from the**&nbsp;**Sexuality Education Programme**&nbsp;**will be taught in&nbsp;<u>2023:</u>**
 
 *   **[Secondary 1](/files/Sec%201%20SEd%20Timeline.pdf)**
 *   **[Secondary 2](/files/Sec%202%20SEd%20Timeline.pdf)**
@@ -58,11 +57,11 @@ Through the Sexuality Education lessons, secondary students will have the opport
 *   **[Secondary 5](/files/Sec%205%20SEd%20Timeline.pdf)**
 
 **Secondary 3**<br>
-**_eTeens_ Programme:**  
+**_eTeens_&nbsp;Programme:**  
 
-_eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+_eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective.&nbsp;_eTeens_&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme.Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.&nbsp;The desired outcome of the&nbsp;_eTeens_&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.
 
-**At St. Gabriel’s Secondary School, the _eTeens_ programme will be implemented as follows in 2023:**
+**At St. Gabriel’s Secondary School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2023:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -98,14 +97,14 @@ _eTeens_ is a programme developed by Health Promotion Board, in collaboration w
 
 **Information for Parents**
 
-Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers. 
+Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.&nbsp;
 
-For parents of **Lower Secondary and Sec 4/5 students** who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [**here**](/files/LS%20and%20Sec%204-5%20SEd%20Parent%20Opt%20Out%20Form%202023%20SGSS.pdf).
+For parents of&nbsp;**Lower Secondary and Sec 4/5 students**&nbsp;who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[**here**](/files/LS%20and%20Sec%204-5%20SEd%20Parent%20Opt%20Out%20Form%202023%20SGSS.pdf).
 
-For parents of **Secondary 3 students** who wish to opt their children out of the **Sexuality Education lessons** and **eTeens programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [**here**](/files/Sec%203%20SEd%20Parent%20Opt%20Out%20Form%202023%20SGSS.pdf).
+For parents of&nbsp;**Secondary 3 students**&nbsp;who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;and&nbsp;**eTeens programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[**here**](/files/Sec%203%20SEd%20Parent%20Opt%20Out%20Form%202023%20SGSS.pdf).
 
-A hardcopy of the form, duly completed and signed, is to be submitted by 28/02/2023. 
+A hardcopy of the form, duly completed and signed, is to be submitted by 28/02/2023.&nbsp;
 
-Parents can contact the school at **62889470** or [**stgss@moe.edu.sg**](mailto:stgss@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+Parents can contact the school at&nbsp;**62889470**&nbsp;or&nbsp;[**stgss@moe.edu.sg**](mailto:stgss@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
 
 Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
