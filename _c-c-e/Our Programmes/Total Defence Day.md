@@ -4,17 +4,20 @@ permalink: /co-curricular/Our-Programmes/Total-Defence-Day/
 description: ""
 third_nav_title: Our Programmes
 ---
-
 ## Total Defence Day
 
-**<u>Total Defence Day 2019</u>**
+**<u>Total Defence Day 2023</u>**
 
-Theme: Together We Make Singapore Strong.&nbsp;
+Theme: Our Unity is Our Strength
 
-Every year, our school celebrates Total Defence Day on 15 February. This year, we are introduced to the sixth pillar of Total Defence, Digital Defence. It is the first time a new pillar has been added to the Total Defence framework since its introduction 35 years ago. The new addition signals the critical need to guard our nation against the real threat of cyber attacks and disinformation, and the increasing importance of cyber security.
+Every year, our school celebrates Total Defence Day on 15 February. With food security being the focus this year, through various classroom activities, our students learnt that strengthening our food security is a whole-nation effort and that everyone has an important role to play. This is how we can contribute to Psychological and Economic Defence and do our part for Total Defence. 
 
-In conjunction with Total Defence Day, our students actively participated in an engaging game, Guardian of the City. Through their play, our students apply their understanding of security threats in both physical and cyber worlds.&nbsp;
+![](/images/CCE/Our%20Programmes/Total%20Defense%20Day/total%20defense%20day.png)
+
+In addition, as part of Total Defence Day commemoration, we partnered with Singapore Police Force (SPF) to hold an exhibition in school with banners, game booths and a showcase of a police vehicle.
+
+![](/images/CCE/Our%20Programmes/Total%20Defense%20Day/total%20defense%20day%20-1.png)
 
 The Secondary 3 students also attended a National Service (NS) engagement talk and a panel discussion conducted by NS and NSF men who are former Gabrielites. The sharing was meaningful as our students gained useful insights about the rite of passage which many Singaporean sons go through after their tertiary education.
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTUhdJ-_zpcdyO7DbQT5yZM6nT7tc0gtdEu3l9tBJMS5FdMKG_bCwGm25543cp8xW83EZxaOUKdjjhd/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+![](/images/CCE/Our%20Programmes/Total%20Defense%20Day/total%20defense%20day%20-2.png)
