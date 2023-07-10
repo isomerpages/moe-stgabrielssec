@@ -4,7 +4,7 @@ permalink: /co-curricular/Values-Education/Cyberwellness/
 description: ""
 third_nav_title: Values Education
 ---
-## Cyberewellness 
+## Cyberwellness 
 
 Cyber Wellness refers to the positive well-being of an Internet user. It involves an understanding of the norms of appropriate, responsible behaviour with regard to technology use as well as knowledge, skills, values and attitudes on how to protect oneself and other Internet users in the cyber world. Any reported cases of inappropriate online behaviour will be investigated, as the school takes a serious view of such cases.
 
