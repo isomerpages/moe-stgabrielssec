@@ -17,7 +17,7 @@ The goals of Sexuality Education are to:
 
 (ii) To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;**social and emotional skills**&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and  
 
-(iii) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;**positive mainstream values and attitudes**&nbsp;about sexuality.&nbsp;
+(iii) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;**positive mainstream values and attitudes** &amp; about sexuality.
 
 The key messages of Sexuality Education are:
 
@@ -29,7 +29,7 @@ The key messages of Sexuality Education are:
 
 (iv) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click&nbsp;**[here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education)**&nbsp;for more information on MOE Sexuality Education
+You may click **[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)** for more information on MOE Sexuality Education
 
 **<u>Overview of St. Gabriel’s Secondary&nbsp;School’s&nbsp;Sexuality Education Programme for 2023</u>**
 
