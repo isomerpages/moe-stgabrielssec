@@ -13,7 +13,7 @@ Sexuality Education (SEd) in schools is about enabling students to understand th
 
 The goals of Sexuality Education are to:
 
-(i) To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;**knowledge**&nbsp;on human sexuality and the consequences of sexual activity;
+(i) To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate **knowledge** on human sexuality and the consequences of sexual activity;
 
 (ii) To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;**social and emotional skills**&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and  
 
@@ -33,7 +33,7 @@ You may click **[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sex
 
 **<u>Overview of St. Gabriel’s Secondary&nbsp;School’s&nbsp;Sexuality Education Programme for 2023</u>**
 
-Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law.&nbsp;You may click&nbsp;**[here](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/sexuality-education/scope-and-teaching-approach-of-sexuality-education-in-schools)**&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
+Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law.&nbsp;You may click&nbsp;**[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach)**&nbsp;for more information on the scope of Sexuality Education in the school curriculum.
 
 The subjects that incorporate topics on sexuality include:
 
