@@ -4,7 +4,7 @@ permalink: /co-curricular/Key-Features/Service-Leadership/
 description: ""
 third_nav_title: Key Features
 ---
-## SERVICE & LEADERSHIP
+## SERVICE &amp; LEADERSHIP
 
 **<center>LEADING THROUGH SERVING</center>**
 
@@ -114,27 +114,22 @@ _Minimum Service Hours:_
 
 Every student is expected to serve a minimum of 6 hours per year for involvement in community / school work organized within the school context. This involves services / activities initiated either by the school or students themselves.
 
-Some of the key VIA projects that have been carried out in 2019 are the **“Do The Mozzie Wipeout” event, food waste conversion to enzymes for cleaning, book recycling movement, terrarium making from recycled plastic bottles, TetraPak upcycling, Gabrielites Give Back (GGB), Lim Kopi initiative, engagements with homes such as and organisations such as Willing Hearts, SPCA, HCA Kang Le Hospice**, to name a few, and collaborations with NEA, Braddell Heights CC, St. Gabriel’s Primary School, Happy Universe, Friends of the Disabled Society, and many more.
+Some of the key VIA projects that have been carried out in 2022 are **NParks beach cleaning, Gabrielites Give Back (GGB), engagements with homes and organisations such as Willing Hearts, HCA Kang Le Hospice, ACRES and NLB KidsREAD** to name a few, and collaborations with Braddell Heights CC, St. Gabriel’s Primary School, Friends of the Disabled Society and many more.
 
-![](/images/CCE/Key%20Features/Service%20&%20Leadership/Groceries%20Distribution%20at%20Lorong%20Lew%20Lian.jpeg)
+![](/images/CCE/Key%20Features/Service%20&amp;%20Leadership/Groceries%20Distribution%20at%20Lorong%20Lew%20Lian.jpeg)
 
-_Groceries distribution at Lorong Lew Lian. 3E4 has adopted this meaningful project from July onwards and will continue to serve the less privileged residents in the neigbourhood for the next few months_
-
-<img style="width: 70%;" src="/images/CCE/Key%20Features/Service%20&%20Leadership/MozieAwareness.jpg">
-
-
-_Students from St. Gabriel's Primary and Secondary Schools joining forces to do the Mozzie Wipeout by raising awareness in the neighbourhood through distribution of pamphlets and NEA paraphernalia._
+*Groceries distribution at Lorong Lew Lian. 3N1 and 3N3 have adopted this meaningful project this year and will continue to serve the less privileged residents in the neigbourhood for the next few months.*
 
 
 **Prefectorial Board**
 
 The Prefectorial Board comprises of students leaders who seek to serve and inspire the student body. Our prefects serve as the voice of the student body, and come up with initiatives to ensure the well-being of all students are looked after. Prefects are given opportunities to lead and serve within the school, and are nurtured to become Servant Leaders, leading and inspiring the student body in living out our school values.
 
-<img style="width: 70%;" src="/images/CCE/Key%20Features/Service%20&%20Leadership/Prefects%20volunteering%20Boys%20Town%20Flag%20Day%20Funds.jpeg">
+<img style="width: 70%;" src="/images/CCE/Key%20Features/Service%20&amp;%20Leadership/Prefects%20volunteering%20Boys%20Town%20Flag%20Day%20Funds.jpeg">
 
-_Prefects spent a few hours volunteering for Boys Town Flag Day as part of their commitment towards serving others. This was done during their annual Prefects' Camp and proved to be a meaningful initiative for them as they helped to raise funds for the school_
+*Prefects spent a few hours volunteering for Boys Town Flag Day as part of their commitment towards serving others. This was done during their annual Prefects’ Camp and proved to be a meaningful initiative for them as they helped to raise funds for the school.*
 
-<img style="width: 70%;" src="/images/CCE/Key%20Features/Service%20&%20Leadership/Outgoing%20Prefects.jpeg">
+<img style="width: 70%;" src="/images/CCE/Key%20Features/Service%20&amp;%20Leadership/Outgoing%20Prefects.jpeg">
 
 
 _Outgoing Prefects posing one last time for the camera after the Prefects' Investiture in April. Prefects have been the voice of the student mass and have always been wonderful servant leaders over the years._

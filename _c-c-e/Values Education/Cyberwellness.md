@@ -4,7 +4,7 @@ permalink: /co-curricular/Values-Education/Cyberwellness/
 description: ""
 third_nav_title: Values Education
 ---
-## Cyberewellness 
+## Cyberwellness 
 
 Cyber Wellness refers to the positive well-being of an Internet user. It involves an understanding of the norms of appropriate, responsible behaviour with regard to technology use as well as knowledge, skills, values and attitudes on how to protect oneself and other Internet users in the cyber world. Any reported cases of inappropriate online behaviour will be investigated, as the school takes a serious view of such cases.
 
@@ -33,7 +33,7 @@ Cyber Wellness refers to the positive well-being of an Internet user. It involve
   </tr>
   <tr>
     <td class="tg-ncov">Cyber bullying</td>
-    <td class="tg-fwnj">- Be Courteous.<br><span style="background-color:initial">Do not post threats or slurs or insulting comments against others on a website.</span><br><br> - Do not spread lies and rumors about others via text message or online.<br><br> - Do not post embarrassing videos about others on a site such as YouTube or Facebook.<br><br> - Do not impersonate others in order to trick, tease, harass or spread rumors about another person.<br><br>- Tell an adult / talk to a trusted friend.<br><span style="background-color:initial">This applies whether the pupil is a victim or witness of cyberbullying.</span><br><br>- Don’t respond to rude /mean emails or text messages.<br><span style="background-color:initial">Online bullies get satisfaction when they succeed in getting the victim angry or upset.</span><br><br>- Report the bullying to their teacher(s) directly or contact <a href="mailto:cyberwellness@touch.org.sg"><span style="text-decoration:none;color:#0C343D">cyberwellness@touch.org.sg.</span></a><br><br>- Stay away from the phone, chat or email for a few days.</td>
+    <td class="tg-fwnj">- Be Courteous.<br><span style="background-color:initial">Do not post threats or slurs or insulting comments against others on a website.</span><br><br> - Do not spread lies and rumors about others via text message or online.<br><br> - Do not post embarrassing videos about others on a site such as YouTube or Facebook.<br><br> - Do not impersonate others in order to trick, tease, harass or spread rumors about another person.<br><br>- Inform an adult or talk to a trusted friend.<br><span style="background-color:initial">This applies whether the pupil is a victim or witness of cyberbullying.</span><br><br>- Don’t respond to rude or mean emails or text messages.<br><span style="background-color:initial">Online bullies get satisfaction when they succeed in getting the victim angry or upset.</span><br><br>- Report the bullying to their teacher(s) directly or contact <a href="mailto:cyberwellness@touch.org.sg"><span style="text-decoration:none;color:#0C343D">cyberwellness@touch.org.sg.</span></a><br><br>- Stay away from the phone, chat or email for a few days.</td>
   </tr>
   <tr>
     <td class="tg-ncov">Tips Dangers of Cyber Contact</td>
