@@ -29,7 +29,7 @@ In St. Gabriel’s, we aim to develop self-directed and resilient students who s
 
 <center><b>ECG Developmental Model @ SGSS</b></center>
 
-![](/images/CCE/Education%20and%20Career%20Guidance/ECGDEV_1.png)
+![](/images/CCE/Education%20and%20Career%20Guidance/ecg%20development%20model%20@sgss.png)
 
 **ECG 4 Year Implementation Plan since 2016 (S.O.A.R. Programme)**
 
