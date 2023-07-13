@@ -18,6 +18,12 @@ sections:
       description: Please click the link below to access
       button: CLICK HERE TO ACCESS
       url: https://drive.google.com/file/d/1iSccUcQThQEHbpFH4L31-tEZr7QVNtem/view?usp=sharing
+  - infobar:
+      title: WA3 Timetable
+      subtitle: St. Gabriel's Secondary School
+      description: Please click the link below to access
+      button: CLICK HERE TO ACCESS
+      url: https://docs.google.com/spreadsheets/d/1Hh350XaaxaYlB0YIeyJmgOmC5MdfFp6I/edit?usp=sharing&ouid=106874172426335960481&rtpof=true&sd=true
   - infopic:
       title: Home-Based Learning
       description: Please click the link below to access
