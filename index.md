@@ -17,7 +17,7 @@ sections:
       subtitle: St. Gabriel's Secondary School
       description: Please click the link below to access
       button: CLICK HERE TO ACCESS
-      url: https://drive.google.com/file/d/1iSccUcQThQEHbpFH4L31-tEZr7QVNtem/view?usp=sharing
+      url: https://drive.google.com/file/d/1tmFrn40wBNzli41_KFJdzclf1fvKJEGx/view?usp=sharing
   - infobar:
       title: WA3 Timetable
       subtitle: St. Gabriel's Secondary School
