@@ -29,7 +29,7 @@ Click on this&nbsp;[link](https://stgabrielssec.adminbreeze.com/)&nbsp;to access
 
 Student iCON is a suite of Google apps that helps to better support student’s learning and collaboration with others. Student iCON can be accessed from https://workspace.google.com/dashboard
 
-*   **[Guide on Onboarding Student ICON]([](/files/Links/Students/Onboard%20Student%20ICON%20Guide%20for%20School%20Website.pdf))**
+*   **[Guide on Onboarding Student ICON](/files/Links/Students/Onboard%20Student%20ICON%20Guide%20for%20School%20Website.pdf)**
 
 *  **[Student ICON Reset Password Form](http://tinyurl.com/slsandiconresetpasswordform)**
 

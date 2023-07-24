@@ -20,8 +20,8 @@ Under the flame of Labor Omnia Vincit, the ensemble has labored hard to achieve 
 ##### Teachers-in-charge
 <br>
 1. Ms. Ruby Cheah (OIC)<br>
-2. Ms. Amelia Loh (2IC)<br>
-3. Mr. Sebastian Goh
+2. Mr. Sebastian Goh <br>
+3. Mr. Tai Maoshen
 
 ##### <u>Training Schedule</u>
 
@@ -30,15 +30,16 @@ Practice Sessions (in Guitar Room and Math Room):
 **<u>Secondary 1:</u>**
 <br>
 * Thurs : 2.30pm - 5.30pm
-* Fri      : 2.30pm - 5.30pm
+* Fri&nbsp; &nbsp;  &nbsp;: 2.30pm - 5.30pm
 
 **<u>Secondary 2 to 5 (SYF Ensemble):</u>**
 
-*   Tues   : 2.30pm - 5.30pm
-*   Fri     : 2.30pm - 5.30pm
+*   Tues&nbsp; &nbsp;: 2.30pm - 5.30pm
+*   Fri&nbsp; &nbsp; &nbsp;: 2.30pm - 5.30pm
 
 ##### <u>Achievements</u>
 
+*   SYF Arts Presentation 2023, Certificate of Accomplishment  
 *   SYF Arts Presentation 2021, Certificate of Accomplishment  
 *   SYF Arts Presentation 2019, Certificate of Accomplishment  
 *   SYF Arts Presentation 2017, Certificate of Distinction
@@ -48,6 +49,7 @@ Practice Sessions (in Guitar Room and Math Room):
 *   SYF Gold (2009)
 
 ##### Performances \[since 2012\]:
+*   ACJC Concert, Glissando, in 2023
 *   Annual Sec One CCA Fair Showcase
 *   Annual St. Gabriel's Speech Day
 *   ACJC Guitar Ensemble Concert 2017

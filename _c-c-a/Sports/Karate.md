@@ -7,7 +7,7 @@ third_nav_title: Sports
 ## Karate
 
 
-![](/images/CCA/Sports%20&%20Games/Karate/Karate.png)</center>
+![](/images/CCA/Sports%20&amp;%20Games/Karate/Karate.png)
 
 ##### <u>Introduction</u>
 St. Gabriel's Secondary School Karate Programme under the able direction of Sensei David Thong focuses on the holistic outcomes of every Karateka during the weekly trainings. We aim to inculcate values of Respect, Honor, Courage and Focus and trained every karateka to be motivated in improving their skills and also build their character.
@@ -25,4 +25,4 @@ Venue: School Hall
 
 Number of students: 80
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSXcxOIE2kYCL7aFxvr7Nj5rasyWXWot4TOMa23xZv1dweG-m16xWu-Kj_-O7cUQzK5uPncqZHY5052/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQS_CyhgUvqpA7E1BUMajD_pDJcKdiCqMcWLYqrPXrybyyv8gwZMLEYUOXFNbZpfD6wZsZ2LCM2Su6o/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
