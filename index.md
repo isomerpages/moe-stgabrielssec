@@ -32,4 +32,11 @@ sections:
       image: /images/Home Based Learning/HBL.png
       alt: Image alt text
       subtitle: St. Gabriel's Secondary School
+  - infopic:
+      title: SGF Charity Movie 2023
+      subtitle: St. Gabriel's Secondary School
+      button: Click here to read more
+      url: https://stgabrielssec.moe.edu.sg/sgf-charity-movie-2023
+      image: /images/School Announcement/2023/sgf charity movie 2023.JPG
+      alt: SGF Charity Movie 2023
 ---
