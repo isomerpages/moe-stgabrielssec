@@ -61,6 +61,12 @@ Selected Saturday 08.00am – 12.00pm
 
 
 ##### <u>Achievements</u><br>
+*   Scouts: Frank Cooper Sands Award (2022) - Gold<br>
+*   Ventures: Frank Cooper Sands Award (2022) - Gold<br>
+*   Rovers: Frank Cooper Sands Award (2022) – Gold
+
+<br>
+
 *   Scouts: Frank Cooper Sands Award (2019) - Gold<br>
 *   Ventures: Frank Cooper Sands Award (2019) - Gold<br>
 *   National Patrol Camp (2019) – Silver
