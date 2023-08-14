@@ -50,10 +50,10 @@ In 2022, the Scouts planned training and activities where there were opportuniti
 </table>
 
 ##### Teachers-in-charge<br>
-1. Mr. Zhang Huasheng (OIC)<br>
+1.  Ms. Kalyani Ravindharan(OIC)<br>
 2. Ms. Koh Shiew Cher (2IC)<br>
 3. Ms. Nurul Humairah (AGSL)<br>
-4. Kalyani Ravindharan
+4. Mr. Zhang Huasheng
 
 ##### <u>Training Schedule</u>
 Every Friday 02.30pm - 06.00pm  
