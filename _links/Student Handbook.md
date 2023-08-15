@@ -21,7 +21,7 @@ description: ""
 
 **8. [Safety Regulations (Computer Labs)](/files/Links/Student%20Handbook/Safety%20Regulations%20in%20Computer%20Labs.pdf)**
 
-**9.
+**9. [Safety Regulations (D&T Workshop)](/files/Links/Student%20Handbook/Safety%20Regulations%20in%20D&T%20Workshop.pdf)**
 
 **10. [Safety Regulations (FCE)](/files/Links/Student%20Handbook/Safety%20Regulations%20in%20Kitchen.pdf)**
 
