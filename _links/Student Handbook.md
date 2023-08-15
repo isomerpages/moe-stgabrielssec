@@ -27,4 +27,4 @@ description: ""
 
 **11. [Safety Regulations (Science Labs)](/files/Links/Student%20Handbook/Safety%20Regulations%20in%20Science%20Labs.pdf)**
 
-**12. 
+**12. [Chang Yung Fa Library](/files/Links/Student%20Handbook/Chang%20Yung%20Fa%20Library.pdf)**
