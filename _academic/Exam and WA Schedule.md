@@ -5,10 +5,8 @@ description: ""
 ---
 #### Weighted Assessment Schedule
 
+[Term 3 WA3 Schedule](https://go.gov.sg/stgss-wa3-schedule)
 
-[https://go.gov.sg/stgss-wa3-schedule](https://go.gov.sg/stgss-wa3-schedule)
+#### Examination Timetable
 
-#### Examination Schedule
-
-
-[https://go.gov.sg/stgss-prelim-exam-schedule](https://go.gov.sg/stgss-prelim-exam-schedule)
+[2023 Preliminary Examination Timetable](/files/Announcements/2023/preliminary%20examination%20timetable.pdf)
