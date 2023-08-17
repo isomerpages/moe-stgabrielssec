@@ -12,18 +12,6 @@ sections:
       title: Announcement
       subtitle: St. Gabriel's Secondary School
       button: More
-  - infobar:
-      title: Prelim Timetable
-      subtitle: St. Gabriel's Secondary School
-      description: Please click the link below to access
-      button: CLICK HERE TO ACCESS
-      url: https://drive.google.com/file/d/1pwR4xH-_YjplQxZQAa8cCJd0Yy3HKseX/view?usp=sharing
-  - infobar:
-      title: WA3 Timetable
-      subtitle: St. Gabriel's Secondary School
-      description: Please click the link below to access
-      button: CLICK HERE TO ACCESS
-      url: https://docs.google.com/spreadsheets/d/1Hh350XaaxaYlB0YIeyJmgOmC5MdfFp6I/edit?usp=sharing&ouid=106874172426335960481&rtpof=true&sd=true
   - infopic:
       title: SGF Charity Movie 2023
       subtitle: St. Gabriel's Secondary School
