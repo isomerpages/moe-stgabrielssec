@@ -3,14 +3,10 @@ title: Exam and WA Schedule
 permalink: /academic/exam-and-wa-schedule/
 description: ""
 ---
-##### WA Schedule
+#### Examination Timetable
 
-Please click the following link to access the WA3 Schedule:
+[2023 Preliminary Examination Timetable](/files/Announcements/2023/preliminary%20examination%20timetable.pdf)
 
-[https://go.gov.sg/stgss-wa3-schedule](https://go.gov.sg/stgss-wa3-schedule)
+#### Weighted Assessment Schedule
 
-##### Preliminary Examination
-
-Please click the following link to access the Prelim Exam Schedule:
-
-[https://go.gov.sg/stgss-prelim-exam-schedule](https://go.gov.sg/stgss-prelim-exam-schedule)
+[Term 3 WA3 Schedule](https://go.gov.sg/stgss-wa3-schedule)
