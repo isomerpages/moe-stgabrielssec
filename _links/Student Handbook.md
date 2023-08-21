@@ -11,9 +11,9 @@ description: ""
 
 **3. [Assessment and Promotion Criteria](/files/Links/Student%20Handbook/Assessment%20and%20Promotion%20Criteria.pdf)**  
 
-**4. [CCA](/files/Links/Student%20Handbook/CCA.pdf)**
+**4. [CCA](/files/Links/Student%20Handbook/cca%202023.pdf)**
 
-**5. [LEAPS Computation](/files/Links/Student%20Handbook/LEAPS.pdf)**
+**5. [LEAPS Computation](/files/Links/Student%20Handbook/leaps%202023.pdf)**
 
 **6. [NAPFA](/files/Links/Student%20Handbook/NAPFA%20Standards.pdf)**
 
