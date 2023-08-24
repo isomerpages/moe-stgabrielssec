@@ -1,6 +1,6 @@
 ---
-title: Term 3 WA Schedule
-date: 2023-08-03
+title: 2023 End of Year Examination Timetable
+date: 2023-08-23
 layout: link
 description: ""
 image: ""
