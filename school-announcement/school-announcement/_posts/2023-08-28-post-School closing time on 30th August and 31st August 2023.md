@@ -6,4 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-The school will close at 5pm on 3rd July 2023 being Youth Day (School Holiday).
+The school will close at 5pm on 30th August and at 1.30pm on 31st August 2023.
