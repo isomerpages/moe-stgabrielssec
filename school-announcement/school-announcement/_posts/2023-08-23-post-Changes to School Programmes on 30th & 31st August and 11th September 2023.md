@@ -10,6 +10,6 @@ Dear Parents/Guardians,
 
 Due to the upcoming Presidential Election on Friday 1st September 2023, please refer to the attached Principal's letter for changes to the school programmes on 30th and 31st August and also 11th September 2023.
 
-Click here to read the Principal's letter
+Click [here](/files/Announcements/2023/letter%20to%20parents%20for%20teachers'%20day%202023.pdf) to read the Principal's letter
 
 Thank you.
