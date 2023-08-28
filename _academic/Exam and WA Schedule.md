@@ -7,7 +7,7 @@ description: ""
 
 [2023 End of Year Examination Timetable](https://tinyurl.com/Sec-1-3-EOY-Exams)
 
-[2023 Preliminary Examination Timetable](/files/Announcements/2023/preliminary%20examination%20timetable.pdf)
+[2023 Preliminary Examination Timetable](/files/Announcements/2023/2023%20preliminary%20examination%20timetable.pdf)
 
 #### Weighted Assessment Schedule
 
