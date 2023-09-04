@@ -7,12 +7,14 @@ layout: post
 description: ""
 image: ""
 ---
-Dear Parents / Guardians,
+Dear Parents/Guardians,
 
-Please be informed that the GCE O Level Mother Tongue Listening Comprehension (LC) examination will be held on 4 July 2023 from 2 p.m. to 6 p.m. 
+Due to the Presidential Election on 1st September, the Teacher's Day holiday has been shifted to 11th September 2023, Monday. This coincides with the first day of the GCE 'N' Level Examination. As such, papers that were initially scheduled on 11th September have now been postponed to 12th September. 
 
-As such, the school will end lessons earlier at 1 p.m. to facilitate the preparation of this national examination.
+Click here to refer to the updated exam timetable to view the papers affected by the shift.
 
-All students will be dismissed at 1 p.m. on 4 July 2023 except for the exam candidates taking this O Level LC examination and the Sec 3 students scheduled for EL oral exam that day.
+We would greatly appreciate it if you could inform your son/ward about this change as well.
 
-Thank you and have a pleasant day.
+The updated timetable will also be available on our school website for your reference as well.
+
+Thank you.
