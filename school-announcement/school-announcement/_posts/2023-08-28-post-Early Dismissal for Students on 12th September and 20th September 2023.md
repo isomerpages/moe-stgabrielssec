@@ -8,8 +8,10 @@ image: ""
 ---
 Dear Parents/Guardians,
 
-Please use the link below to access the lesson schedule for Sec 4/5 classes.
+The GCE 'N' Level Listening Comprehension will take place on 12th September 2023, Tuesday and 20th September 2023, Wednesday. 
 
-[https://go.gov.sg/sec4-5juneholslessons](https://go.gov.sg/sec4-5juneholslessons)
+In lieu of this, students will dismissed at 1.30pm so that the school can prepare for the examinations.
 
-Thank you.
+We hope that you can make the necessary transport arrangements for these 2 days for your son/ward if you are planning to fetch him home.
+
+Thank you for your kind understanding.
