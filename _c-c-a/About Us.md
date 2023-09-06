@@ -8,7 +8,7 @@ description: ""
 In our aim to provide a holistic education to all Gabrielites, our co-curricular programmes play an important role in our students' lives. Through our co-curricular programmes, we hope to nurture servant leaders of sound characters, imbued with our school values of Respect, Responsibility, Resilience and Care. This we seek to achieve by engaging our Gabrielites in their areas of talent by giving them opportunities to develop their potential to the fullest.
 
 
-![](/images/CCA/About%20Us/CCA%20Student%20Leaders.jpeg)
+![](/images/CCA/About%20Us/general%20cca.jpeg)
 
 <br>
 
@@ -24,18 +24,18 @@ In our aim to provide a holistic education to all Gabrielites, our co-curricular
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img style="width:90%" src="/images/CCA/About%20Us/Clubs%20&%20Performing%20Arts.jpeg"></th>
+    <th class="tg-tlx9"><img style="width:90%" src="/images/CCA/About%20Us/Clubs%20&amp;%20Performing%20Arts.jpeg"></th>
 	<th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img class="tg-tlx9"><img style="width:100%" src="/images/CCA/About%20Us/Clubs%20&%20Performing%20Arts.jpeg">
+    <th class="tg-tlx9"><img class="tg-tlx9"><img style="width:100%" src="/images/CCA/About%20Us/Clubs%20&amp;%20Performing%20Arts.jpeg">
     </th><th class="tg-tlx9"><img style="width:90%" src="/images/CCA/About%20Us/Uniformed%20Groups.jpeg">
   </th></tr>
 </thead>
 <tbody>
 	  <tr>
-				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Club & Performing Arts</span></td>
+				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Club &amp; Performing Arts</span></td>
     <td class="tg-apyk"><br></td>
-    <td class="tg-apyk">Sports & Games
-		<td class="tg-apyk">Uniformed Groups
-  </tr>
+    <td class="tg-apyk">Sports &amp; Games
+		</td><td class="tg-apyk">Uniformed Groups
+  </td></tr>
 </tbody>
 </table>
