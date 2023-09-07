@@ -26,7 +26,7 @@ In our aim to provide a holistic education to all Gabrielites, our co-curricular
 <tr>
     <th class="tg-tlx9"><img style="width:90%" src="/images/CCA/About%20Us/Clubs%20&amp;%20Performing%20Arts.jpeg"></th>
 	<th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img class="tg-tlx9"><img style="width:100%" src="/images/CCA/About%20Us/Clubs%20&amp;%20Performing%20Arts.jpeg">
+    <th class="tg-tlx9"><img class="tg-tlx9"><img style="width:100%" src="/images/CCA/About%20Us/Sports%20&amp;%20Games.jpeg">
     </th><th class="tg-tlx9"><img style="width:90%" src="/images/CCA/About%20Us/Uniformed%20Groups.jpeg">
   </th></tr>
 </thead>
@@ -39,3 +39,4 @@ In our aim to provide a holistic education to all Gabrielites, our co-curricular
   </td></tr>
 </tbody>
 </table>
+
