@@ -17,7 +17,7 @@ T - Tenacious<br>
 A - Attitude<br>
 R - Role model
 
-![](/images/CCA/Sports%20&%20Games/Football/Warm%20Up%20Activity.jpg)
+![](/images/CCA/Sports%20&amp;%20Games/Football/Warm%20Up%20Activity.jpg)
 
 ##### Teachers-in-charge
 1. Mr. Suraj <br>
@@ -31,6 +31,8 @@ R - Role model
 
 *   Mon, Wed, Fri: 3.00pm - 6.00pm - Term Time
 *   Mon, Wed, Fri: 8.00am - 11.00am - School Holidays
+
+![](/images/CCA/Sports%20&amp;%20Games/Football/c%20div%20football.jpg)
 
   
 

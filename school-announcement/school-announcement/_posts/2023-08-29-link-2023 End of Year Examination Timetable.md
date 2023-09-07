@@ -1,6 +1,6 @@
 ---
 title: 2023 End of Year Examination Timetable
-date: 2023-08-24
+date: 2023-08-29
 layout: link
 description: ""
 image: ""
