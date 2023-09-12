@@ -47,7 +47,7 @@ Dates and timings are subject to change during debating tournament preparation p
     <tr>
       <th class="tg-tlx9"><img style="width:100%" src="/images/CCA/Clubs%20&amp;%20Societies/Debate%20Club/Debate%20Training%20Session.png" alt="Debate%20Training%20Session"></th>
       <th class="tg-tlx9"></th>
-      <th class="tg-tlx9"><img class="tg-tlx9" alt=""><img style="width:100%" src="/images/CCA/Clubs%20&amp;%20Societies/Debate%20Club/Sec%202%20Debate%20Team%20Members.png" alt="Sec%202%20Debate%20Team%20Members"></th>
+      <th class="tg-tlx9"><img class="tg-tlx9" alt=""><img style="width:100%" src="/images/CCA/Clubs%20&amp;%20Societies/Debate%20Club/sec%202%20debate%20team%20members.jpg" alt="Sec%202%20Debate%20Team%20Members"></th>
     </tr>
   </thead>
   <tbody>
