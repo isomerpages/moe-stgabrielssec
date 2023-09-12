@@ -17,7 +17,7 @@ In order to grow as a player, we believed one must be committed, determined, and
 "Those who play badminton well, take decisions quickly"<br>
 Dmitry Medveder
 
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRn_zFv4t4Z2lPoLp-mY8qkmgLuAurZ3XGL3PONft1nB6HVayNkxAS3ZPos2LdkyqU0k6O6-VzW8pEJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>  
+<iframe height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSv6OGpEcc5PLg09LScMNgNcP6fXYjFR5DNO0_E-ZzPYGx-TQ54Ka6JhZQdhb2H2KpXmwMQwdG5ugFS/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ##### Teachers-In-Charge
 1. Mr. Joshua Leong (OIC)
