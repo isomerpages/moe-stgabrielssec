@@ -4,7 +4,8 @@ permalink: /links/Quick-Links-Teachers/
 description: ""
 ---
 ## Quick Links (Teachers)
-![](/images/staffs%20link%202023.jpg)
+
+![](/images/staffs%20link.jpg)
 
 ##### Intranet Links (VPN required if login from home)
 

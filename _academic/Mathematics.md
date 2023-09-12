@@ -31,29 +31,18 @@ This is an annual competition which is organised by Clementi Town Secondary scho
 
 This competition allows the Normal Course students to stimulate greater interest and enrich their knowledge in Mathematics, and to provide an opportunity for them to showcase their talent in mathematical knowledge and skills through solving competition questions.
 
-The results for 2022 competition are as follows. 
+The results for 2023 competition are as follows. 
 
-**Lower Secondary Normal Academic Individual & Team Category (Certificate of Participation)**
+**Lower Secondary Normal Academic Individual Team Category**
 
-* Ethan Tan from Secondary 2N1
-* Krishna Rai from Secondary 2N1
+* Lee Jian Hui, Zavier from Secondary 2N1 (**7th position**)
+* Srinevasan Ravi from Secondary 2N2 (**16th position**)
 
-**Lower Secondary Normal Technical Individual & Team Category (Certificate of Participation)**
+**Lower Secondary Normal Academic Team Category (3rd position)**
 
-* Abhisheik Nathaniel Samuel from Secondary 2T1
-* Derrick Ung Hao Jun from Secondary 2T1
-* Raykeshwarar from Secondary 2T1
-
-**Upper Secondary Normal Academic Individual & Team Category (Certificate of Participation)**
-
-* Alphonsus Marius Watt from Secondary 3N1
-* Sudarshan S/O Sivakumar from Secondary 3N1
-* Zhu Tin Lok, Addison from Secondary 3N1
-
-**Upper Secondary Normal Technical Individual & Team Category (Certificate of Participation)**
-
-* Gabriel Tan (Chen Zhongxuan) from Secondary 3T1
-
+* Chak Pak Seong Nathanyal from Secondary 2N1
+* Lee Jian Hui, Zavier from Secondary 2N1
+* Srinevasan Ravi from Secondary 2N2
 
 ### Principles of Accounts (POA)
 

@@ -13,7 +13,8 @@ them to continue working to hone their ability in public speaking, debating, res
 
 Our debaters also have chances to showcase their creativity and insight through making podcasts. The Spoken Word Podcast is a series of podcasts established by the Debate Club in 2022. It provides a platform for students to express their perspective towards a variety of topics, including student life, environment conservation and love for the nation. For students who aspire to speak to larger audiences, this is an opportunity to consider!
 
-![](/images/CCA/Clubs%20&%20Societies/Debate%20Club/Debate%20Club.png)
+![](/images/CCA/Clubs%20&amp;%20Societies/Debate%20Club/Debate%20Club.png)
+
 
 ##### Teacher-in-charge
 1.  Ms Jo-Anne Seet
@@ -28,7 +29,8 @@ Our debaters also have chances to showcase their creativity and insight through 
 |  |  |  |
 
 Venue: Computer Lab 4
-<br>
+
+
 Dates and timings are subject to change during debating tournament preparation periods.
 <br><br>
 
@@ -47,7 +49,7 @@ Dates and timings are subject to change during debating tournament preparation p
     <tr>
       <th class="tg-tlx9"><img style="width:100%" src="/images/CCA/Clubs%20&amp;%20Societies/Debate%20Club/Debate%20Training%20Session.png" alt="Debate%20Training%20Session"></th>
       <th class="tg-tlx9"></th>
-      <th class="tg-tlx9"><img class="tg-tlx9" alt=""><img style="width:100%" src="/images/CCA/Clubs%20&amp;%20Societies/Debate%20Club/Sec%202%20Debate%20Team%20Members.png" alt="Sec%202%20Debate%20Team%20Members"></th>
+      <th class="tg-tlx9"><img class="tg-tlx9" alt=""><img style="width:70%" src="/images/CCA/Clubs%20&amp;%20Societies/Debate%20Club/sec%202%20debate%20team%20members.jpg" alt="Sec%202%20Debate%20Team%20Members"></th>
     </tr>
   </thead>
   <tbody>
@@ -59,10 +61,34 @@ Dates and timings are subject to change during debating tournament preparation p
   </tbody>
 </table>
 
-![](/images/CCA/Clubs%20&%20Societies/Debate%20Club/Graduating%20Debaters%20of%202022.png)
+![](/images/CCA/Clubs%20&amp;%20Societies/Debate%20Club/Graduating%20Debaters%20of%202022.png)
 <center>Graduating Debaters of 2022 </center>
 
+<table class="tg">
+  <thead>
+    <tr>
+      <th class="tg-tlx9"><img style="width:100%" src="/images/CCA/Clubs%20&amp;%20Societies/Debate%20Club/damian%20nandi%20as%20a%20delegate%20at%20the%20hwa%20chong%20model%20united%20nations.jpg" alt=""></th>
+      <th class="tg-tlx9"></th>
+      <th class="tg-tlx9"><img class="tg-tlx9" alt=""><img style="width:100%" src="/images/CCA/Clubs%20&amp;%20Societies/Debate%20Club/justin%20yeap%20debating%20at%20the%20singapore%20secondary%20schools%20plate%20finals.jpg" alt="Sec%202%20Debate%20Team%20Members"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Damian Nandi as a delegate at Hwa Chong Model United Nations</span></td>
+      <td class="tg-apyk"><br></td>
+      <td class="tg-apyk">Justin Yeap debating at the Singapore Secondary Schools Plate Finals</td>
+    </tr>
+  </tbody>
+</table>
+
+![](/images/CCA/Clubs%20&amp;%20Societies/Debate%20Club/singapore%20secondary%20school%20debating%20championships%202023%20team.jpg)
+<center>2023 Singapore Secondary School Debating Championships Team </center>
+
 ##### <u>Achievements</u>
+##### 2023
+* Singapore Secondary Schools Debating Championships - Plate Finalists
+* Mid-Year Debate Invitaitional 2023 - Overall Champion
+
 ##### 2022
 * Singapore Secondary Schools Debating Championships – 3rd position in Division II
 * Raffles U-14 Debating Championship – Quarter-finalist
