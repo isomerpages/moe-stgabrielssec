@@ -16,8 +16,8 @@ Dmitry Medveder
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRn_zFv4t4Z2lPoLp-mY8qkmgLuAurZ3XGL3PONft1nB6HVayNkxAS3ZPos2LdkyqU0k6O6-VzW8pEJ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>  
 
 ##### Teachers-In-Charge
-1. Mr. Alvin Goh (OIC)
-2. Mr. Joshua Leong (2IC)
+1. Mr. Joshua Leong (OIC)
+2. Mr. Vincent Kan (2IC)
 3. Ms. Subhalakshimi
  
 ##### Coach
