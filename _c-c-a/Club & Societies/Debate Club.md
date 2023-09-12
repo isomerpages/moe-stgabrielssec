@@ -13,7 +13,7 @@ them to continue working to hone their ability in public speaking, debating, res
 
 Our debaters also have chances to showcase their creativity and insight through making podcasts. The Spoken Word Podcast is a series of podcasts established by the Debate Club in 2022. It provides a platform for students to express their perspective towards a variety of topics, including student life, environment conservation and love for the nation. For students who aspire to speak to larger audiences, this is an opportunity to consider!
 
-![](/images/CCA/Clubs%20&%20Societies/Debate%20Club/Debate%20Club.png)
+![](/images/CCA/Clubs%20&amp;%20Societies/Debate%20Club/Debate%20Club.png)
 
 ##### Teacher-in-charge
 1.  Ms Jo-Anne Seet
@@ -59,10 +59,14 @@ Dates and timings are subject to change during debating tournament preparation p
   </tbody>
 </table>
 
-![](/images/CCA/Clubs%20&%20Societies/Debate%20Club/Graduating%20Debaters%20of%202022.png)
+![](/images/CCA/Clubs%20&amp;%20Societies/Debate%20Club/Graduating%20Debaters%20of%202022.png)
 <center>Graduating Debaters of 2022 </center>
 
 ##### <u>Achievements</u>
+##### 2023
+* Singapore Secondary Schools Debating Championships - Plate Finalists
+* Mid-Year Debate Invitaitional 2023 - Overall Champion
+
 ##### 2022
 * Singapore Secondary Schools Debating Championships – 3rd position in Division II
 * Raffles U-14 Debating Championship – Quarter-finalist
