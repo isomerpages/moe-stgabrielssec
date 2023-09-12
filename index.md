@@ -16,7 +16,7 @@ sections:
       title: 2023 President's Award for Teachers
       subtitle: St. Gabriel's Secondary School
       id: infopic
-      description: "Teaching is not just a job, it is a higher calling. "
+      description: Teaching is not just a job, it is a higher calling.
       button: READ MORE
       url: https://stgabrielssec.moe.edu.sg/2023-presidents-award-for-teachers/
       image: /images/School Announcement/2023/2023 president's award for teachers.JPG
