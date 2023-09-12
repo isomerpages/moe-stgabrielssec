@@ -5,7 +5,7 @@ description: ""
 ---
 ## QUICK LINKS (PARENTS &amp; PARTNERS)
 
-![](/images/parents%20link%202023.jpg)
+
 
 ##### National Digital Literacy Programme (NDLP)
 
