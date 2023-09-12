@@ -29,13 +29,13 @@ Practice Sessions (in Guitar Room and Math Room):
 <br>
 **<u>Secondary 1:</u>**
 <br>
-* Thurs : 2.30pm - 5.30pm
-* Fri&nbsp; &nbsp;  &nbsp;: 2.30pm - 5.30pm
+* Thursday : 2.30pm - 5.30pm
+* Friday : 2.30pm - 5.30pm
 
 **<u>Secondary 2 to 5 (SYF Ensemble):</u>**
 
-*   Tues&nbsp; &nbsp;: 2.30pm - 5.30pm
-*   Fri&nbsp; &nbsp; &nbsp;: 2.30pm - 5.30pm
+*   Tuesday : 2.30pm - 5.30pm
+*   Friday : 2.30pm - 5.30pm
 
 ##### <u>Achievements</u>
 
