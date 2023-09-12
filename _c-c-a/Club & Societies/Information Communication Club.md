@@ -31,4 +31,4 @@ AV Training
 
 **Do take note that Infocomm Club members will be involved in all school events as well as the rehearsals for these events. This will require additional time commitment on top of the regular training sessions.**
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQzHhkQIllvz4BamRghIY_21evcmpRoYvC60Y8yTw--b_7aAEksOme94QbwbXL1TY87EjuM1S7hulgS/embed?start=true&amp;loop=false&amp;delayms=3000" frameborder="0" width="720" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQzHhkQIllvz4BamRghIY_21evcmpRoYvC60Y8yTw--b_7aAEksOme94QbwbXL1TY87EjuM1S7hulgS/embed?start=true&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
