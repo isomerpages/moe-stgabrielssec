@@ -5,7 +5,7 @@ description: ""
 ---
 ## QUICK LINKS (STUDENTS)
 
-![](/images/students%20link%202023.jpg)
+![](/images/students%20link.jpg)
 
 ##### [Student Learning Space Portal (SLS)](https://vle.learning.moe.edu.sg/login)
 
