@@ -20,7 +20,11 @@ For the C Division as the NSG took place in July, our boys have achieved even be
 3. Mr. Chris Liang <br>
 
 ##### <u>Coach</u><br>
-1. Mr Gerard Lim
+1. Mr Gerard Lim <br>
+
+
+<iframe height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR0T44jkpLU3D97RuBT2yb6_dvBAUUG2scnh1sh1I0jppyoez8fRSQDTmPTNM03Bk3JYGG7D0it_Bh3/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 
 ##### <u>Practice Sessions in 2023 are on:</u><br>
 * Term 1, 2, 3 &amp; 4: Tuesday, Thursday &amp; Friday : 3.30pm - 5.30pm (Tues &amp; Thurs) for Fri (2.30pm to 4.30pm)
@@ -32,7 +36,7 @@ Training is conducted at our service provider’s facility located at:<br>
 340-B King George’s Avenue (Off Lavender Street) \[near to Immigration &amp; Lavender MRT\]<br>
 King George’s Building Singapore 208574. Tel: 6297-1202
 
-Students will proceed from school to the training venue via public transport and dismissed&nbsp;**directly** after their training.
+Students will proceed from school to the training venue via public transport and dismissed **directly** after their training.
 
 ##### <u>Achievements</u>
 
