@@ -17,26 +17,24 @@ Activities are planned with the cadet’s learning and development of knowledge,
 
 ##### Teachers-in-charge <br>
 1. A/ASP (NPCC) Anna Chew<br>
-2. INSP    (NPCC) Kelvin Lim<br>
-3. DSP     (NPCC) Ouyeong Yew Wah
-
-  
+2. INSP (NPCC) Kelvin Lim<br>
+3. DSP (NPCC) Ouyeong Yew Wah
 
 ##### <u>Training Schedule</u><br>
 Friday 2.15pm – 6pm
 
-  
-
 ##### <u>Achievements</u>
 
 **Unit Overall Proficiency Award**<br>
-*   2019 - Gold<br>
-*   2018 - Silver<br>
+*   2022 - Gold
+*   2021 - Gold
+*   2019 - Gold
+*   2018 - Silver
 *   2017 - Silver
-
-  
 
 **SPF-NPCC Badge Awardees (Pinnacle Award in NPCC)**
 
+*   2022 - Joel Keng Jing Yi
+*   2022 - Chng Yew Shen
 *   2019 - Mohamed Fuzail
 *   2018 - Joses Kang Jun Wei
