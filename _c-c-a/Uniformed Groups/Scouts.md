@@ -56,8 +56,8 @@ In 2022, the Scouts planned training and activities where there were opportuniti
 4. Ms. Kalyani Ravindharan
 
 ##### <u>Training Schedule</u>
-Every Friday 02.30pm - 06.00pm  
-Selected Saturday 08.00am – 12.00pm
+Every Friday: 02.30pm - 06.00pm  
+Selected Saturday: 08.00am – 12.00pm
 
 
 ##### <u>Achievements</u><br>
