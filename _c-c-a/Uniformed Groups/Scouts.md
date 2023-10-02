@@ -65,40 +65,49 @@ Selected Saturday: 08.00am – 12.00pm
 *   Ventures: Frank Cooper Sands Award (2022) - Gold<br>
 *   Rovers: Frank Cooper Sands Award (2022) – Gold
 
-<br>
-
 *   Scouts: Frank Cooper Sands Award (2019) - Gold<br>
 *   Ventures: Frank Cooper Sands Award (2019) - Gold<br>
 *   National Patrol Camp (2019) – Silver
 
 
-**President’s Scout Awardee:**  
-1. Abhimanyu Selvakumar (4E5 of 2018)
+###### President’s Scout Awardee 
+*  Abhimanyu Selvakumar (4E5 of 2018)
 
- **Chief Commissioner's Well-Done Badge (2023)**
- 1. Chua Jia En (Section: Scout)
- 2. Nathan Koh Heng Jun (Section: Venture)
+###### Chief Commissioner's Well-Done Badge (2023)
+*   Chua Jia En (Section: Scout)
+*   Nathan Koh Heng Jun (Section: Venture)
 
 ![](/images/CCA/Uniformed%20Groups/Scouts/chief%20commissioner%20awardees%20(2022).jpg)
-**Chief Commissioner's Awardees (2022):**  
-1. Ryan Punnose (4E5)<br>
-2. Cayden Chay (4E3)<br>
-3. Matthew Tan (4E2)<br>
-4. Lucius Ng (4E3)<br>
 
-**Chief Commissioner's Awardees (2021):**  
-1. Abiara Sherwin Uchenna (4E2)<br>
-2. Cheng Jin Kang (4E2)<br>
-3. Ignatius Lee Jun Wei (4E2)<br>
-4. Lim Lian Ying (4E2)<br>
-5. Asvind s/o Seeralan (4E4)<br>
-6. Quek Wen Zhi, Gabriel (4E4)
+###### Chief Commissioner's Awardees (2023)
+*  Ngan Jun Fong
+*  Nathan Koh Heng Jun
+*  Jaydern Neo Zun Kai
+*  Caleb Gregory Halim
+*  Ho Tuck Jun Dennis
+*  Silas Goh
+*  Foong Jieh Ren, Ian
+*  Loh Jiayi Timothy
 
-**Chief Commissioner's Awardees (2020):**<br>
-1. Soo Yan Ren, Angus (4E1)<br>
-2. Vanness Wong Jinghang (4E2)<br>
-3. Bellamy Kwan Jun Hui (4E3)<br>
-4. Mohamed Lisanudeen Fukurudeen Ali Ahamed (4E3)<br>
-5. Liu Yang Feng (4N1)<br>
-6. Lam Yong Shen (4N2)<br>
-7. Ng Kee Lok, Kevelle (4N2)
+###### Chief Commissioner's Awardees (2022)
+*  Ryan Punnose
+*  Cayden Chay
+*  Matthew Tan
+*  Lucius Ng
+
+###### Chief Commissioner's Awardees (2021) 
+*  Abiara Sherwin Uchenna
+*  Cheng Jin Kang
+*  Ignatius Lee Jun Wei
+*  Lim Lian Ying
+*  Asvind s/o Seeralan
+*  Quek Wen Zhi, Gabriel
+
+**Chief Commissioner's Awardees (2020):**
+*  Soo Yan Ren, Angus
+*  Vanness Wong Jinghang
+*  Bellamy Kwan Jun Hui
+*  Mohamed Lisanudeen Fukurudeen Ali Ahamed
+*  Liu Yang Feng
+*  Lam Yong Shen
+*  Ng Kee Lok, Kevelle
