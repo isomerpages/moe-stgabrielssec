@@ -13,6 +13,14 @@ sections:
       subtitle: St. Gabriel's Secondary School
       button: More
   - infopic:
+      title: e-Open House
+      subtitle: st. Gabriel's Secondary School
+      id: infopic
+      description: 9.00am - 10.30am, Saturday 18 November 2023
+      image: /images/School Announcement/2023/navy and yellow modern college open
+        house poster.png
+      alt: Image alt text
+  - infopic:
       title: 2023 President's Award for Teachers
       subtitle: St. Gabriel's Secondary School
       id: infopic
