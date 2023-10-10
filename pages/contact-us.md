@@ -14,7 +14,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6288 9470
-      - email: stgss@moe.edu.sg
+      - email: chong_fei_ching@moe.edu.sg
       - other: ""
     title: Telephone
   - content:
@@ -22,4 +22,5 @@ contacts:
       - email: ""
       - other: ""
     title: Fax
+feedback: ""
 ---
