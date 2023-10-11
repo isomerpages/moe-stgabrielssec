@@ -16,10 +16,12 @@ sections:
       title: e-Open House
       subtitle: st. Gabriel's Secondary School
       id: infopic
-      description: 9.00am - 10.30am, Saturday 18 November 2023
+      description: Join us via Zoom on 18 November 2023, Saturday 9.00 am - 10.30 am
       image: /images/School Announcement/2023/navy and yellow modern college open
         house poster.png
       alt: Image alt text
+      button: CLICK HERE TO JOIN
+      url: https://go.gov.sg/stgabrielseopenhouse2023
   - infopic:
       title: 2023 President's Award for Teachers
       subtitle: St. Gabriel's Secondary School

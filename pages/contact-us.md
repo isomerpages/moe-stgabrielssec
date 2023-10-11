@@ -14,7 +14,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6288 9470
-      - email: chong_fei_ching@moe.edu.sg
+      - email: ""
       - other: ""
     title: Telephone
   - content:
