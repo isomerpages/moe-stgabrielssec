@@ -15,9 +15,9 @@ Under FSBB, students are not limited to a fixed class or academic stream. Instea
 
 ##### How will FSBB look like in St. Gabriel’s Secondary School?
 
-Students are grouped into mixed form classes, with each form class comprising of students taking subjects at different levels G1, G2 or G3. Mixed form classes present more opportunities for students to interact with other students taking different subject combinations, and with different strengths and interests.
+Students are grouped into mixed form classes, with each form class comprising of students taking subjects at different subject bands G1, G2 or G3. These mixed form classes allows for more opportunities for students to interact with other students taking different subject combinations, and with different strengths and interests.
 
-In their mixed form classes, students will also take a set of subjects at a common level which everyone in the class is undertaking. This works out to about one-third of the curriculum time. This would allow students in mixed form classes to spend some curriculum time together with the rest of their classmates in these subjects:
+In their mixed form classes, students will also take a set of subjects at a common level which everyone in the class is undertaking. This would allow students in mixed form classes to spend some curriculum time together with the rest of their classmates. These common subjects are as follows:
 
 - Art
 - Character and Citizenship Education
@@ -26,11 +26,11 @@ In their mixed form classes, students will also take a set of subjects at a comm
 - Music
 - Physical Education
 
-Teachers will adopt a range of teaching approaches to meet the different learning needs and pace of their students in the same form class.
+A range of teaching approaches and methodology to meet the different learning needs and pace of the students in the same form class will be used by the teachers to bring about engaged learning. 
 
 ##### How can my son/ward do subjects at a more demanding level?
 
-The criteria for taking English Language, Mother Tongue Languages, Mathematics, and Science at a more demanding level from the start of Secondary One or after their mid-year assessment is based on students’ PSLE Achievement Level Score or the mid-year assessment score for the subject respectively.
+The criteria for taking English Language, Mother Tongue Languages, Mathematics, and Science at a more demanding level from the start of Secondary One or after their mid-year assessment is based on students’ PSLE Achievement Level Score and the mid-year assessment score for the subject respectively.
 
 At the end of Secondary One, students, on top of being able to offer English Language, Mother Tongue Languages, Mathematics, and Science at a more demanding level, will also be able to offer Humanities subjects (Geography, History, and Literature in English) at a more demanding level from Secondary Two. The criteria for taking Humanities at a more demanding level will be based on students’ aptitude for and interest in these subjects shown at Secondary One.
 
