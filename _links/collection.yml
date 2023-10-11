@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Student Handbook.md
-      - Full Subject Based Banding.md
       - Brothers of St Gabriel's Province Bulletin.md
       - Frequently Asked Questions/.keep
       - "Frequently Asked Questions/FAQ: Student Admissions.md"
