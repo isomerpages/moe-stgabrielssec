@@ -16,7 +16,7 @@ sections:
       title: e-Open House
       subtitle: st. Gabriel's Secondary School
       id: infopic
-      description: "Join us via Zoom on 18 November 2023, Saturday 9.00 am - 10.30 am "
+      description: Join us via Zoom on 18 November 2023, Saturday 9.00 am - 10.30 am
       image: /images/School Announcement/2023/navy and yellow modern college open
         house poster.png
       alt: Image alt text
