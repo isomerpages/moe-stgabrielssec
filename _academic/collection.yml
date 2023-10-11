@@ -2,6 +2,7 @@ collections:
   academic:
     output: true
     order:
+      - Full Subject Based Banding.md
       - Craft & Technology/.keep
       - Craft & Technology/Art & Craft.md
       - Craft & Technology/Design and Technology.md
