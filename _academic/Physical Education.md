@@ -140,35 +140,27 @@ SGSS PE Syllabus focus on the movement skills, knowledge and values components o
 <tbody>
   <tr>
     <td class="tg-2fwu">Physical<br>Health &amp;<br>Fitness<br>(PHF)<br></td>
-    <td class="tg-ncov">Sec One PHF<br></td>
-    <td class="tg-sxkx">Sec Two PHF/<br>NAPFA</td>
-    <td class="tg-ncov">Sec Three PHF<br></td>
+    <td class="tg-ncov">Sec One PHF Module<br></td>
+    <td class="tg-sxkx">Sec Two PHF Module/<br>NAPFA</td>
+    <td class="tg-ncov">Sec Three PHF Module<br></td>
     <td class="tg-ncov"> NAPFA</td>
     <td class="tg-ncov">NAPFA<br></td>
   </tr>
   <tr>
     <td class="tg-2fwu">Outdoor<br><span style="background-color:initial">Education</span><br><br>(OE)</td>
-    <td class="tg-sxkx"><span style="background-color:initial">Sec One OE/</span><br><span style="background-color:initial">Sec One</span><br><span style="background-color:initial">Cohort Camp</span></td>
-    <td class="tg-sxkx"><span style="background-color:initial">Sec Two OE/</span><br>Sec Two<br>Cohort Camp</td>
-    <td class="tg-sxkx"><span style="background-color:initial">Sec Three OE/</span><br>Sec Three<br>Cohort Camp</td>
+    <td class="tg-sxkx"><span style="background-color:initial">Sec One OE Module/</span><br><span style="background-color:initial">Sec One</span><br><span style="background-color:initial">Cohort Camp</span></td>
+    <td class="tg-sxkx"><span style="background-color:initial">Sec Two OE Module/</span><br>Sec Two<br>Cohort Camp</td>
+    <td class="tg-sxkx"><span style="background-color:initial">Sec Three OE Module/</span><br>Sec Three<br>Cohort Camp</td>
     <td class="tg-ncov">-</td>
     <td class="tg-ncov">-</td>
   </tr>
   <tr>
     <td class="tg-2fwu">Physical Activity<br>(Sports &amp; Games)<br></td>
-    <td class="tg-fwnj">Basketball &amp; Floorball </td>
-    <td class="tg-fwnj">Badminton &amp; Football </td>
-    <td class="tg-fwnj">Softball, Touch<br>Rugby &amp;<br>Ultimate<br>Frisbee </td>
-    <td class="tg-fwnj">Handball &amp;<br>Tchoukball </td>
-    <td class="tg-fwnj">Mini Tennis &amp;<br>Volleyball </td>
-  </tr>
-  <tr>
-    <td class="tg-ncov"> Physical<br>Activity<br>(Others)</td>
-    <td class="tg-fwnj">Swim Safer 2.0<br>Certification<br>Course </td>
-    <td class="tg-fwnj">One–Star<br>Kayaking<br>Course </td>
-    <td class="tg-ncov">-</td>
-    <td class="tg-ncov">-</td>
-    <td class="tg-ncov">-</td>
+    <td class="tg-fwnj">Basketball &amp; Floorball Modules</td>
+    <td class="tg-fwnj">Badminton &amp; Football Modules</td>
+    <td class="tg-fwnj">Frisbee, <br>Softball &amp;<br>Volleyball Modules</td>
+    <td class="tg-fwnj">Handball &amp;<br>Tchoukball Modules</td>
+    <td class="tg-fwnj">Pickleball Modules</td>
   </tr>
 </tbody>
 </table>
