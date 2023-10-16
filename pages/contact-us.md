@@ -14,7 +14,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6288 9470
-      - email: ""
+      - email: stgss@moe.edu.sg
       - other: ""
     title: Telephone
   - content:
@@ -22,5 +22,5 @@ contacts:
       - email: ""
       - other: ""
     title: Fax
-feedback: ""
+feedback: https://go.gov.sg/stgss-enquiry-form
 ---
