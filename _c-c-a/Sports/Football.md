@@ -22,6 +22,8 @@ R - Role model
 ##### Teachers-in-charge
 1. Mr. Suraj <br>
 2. Mr. Paul De Souza <br>
+3. Mr. Chia Boon Han
+4. Ms. Teo Hui Min
 
 ##### Coaches
 1. Muhammad Jasni Bin Hatta<br>
@@ -38,6 +40,17 @@ R - Role model
 
 ##### <u>Achievements</u>
 
+##### 2023
+* NSG Football Championships B Division Boys League 1 Championships: Top 8
+* NSG Football Championships C Division Boys League 1 Championships: Top 4
+
+##### 2022
+* NSG Football Championships B Division Boys (Zonal): Top 8 
+* NSG Football Championships C Division Boys(Zonal): Top 4
+
+##### 2020-2021
+No Competitions (COVID-19)
+
 ##### 2019
 
 *   NSG Football Championships B Division Boys School League 3: 1st
@@ -47,19 +60,3 @@ R - Role model
 
 *   B Division School Premier League: 3rd
 *   C Division South Zone Schools Football Championship: Round of 16
-
-##### 2017
-
-*   B Division School Premier League: Top 16
-*   C Division South Zone Schools Football Championship: Round of 16
-
-##### 2016
-
-*   B Division South Zone Schools Football Championship: 1st
-*   B Division Nationals Football Championship: 4th
-*   C Division South Zone Schools Football Championship: Quarter-Finals
-
-##### 2015
-
-*   B Division South Zone Schools Football Championship: 3rd
-*   C Division South Zone Schools Football Championship: Quarter-Finals

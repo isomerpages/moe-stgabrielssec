@@ -18,9 +18,10 @@ Activities are planned with the cadet’s learning and development of knowledge,
 1. A/ASP (NPCC) Anna Chew<br>
 2. INSP (NPCC) Kelvin Lim<br>
 3. DSP (NPCC) Ouyeong Yew Wah
+4. Ms. Frances Liu
 
 ##### <u>Training Schedule</u><br>
-Friday 2.15pm – 6pm
+Friday 2.15pm – 5.30pm
 
 ##### <u>Achievements</u>
 
