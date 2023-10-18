@@ -6,12 +6,18 @@ layout: post
 description: ""
 image: ""
 ---
-Dear Parents/Guardians,
+**2024 MOE Financial Assistance Scheme (MOE FAS) Application**  
 
-The GCE 'N' Level Listening Comprehension will take place on 12th September 2023, Tuesday and 20th September 2023, Wednesday. 
+The MOE Financial Assistance Scheme (FAS) for 2024 is now open for application. The application form can be obtained from our school’s General Office or downloaded via the link below. 
 
-In lieu of this, students will dismissed at 1.30pm so that the school can prepare for the examinations.
+Please take note that only this latest version of the form may be used for the application. For existing MOE FAS and SBFAS students, the application forms will be passed to your child/ward on Thursday, 19 Oct.
 
-We hope that you can make the necessary transport arrangements for these 2 days for your son/ward if you are planning to fetch him home.
+To help us process your applications promptly, please submit the completed 2024 MOE FAS application forms with the required documents to the school’s General Office by **12 November 2023**.
 
-Thank you for your kind understanding.
+**To access MOE FAS e-application Form (e-FAS) -** [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
+
+You may also log in to Parent Gateway/ Services / Financial Assistance to access the eFAS application. 
+
+  
+
+Thank you
