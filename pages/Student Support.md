@@ -34,7 +34,7 @@ The application form can be obtained from our school’s General Office or downl
 
 Please complete and submit the application form early before 15th October each year for the financial assistance to be effective for purchase of books and uniforms in November. You may refer to the attached MOE FAS pamphlet for more information regarding the MOE FAS scheme.  
 
-*   **[MOE FAS Pamphlet](/files/Student%20Support/MOE%20FAS%20Pamphlet%202023.pdf)**
+*   **[MOE FAS Pamphlet](/files/Student%20Support/moe%20fas%20pamphet.pdf)**
 
 *   **[FAS Application Form](/files/Links/Parents/2024%20moe%20fas%20application%20form.pdf)**
 
