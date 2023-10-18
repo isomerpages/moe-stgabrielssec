@@ -5,10 +5,10 @@ description: ""
 ---
 ## Student Support
 
-We understand this is a difficult time for everyone. We would like to support our students and their caregivers as much as we can. 
+We understand this is a difficult time for everyone. We would like to support our students and their caregivers as much as we can.&nbsp;
 
 
-1. **<u>HBL@School</u>**
+1.&nbsp;**<u>HBL@School</u>**
 
 Please use the form below to let us know if your son/ward needs the following support during home-based learning:  
 
@@ -20,28 +20,28 @@ Please use the form below to let us know if your son/ward needs the following su
 
 https://go.gov.sg/hblsptsgss
 
-<img src="/images/Student%20Support/Student%20Support%20QR%20Code.png" style= "width: 70%">
+<img src="/images/Student%20Support/Student%20Support%20QR%20Code.png" style="width: 70%">
 
 
-2. <b><u>Financial Assistance from School (MOE / SGSS Financial Assistance)</u></b> 
+2.&nbsp;<b><u>Financial Assistance from School (MOE / SGSS&nbsp;Financial Assistance)</u></b> 
 
 
 Our school can help with school-going expenses and other expenses related to school programmes.
 
-Only Singapore citizens are eligible for the MOE Financial Assistance Scheme ([**https://www.moe.gov.sg/financial-matters/financial-assistance**](https://www.moe.gov.sg/financial-matters/financial-assistance)). Students who do not meet the criteria for the MOE FAS will be helped through our **SGSS Financial Assistance Scheme**.
+Only Singapore citizens are eligible for the MOE Financial Assistance Scheme ([**https://www.moe.gov.sg/financial-matters/financial-assistance**](https://www.moe.gov.sg/financial-matters/financial-assistance)). Students who do not meet the criteria for the MOE FAS will be helped through our&nbsp;**SGSS Financial Assistance Scheme**.
 
-The application form can be obtained from our school’s General Office or downloaded via the link below. Completed forms together with all relevant supporting documents should be submitted to our school’s General Office or via email [**stgss@moe.edu.sg**](mailto:stgss@moe.edu.sg).
+The application form can be obtained from our school’s General Office or downloaded via the link below. Completed forms together with all relevant supporting documents should be submitted to our school’s General Office or via email&nbsp;[**stgss@moe.edu.sg**](mailto:stgss@moe.edu.sg).
 
 Please complete and submit the application form early before 15th October each year for the financial assistance to be effective for purchase of books and uniforms in November. You may refer to the attached MOE FAS pamphlet for more information regarding the MOE FAS scheme.  
 
-*   **[MOE FAS Pamphlet](/files/Student%20Support/MOE%20FAS%20Pamphlet%202023.pdf)**
+*   **[MOE FAS Pamphlet](/files/Student%20Support/moe%20fas%20pamphet.pdf)**
 
-*   **[FAS Application Form](/files/Links/Parents/GGAS%20Application%20Form.pdf)**
+*   **[FAS Application Form](/files/Links/Parents/2024%20moe%20fas%20application%20form.pdf)**
 
 
-3. **<u>Financial Assistance Outside School</u>**
+3.&nbsp;**<u>Financial Assistance Outside School</u>**
 
-*   **Straits Times Pocket Money Fund**: [**https://www.spmf.org.sg/howtoapply**](https://www.spmf.org.sg/howtoapply)
+*   **Straits Times Pocket Money Fund**:&nbsp;[**https://www.spmf.org.sg/howtoapply**](https://www.spmf.org.sg/howtoapply)
 
   
 
@@ -52,7 +52,7 @@ The Straits Times School Pocket Money Fund partners the Ministry of Education (M
 *   **Self Help Groups**  
     
 
-Please refer to attached link for other Financial Help from various organisations: 
+Please refer to attached link for other Financial Help from various organisations:&nbsp;
 
 **[Financial Help from Various Organisations]()**
 
@@ -60,17 +60,17 @@ Please refer to attached link for other Financial Help from various organisation
 You may also visit these websites for information:
 
   
-*   **CDAC Assistance**: [**https://www.cdac.org.sg/get-assistance/**](https://www.cdac.org.sg/get-assistance/)
-*   **SINDA Assistance Website**: [**https://www.sinda.org.sg/services/assistance/**](https://www.sinda.org.sg/services/assistance/)
-*   **MENDAKI Assistance Website**: **[https://www.mendaki.org.sg/assistance-landing/](https://www.mendaki.org.sg/assistance-landing/)**
+*   **CDAC Assistance**:&nbsp;[**https://www.cdac.org.sg/get-assistance/**](https://www.cdac.org.sg/get-assistance/)
+*   **SINDA Assistance Website**:&nbsp;[**https://www.sinda.org.sg/services/assistance/**](https://www.sinda.org.sg/services/assistance/)
+*   **MENDAKI Assistance Website**:&nbsp;**[https://www.mendaki.org.sg/assistance-landing/](https://www.mendaki.org.sg/assistance-landing/)**
 
-4. **<u>Seeking Support In School</u>**
+4.&nbsp;**<u>Seeking Support In School</u>**
 
 If you are struggling with a difficult situation and feel stressed as a result, you can always seek help from your form teachers, Year Heads or any other staff in school whom you trust.
 
-Alternatively, you can also look for the School Counsellor, Mrs. Florence Loo (@3rd floor, Sunshine Cove 1, before the Library; and Ms Marinder Kaur @ 3rd floor, Sunshine Cove 2, between The Common Space and the Library).
+Alternatively, you can also look for the School Counsellor, Mrs.&nbsp;Florence Loo (@3rd floor, Sunshine Cove 1, before the Library; and Ms Marinder Kaur @ 3rd floor, Sunshine Cove 2, between The Common Space and the Library).
 	
-5. **<u>Seeking Support Outside School</u>**
+5.&nbsp;**<u>Seeking Support Outside School</u>**
 
 You can also call the below organisations directly should you not be in school but need help urgently.
 
