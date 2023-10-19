@@ -44,12 +44,29 @@ The results for 2023 competition are as follows.
 * Lee Jian Hui, Zavier from Secondary 2N1
 * Srinevasan Ravi from Secondary 2N2
 
+###### Mathematics Challenge: Problems in Real World Context for Students <br>
+
+30 Secondary Schools participated in the Mathematics Challenge: Problems in Real World Context for Students which was organised by Outram Secondary School at the Marina Barrage on 18 October 2023.
+
+The objectives of this Mathematics Challenge are:
+- to stimulate greater interest and enrich students’ knowledge in Mathematics;
+- to connect and appreciate the importance of Mathematics in the real world context;
+- to develop in students critical mathematical skills and 21st century competencies including reasoning, communication and modelling; and
+- to inculcate positive attitudes towards learning and application of Mathematics.
+
+The team which comprises the following Secondary 3 students has done the school proud by coming in first for the Mathematics Challenge. We commend and congratulate them on their achievements!
+
+* 3E1: Branden Tan Yan Jie
+* 3E1: Chen Xiyu
+* 3E1: Dhakshesh Manimozhi Vijay
+* 3E2: Too Junn Xian Lucas
+* 3E2: Zhong Zhangyuan
+
 ### Principles of Accounts (POA)
 
 ##### Introduction
 
 POA is designed to provide our students with a meaningful basic introduction to finanial accounting and to develop an appreciation of the discipline of accounting.
-N˜
 
 ##### Objectives
 
