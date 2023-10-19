@@ -9,7 +9,7 @@ Our E-Open House is an excellent opportunity to get to know us better and gain a
 
 Join us via Zoom on 18 November 2023, Saturday 9.00 am - 10.30 am
 
-![](/images/School%20Announcement/2023/navy%20and%20yellow%20modern%20college%20open%20house%20poster.png)
+![](/images/School%20Announcement/2023/st%20gabriels%20secondary%20school%20open%20house.png)
 
 **Zoom Meeting Login Details:**
 
