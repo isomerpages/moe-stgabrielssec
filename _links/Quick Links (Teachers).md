@@ -21,7 +21,7 @@ description: ""
 
 ##### Internet Links
 
-*   **[iCON Mail](https://icon.moe.edu.sg/)**
+*   **[iCON Mail](https://workspace.google.com/dashboard)**
 *   **[SC Mobile](https://scmobile.moe.edu.sg/login)**
 *   **[Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)**
 *   **[Admin Breeze](https://stgabrielssec.adminbreeze.com/)**
