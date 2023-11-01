@@ -78,7 +78,7 @@ Additionally, the troop made history this year by receiving the Frank Cooper San
   <tr>
     <td>Assistant Patrol Leader</td>
     <td>Padilla Ansley Vincel Munar</td>
-    <td>42</td>
+    <td>4N2</td>
   </tr>
   <tr>
     <td>Assistant Patrol Leader</td>
