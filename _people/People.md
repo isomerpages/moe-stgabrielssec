@@ -13,4 +13,4 @@ description: ""
     
 4.  [Parents](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/Parents/Parents/)  
     
-5.  [Alumn](https://www.gabrielites.org/)
+5.  [Alumni](https://www.gabrielites.org/)
