@@ -93,7 +93,6 @@ Additionally, the troop made history this year by receiving the Frank Cooper San
 </tbody>
 </table>
 
-
 ##### Training Schedule
 Every Friday: 02.30pm - 06.00pm  
 Selected Saturday: 08.00am – 12.00pm
@@ -151,3 +150,5 @@ Selected Saturday: 08.00am – 12.00pm
 *  Liu Yang Feng
 *  Lam Yong Shen
 *  Ng Kee Lok, Kevelle
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSpYFNVknMu9IpBSgw_BST9ZhLwBXP7yFSumypN7sYDcdyNKEr8Vy3wpiCiOC3URgFLCWBZ9l6aioOT/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
