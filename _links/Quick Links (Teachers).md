@@ -33,7 +33,7 @@ description: ""
 *   **[Resource Booking System (RBS)](https://rbs.avero-tech.com/login.html)**
 *   **[HRP](https://www.hrp.gov.sg/)**
 *   **[FormSG](https://form.gov.sg/#!/)**
-*   **[Microsoft OneDrive Personal Cloud Storage (5TB)](https://onedrive.live.com/about/en-us/signin/)**
+*   **[Microsoft OneDrive Personal Cloud Storage (5TB)](https://office.com)**
 *   **[AV Support Form](https://docs.google.com/spreadsheets/d/1mWqbDgZ2XZSeM-GwfpB_GDyVDuGI7wgeNkchZZ-mLU0/edit#gid=0)**
 *   **[Bus Booking Form](https://go.gov.sg/sgss-bus-booking-form)**
 *   **[Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/stgabrielssec)**
