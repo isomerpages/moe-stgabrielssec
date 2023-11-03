@@ -43,14 +43,6 @@ sections:
         award.JPG
       alt: Image alt text
   - infopic:
-      title: SGF Charity Movie 2023
-      subtitle: St. Gabriel's Secondary School
-      button: Read More
-      url: https://stgabrielssec.moe.edu.sg/sgf-charity-movie-2023/
-      image: /images/School Announcement/2023/sgf charity movie 2023.JPG
-      alt: SGF Charity Movie 2023
-      description: Click the link below to find out more
-  - infopic:
       title: Gabrielites' Personal Learning Device Website
       description: Click the link below to access
       button: Access here
