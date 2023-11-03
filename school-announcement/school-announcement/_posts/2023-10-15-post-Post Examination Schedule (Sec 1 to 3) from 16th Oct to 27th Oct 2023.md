@@ -5,11 +5,8 @@ date: 2023-10-15
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-Dear Parents/Guardians,
+School closes at 5pm from 14th November to 15th December during the end of year holiday break.
 
-Please refer to the post exam schedule (click [here](/files/Announcements/2023/2023%20post%20exam%20activities.pdf)) for 16th October - 27th October. 
-
-Students reporting time to school will be as usual at 7.20am daily. 
-
-Please be reminded that students are not required to be in school on 20 Oct (Friday).
+General Office is closed on 14th November (PM), 16th November and 15th November (PM) for Staff Event.
