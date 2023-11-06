@@ -2,6 +2,7 @@
 title: English & Literature
 permalink: /academic/English-Literature/
 description: ""
+variant: markdown
 ---
 ## English &amp; Literature 
 
@@ -53,7 +54,7 @@ The curriculum seek to develop linguistic competencies in our students through t
 ##### <u>Programme</u>
 **Lower Secondary**
 
-Gabrielites are introduced to a range of literary texts in prose, poetry and drama. They also begin to learn how to respond to and analyse such literary writing. Those who are keen on Literature can choose to offer Literature in English at GCE O or GCE NA Level at the end of Secondary Two.
+Gabrielites are introduced to a range of literary texts in prose, poetry and drama. They also begin to learn how to respond to and analyse such literary writing. Those who are keen on Literature can choose to offer Literature in English at GCE O Level at the end of Secondary Two.
 
 **Upper Secondary**
 
