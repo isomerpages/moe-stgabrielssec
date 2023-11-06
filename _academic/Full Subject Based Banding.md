@@ -2,9 +2,10 @@
 title: Full Subject Based Banding
 permalink: /academic/full-subject-based-banding/
 description: ""
+variant: markdown
 ---
 ### Full Subject-Based Banding
-At St. Gabriel’s Secondary School, we are committed to providing our students with the best possible education, tailored to their individual needs and aspirations. To achieve this goal, we will be embarking on Full Subject-Based Banding (FSBB) starting 2023.
+At St. Gabriel’s Secondary School, we are committed to providing our students with the best possible education, tailored to their individual needs and aspirations. To achieve this goal, we will be embarking on Full Subject-Based Banding (FSBB) starting 2024.
 
 ##### What is Full Subject-Based Banding (FSBB)
 
