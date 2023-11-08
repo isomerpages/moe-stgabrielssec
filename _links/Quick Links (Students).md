@@ -72,7 +72,7 @@ Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access th
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></td>
-    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/2NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
+    <td class="tg-c3ow"><a href="/files/Links/Students/sec%202%20normal%20technical.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
   </tr>
 </tbody>
 </table>
