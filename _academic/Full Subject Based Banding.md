@@ -2,9 +2,10 @@
 title: Full Subject Based Banding
 permalink: /academic/full-subject-based-banding/
 description: ""
+variant: markdown
 ---
 ### Full Subject-Based Banding
-At St. Gabriel’s Secondary School, we are committed to providing our students with the best possible education, tailored to their individual needs and aspirations. To achieve this goal, we will be embarking on Full Subject-Based Banding (FSBB) starting 2023.
+At St. Gabriel’s Secondary School, we are committed to providing our students with the best possible education, tailored to their individual needs and aspirations. To achieve this goal, we will be embarking on Full Subject-Based Banding (FSBB) starting 2024.
 
 ##### What is Full Subject-Based Banding (FSBB)
 
@@ -34,4 +35,4 @@ The criteria for taking English Language, Mother Tongue Languages, Mathematics, 
 
 At the end of Secondary One, students, on top of being able to offer English Language, Mother Tongue Languages, Mathematics, and Science at a more demanding level, will also be able to offer Humanities subjects (Geography, History, and Literature in English) at a more demanding level from Secondary Two. The criteria for taking Humanities at a more demanding level will be based on students’ aptitude for and interest in these subjects shown at Secondary One.
 
-For more information on FSBB, please visit [www.moe.gov.sg/microsites/psle-fsbb](www.moe.gov.sg/microsites/psle-fsbb).
+For more information on FSBB, please visit [www.moe.gov.sg/microsites/psle-fsbb](https://www.moe.gov.sg/microsites/psle-fsbb/full-subject-based-banding/main.html).

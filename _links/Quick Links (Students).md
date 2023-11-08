@@ -2,6 +2,7 @@
 title: Quick Links (Students)
 permalink: /links/Quick-Links-Students/
 description: ""
+variant: markdown
 ---
 ## QUICK LINKS (STUDENTS)
 
@@ -21,7 +22,7 @@ As part of the Ministry of Education’s (MOE) commitment to nurture future-read
 
 
 ##### [Admin Breeze Portal](https://lms.wizlearn.com/STGSS/login.aspx)
-Click on this&nbsp;[link](https://stgabrielssec.adminbreeze.com/)&nbsp;to access the Admin Breeze Portal
+Click on this [link](https://stgabrielssec.adminbreeze.com/) to access the Admin Breeze Portal
 
 ---
 
@@ -41,7 +42,8 @@ Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access th
 
 ---
 
-##### <center> 2023 Booklist </center>
+
+##### <center> 2024 Booklist </center>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -55,22 +57,22 @@ Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access th
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-qq4b">Secondary 1 </th>
+    <th class="tg-qq4b">Secondary 1 (TBC) </th>
     <th class="tg-qq4b">Secondary 2</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/1E.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a></td>
-    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/2E.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a><br></td>
+    <td class="tg-c3ow"><span style="text-decoration:none;color:#0C343D">Express</span></td>
+    <td class="tg-c3ow"><a href="/files/Links/Students/sec%202%20express.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/1NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a></td>
-    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/2NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
+    <td class="tg-c3ow"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></td>
+    <td class="tg-c3ow"><a href="/files/Links/Students/sec%202%20normal%20academic.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/1NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
-    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/2NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
+    <td class="tg-c3ow"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></td>
+    <td class="tg-c3ow"><a href="/files/Links/Students/sec%202%20normal%20technical.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -92,23 +94,23 @@ Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access th
   <tr>
     <th class="tg-qq4b">Secondary 3 </th>
     <th class="tg-qq4b">Secondary 4</th>
-    <th class="tg-4aj6">Secondary 5</th>
+    <th class="tg-4aj6">Secondary 5 (TBC)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/3E.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a></td>
-    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/4E.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a><br></td>
-    <td class="tg-baqh"><a href="/files/Links/Students/2023%20Booklist/5NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
+    <td class="tg-c3ow"><a href="/files/Links/Students/sec%203%20express.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a></td>
+    <td class="tg-c3ow"><a href="/files/Links/Students/sec%204%20express.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a><br></td>
+    <td class="tg-baqh"><span style="text-decoration:none;color:#0C343D">Normal Academic</span><br></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/3NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a></td>
-    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/4NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
+    <td class="tg-c3ow"><a href="/files/Links/Students/sec%203%20normal%20academic.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a></td>
+    <td class="tg-c3ow"><a href="/files/Links/Students/sec%204%20normal%20academic.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
     <td class="tg-baqh">-</td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/3NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
-    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/4NT.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
+    <td class="tg-c3ow"><a href="/files/Links/Students/sec%203%20normal%20technical.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
+    <td class="tg-c3ow"><a href="/files/Links/Students/sec%204%20normal%20technical.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
     <td class="tg-baqh">-</td>
   </tr>
 </tbody>
