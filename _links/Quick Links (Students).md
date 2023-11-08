@@ -2,6 +2,7 @@
 title: Quick Links (Students)
 permalink: /links/Quick-Links-Students/
 description: ""
+variant: markdown
 ---
 ## QUICK LINKS (STUDENTS)
 
@@ -41,6 +42,7 @@ Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access th
 
 ---
 
+
 ##### <center> 2023 Booklist </center>
 
 <style type="text/css">
@@ -55,14 +57,14 @@ Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access th
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-qq4b">Secondary 1 </th>
+    <th class="tg-qq4b">Secondary 1 (TBC) </th>
     <th class="tg-qq4b">Secondary 2</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/1E.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a></td>
-    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/2E.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a><br></td>
+    <td class="tg-c3ow"><span style="text-decoration:none;color:#0C343D">Express</span></td>
+    <td class="tg-c3ow"><a href="/files/Links/Students/sec%202%20express.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/1NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a></td>
