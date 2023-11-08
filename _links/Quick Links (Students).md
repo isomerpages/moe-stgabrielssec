@@ -22,7 +22,7 @@ As part of the Ministry of Education’s (MOE) commitment to nurture future-read
 
 
 ##### [Admin Breeze Portal](https://lms.wizlearn.com/STGSS/login.aspx)
-Click on this&nbsp;[link](https://stgabrielssec.adminbreeze.com/)&nbsp;to access the Admin Breeze Portal
+Click on this [link](https://stgabrielssec.adminbreeze.com/) to access the Admin Breeze Portal
 
 ---
 
@@ -68,7 +68,7 @@ Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access th
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></td>
-    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/2NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
+    <td class="tg-c3ow"><a href="/files/Links/Students/sec%202%20normal%20academic.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></td>
