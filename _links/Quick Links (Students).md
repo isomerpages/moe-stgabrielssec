@@ -99,7 +99,7 @@ Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access th
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/3E.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a></td>
+    <td class="tg-c3ow"><a href="/files/Links/Students/sec%203%20express.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a></td>
     <td class="tg-c3ow"><a href="/files/Links/Students/2023%20Booklist/4E.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a><br></td>
     <td class="tg-baqh"><a href="/files/Links/Students/2023%20Booklist/5NA.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
   </tr>
