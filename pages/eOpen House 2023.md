@@ -2,6 +2,7 @@
 title: eOpen House 2023
 permalink: /eopen-house-2023/
 description: ""
+variant: markdown
 ---
 We understand that choosing the right school for your child is a significant decision, and we are committed to providing you with all the information you need to make an informed choice. 
 
@@ -13,9 +14,9 @@ Join us via Zoom on 18 November 2023, Saturday 9.00 am - 10.30 am
 
 **Zoom Meeting Login Details:**
 
-Meeting Link: [https://go.gov.sg/stgabrielseopenhouse2023](https://go.gov.sg/stgabrielseopenhouse2023)
+Meeting Link: [https://go.gov.sg/stgabriels-eopenhouse2023](https://go.gov.sg/stgabriels-eopenhouse2023)
 
-Meeting ID: 272 727 7227
+Meeting ID: 822 9127 9502
 
 Passcode: sgss2023
 
