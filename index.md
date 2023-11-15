@@ -17,8 +17,7 @@ sections:
       subtitle: st. Gabriel's Secondary School
       id: infopic
       description: Click on the link below to find out more
-      image: /images/School Announcement/2023/st gabriels secondary school open
-        house.png
+      image: /images/st_gabriels_secondary_school_open_house.png
       alt: Image alt text
       button: ACCESS HERE
       url: https://stgabrielssec.moe.edu.sg/eopen-house-2023/
