@@ -8,17 +8,12 @@ We understand that choosing the right school for your child is a significant dec
 
 Our E-Open House is an excellent opportunity to get to know us better and gain a deeper understanding of the educational experience we offer. 
 
-Join us via Zoom on 18 November 2023, Saturday 9.00 am - 10.30 am
-
-![](/images/School%20Announcement/2023/st%20gabriels%20secondary%20school%20open%20house.png)
-
-**Zoom Meeting Login Details:**
-
-Meeting Link: [https://go.gov.sg/stgabriels-eopenhouse2023](https://go.gov.sg/stgabriels-eopenhouse2023)
-
-Meeting ID: 822 9127 9502
-
-Passcode: sgss2023
+Following are the materials which was presented on 18th November 2023:
+* [PowerPoint Slides](https://docs.google.com/presentation/d/1qe8Vx_0YN3r7FRpJOihY9TplpgkS4Co8e5utdYUSLHk/edit#slide=id.g260755557e0_0_96)
+* [Corporate Video](https://youtu.be/QTbx_8Dcl3Y?si=VkImUQuiFeCwb-aO)
+* [CCA Programmes](https://youtu.be/OReQN7adpDE)
+* [School's Facilities](https://youtu.be/r_PowMxCwCw)
+* [Full Subject-Based Banding](https://youtu.be/AU8Dr1aYHaM)
 
 **Programme Outline:**
 
