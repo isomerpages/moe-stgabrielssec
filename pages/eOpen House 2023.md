@@ -4,6 +4,8 @@ permalink: /eopen-house-2023/
 description: ""
 variant: markdown
 ---
+We warmly welcome you to St. Gabriel's Secondary School and join our Gabrielite Family!
+
 We understand that choosing the right school for your child is a significant decision, and we are committed to providing you with all the information you need to make an informed choice.
 
 Following are the materials which was presented during our eOpen House on 18th November 2023:
