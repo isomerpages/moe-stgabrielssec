@@ -2,14 +2,14 @@
 title: SGF Charity Movie 2023
 permalink: /sgf-charity-movie-2023/
 description: ""
+variant: markdown
 ---
-#### St. Gabriel's Foundation Charity Movie 2023
+#### De-enrolment for DMA for 2023 Graduating Cohort
 
-Date: 1st August 2023 to 31st October 2023 <br>
-Venue: Any Golden Village Cinema
+To all 2023 Graduating Cohort Students,
 
-Lights, Camera, Education: Fuel our holistic programmes and get a Pass to a Cinematic Journey! <br>
+The school have de-enrolled the DMA on your PLD. 
 
-Support St. Gabriel's Foundation Charity Movie 2023. Reel into this fundraiser together to continue propelling our holistic programmes forward to our children and youths in our seven (7) institutions.
+To complete the process, you will need to powerwash your PLD. 
 
-Click [here](/files/Announcements/2023/sgf%20charity%20movie%20letter%20to%20parents%20&amp;%20response%20form.pdf) to read more..
+Please follow the guide given in this link [here](/files/How_to_Powerwash_Chromebook.pdf)
