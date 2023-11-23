@@ -12,20 +12,26 @@ sections:
       title: Announcement
       subtitle: St. Gabriel's Secondary School
       button: More
-  - infopic:
-      title: e-Open House
-      subtitle: st. Gabriel's Secondary School
-      id: infopic
-      description: Click on the link below to find out more
-      image: /images/st_gabriels_secondary_school_open_house.png
-      alt: Image alt text
-      button: ACCESS HERE
-      url: https://stgabrielssec.moe.edu.sg/eopen-house-2023/
+  - infobar:
+      title: Want to find out more about St. Gabriel's Secondary School?
+      subtitle: St. Gabriel's Secondary School
+      id: infobar
+      description: Click the link below
+      button: READ MORE
+      url: https://stgabrielssec.moe.edu.sg/info-about-stgss/
+  - infobar:
+      title: St. Gabriel's Secondary School Corporate Video
+      subtitle: St. Gabriel's Secondary School
+      id: infobar
+      description: Click link below to watch
+      button: Click here
+      url: https://youtu.be/QTbx_8Dcl3Y
   - infopic:
       title: 2023 President's Award for Teachers
       subtitle: St. Gabriel's Secondary School
       id: infopic
-      description: Teaching is not just a job, it is a higher calling.
+      description: We congratulate Mr. Poh Wei Beng on being awarded the 2023
+        President's Award.
       button: READ MORE
       url: https://stgabrielssec.moe.edu.sg/2023-presidents-award-for-teachers/
       image: /images/School Announcement/2023/2023 president's award for teachers.JPG
@@ -34,8 +40,8 @@ sections:
       title: 2023 Outstanding Youth in Education Award
       subtitle: St. Gabriel's Secondary School
       id: infopic
-      description: We are blessed beyond measure to have teachers with an amazing
-        heart for students in our midst!
+      description: We congratulate Ms. Khairunnisa Binte Ismail on being awarded the
+        2023 Outstanding Youth in Education.
       button: READ MORE
       url: https://stgabrielssec.moe.edu.sg/2023-outstanding-youth-in-education-award/
       image: /images/School Announcement/2023/2023 outstanding youth in education
