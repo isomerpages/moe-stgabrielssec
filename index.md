@@ -51,7 +51,6 @@ sections:
       subtitle: St. Gabriel's Secondary School
   - infobar:
       title: St. Gabriel's Secondary School Corporate Video
-      subtitle: Add informational text
       id: infobar
       description: Click on the link to watch
       button: Click here
