@@ -49,4 +49,11 @@ sections:
       image: /images/Home Based Learning/HBL.png
       alt: Image alt text
       subtitle: St. Gabriel's Secondary School
+  - infobar:
+      title: St. Gabriel's Secondary School Corporate Video
+      subtitle: Add informational text
+      id: infobar
+      description: Click on the link to watch
+      button: Click here
+      url: https://youtu.be/QTbx_8Dcl3Y
 ---
