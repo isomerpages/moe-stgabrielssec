@@ -33,14 +33,14 @@ Primary 6 students who have just received their secondary school posting in 2023
     
 
 * * *
+<br>
+<img src="/images/School%20Announcement/2023/Appeal_2024.png" style="width:45%"> 
 
-![](/images/School%20Announcement/2023/Appeal_2024.png)
-
-1.  Kindly scan the **QR code** provided or https://go.gov.sg/sec1appeal2024 to access the appeal form. The personal information provided in this form will be solely used for the purpose of appealing for secondary school transfer based on **non-medical reasons**. 
+1.  Kindly scan the **QR code** provided or https://go.gov.sg/sec1appeal2024 to access the appeal form. The personal information provided in this form will be solely used for the purpose of appealing for secondary school transfer based on **non-medical reasons**.&nbsp;
     
-2.  The deadline for the submission of appeals is **26 December 2023, 12pm.**  Late submissions will not be allowed.
+2.  The deadline for the submission of appeals is **26 December 2023, 12pm.**&nbsp; Late submissions will not be allowed.
     
-3.  Schools do not disclose reasons for selection / non-selection of students. 
+3.  Schools do not disclose reasons for selection / non-selection of students.&nbsp;
     
 4.  Students should still report to the posted secondary school on 2 January 2024.
     
