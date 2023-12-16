@@ -7,6 +7,25 @@ description: ""
 image: ""
 variant: markdown
 ---
+
+##### **E Registration for Sec 1 Students (Cohort 2024)**
+
+Registration for all Sec 1 students will be done electronically.
+The designated primary contact of the child would receive a Parent Gateway (PG) notification from us, directing you to the Online Registration Portal and other relevant information, from the afternoon of the S1 School Posting Day.
+
+You will be informed of your child’s form class from 29 December 2023 onwards via PG.
+
+***
+
+##### **Full Subject-Based Banding (FSBB)**
+
+Parents whose child is eligible to take subjects at a more demanding level (MDL) will receive the acceptance form(s) via PG. You will be required to accept/decline the offer online via Parents Gateway by 29 December 2023. For those who are not onboard with Parents Gateway, a printed form will be given to you on the first day of school (2 Jan 2024) and you will have to return the printed form by 5 Jan 2024).
+
+Do note that 2024 Sec 1 Parents would be automatically on boarded to Parents Gateway from which details on logging in the zoom meeting will be disseminated. For parents with no PG, we strongly encourage you to come on-board Parents Gateway so that you may receive
+timely information such as school announcements and consent forms. You are invited to download the free Parents Gateway mobile app on your mobile phone (available on IOS and Android platforms only) and perform a simple one-time on boarding process.
+
+***
+
 ##### **Appeal into St Gabriel’s Secondary School (medical reasons) – by 21/12/23 12pm**
 
 The MAE only applies to students with serious medical conditions. The MAE application form will be **given to parents with valid medical reasons and upon request**. Parents are to **file their appeals at the posted school by 12pm, 21 December 2023**. Documentary evidence of the serious medical condition, and/or an official letter from a certified doctor or an assessment from qualified medical professional(s) of the student’s conditions and needs must be provided.
@@ -36,15 +55,15 @@ Primary 6 students who have just received their secondary school posting in 2023
 <br>
 <img src="/images/School%20Announcement/2023/Appeal_2024.png" style="width:45%"> 
 
-1.  Kindly scan the **QR code** provided or https://go.gov.sg/sec1appeal2024 to access the appeal form. The personal information provided in this form will be solely used for the purpose of appealing for secondary school transfer based on **non-medical reasons**.&nbsp;
+* Kindly scan the **QR code** provided or https://go.gov.sg/sec1appeal2024 to access the appeal form. The personal information provided in this form will be solely used for the purpose of appealing for secondary school transfer based on **non-medical reasons**.
     
-2.  The deadline for the submission of appeals is **26 December 2023, 12pm.**&nbsp; Late submissions will not be allowed.
+* The deadline for the submission of appeals is **26 December 2023, 12pm.**&nbsp; Late submissions will not be allowed.
     
-3.  Schools do not disclose reasons for selection / non-selection of students.&nbsp;
+*   Schools do not disclose reasons for selection / non-selection of students.&nbsp;
     
-4.  Students should still report to the posted secondary school on 2 January 2024.
+*   Students should still report to the posted secondary school on 2 January 2024.
     
-5.  Only shortlisted applicants will be notified by **2 January 2024**.
+* Only shortlisted applicants will be notified by **2 January 2024**.
     
 
 * * *
