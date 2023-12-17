@@ -3,6 +3,7 @@ title: Parents
 permalink: /people/Parents/Parents/
 description: ""
 third_nav_title: Parents
+variant: markdown
 ---
 ## Parents
 
@@ -67,15 +68,15 @@ In the course of active collaboration with the school through the activities of 
 
 **Message from PSG Chairperson and Welcome Video**
 
-*   **[Letter from PSG Chairperson](/files/Parent%20Support%20Group/Welcome%20New%20Parents%202022.pdf))**
+*   **[Letter from PSG Chairperson](https://drive.google.com/file/d/1yV2qikdRoib4Z_SUFbVVCKGmBf778Hgh/view?usp=sharing)**
 *   **[Welcome Video](https://youtu.be/YLgQ5riiipc)**
 
 **Join us and be part of the Village.**
 
-Fill up the form via the link [**https://tinyurl.com/joinussgsspsg**](https://tinyurl.com/joinussgsspsg) or use QR code below.
+Fill up the form via the link&nbsp;[**https://tinyurl.com/joinussgsspsg**](![](/images/Parent%20Support%20Group/2024_PSG.JPG)https://tinyurl.com/JoinUsSGSSPSG2024)&nbsp;or use QR code below.
 
-<img style="width: 40%;" src="/images/Parent%20Support%20Group/QR%20Code.png">
+<img style="width: 40%;" src="/images/Parent%20Support%20Group/2024_PSG.JPG">
 
 **Contact us**
 
-If you have any questions or feedback to share, do drop us an e-mail. <br>Our e-mail address is [**psgsgss@gmail.com**](mailto:psgsgss@gmail.com)
+If you have any questions or feedback to share, do drop us an e-mail. <br>Our e-mail address is&nbsp;[**psgsgss@gmail.com**](mailto:psgsgss@gmail.com)
