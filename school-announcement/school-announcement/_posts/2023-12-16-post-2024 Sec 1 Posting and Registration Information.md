@@ -9,13 +9,14 @@ variant: markdown
 ---
 ##### **Registration for Sec 1 Students (Cohort 2024)**
 
-* Registration for all Sec 1 students will be done electronically. Please click on this link https://go.gov.sg/sgsssec1registration2024 to access the Sec 1 registration microsite.
+* Registration for all Sec 1 students will be done electronically. Please click on this link [https://go.gov.sg/sgsssec1registration2024](https://go.gov.sg/sgsssec1registration2024) to access the Sec 1 registration microsite.
 * There will be an online briefing (via zoom) for parents and students on: 
 <br>Date: 22 Dec 2023, Friday <br>
 Time: 9 am to 11 am <br>
 The designated primary contact of the child would receive the zoom details and
 password via Parent Gateway.
 * You will be informed of your child’s form class from 30 December 2023 onwards via PG.
+
 ***
 
 ##### **Full Subject-Based Banding (FSBB)**
