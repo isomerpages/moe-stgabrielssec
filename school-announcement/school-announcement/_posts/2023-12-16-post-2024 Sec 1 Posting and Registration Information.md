@@ -7,13 +7,15 @@ description: ""
 image: ""
 variant: markdown
 ---
-##### **E Registration for Sec 1 Students (Cohort 2024)**
+##### **Registration for Sec 1 Students (Cohort 2024)**
 
-Registration for all Sec 1 students will be done electronically.
-The designated primary contact of the child would receive a Parent Gateway (PG) notification from us, directing you to the Online Registration Portal and other relevant information, from the afternoon of the S1 School Posting Day.
-
-You will be informed of your child’s form class from 29 December 2023 onwards via PG.
-
+* Registration for all Sec 1 students will be done electronically. Please click on this link https://go.gov.sg/sgsssec1registration2024 to access the Sec 1 registration microsite.
+* There will be an online briefing (via zoom) for parents and students on: 
+<br>Date: 22 Dec 2023, Friday <br>
+Time: 9 am to 11 am <br>
+The designated primary contact of the child would receive the zoom details and
+password via Parent Gateway.
+* You will be informed of your child’s form class from 30 December 2023 onwards via PG.
 ***
 
 ##### **Full Subject-Based Banding (FSBB)**
@@ -41,13 +43,13 @@ Dear Parents/Guardians,
 
 Primary 6 students who have just received their secondary school posting in 2023 may use this form to appeal for transfer to St Gabriel's Secondary School. Transfer will be subject to available vacancies and the school’s admission criteria.
 
-**_The appeal will only be considered if your child/ward meets the school's cut-off point (2022)._**
+**_The appeal will only be considered if your child/ward meets the school's cut-off point (2023)._**
 
-*   **G3: 14-22 (affiliated), 11-18 (non-affiliated)**
+*   **G3: 14-22 (affiliated), 11-17 (non-affiliated)**
     
 *   **G2: 22-25 (affiliated), 21-24 (non-affiliated)**
     
-*   **G3: 26-29 (affiliated), 26-29 (non-affiliated)**
+*   **G1: 26-28 (affiliated), 26-28 (non-affiliated)**
     
 
 * * *
