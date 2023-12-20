@@ -9,13 +9,14 @@ variant: markdown
 ---
 ##### **Registration for Sec 1 Students (Cohort 2024)**
 
-* Registration for all Sec 1 students will be done electronically. Please click on this link https://go.gov.sg/sgsssec1registration2024 to access the Sec 1 registration microsite.
+* Registration for all Sec 1 students will be done electronically. Please click on this link [https://go.gov.sg/sgsssec1registration2024](https://go.gov.sg/sgsssec1registration2024) to access the Sec 1 registration microsite.
 * There will be an online briefing (via zoom) for parents and students on: 
 <br>Date: 22 Dec 2023, Friday <br>
 Time: 9 am to 11 am <br>
 The designated primary contact of the child would receive the zoom details and
 password via Parent Gateway.
 * You will be informed of your child’s form class from 30 December 2023 onwards via PG.
+
 ***
 
 ##### **Full Subject-Based Banding (FSBB)**
@@ -52,8 +53,6 @@ Primary 6 students who have just received their secondary school posting in 2023
 *   **G1: 26-28 (affiliated), 26-28 (non-affiliated)**
     
 
-* * *
-<br>
 <img src="/images/School%20Announcement/2023/Appeal_2024.png" style="width:45%"> 
 
 * Kindly scan the **QR code** provided or https://go.gov.sg/sec1appeal2024 to access the appeal form. The personal information provided in this form will be solely used for the purpose of appealing for secondary school transfer based on **non-medical reasons**.
