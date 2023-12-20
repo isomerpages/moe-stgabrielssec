@@ -53,8 +53,6 @@ Primary 6 students who have just received their secondary school posting in 2023
 *   **G1: 26-28 (affiliated), 26-28 (non-affiliated)**
     
 
-* * *
-<br>
 <img src="/images/School%20Announcement/2023/Appeal_2024.png" style="width:45%"> 
 
 * Kindly scan the **QR code** provided or https://go.gov.sg/sec1appeal2024 to access the appeal form. The personal information provided in this form will be solely used for the purpose of appealing for secondary school transfer based on **non-medical reasons**.
