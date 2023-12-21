@@ -2,6 +2,7 @@
 title: School Executive Committee
 permalink: /people/School-Executive-Committee/
 description: ""
+variant: markdown
 ---
 <table>
 <thead>
@@ -140,6 +141,11 @@ description: ""
   <tr>
     <td>Student Well-Being<br>Subject Head</td>
     <td>Ms. Ivy Tan</td>
+    <td>166</td>
+  </tr>
+	  <tr>
+    <td>Student Services &amp; Leadership<br>Subject Head</td>
+    <td>Mr. Mohamed Fazlin </td>
     <td>166</td>
   </tr>
 </tbody>
