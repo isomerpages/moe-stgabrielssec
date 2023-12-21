@@ -14,8 +14,6 @@ variant: markdown
 
 *   **[Information Slides for Sec 1 Parents PDLP 2024](/files/Links/Parents/information%20slides%20for%20sec%201%20parents%20pdlp%202024.pdf)**
 
-*   **[Frequently Asked Questions](/files/Links/Parents/PDLP%20FAQs.pdf)**
-
 *   **[Application Form for Subsidy for Purchase of Personal Learning Device (PLD)](/files/Links/Parents/Application%20for%20Subsidy%20for%20Purchase%20of%20PLD.pdf)**
 
 You would have received a letter titled&nbsp;**“National Digital Literacy Programme”**&nbsp;which gives you details about this initiative. You may refer to the briefing slides above for details of the programme.
