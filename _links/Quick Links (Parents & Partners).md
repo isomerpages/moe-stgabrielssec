@@ -6,7 +6,6 @@ variant: markdown
 ---
 ## QUICK LINKS (PARENTS &amp; PARTNERS)
 
-
 ##### National Digital Literacy Programme (NDLP)
 
 
@@ -23,9 +22,9 @@ You would have received a letter titled&nbsp;**“National Digital Literacy Prog
 
 **Resources for Parents**  
 
-*   **[Parent Handbook (I) on Learning with a PLD](/files/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)**  
+*   **[Parent Handbook (I) on Learning with a PLD](/files/Links/Parents/Parent_Handbook__I_.pdf)**  
     
-*   **[Parent Handbook (II) on Learning with a PLD](https://drive.google.com/file/d/1uU8znUwkWjfPV4V_uA-fCDBrg-apoUIP/view?usp=sharing)**
+*   **[Parent Handbook (II) on Learning with a PLD](/files/Links/Parents/Parent_Handbook__II_.pdf)**
 
 *   **[Student Device Information Kit](/files/Links/Parents/Student%20Device%20Information%20Kit.pdf)**
 
