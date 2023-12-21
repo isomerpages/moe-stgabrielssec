@@ -42,7 +42,6 @@ Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access th
 
 ---
 
-
 ##### <center> 2024 Booklist </center>
 
 <style type="text/css">
@@ -57,21 +56,21 @@ Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access th
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-qq4b">Secondary 1 (TBC) </th>
+    <th class="tg-qq4b">Secondary 1 </th>
     <th class="tg-qq4b">Secondary 2</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow"><span style="text-decoration:none;color:#0C343D">Express</span></td>
+    <td class="tg-c3ow"><a href="/files/Links/Students/Sec_1_G3_G2_G1.pdf"><span style="text-decoration:none;color:#0C343D">G3/G2/G1</span></a></td>
     <td class="tg-c3ow"><a href="/files/Links/Students/sec%202%20express.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></td>
+    <td class="tg-c3ow"><span style="text-decoration:none;color:#0C343D"></span></td>
     <td class="tg-c3ow"><a href="/files/Links/Students/sec%202%20normal%20academic.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
   </tr>
   <tr>
-    <td class="tg-c3ow"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></td>
+    <td class="tg-c3ow"><span style="text-decoration:none;color:#0C343D"></span></td>
     <td class="tg-c3ow"><a href="/files/Links/Students/sec%202%20normal%20technical.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
   </tr>
 </tbody>
