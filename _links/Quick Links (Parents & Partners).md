@@ -2,21 +2,17 @@
 title: Quick Links (Parents & Partners)
 permalink: /links/Parents-Partners/
 description: ""
+variant: markdown
 ---
 ## QUICK LINKS (PARENTS &amp; PARTNERS)
-
-
 
 ##### National Digital Literacy Programme (NDLP)
 
 
 **Parent Engagement**  
 
-*   **[Letter to Sec 1 Parents for PLD Procurement](/files/Links/Parents/2023%20Letter%20to%20Parents%20for%20PDLP%20Procurement.pdf)**
 
-*   **[Information Slides for Sec 1 Parents PDLP 2023](/files/Links/Parents/Information%20Slides%20for%20Sec%201%20Parents%20PDLP%202023.pdf)**
-
-*   **[Frequently Asked Questions](/files/Links/Parents/PDLP%20FAQs.pdf)**
+*   **[Information Slides for Sec 1 Parents PDLP 2024](/files/Links/Parents/information%20slides%20for%20sec%201%20parents%20pdlp%202024.pdf)**
 
 *   **[Application Form for Subsidy for Purchase of Personal Learning Device (PLD)](/files/Links/Parents/Application%20for%20Subsidy%20for%20Purchase%20of%20PLD.pdf)**
 
@@ -24,9 +20,9 @@ You would have received a letter titled&nbsp;**“National Digital Literacy Prog
 
 **Resources for Parents**  
 
-*   **[Parent Handbook (I) on Learning with a PLD](/files/Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD.pdf)**  
+*   **[Parent Handbook (I) on Learning with a PLD](/files/Links/Parents/Parent_Handbook__I_.pdf)**  
     
-*   **[Parent Handbook (II) on Learning with a PLD](https://drive.google.com/file/d/1uU8znUwkWjfPV4V_uA-fCDBrg-apoUIP/view?usp=sharing)**
+*   **[Parent Handbook (II) on Learning with a PLD](/files/Links/Parents/Parent_Handbook__II_.pdf)**
 
 *   **[Student Device Information Kit](/files/Links/Parents/Student%20Device%20Information%20Kit.pdf)**
 
