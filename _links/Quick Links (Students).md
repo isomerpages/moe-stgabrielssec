@@ -88,19 +88,20 @@ Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access th
 .tg .tg-qq4b{background-color:#07416f;border-color:inherit;color:#ffffff;text-align:center;vertical-align:top}
 .tg .tg-4aj6{background-color:#07416f;color:#ffffff;text-align:center;vertical-align:top}
 </style>
+
 <table class="tg">
 <thead>
   <tr>
     <th class="tg-qq4b">Secondary 3 </th>
     <th class="tg-qq4b">Secondary 4</th>
-    <th class="tg-4aj6">Secondary 5 (TBC)</th>
+    <th class="tg-4aj6">Secondary 5</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-c3ow"><a href="/files/Links/Students/sec%203%20express.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a></td>
     <td class="tg-c3ow"><a href="/files/Links/Students/sec%204%20express.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a><br></td>
-    <td class="tg-baqh"><span style="text-decoration:none;color:#0C343D">Normal Academic</span><br></td>
+    <td class="tg-baqh"><a href="/files/Links/Students/Sec_5_Normal_Academic.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span><br></a></td>
   </tr>
   <tr>
     <td class="tg-c3ow"><a href="/files/Links/Students/sec%203%20normal%20academic.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a></td>
