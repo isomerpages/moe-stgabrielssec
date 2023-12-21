@@ -2,9 +2,9 @@
 title: Quick Links (Parents & Partners)
 permalink: /links/Parents-Partners/
 description: ""
+variant: markdown
 ---
 ## QUICK LINKS (PARENTS &amp; PARTNERS)
-
 
 
 ##### National Digital Literacy Programme (NDLP)
@@ -12,9 +12,8 @@ description: ""
 
 **Parent Engagement**  
 
-*   **[Letter to Sec 1 Parents for PLD Procurement](/files/Links/Parents/2023%20Letter%20to%20Parents%20for%20PDLP%20Procurement.pdf)**
 
-*   **[Information Slides for Sec 1 Parents PDLP 2023](/files/Links/Parents/Information%20Slides%20for%20Sec%201%20Parents%20PDLP%202023.pdf)**
+*   **[Information Slides for Sec 1 Parents PDLP 2024](/files/Links/Parents/information%20slides%20for%20sec%201%20parents%20pdlp%202024.pdf)**
 
 *   **[Frequently Asked Questions](/files/Links/Parents/PDLP%20FAQs.pdf)**
 
