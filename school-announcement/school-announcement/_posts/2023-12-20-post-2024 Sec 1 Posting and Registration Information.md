@@ -1,7 +1,7 @@
 ---
 title: 2024 Sec 1 Posting and Registration Information
 permalink: /2024-sec-1-posting-and-registration/
-date: 2023-12-16
+date: 2023-12-20
 layout: post
 description: ""
 image: ""
@@ -46,7 +46,7 @@ Primary 6 students who have just received their secondary school posting in 2023
 
 **_The appeal will only be considered if your child/ward meets the school's cut-off point (2023)._**
 
-*   **G3: 14-22 (affiliated), 11-17 (non-affiliated)**
+*   **G3: 14-22 (affiliated), 10-17 (non-affiliated)**
     
 *   **G2: 22-25 (affiliated), 21-24 (non-affiliated)**
     
@@ -55,7 +55,7 @@ Primary 6 students who have just received their secondary school posting in 2023
 
 <img src="/images/School%20Announcement/2023/Appeal_2024.png" style="width:45%"> 
 
-* Kindly scan the **QR code** provided or https://go.gov.sg/sec1appeal2024 to access the appeal form. The personal information provided in this form will be solely used for the purpose of appealing for secondary school transfer based on **non-medical reasons**.
+* Kindly scan the **QR code** provided or [https://go.gov.sg/sec1appeal2024](https://go.gov.sg/sec1appeal2024) to access the appeal form. The personal information provided in this form will be solely used for the purpose of appealing for secondary school transfer based on **non-medical reasons**.
     
 * The deadline for the submission of appeals is **26 December 2023, 12pm.**&nbsp; Late submissions will not be allowed.
     
