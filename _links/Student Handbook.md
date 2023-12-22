@@ -2,6 +2,7 @@
 title: Student Handbook
 permalink: /links/Student-Handbook/
 description: ""
+variant: markdown
 ---
 ## Student Handbook
 
@@ -13,7 +14,7 @@ description: ""
 
 **4. [CCA](/files/Links/Student%20Handbook/cca%202023.pdf)**
 
-**5. [LEAPS Computation](/files/Links/Student%20Handbook/leaps%202023.pdf)**
+**5. [LEAPS Computation](/files/Links/Student%20Handbook/LEAPS_2_0.pdf)**
 
 **6. [NAPFA](/files/Links/Student%20Handbook/NAPFA%20Standards.pdf)**
 
