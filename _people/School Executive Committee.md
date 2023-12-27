@@ -30,28 +30,33 @@ variant: markdown
   </tr>
   <tr>
     <td>Year Head (Sec 4/5)</td>
-    <td>Mr. Nick Chow</td>
-    <td>216</td>
-  </tr>
-  <tr>
-    <td>Year Head (Sec 3)</td>
     <td>Ms. Jane Han</td>
     <td>136</td>
   </tr>
   <tr>
+    <td>Year Head (Sec 3)</td>
+    <td>Mr. Nick Chow</td>
+    <td>216</td>
+  </tr>
+  <tr>
     <td>Year Head (Sec 2)</td>
-    <td>Ms. Jessica Yap</td>
-    <td>132</td>
+    <td>Ms. Elyn Lim</td>
+    <td>222</td>
   </tr>
   <tr>
     <td>Year Head (Sec 1)</td>
-    <td>Ms. Elyn Lim</td>
-    <td>222</td>
+    <td>Ms. Jessica Yap</td>
+    <td>132</td>
   </tr>
   <tr>
     <td>Teaching &amp; Learning<br>Head of Department</td>
     <td>Mr. Peh Chin Heng</td>
     <td>116</td>
+  </tr>
+	  <tr>
+    <td>English Language &amp; Literature<br>Head of Department</td>
+    <td>Mr. Nur Saspurie Sapi'ee</td>
+    <td>TBC</td>
   </tr>
   <tr>
     <td>Mother Tongue<br>Head of Department</td>
@@ -59,9 +64,14 @@ variant: markdown
     <td>115</td>
   </tr>
   <tr>
-    <td>Mathematics<br>Acting Head of Department</td>
+    <td>Mathematics<br>Head of Department</td>
     <td>Mr. Koh Wei Ming</td>
     <td>118</td>
+  </tr>
+	  <tr>
+    <td>Science<br>Head of Department</td>
+    <td>Mr. Mario Chua</td>
+    <td>140</td>
   </tr>
   <tr>
     <td>Humanities<br>Head of Department</td>
@@ -83,6 +93,11 @@ variant: markdown
     <td>Mrs. Olsen Low Hwee Kian</td>
     <td>216</td>
   </tr>
+ <tr>
+    <td>Student Management<br>Head of Department</td>
+    <td>Mr. Poh Wei Beng</td>
+    <td>114</td>
+  </tr>
   <tr>
     <td>Student Support<br>Head of Department</td>
     <td>Mr. Lin Ganfeng</td>
@@ -99,11 +114,6 @@ variant: markdown
     <td>117</td>
   </tr>
   <tr>
-    <td>Literature<br>Subject Head</td>
-    <td>Ms. Marianne Li</td>
-    <td>139</td>
-  </tr>
-  <tr>
     <td>Mother Tongue (Chinese Language)<br>Subject Head</td>
     <td>Ms. Pauline Teo</td>
     <td>134</td>
@@ -112,11 +122,6 @@ variant: markdown
     <td>Mathematics<br>Subject Head</td>
     <td>Mr. Lincoln Chan</td>
     <td>148</td>
-  </tr>
-  <tr>
-    <td>Science<br>Subject Head</td>
-    <td>Mr. Mario Chua<br>Ms. Cherina Low</td>
-    <td>140<br>128</td>
   </tr>
   <tr>
     <td>Geography<br>Subject Head</td>
