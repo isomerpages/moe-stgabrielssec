@@ -66,10 +66,10 @@ The PSG provides an environment where members come from varied backgrounds and p
 
 In the course of active collaboration with the school through the activities of PSG, members are encouraged to provide regular feedback and suggestions, resulting in confidence and trust in the home-school relationship.
 
-**Message from PSG Chairperson and Welcome Video**
+**Message from PSG Chairperson**
 
 *   **[Letter from PSG Chairperson](https://drive.google.com/file/d/1yV2qikdRoib4Z_SUFbVVCKGmBf778Hgh/view?usp=sharing)**
-*   **[Welcome Video](https://youtu.be/YLgQ5riiipc)**
+
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/fBkYKYBfVas?si=FJKRCRfUGJq4rDOU" height="315" width="560"></iframe>
 
