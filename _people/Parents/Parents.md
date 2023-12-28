@@ -71,6 +71,8 @@ In the course of active collaboration with the school through the activities of 
 *   **[Letter from PSG Chairperson](https://drive.google.com/file/d/1yV2qikdRoib4Z_SUFbVVCKGmBf778Hgh/view?usp=sharing)**
 *   **[Welcome Video](https://youtu.be/YLgQ5riiipc)**
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/fBkYKYBfVas?si=FJKRCRfUGJq4rDOU" height="315" width="560"></iframe>
+
 **Join us and be part of the Village.**
 
 Fill up the form via the link&nbsp;[**https://tinyurl.com/joinussgsspsg**](![](/images/Parent%20Support%20Group/2024_PSG.JPG)https://tinyurl.com/JoinUsSGSSPSG2024)&nbsp;or use QR code below.
