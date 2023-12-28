@@ -2,6 +2,7 @@
 title: Group Personal Accident (GPA) For Students
 permalink: /links/GPA/
 description: ""
+variant: markdown
 ---
 ## GROUP PERSONAL ACCIDENT (GPA) FOR STUDENTS
 
@@ -14,4 +15,4 @@ description: ""
 4.  Upload tax invoice(s), receipts (outpatient/inpatient claims) and required documents
 5.  Confirmation email will be sent to parents or students, and school administrator
 
-Click **[here](/files/Links/GPA%20for%20Students/product%20fact%20sheet%20year%202023.pdf)** to view the&nbsp;Group Personal Accident (GPA) Product factsheet
+Click **[here](/files/Links/GPA%20for%20Students/Product_Fact_Sheet_Year_2024.pdf)** to view the&nbsp;Group Personal Accident (GPA) Product factsheet
