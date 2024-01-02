@@ -46,11 +46,11 @@ Primary 6 students who have just received their secondary school posting in 2023
 
 **_The appeal will only be considered if your child/ward meets the school's cut-off point (2023)._**
 
-*   **G3: 14-22 (affiliated), 10-17 (non-affiliated)**
+*   **G3: 14-22, 10-17 (non-affiliated)**
     
-*   **G2: 22-25 (affiliated), 21-24 (non-affiliated)**
+*   **G2: 22-25, 21-24 (non-affiliated)**
     
-*   **G1: 26-28 (affiliated), 26-28 (non-affiliated)**
+*   **G1: 26-28, 26-28 (non-affiliated)**
     
 
 <img src="/images/School%20Announcement/2023/Appeal_2024.png" style="width:45%"> 
