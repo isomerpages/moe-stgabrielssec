@@ -3,10 +3,11 @@ title: Secondary 2
 permalink: /people/Form-and-Subject-Teachers/Secondary2/
 description: ""
 third_nav_title: Form & Subject Teachers
+variant: markdown
 ---
 ## SECONDARY 2
 
-#### 2023 Form Teachers
+#### 2024 Form Teachers
 
 -------------------------
 
