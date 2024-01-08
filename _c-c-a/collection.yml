@@ -2,6 +2,7 @@ collections:
   c-c-a:
     output: true
     order:
+      - CCA Trial Audition Schedule for Year 2024.md
       - About Us.md
       - Club & Societies/Debate Club.md
       - Club & Societies/.keep
