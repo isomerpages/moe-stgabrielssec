@@ -1,8 +1,9 @@
 ---
 title: CCA Teachers
-permalink: /people/Form-and-Subject-Teachers/CCA-Teachers/
+permalink: /people/form-and-subject-teachers/cca-teachers/
 description: ""
 third_nav_title: Form & Subject Teachers
+variant: tiptap
 ---
 ## CCA Teachers
 
