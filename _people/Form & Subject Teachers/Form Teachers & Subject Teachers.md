@@ -5,20 +5,4 @@ description: ""
 third_nav_title: Form & Subject Teachers
 variant: tiptap
 ---
-## FORM TEACHERS & SUBJECT TEACHERS
-
-Click on the appropriate link to contact your son/ward's Form or Co-Form Teacher:
-
-*   [Secondary 1 Form Teachers & Subject Teachers](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/Form-and-Subject-Teachers/Secondary1/)  
-    
-*   [Secondary 2 Form Teachers & Subject Teachers](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/Form-and-Subject-Teachers/Secondary2/)  
-    
-*   [Secondary 3 Form Teachers & Subject Teachers](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/Form-and-Subject-Teachers/Secondary3/)  
-    
-*   [Secondary 4 Form Teachers & Subject Teachers](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/Form-and-Subject-Teachers/Secondary4/)  
-    
-*   [Secondary 5 Form Teachers & Subject Teachers](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/Form-and-Subject-Teachers/Secondary5/)  
-    
-*   [Allied Educators](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/Form-and-Subject-Teachers/Allied-Educators/)
-
-*   [CCA Teachers](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/Form-and-Subject-Teachers/CCA-Teachers/)
+<h2>FORM TEACHERS &amp; SUBJECT TEACHERS</h2><p>Click on the appropriate link to contact your son/ward's Form or Co-Form Teacher:</p><ul><li><p><a href="/people/form-and-subject-teachers/secondary1/" rel="noopener noreferrer nofollow" target="_blank">Secondary 1 Form Teachers &amp; Subject Teachers</a></p></li><li><p><a href="/people/form-and-subject-teachers/secondary2/" rel="noopener noreferrer nofollow" target="_blank">Secondary 2 Form Teachers &amp; Subject Teachers</a></p></li><li><p><a href="/people/form-and-subject-teachers/secondary3/" rel="noopener noreferrer nofollow" target="_blank">Secondary 3 Form Teachers&nbsp;&amp; Subject Teachers</a></p></li><li><p><a href="/people/form-and-subject-teachers/secondary4/" rel="noopener noreferrer nofollow" target="_blank">Secondary 4 Form Teachers&nbsp;&amp; Subject Teachers</a></p></li><li><p><a href="/people/form-and-subject-teachers/secondary5/" rel="noopener noreferrer nofollow" target="_blank">Secondary 5 Form Teachers&nbsp;&amp; Subject Teachers</a></p></li><li><p><a href="https://staging.d3b8qjosoo9awx.amplifyapp.com/people/Form-and-Subject-Teachers/Allied-Educators/" rel="noopener noreferrer nofollow" target="_blank">Allied Educators</a></p></li><li><p><a href="https://staging.d3b8qjosoo9awx.amplifyapp.com/people/Form-and-Subject-Teachers/CCA-Teachers/" rel="noopener noreferrer nofollow" target="_blank">CCA Teachers</a></p></li></ul><p></p>
