@@ -3,6 +3,7 @@ title: Information Communication Club
 permalink: /co-curricular/Club-and-Societies/Information-Communication-Club/
 description: ""
 third_nav_title: Club & Societies
+variant: markdown
 ---
 ## Information Communication Club
 
@@ -15,10 +16,8 @@ As a CCA, we strive to do our best in every event that we are involved in as our
 ![](/images/CCA/Clubs%20&amp;%20Societies/Infocomm%20Club/Infocomm%20Club.jpeg)
 
 ##### Teachers-in-charge
-1. Ms. Khairunnisa
-2. Ms. Syarmeen
-3. Mdm Rose
-
+1. Mdm Rose Fadillah
+2. Mdm Hasnah Hassan
 
 ##### <u>Training Sessions</u>  
 Photography Training
