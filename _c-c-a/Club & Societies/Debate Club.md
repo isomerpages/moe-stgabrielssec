@@ -3,6 +3,7 @@ title: Debate Club
 permalink: /c-c-a/Club-and-Societies/Debate-Club/
 description: ""
 third_nav_title: Club & Societies
+variant: markdown
 ---
 ## Debate Club
 
@@ -17,7 +18,8 @@ Our debaters also have chances to showcase their creativity and insight through 
 
 
 ##### Teacher-in-charge
-1.  Ms Jo-Anne Seet
+1.  Ms. Samantha Daishini
+2.  Ms. Nur Syarmeen
 
 ##### <u>Training Schedule </u>
 
