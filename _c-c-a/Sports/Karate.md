@@ -3,6 +3,7 @@ title: Karate
 permalink: /co-curricular/Sports/Karate/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ## Karate
 
@@ -14,7 +15,6 @@ St. Gabriel's Secondary School Karate Programme under the able direction of Sens
 
 ##### <u>Teachers-in-charge</u>
 1. Mr. Alvin Goh<br>
-2. Mdm Krishnasamy
 
 ##### <u>Coach</u><br>
 Sensei David Thong (President of the Singapore Karate-do Federation
