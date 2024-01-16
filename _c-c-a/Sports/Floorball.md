@@ -3,6 +3,7 @@ title: Floorball
 permalink: /co-curricular/Sports/Floorball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ## Floorball 
 
@@ -51,7 +52,7 @@ Samuel Tan Yu Hua (S3-T1)
 
 1. Ms. Laura Huang (OIC)<br>
 2. Mr. Ivan Ng (2IC) <br>
-3. Ms. Joanne Lim
+3. Mdm Krishnasamy Poongulali
 
 ##### Coach
 1. Coach Saravanan
