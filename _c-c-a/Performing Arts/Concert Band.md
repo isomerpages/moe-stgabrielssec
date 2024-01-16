@@ -3,6 +3,7 @@ title: Concert Band
 permalink: /co-curricular/Performing-Arts/Concert-Bands/
 description: ""
 third_nav_title: Performing Arts
+variant: markdown
 ---
 ## Concert Band
 
@@ -16,14 +17,15 @@ Over the years, the Band has staged numerous performances in and out of school. 
 
 ##### Teachers-in-charge
 
-1. Mr. Ong Ting Kai (OIC)
+1. Ms. Siti Nazeefah (OIC)
 2. Ms. Ng U-Lynn (2IC)
+3. Ms. Khairunnisa
 
 ##### <u>Training Schedule</u>
 
 **Practice sessions**
 <br>
-Tue & Thu : 2.30pm - 5.30pm
+Tue &amp; Thu : 2.30pm - 5.30pm
 <br>
 Fri : 2pm - 5.00pm
 <br>
