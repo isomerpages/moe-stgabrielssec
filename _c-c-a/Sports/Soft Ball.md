@@ -3,13 +3,14 @@ title: Soft Ball
 permalink: /co-curricular/Sports/Softball/
 description: ""
 third_nav_title: Sports
+variant: markdown
 ---
 ## Softball 
 
 ##### <u>Introduction</u>
 St. Gabriel’s Softball team was established in 2009 with 15 players and it has grown tremendously over the years. Our dedicated softballers train thrice a week and participate actively in various tournaments throughout the year. Every year, we compete in the National School C’ Division and B’ Division Games, Singapore Recreation Club (SRC) Cup, Uber Sports Cup, DCMA Cup and friendlies with both local and international teams.
 
-![](/images/CCA/Sports%20&%20Games/Softball/Softball%20-%201.jpeg)
+![](/images/CCA/Sports%20&amp;%20Games/Softball/Softball%20-%201.jpeg)
 
 Through our Softball training programme, we strive to develop our young players into gentlemen who exemplify the school values of Respect, Responsibility, Resilience and Care. Our training programme emphasises on character development and discipline, and provides opportunities and learning experiences for our players to achieve academic and sporting excellence.
 
@@ -38,11 +39,11 @@ Our softballers continues to contribute back to the school even after their grad
 ##### Teachers-in-Charge<br>
 1. Ms. Peh Sok Hoon (OIC)<br>
 2. Ms. Siti Latifah Ishar<br>
-
+3. Ms. Amira Filza
 
 ##### <u>Training Sessions</u>
 
-*   Tuesday, Thursday & Friday: 2.30pm - 6.00pm
+*   Tuesday, Thursday &amp; Friday: 2.30pm - 6.00pm
 *   Venue: School Field
 
 
