@@ -1,10 +1,11 @@
 ---
-title: Closure of School Library
-permalink: /school-announcement/school-announcement/closure-of-school-library/
-date: 2023-10-18
-layout: post
+title: 2024 Term 1 WA1 Schedule
+date: 2024-01-18
+layout: link
 description: ""
 image: ""
+variant: tiptap
+external: https://go.gov.sg/2024-wa1-schedule
 ---
 ### Closure of Library Notification
 

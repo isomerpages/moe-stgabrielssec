@@ -1,6 +1,6 @@
 ---
 title: Allied Educators
-permalink: /people/form-and-subject-teachers/allied-educators/
+permalink: /people/form-teachers/allied-educators/
 description: ""
 third_nav_title: Form Teachers
 variant: tiptap
