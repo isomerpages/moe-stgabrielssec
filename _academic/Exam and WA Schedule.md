@@ -7,4 +7,4 @@ variant: markdown
 
 #### Weighted Assessment Schedule
 
-[2024 Term 1 WA1 Schedule](https://go.gov.sg/stgss-wa3-schedule)
+[2024 Term 1 WA1 Schedule](https://go.gov.sg/2024-wa1-schedule)
