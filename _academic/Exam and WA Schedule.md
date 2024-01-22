@@ -4,7 +4,7 @@ permalink: /academic/exam-and-wa-schedule/
 description: ""
 variant: markdown
 ---
+#### Examination  Schedule
 
 #### Weighted Assessment Schedule
 
-[2024 Term 1 WA1 Schedule](https://go.gov.sg/2024-wa1-schedule)
