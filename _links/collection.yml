@@ -1,0 +1,15 @@
+collections:
+  links:
+    output: true
+    order:
+      - Student Handbook.md
+      - Brothers of St Gabriel's Province Bulletin.md
+      - Frequently Asked Questions/.keep
+      - "Frequently Asked Questions/FAQ: Student Admissions.md"
+      - "Frequently Asked Questions/FAQ: School and Miscellaneous Fees.md"
+      - "Frequently Asked Questions/FAQ: Edusave and PSEA Accounts.md"
+      - Quick Links (Parents & Partners).md
+      - Quick Links (Students).md
+      - Quick Links (Teachers).md
+      - School & Sports Safety.md
+      - Group Personal Accident (GPA) For Students.md

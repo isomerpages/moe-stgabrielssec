@@ -1,0 +1,17 @@
+collections:
+  c-c-e:
+    output: true
+    order:
+      - About Us.md
+      - Values Education/.keep
+      - Values Education/Education and Career Guidance.md
+      - Values Education/Cyberwellness.md
+      - Values Education/Sexuality Education.md
+      - Key Features/.keep
+      - Key Features/Citizenship Education.md
+      - Key Features/Service & Leadership.md
+      - Our Programmes/Empathy Week.md
+      - Our Programmes/.keep
+      - Our Programmes/Racial Harmony Day Celebration.md
+      - Our Programmes/National Day Celebration.md
+      - Our Programmes/Total Defence Day.md
