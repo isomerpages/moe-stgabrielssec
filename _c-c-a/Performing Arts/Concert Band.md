@@ -25,7 +25,7 @@ Over the years, the Band has staged numerous performances in and out of school. 
 
 **Practice sessions**
 <br>
-Tue &amp; Thu : 2.30pm - 5.30pm
+Tues &amp; Wed : 2.30pm - 5.30pm
 <br>
 Fri : 2pm - 5.00pm
 <br>
