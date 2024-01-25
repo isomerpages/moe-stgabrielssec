@@ -26,6 +26,14 @@ You would have received a letter titled&nbsp;**“National Digital Literacy Prog
 
 *   **[Student Device Information Kit](/files/Links/Parents/Student%20Device%20Information%20Kit.pdf)**
 
+*  **[Infographic on the PLD Initiative](/files/Links/Parents/Infographic_on_the_PLD_Initiative.pdf)**
+
+*   **[Annex A: Functions of the DMA](/files/Links/Parents/Annex_A___Functions_of_the_DMA.pdf)**
+
+*   **[Annex B: DMA Settings After School Hours](/files/Links/Parents/Annex_B___DMA_Settings_After_School_Hours.pdf)**
+
+*   **[Annex C: Privacy and Data Security](/files/Links/Parents/Annex_C___Privacy_and_Data_Security.pdf)**
+
 ---
 
 
