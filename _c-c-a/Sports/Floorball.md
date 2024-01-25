@@ -26,27 +26,23 @@ With a well-developed floorball programme put in place, our floorball school tea
 **St. Gabriel's Floorball B Division Boys 2023**
 
 ![](/images/CCA/Sports%20&amp;%20Games/Floorball/b%20division%20captain%20handling%202nd%20placing%20trophy%20to%20mr%20shawn%20lim%20(principal).jpg)
-**B Divison Captain handling 2nd placing trophy to Mr. Shawn Lim (Principal)**
+**B Divison Captain giving 2nd placing trophy to Mr. Shawn Lim (Principal)**
 
 ![](/images/CCA/Sports%20&amp;%20Games/Floorball/b%20division%20school%20team%20with%20the%20blessings%20of%20all%20student%20and%20parent%20supporters.jpg)
 **B Divison School Team with the blessings of all student and parent supporters**
 
 ##### Our Leaders
-'B' Division Captain: Ciaran Seth Emmanuel (S4-E4) <br>
-'B' Division Vice-Captain: Samuel Tan Yan Hua (S3-T1)
+'B' Division Captain: Khoo Reyshaun (S4-E3) <br>
+'B' Division Vice-Captain: Kakarla Veera Rushil (S4-N2)
 
 ##### Our Level Representatives
-**Secondary 1** <br>
-Daniel Ren Smith (S1-E4) <br>
-Junior Ng Yuu Hann (S1-N1) <br>
-
 **Secondary 2** <br>
-Lim Yu Feng Ethan (S2-E5) <br>
-Muhammad Aqeil Rayyan bin Saifulnizam (S2-N1) <br>
+Mikel Neo Hong Kai (S2-E4) <br>
+Goh Kang Hao Gareth (S2-E2) <br>
 
 **Secondary 3** <br>
-Khoo Reyshaun (S3-E3) <br>
-Samuel Tan Yu Hua (S3-T1)
+Tan Jia Yang (S3-E2) <br>
+Wong Meng Kit, Randall (S3-E5)
 
 ##### Teachers-in-charge
 
@@ -62,6 +58,11 @@ Samuel Tan Yu Hua (S3-T1)
 Floorballers to refer to floorball calendar for term training, holiday training, updates and last minute cancellations.
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_rnuv42e4idoifn747q4sce0ju4%40group.calendar.google.com&amp;ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
+##### <u> Floorball Excusal Form </u>
+Floorballers must update their absences on the form for accuracy in CCA participation points.
+
+<iframe marginwidth="0" marginheight="0" frameborder="0" height="878" width="640" src="https://docs.google.com/forms/d/e/1FAIpQLSebtSD1xm3taay-IYwjATRL90AvY7KP8yr8XEDV2Up3S0ZqmA/viewform?embedded=true">Loading…</iframe>
 
 ##### <u>Achievements</u>
 **(i) C Division**
