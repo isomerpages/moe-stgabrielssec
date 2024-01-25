@@ -3,6 +3,7 @@ title: National Cadet Corps (Air)
 permalink: /co-curricular/Uniformed-Groups/National-Cadet-Corps-Air/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ## NATIONAL CADET CORPS (AIR)
 
@@ -18,19 +19,20 @@ To date, St Gabriel's NCC (Air) Unit has garnered the Gold Award in BUC ever sin
 ![](/images/CCA/Uniformed%20Groups/National%20Cadet%20Corps%20(AIR)/NCC%20Air%202015.jpeg)
 
 ##### Teachers in charge<br>
-1. Mr. Sreetharan Rajaselvan<br>
-2. Mr. Mohamed Fazlin<br>
-3. Ms. Cheong Li Yun
+Commanding Officer: Ms. Cheong Li Yun<br>
+Teacher Officer: Ms Jane Zhou<br>
+Mr. Benjamin Tan
   
 
 ##### <u>Training Schedule</u><br>
 Training in school on:<br>
-Every Friday from 1415hrs - 1800hrs
+Every Friday from 1430hrs - 1745hrs
 
 ##### <u>Achievements</u>
 
 **<u>Unit Recognition (UR)</u>**<br>
-* 2019: To be announced in January 2020<br>
+* 2021-2022: Distinction
+
 * 2018: Distinction
 
 **<u>Best Unit Competition (BUC)</u>**<br>
@@ -42,10 +44,11 @@ Every Friday from 1415hrs - 1800hrs
 * 2012: CM Philips Award for 10 or more consecutive years of attaining Gold for BUC
 
 **<u>Outstanding Cadet Award</u>**<br>
-* 2019: MSG Tahseen Nazir & MSG Joetus Chin<br>
-* 2018: MSG Reuben Lim Tao-Han<br>
-* 2017: MSG Roshan Kumar & MSG Anbuselvan<br>
-* 2016: MSG Jerome Louis Tye
+* 2023: Gerard Koh Tian Le <br>
+* 2019: Tahseen Nazir &amp; Joetus Chin<br>
+* 2018: Reuben Lim Tao-Han<br>
+* 2017: Roshan Kumar &amp;  Anbuselvan<br>
+* 2016: Jerome Louis Tye
 
 **<u>Others</u>**<br>
 2015: Representation in NDP Uniformed Group Marching Contingent<br>
