@@ -41,7 +41,7 @@ sections:
       subtitle: St. Gabriel's Secondary School
       id: infopic
       description: We congratulate Ms. Khairunnisa Binte Ismail on being awarded the
-        2023 Outstanding Youth in Education.
+        2023 Outstanding Youth in Education Award.
       button: READ MORE
       url: https://stgabrielssec.moe.edu.sg/2023-outstanding-youth-in-education-award/
       image: /images/School Announcement/2023/2023 outstanding youth in education
