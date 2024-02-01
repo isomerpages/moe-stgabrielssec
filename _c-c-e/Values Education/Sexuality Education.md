@@ -3,31 +3,34 @@ title: Sexuality Education
 permalink: /co-curricular/Values-Education/Sexuality-Education/
 description: ""
 third_nav_title: Values Education
+variant: markdown
 ---
 ## SEXUALITY EDUCATION
 
 
 ##### <u>MOE SEXUALITY EDUCATION IN SCHOOLS</u>
 
-Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.  
+Sexuality Education (SEd) in schools aims to enable students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding
+relationships with others, including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the
+family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based
+on respect for the values and beliefs of the different ethnic and religious communities in Singapore
+on sexuality issues.
 
-The goals of Sexuality Education are to:
+The **Goals** of Sexuality Education are to:
 
-(i) To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate **knowledge** on human sexuality and the consequences of sexual activity;
+*  Support students in managing their physiological, social and emotional changes as they grow up and develop safe and healthy relationships.
+*  Guide students to make wise, informed and responsible decisions on sexuality matters.
+*  Help students develop a moral compass and respect for themselves and others by having positive mainstream values and attitudes about sexuality that are premised on the family as the basic unit of society.
 
-(ii) To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;**social and emotional skills**&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and  
+The **Key Messages** of Sexuality Education are:
 
-(iii) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;**positive mainstream values and attitudes** &amp; about sexuality.
+(a) Love and respect yourself as you love and respect others;
 
-The key messages of Sexuality Education are:
+(b) Build positive relationships based on love and respect (which are the foundation for strong families);
 
-(i) Love and respect yourself as you love and respect others;
+(c) Make responsible decisions for yourself, your family and society; and
 
-(ii) Build positive relationships based on love and respect (which are the foundation for strong families);
-
-(iii) Make responsible decisions for yourself, your family and society; and
-
-(iv) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+(d) Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
 You may click **[here](https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education)** for more information on MOE Sexuality Education
 
@@ -48,20 +51,24 @@ The values and attitudes of our youth towards sexuality are increasingly shaped 
 
 Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-**At St. Gabriel’s Secondary School, the following lessons from the**&nbsp;**Sexuality Education Programme**&nbsp;**will be taught in&nbsp;<u>2023:</u>**
+**At St. Gabriel’s Secondary School, the following lessons from the**&nbsp;**Sexuality Education Programme**&nbsp;**will be taught in&nbsp;<u>2024:</u>**
 
-*   **[Secondary 1](/files/Sec%201%20SEd%20Timeline.pdf)**
-*   **[Secondary 2](/files/Sec%202%20SEd%20Timeline.pdf)**
-*   **[Secondary 3](/files/Sec%203%20SEd%20Timeline.pdf)**
-*   **[Secondary 4](/files/Sec%204%20SEd%20Timeline.pdf)**
-*   **[Secondary 5](/files/Sec%205%20SEd%20Timeline.pdf)**
+*   **[Secondary 1](/files/Sec_1_SEd_Timeline_2024.pdf)**
+*   **[Secondary 2](/files/Sec_2_SEd_Timeline_2024.pdf)**
+*   **[Secondary 3](/files/Sec_3_SEd_Timeline_2024.pdf)**
+*   **[Secondary 4](/files/Sec_4_SEd_Timeline_2024.pdf)**
+*   **[Secondary 5](/files/Sec_5_SEd_Timeline_2024.pdf)**
 
 **Secondary 3**<br>
 **_eTeens_&nbsp;Programme:**  
 
-_eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective.&nbsp;_eTeens_&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme.Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages.&nbsp;The desired outcome of the&nbsp;_eTeens_&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.
+*eTeens* is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection
+from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are
+empowered to make wise, informed and sensible decisions.
 
-**At St. Gabriel’s Secondary School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2023:**
+Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family, and the importance of responsible decision-making and seeking help. Abstinence and upholding family values are the key messages.
+
+**At St. Gabriel’s Secondary School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2024:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -84,7 +91,12 @@ _eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaborati
 <tbody>
   <tr>
     <td class="tg-ii8k">Mass Talk by HPB appointed vendor</td>
-    <td class="tg-y7qa">- Awareness of the different STIs and HIV/AIDS<br>- Modes of transmission<br>- Modes of protection, specifically on how the condom is used<br>- Consequences and impact of STIs/HIV<br><br></td>
+  <td class="tg-y7qa">- Raise awareness and provide knowledge on:
+		<br> (a) Infectious diseases (STIs and HIV): what it is,
+how it spreads, how to prevent infection mainly
+through ABC (abstinence, being faithful, correct,
+and consistent condom use). <br> (b) Managing relationships and risky situations in a
+healthy way. </td>
     <td class="tg-y7qa">Term 3 Week 4</td>
   </tr>
   <tr>
@@ -97,13 +109,13 @@ _eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaborati
 
 **Information for Parents**
 
-Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.&nbsp;
+Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-For parents of&nbsp;**Lower Secondary and Sec 4/5 students**&nbsp;who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[**here**](/files/LS%20and%20Sec%204-5%20SEd%20Parent%20Opt%20Out%20Form%202023%20SGSS.pdf).
+For parents of who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be communicated to parents at the start of the year is downloadable [**here**](/files/Letter_to_Parents_SEd_2024.pdf).
 
-For parents of&nbsp;**Secondary 3 students**&nbsp;who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;and&nbsp;**eTeens programme**&nbsp;need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable&nbsp;[**here**](/files/Sec%203%20SEd%20Parent%20Opt%20Out%20Form%202023%20SGSS.pdf).
+For parents of **Secondary 3 students** who wish to opt their children out of the **eTeens programme** they will need to complete an opt-out form. This form will be communicated to parents at the start of the year and is downloadable [**here**](/files/Letter_to_Parents_Sec_3_SEd_2024.pdf)
 
-A hardcopy of the form, duly completed and signed, is to be submitted by 28/02/2023.&nbsp;
+A hardcopy of the form, duly completed and signed, is to be submitted by 29/02/2024.
 
 Parents can contact the school at&nbsp;**62889470**&nbsp;or&nbsp;[**stgss@moe.edu.sg**](mailto:stgss@moe.edu.sg)&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
 
