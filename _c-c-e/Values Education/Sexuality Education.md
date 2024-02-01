@@ -3,6 +3,7 @@ title: Sexuality Education
 permalink: /co-curricular/Values-Education/Sexuality-Education/
 description: ""
 third_nav_title: Values Education
+variant: markdown
 ---
 ## SEXUALITY EDUCATION
 
@@ -50,11 +51,11 @@ Through the Sexuality Education lessons, secondary students will have the opport
 
 **At St. Gabriel’s Secondary School, the following lessons from the**&nbsp;**Sexuality Education Programme**&nbsp;**will be taught in&nbsp;<u>2023:</u>**
 
-*   **[Secondary 1](/files/Sec%201%20SEd%20Timeline.pdf)**
-*   **[Secondary 2](/files/Sec%202%20SEd%20Timeline.pdf)**
-*   **[Secondary 3](/files/Sec%203%20SEd%20Timeline.pdf)**
-*   **[Secondary 4](/files/Sec%204%20SEd%20Timeline.pdf)**
-*   **[Secondary 5](/files/Sec%205%20SEd%20Timeline.pdf)**
+*   **[Secondary 1](/files/Sec_1_SEd_Timeline_2024.pdf)**
+*   **[Secondary 2](/files/Sec_2_SEd_Timeline_2024.pdf)**
+*   **[Secondary 3](/files/Sec_3_SEd_Timeline_2024.pdf)**
+*   **[Secondary 4](/files/Sec_4_SEd_Timeline_2024.pdf)**
+*   **[Secondary 5](/files/Sec_5_SEd_Timeline_2024.pdf)**
 
 **Secondary 3**<br>
 **_eTeens_&nbsp;Programme:**  
