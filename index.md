@@ -12,6 +12,15 @@ sections:
       title: Announcement
       subtitle: St. Gabriel's Secondary School
       button: More
+  - infopic:
+      title: St. Gabriel's Foundation Flag Day 2024
+      subtitle: St. Gabriel's Secondary School
+      id: infopic
+      image: /images/School Announcement/SGF_2024_Flag_Day.JPG
+      alt: Image alt text
+      button: READ MORE
+      description: Click the link below
+      url: https://stgabrielssec.moe.edu.sg/sgss-foundation-day-2024/
   - infobar:
       title: Want to find out more about St. Gabriel's Secondary School?
       subtitle: St. Gabriel's Secondary School
