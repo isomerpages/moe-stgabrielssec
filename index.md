@@ -18,6 +18,9 @@ sections:
       id: infopic
       image: /images/School Announcement/SGF_2024_Flag_Day.JPG
       alt: Image alt text
+      button: READ MORE
+      description: Click the link below
+      url: /sgss-foundation-day-2024/
   - infobar:
       title: Want to find out more about St. Gabriel's Secondary School?
       subtitle: St. Gabriel's Secondary School
