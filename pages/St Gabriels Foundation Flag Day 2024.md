@@ -17,3 +17,8 @@ of our seven institutions under St Gabriel’s Foundation (SGF).</p>
 <p>We appeal to your generosity to donate any amount in support of the work
 that we do. In addition, donation of $100 and above will be eligible for
 250% of tax deduction.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/School Announcement/SGF_2024_Flag_Day.JPG">
+</div>
+<p></p>
