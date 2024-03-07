@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>School will close at 5pm from 11th - 15th March 2024 during the March
+School Holiday Break.</p>
