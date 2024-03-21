@@ -59,10 +59,12 @@ Floorballers to refer to floorball calendar for term training, holiday training,
 
 <iframe src="https://calendar.google.com/calendar/embed?src=c_rnuv42e4idoifn747q4sce0ju4%40group.calendar.google.com&amp;ctz=Asia%2FSingapore" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-##### <u> Floorball Excusal Form </u>
-Floorballers must update their absences on the form for accuracy in CCA participation points.
 
-<iframe marginwidth="0" marginheight="0" frameborder="0" height="878" width="640" src="https://docs.google.com/forms/d/e/1FAIpQLSebtSD1xm3taay-IYwjATRL90AvY7KP8yr8XEDV2Up3S0ZqmA/viewform?embedded=true">Loading…</iframe>
+##### <u> Update of CCA Attendance </u>
+Floorballers are expected to take ownership and accountability in updating their training absences in a timely manner. The form must be filled up on the day where floorballers are not able to attend training for teachers to take attendance accurately.
+
+<iframe marginwidth="0" marginheight="0" frameborder="0" height="1459" width="640" src="https://docs.google.com/forms/d/e/1FAIpQLSebtSD1xm3taay-IYwjATRL90AvY7KP8yr8XEDV2Up3S0ZqmA/viewform?embedded=true">Loading…</iframe>
+
 
 ##### <u>Achievements</u>
 **(i) C Division**
