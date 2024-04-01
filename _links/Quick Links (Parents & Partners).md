@@ -36,14 +36,13 @@ You would have received a letter titled&nbsp;**“National Digital Literacy Prog
 
 *   **[DMA Parent Guide - Default Option](/files/Links/Parents/DMA_Parent_Guide___Default_Option.pdf)**
 
-*   **[DMA Parent Guide - Option A](/files/Links/Parents/DMA_Parent_Guide__Option_A.pdf)**
+*   **[DMA Parent Guide - Option A](/files/Links/Parents/DMA_Parent_Guide___Option_A.pdf)**
 
-*  **[DMA Option Guide - Option B](/files/Links/Parents/DMA_Parent_Guide__Option_B.pdf)**
+*  **[DMA Option Guide - Option B](/files/Links/Parents/DMA_Parent_Guide___Option_B.pdf)**
 
 *  **[DMA Option Form](https://go.gov.sg/stgss-dma-option-form)**
 
 ---
-
 
 #### School Staff
 
