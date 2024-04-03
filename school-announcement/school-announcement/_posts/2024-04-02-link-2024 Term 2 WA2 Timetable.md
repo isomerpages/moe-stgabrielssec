@@ -1,5 +1,5 @@
 ---
-title: 2024 Term 1 WA2 Timetable
+title: 2024 Term 2 WA2 Timetable
 date: 2024-04-02
 layout: link
 description: ""
