@@ -31,7 +31,7 @@ variant: markdown
   <tr>
     <td>Year Head (Sec 4/5)</td>
     <td>Ms. Jane Han</td>
-    <td>136</td>
+    <td>161</td>
   </tr>
   <tr>
     <td>Year Head (Sec 3)</td>
@@ -56,7 +56,7 @@ variant: markdown
 	  <tr>
     <td>English Language &amp; Literature<br>Head of Department</td>
     <td>Mr. Nur Saspurie Sapi'ee</td>
-    <td>TBC</td>
+    <td>199</td>
   </tr>
   <tr>
     <td>Mother Tongue<br>Head of Department</td>
