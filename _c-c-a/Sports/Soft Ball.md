@@ -46,6 +46,10 @@ Our softballers continues to contribute back to the school even after their grad
 *   Tuesday, Thursday &amp; Friday: 2.30pm - 6.00pm
 *   Venue: School Field
 
+***A testament to how our Gabrielite leaders lead the way to ensure their juniors are able to continue their route to success. Well done Softball boys!***
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/YuUYwba4FqE?si=CmfB1AuEOws2xBGR" height="315" width="560"></iframe>
+
 
 ##### <u>Achievements and Awards</u><br>
 
