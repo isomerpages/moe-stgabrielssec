@@ -2,6 +2,7 @@
 title: Quick Links (Teachers)
 permalink: /links/Quick-Links-Teachers/
 description: ""
+variant: markdown
 ---
 ## Quick Links (Teachers)
 
@@ -39,4 +40,4 @@ description: ""
 *   **[Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/stgabrielssec)**
 *   **[SGSS ICT Equipment Fault Report Form](https://docs.google.com/forms/d/e/1FAIpQLSf2n6WW2c4xLi-gkrptbPSFmTmVrpuqTC0Q2NY7gEEgY1uGmA/viewform)**
 *   **[School WiFi Log In / Log Off](https://portal.swn.moe.edu.sg/)**
-*   **Education and Career Guidance** **([ecareers.sg web portal](https://ecareers.sg/G_Login_SG/ecareersLogin.asp))**
+*   **Education and Career Guidance** **([ecareers.sg web portal](https://www.skillsfuture.gov.sg/ecg))**
