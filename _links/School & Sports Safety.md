@@ -2,6 +2,7 @@
 title: School & Sports Safety
 permalink: /links/School-Sports-Safety/
 description: ""
+variant: markdown
 ---
 ## School & Sports Safety
 
