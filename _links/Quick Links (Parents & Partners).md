@@ -38,7 +38,7 @@ You would have received a letter titled&nbsp;**“National Digital Literacy Prog
 
 *   **[DMA Parent Guide - Option A](/files/Links/Parents/DMA_Parent_Guide___Option_A.pdf)**
 
-*  **[DMA Option Guide - Option B](/files/Links/Parents/DMA_Parent_Guide___Option_B.pdf)**
+*  **[DMA Parent Guide - Option B](/files/Links/Parents/DMA_Parent_Guide___Option_B.pdf)**
 
 *  **[DMA Option Form](https://go.gov.sg/stgss-dma-option-form)**
 
@@ -127,7 +127,7 @@ Click on the [link](https://stgabrielssec.adminbreeze.com/) to access the Admin 
       <td class="tg-n4qt">
         <br>
         Education and Career Guidance<br>
-        ( <a href="https://www.myskillsfuture.sg/content/student/en/secondary.html"><span style="text-decoration:none;color:#0C343D">ecareers.sg web portal</span></a> )<br>
+        ( <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html"><span style="text-decoration:none;color:#0C343D">ecareers.sg web portal</span></a> )<br>
         <br>
       </td>
     </tr>
