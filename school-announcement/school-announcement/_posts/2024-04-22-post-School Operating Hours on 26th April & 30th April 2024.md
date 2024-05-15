@@ -7,8 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>School will close on 26th April 2024 (Friday) for the Staff Retreat to
-Garden by the Bay.</p>
-<p></p>
-<p>School will close at 5pm on 30th April 2024 (Tuesday) being the School
-Founder's Day</p>
+<p>School will close on 17th May 2024 (Friday) for Sports Fiesta</p>
