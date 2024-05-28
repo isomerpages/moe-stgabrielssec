@@ -35,7 +35,6 @@ variant: markdown
 *   **[HRP](https://www.hrp.gov.sg/)**
 *   **[FormSG](https://form.gov.sg/#!/)**
 *   **[Microsoft OneDrive Personal Cloud Storage (5TB)](https://office.com)**
-*   **[AV Support Form](https://docs.google.com/spreadsheets/d/1mWqbDgZ2XZSeM-GwfpB_GDyVDuGI7wgeNkchZZ-mLU0/edit#gid=0)**
 *   **[Bus Booking Form](https://go.gov.sg/sgss-bus-booking-form)**
 *   **[Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/stgabrielssec)**
 *   **[SGSS ICT Equipment Fault Report Form](https://docs.google.com/forms/d/e/1FAIpQLSf2n6WW2c4xLi-gkrptbPSFmTmVrpuqTC0Q2NY7gEEgY1uGmA/viewform)**
