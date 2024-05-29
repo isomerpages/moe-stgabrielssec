@@ -7,4 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>School will close on 17th May 2024 (Friday) for Sports Fiesta</p>
+<p>School will close at 5pm from 3rd to 14th June 2024 being the School Holiday
+Break (June).</p>
