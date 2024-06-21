@@ -2,18 +2,19 @@
 title: Applied Learning Programme
 permalink: /signature-programmes/Applied-Learning-Programme/
 description: ""
+variant: markdown
 ---
 ## Applied Learning Programme 
 
-#### Applied Learning Programme (Flight & Aerospace)
+#### Applied Learning Programme (Flight &amp; Aerospace)
 
 ##### <u>Introduction</u>
 
-Codenamed **Project GaIA** which stands for **GAbrielites INSPIRED for Aviation**, our Applied Learning Programme (ALP) in Flight and Aerospace was started in 2015 which provides an opportunity for all our students to learn and experienced Flight and Aerospace Science in the school, giving them an early start to the very exciting and interesting field of Avaition.
+Codenamed&nbsp;**Project GaIA**&nbsp;which stands for&nbsp;**GAbrielites&nbsp;INSPIRED for&nbsp;Aviation**, our Applied Learning Programme (ALP) in Flight and Aerospace was started in 2015 which provides an opportunity for all our students to learn and experienced Flight and Aerospace Science in the school, giving them an early start to the very exciting and interesting field of Avaition.
 
 ##### <u>Objectives</u>
 
-*   raise students’ awareness of the aviation Industry
+*   raise students’ awareness of the aviation&nbsp;Industry
 *   engage students with a strong interest in aviation through experiential and hands-on learning for students
 *   nurture future leaders and professionals to serve and develop Singapore into an aviation hub
 *   encourage lifelong learning in Science, Technology, Engineering, Art and Mathematics (STEAM) through Flight and Aerospace
@@ -25,25 +26,28 @@ With the objectives in mind, all our Secondary 1 and 2 students undergo a 12 hou
 
 St. Gabriel’s Secondary School is also working closely with Singapore Youth Flying Club and recognized as an Aviation Initiative School by Civil Aviation Authority of Singapore (CAAS).
 
+![](/images/Signature%20Programmes/Applied%20Learning%20Programme/Visit_to_Flight_Centre_at_Boeing_Global_Services.jpg)
+**Visit to Flight Centre at Boeing Global Services**
+
 ![](/images/Signature%20Programmes/Applied%20Learning%20Programme/Singapore%20Air%20Show%202018.jpeg)
 **Visit to Singapore Air Show**
 
 
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/VR.jpeg" style="width:50%" align=left> 
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/VR.jpeg" style="width:50%" align="left"> 
 
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Glider.png" style="width:49%" align=right>
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Glider.png" style="width:49%" align="right">
 	
-<br clear = "left">
-<br clear = "left">
+<br clear="left">
+<br clear="left">
 	
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone.png" style="width:50%" align=left> 
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone.png" style="width:50%" align="left"> 
 
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/AirPaperRocket.png" style="width:50%" align=left> 
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/AirPaperRocket.png" style="width:50%" align="left"> 
 
-<br clear = "left">
-<br clear = "left">
+<br clear="left">
+<br clear="left">
 
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Airbus.png" style="width:80%" align=center>
+<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Airbus.png" style="width:80%" align="center">
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -56,7 +60,7 @@ St. Gabriel’s Secondary School is also working closely with Singapore Youth Fl
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-sxkx"><img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone%20Piloting%20&%20Videography.jpeg" style="width:100%"> Drone Piloting &amp; Videography</th>
+    <th class="tg-sxkx"><img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone%20Piloting%20&amp;%20Videography.jpeg" style="width:100%"> Drone Piloting &amp; Videography</th>
     <th class="tg-sxkx"><img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone%20Making.jpeg" style="width:100%">Drone Making</th>
   </tr>
 </thead>
