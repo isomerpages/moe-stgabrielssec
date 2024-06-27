@@ -7,5 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>School will close at 5pm from 3rd to 14th June 2024 being the School Holiday
-Break (June).</p>
+<p>School will close at 5pm on 1st July 2024 being Youth Day (School Holiday).</p>
