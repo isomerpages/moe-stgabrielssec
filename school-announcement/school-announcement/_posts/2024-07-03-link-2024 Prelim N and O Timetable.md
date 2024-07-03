@@ -1,6 +1,6 @@
 ---
-title: 2024 Term 2 WA2 Schedule
-date: 2024-04-02
+title: 2024 Prelim N and O Timetable
+date: 2024-07-03
 layout: link
 description: ""
 image: ""
