@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 #### Weighted Assessment Schedule
-
+* [WA3 Timetable](https://docs.google.com/spreadsheets/d/1w2BdJJftrl7V8AoC7iEHqqvnMaxGaNmCnfITQIXpOFs/edit?usp=drive_link)
 
 
 #### Examination  Schedule
