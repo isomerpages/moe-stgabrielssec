@@ -1,0 +1,27 @@
+collections:
+  c-c-a:
+    output: true
+    order:
+      - About Us.md
+      - Club & Societies/.keep
+      - Club & Societies/Debate Club.md
+      - Club & Societies/Information Communication Club.md
+      - Performing Arts/.keep
+      - Performing Arts/Concert Band.md
+      - Performing Arts/Drama Club.md
+      - Performing Arts/Guitar Ensemble.md
+      - Sports/.keep
+      - Sports/Badminton.md
+      - Sports/Floorball.md
+      - Sports/Football.md
+      - Sports/Golf.md
+      - Sports/Judo.md
+      - Sports/Karate.md
+      - Sports/Soft Ball.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/National Cadet Corps (Air).md
+      - Uniformed Groups/National Cadet Corps (Land).md
+      - Uniformed Groups/National Police Cadet Corps.md
+      - Uniformed Groups/Red Cross Youth.md
+      - Uniformed Groups/Scouts.md
+      - CCA Trial Audition Schedule for Year 2024.md

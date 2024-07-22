@@ -1,0 +1,6 @@
+collections:
+  signature-programmes:
+    output: true
+    order:
+      - Applied Learning Programme.md
+      - Learning For Life Programme.md
