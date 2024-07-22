@@ -1,7 +1,7 @@
 ---
 title: De enrolment for DMA for 2023 Graduating Cohort
 permalink: /school-announcement/school-announcement/de-enrolment-dma-2023-graduating-cohort/
-date: 2023-11-23
+date: 2024-01-01
 layout: post
 description: ""
 image: ""

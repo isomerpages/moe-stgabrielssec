@@ -1,10 +1,11 @@
 ---
 title: 2024 MOE Financial Assistance Scheme (MOE FAS) Application
 permalink: /school-announcement/school-announcement/moe-fas-2024/
-date: 2023-10-17
+date: 2024-01-10
 layout: post
 description: ""
 image: ""
+variant: tiptap
 ---
 **2024 MOE Financial Assistance Scheme (MOE FAS) Application**  
 
