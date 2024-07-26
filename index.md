@@ -12,15 +12,6 @@ sections:
       title: Announcement
       subtitle: St. Gabriel's Secondary School
       button: More
-  - infopic:
-      title: Homed-based Learning (23-25 July 2024)
-      subtitle: ST. GABRIEL'S SECONDARY SCHOOL
-      id: infopic
-      description: Click the link below
-      button: CLICK HERE
-      url: https://tinyurl.com/hbl072024
-      image: /images/HBL_23___25_July_2024.jpg
-      alt: Image alt text
   - infobar:
       title: Want to find out more about St. Gabriel's Secondary School?
       subtitle: St. Gabriel's Secondary School
