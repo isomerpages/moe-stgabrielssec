@@ -9,5 +9,5 @@ variant: markdown
 
 
 #### Examination  Schedule
-* [Prelim 'N' Level Timetable](/files/2024_Prelim_N_Level_Timetable.pdf)
+* [Prelim 'N' Level Timetable](/files/2024_N_Level_Prelim_Timetable.pdf)
 * [Prelim 'O' Level Timetable](/files/2024_Prelim_O_Level_Timetable.pdf)
