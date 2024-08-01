@@ -7,4 +7,4 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>School will close at 5pm on 1st July 2024 being Youth Day (School Holiday).</p>
+<p>School will close at 5pm on 8th August 2024 being Eve of National Day.</p>
