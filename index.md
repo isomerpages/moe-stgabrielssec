@@ -13,12 +13,12 @@ sections:
       subtitle: St. Gabriel's Secondary School
       button: More
   - infopic:
-      title: St. Gabriel's Foundation Charity2024
+      title: St. Gabriel's Foundation Charity Movie 2024
       subtitle: ST. GABRIEL'S SECONDARY SCHOOL
       id: infopic
       description: Click the link below
       button: READ MORE
-      url: /sgss-foundation-day-2024/
+      url: /st-gabriel-s-foundation-charity-movie-2024/
       image: /images/St__Gabriel_s_Foundation_2024.jpg
       alt: Image alt text
   - infobar:
