@@ -46,9 +46,9 @@ You would have received a letter titled&nbsp;**“National Digital Literacy Prog
 
 #### School Staff
 
-*   **[Form Teachers &amp; Subject Teachers](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/Form-and-Subject-Teachers/Form-Teachers-Subject-Teachers)**
-*   **[CCA&nbsp;Teachers](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/Form-and-Subject-Teachers/CCA-Teachers/)**
-*   **[Heads of Departments &amp; Subject Heads](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/School-Executive-Committee/)**
+*   **[Form Teachers](https://stgabrielssec.moe.edu.sg/people/form-teachers/)**
+*   **[CCA&nbsp;Teachers](https://stgabrielssec.moe.edu.sg/people/form-teachers/cca-teachers/)**
+*   **[Heads of Departments &amp; Subject Heads](https://stgabrielssec.moe.edu.sg/people/school-executive-committee/)**
 
 
 ***
