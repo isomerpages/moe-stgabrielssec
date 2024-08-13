@@ -1,6 +1,6 @@
 ---
 title: School Executive Committee
-permalink: /people/School-Executive-Committee/
+permalink: /people/school-executive-committee/
 description: ""
 variant: markdown
 ---
