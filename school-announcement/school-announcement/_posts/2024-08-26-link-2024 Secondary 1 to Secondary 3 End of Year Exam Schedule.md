@@ -1,6 +1,6 @@
 ---
-title: 2024 WA3 Schedule
-date: 2024-07-15
+title: 2024 Secondary 1 to Secondary 3 End of Year Exam Schedule
+date: 2024-08-26
 layout: link
 description: ""
 image: ""
