@@ -71,7 +71,7 @@ variant: markdown
 	  <tr>
     <td>Science<br>Head of Department</td>
     <td>Mr. Mario Chua</td>
-    <td>140</td>
+    <td>114</td>
   </tr>
   <tr>
     <td>Humanities<br>Head of Department</td>
