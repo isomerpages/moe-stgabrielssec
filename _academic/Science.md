@@ -108,17 +108,6 @@ We also incorporate Assessment for Learning (AfL) in our daily lessons to build 
     <td class="tg-1fjv"><a href="mailto:yip_chin_ngan@moe.edu.sg">yip_chin_ngan@moe.edu.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-5e8z">Mrs. Jean Koh</td>
-    <td class="tg-5e8z">Teacher</td>
-    <td class="tg-1fjv"><a href="mailto:koh_joo_kim_jean@moe.edu.sg">koh_joo_kim_jean@moe.edu.sg</a></td>
-	</tr>
-  <tr>
-    <td class="tg-5e8z">Ms. Joanne Lim</td>
-    <td class="tg-5e8z">Teacher</td>
-    <td class="tg-1fjv"><a href="mailto:lim_shanrui_joanne@moe.edu.sg">lim_shanrui_joanne@moe.edu.sg
-			</a></td>
-  </tr>
-  <tr>
     <td class="tg-5e8z">Mr. Joshua Leong</td>
     <td class="tg-5e8z">Teacher</td>
     <td class="tg-1fjv"><a href="mailto:leong_heng_wah@moe.edu.sg">leong_heng_wah@moe.edu.sg
@@ -150,11 +139,7 @@ We also incorporate Assessment for Learning (AfL) in our daily lessons to build 
     <td class="tg-5e8z">Teacher</td>
     <td class="tg-1fjv"><a href="mailto:anthony_tang_chong_tong@moe.edu.sg">anthony_tang_chong_tong@moe.edu.sg </a></td>
   </tr>
-  <tr>
-    <td class="tg-5e8z">Mr. S Haridass</td>
-    <td class="tg-5e8z">Lab Technician</td>
-    <td class="tg-5e8z">-</td>
-  </tr>
+
   <tr>
     <td class="tg-5e8z"> Ms. Jamuna</td>
     <td class="tg-5e8z">Lab Technician</td>
