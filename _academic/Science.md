@@ -2,6 +2,7 @@
 title: Science
 permalink: /academic/Science/
 description: ""
+variant: markdown
 ---
 ## Science
 
@@ -14,15 +15,15 @@ The aim of the Science Education programme at St. Gabriel’s Secondary School (
 *   enthuse Gabrielites to learn, live and love Science
 *   nurture Gabrielites to be inquirers and innovators that are steeped in values
 
-The SGSS Science curriculum aligns itself to the MOE CPDD’s Science curriculum framework, which seeks to inculcate students with strong fundamentals in Science for life, learning, citizenry and work. With the **three Ins** – Inspire, Inquire, Innovate, as the vision of Science Education, the goals of Science Education are to:
+The SGSS Science curriculum aligns itself to the MOE CPDD’s Science curriculum framework, which seeks to inculcate students with strong fundamentals in Science for life, learning, citizenry and work. With the&nbsp;**three Ins**&nbsp;– Inspire, Inquire, Innovate, as the vision of Science Education, the goals of Science Education are to:
 
-a. Enthuse and nurture all students to be scientifically literate, so that they are able to make informed decisions and take responsible actions in their daily lives; and
+a.&nbsp;Enthuse and nurture all students to be scientifically literate, so that they are able to make informed decisions and take responsible actions in their daily lives; and
 
-b. Provide strong Science fundamentals for students to innovate and pursue STEM for future learning and work.
+b.&nbsp;Provide strong Science fundamentals for students to innovate and pursue STEM for future learning and work.
 
-<img src="/images/Academic/Science/Science.png" style="width:70%" >
+<img src="/images/Academic/Science/Science.png" style="width:70%">
 
-Central to the revised Science Curriculum Framework is the tagline **Science for Life and Society**, which is grounded in the three domains of
+Central to the revised Science Curriculum Framework is the tagline&nbsp;**Science for Life and Society**, which is grounded in the three domains of
 
 *   Core Ideas,
 *   Practices, and
@@ -36,9 +37,9 @@ The term Core Ideas refers to the fundamental ideas that are essential for the u
 
 **Lower Secondary Science**
 
-Our lower secondary science curriculum is an integration of all three sciences, Biology, Chemistry and Physics and follows a thematic approach - diversity, models, systems and interactions. Through the 5E Inquiry approach, students are engaged in the Practices of Science, grounded in the knowledge, issues and questions that relate to the roles played by Science in daily life, society and the environment.SGSS also offers the **Applied Learning Program (ALP)** with specialisation in Aviation Science to lower secondary students to encourage the lifelong learning in Science, Technology, Engineering and Mathematics (STEM) through Flight and Aerospace.
+Our lower secondary science curriculum is an integration of all three sciences, Biology, Chemistry and Physics and follows a thematic approach - diversity, models, systems and interactions. Through the 5E Inquiry approach, students are engaged in the Practices of&nbsp;Science, grounded in the knowledge, issues and questions that relate to the roles played by Science in daily life, society and the environment.SGSS also offers the&nbsp;**Applied Learning Program (ALP)**&nbsp;with specialisation in Aviation Science to lower secondary students to encourage the lifelong learning in&nbsp;Science, Technology, Engineering and Mathematics (STEM) through Flight and Aerospace.
 
-For more information on our ALP programme, please click **[here](https://staging.d3b8qjosoo9awx.amplifyapp.com/signature-programmes/Applied-Learning-Programme/)**.
+For more information on our ALP programme, please click&nbsp;**[here](https://staging.d3b8qjosoo9awx.amplifyapp.com/signature-programmes/Applied-Learning-Programme/)**.
 
 **Upper Secondary Science**
 
@@ -60,30 +61,6 @@ We also incorporate Assessment for Learning (AfL) in our daily lessons to build 
 
 **<center><u>The Science Team</u></center>**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-q8lm{background-color:#0B4A7E;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-5e8z{background-color:#FAFAFA;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-q8lm" colspan="2"><span style="color:#FFF;background-color:#0B4A7E">Subject Head / Science</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-5e8z">Ms. Cherina Low<br><a href="mailto:low_ting_ting_cherina@moe.edu.sg">low_ting_ting_cherina@moe.edu.sg</a></td>
-    <td class="tg-5e8z">Mr. Mario Chua<br><a href="mailto:chua_chong_yi_mario@moe.edu.sg">chua_chong_yi_mario@moe.edu.sg</span></a><br></td>
-  </tr>
-</tbody>
-</table>
-
-<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -105,6 +82,11 @@ We also incorporate Assessment for Learning (AfL) in our daily lessons to build 
   </tr>
 </thead>
 <tbody>
+	  <tr>
+    <td class="tg-5e8z">Mr. Mario Chua</td>
+    <td class="tg-5e8z">HOD / Science</td>
+    <td class="tg-1fjv"><a href="mailto:chua_chong_yi_mario@moe.edu.sg">chua_chong_yi_mario@moe.edu.sg</a></td>
+  </tr>
   <tr>
     <td class="tg-5e8z">Mr. Nick Chow</td>
     <td class="tg-5e8z">Year Head</td>
@@ -166,7 +148,7 @@ We also incorporate Assessment for Learning (AfL) in our daily lessons to build 
   <tr>
     <td class="tg-5e8z">Mr. Anthony Tang</td>
     <td class="tg-5e8z">Teacher</td>
-    <td class="tg-1fjv"><a href="mailto:anthony_tang_chong_tong@moe.edu.sg ">anthony_tang_chong_tong@moe.edu.sg </a></td>
+    <td class="tg-1fjv"><a href="mailto:anthony_tang_chong_tong@moe.edu.sg">anthony_tang_chong_tong@moe.edu.sg </a></td>
   </tr>
   <tr>
     <td class="tg-5e8z">Mr. S Haridass</td>
