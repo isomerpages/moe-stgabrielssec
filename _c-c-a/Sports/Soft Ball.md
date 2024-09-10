@@ -43,17 +43,25 @@ Our softballers continues to contribute back to the school even after their grad
 
 ##### <u>Training Sessions</u>
 
-*   Tuesday, Thursday &amp; Friday: 2.30pm - 6.00pm
+*   Tuesday, Thursday : 3.00pm - 6.00pm
+<br>Friday: 2.00pm - 6.00pm
 *   Venue: School Field
 
 ***A testament to how our Gabrielite leaders lead the way to ensure their juniors are able to continue their route to success. Well done Softball boys!***
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/YuUYwba4FqE?si=CmfB1AuEOws2xBGR" height="315" width="560"></iframe>
 
+<br>
+
+***St. Gabriel's Softball Award 2024***
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5zXvcCJOyvo?si=eLgNdS8yoyb8TLFn" height="315" width="560"></iframe>
 
 ##### <u>Achievements and Awards</u><br>
 
 ##### 'B' Division
+*  National 3rd Runner-up (4th) – 2024
+*   National 1st Runner-up (2nd) - 2023
+*   National 2nd Runner-up (3rd) - 2022
 *   National 1st Runner-up (2nd) - 2019
 *   Singapore Recreation Club (SRC) Softball Carnival (2nd) - 2019     
 *   National Top 8 – 2018
@@ -68,6 +76,9 @@ Our softballers continues to contribute back to the school even after their grad
 
 ##### 'C' Division
 
+*   National 1st Runner-up (2nd) – 2024
+*   National Top 8 - 2023
+*   National 3rd Runner-up (4th) – 2022
 *   National Top 8 - 2019
 *   National Top 8 – 2018
 *   National Top 8 – 2017
