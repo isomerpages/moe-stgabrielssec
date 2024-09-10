@@ -51,6 +51,10 @@ Our softballers continues to contribute back to the school even after their grad
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/YuUYwba4FqE?si=CmfB1AuEOws2xBGR" height="315" width="560"></iframe>
 
+<br>
+
+***St. Gabriel's Softball Award 2024***
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5zXvcCJOyvo?si=eLgNdS8yoyb8TLFn" height="315" width="560"></iframe>
 
 ##### <u>Achievements and Awards</u><br>
 
