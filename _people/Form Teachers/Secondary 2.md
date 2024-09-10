@@ -109,7 +109,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
 <p>2E4</p>
 </td>
@@ -125,21 +125,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>153</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Crescentia Wang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wang_siew_hiang_crescentia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_siew_hiang_crescentia@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>207</p>
 </td>
 </tr>
 <tr>
