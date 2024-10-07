@@ -7,6 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>School will close at 5pm on 29th August to 6th September 2024 for Teachers’
-Day Holiday (29th &amp; 30th August) and September School Holiday Break
-(2nd to 6th September).</p>
+<p>School will close at 5pm during Marking Days on 11th and 14th October
+2024.</p>
