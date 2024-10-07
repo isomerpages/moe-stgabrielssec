@@ -37,7 +37,6 @@ benefits of MOE FAS.</p>
 </ul>
 <p><strong>ELIGIBILITY CRITERIA</strong>
 </p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -49,7 +48,7 @@ benefits of MOE FAS.</p>
 <p>MOE FAS</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>SGSS SBFAS</p>
+<p>SGSS SBFAS*</p>
 </th>
 </tr>
 <tr>
@@ -70,13 +69,25 @@ benefits of MOE FAS.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Per Capita Income** = $750</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Per Capita Income** = $1100 or below</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>*Students who do not meet the criteria for the MOE FAS will be helped
+through our <strong>SGSS School-based FAS</strong>.</p>
+<p>**(Per Capita Income = Total Gross Monthly Household Income divided by
+the no. of Household Members)</p>
 <p></p>
-<p></p>
+<p><strong>SUBMISSION</strong>
+</p>
+<p>To apply for MOE FAS, you are strongly encouraged to submit through the
+eFAS (eFAS link in Parent Gateway / Services / Financial assistance &amp;
+Via Online form - <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a>)</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/eFAS.png">
+</div>
+<p>Via</p>
