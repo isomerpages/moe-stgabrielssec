@@ -2,185 +2,225 @@
 title: Quick Links (Students)
 permalink: /links/Quick-Links-Students/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-## QUICK LINKS (STUDENTS)
-
-![](/images/students%20link.jpg)
-
-##### [Student Learning Space Portal (SLS)](https://vle.learning.moe.edu.sg/login)
-
-As part of the Ministry of Education’s (MOE) commitment to nurture future-ready learners, an online learning platform known as the Singapore Student Learning Space (SLS) is made available to the students. The SLS can be accessed from https://vle.learning.moe.edu.sg/login
-(recommended to view in Google Chrome)
-
-*   **[Guide to SLS Account Management - Instructions for Students](/files/Links/Students/Guide%20to%20SLS%20Account%20Management%20–%20Instructions%20for%20Students.pdf)**
-*   **[Guide on Register Verified Email Address](/files/Links/Students/User%20Guide%20-%20Register%20Verified%20Email%20Address.pdf)**
-*   **[Password Reset Guide](/files/Links/Students/Password%20Reset%20Guide.pdf)**
-*   **[SLS Reset Password Form](http://tinyurl.com/slsandiconresetpasswordform)**
-
----
-
-
-##### [Admin Breeze Portal](https://lms.wizlearn.com/STGSS/login.aspx)
-Click on this [link](https://stgabrielssec.adminbreeze.com/) to access the Admin Breeze Portal
-
----
-
-##### [Student ICON](https://workspace.google.com/dashboard) 
-
-Student iCON is a suite of Google apps that helps to better support student’s learning and collaboration with others. Student iCON can be accessed from https://workspace.google.com/dashboard
-
-*   **[Guide on Onboarding Student ICON](/files/Links/Students/Onboard%20Student%20ICON%20Guide%20for%20School%20Website.pdf)**
-
-*  **[Student ICON Reset Password Form](http://tinyurl.com/slsandiconresetpasswordform)**
-
----
-
-##### [St. Gabriel's Secondary School OPAC](https://schoolibrary.moe.edu.sg/stgabrielssec)
-
-Click on this [link](https://schoolibrary.moe.edu.sg/stgabrielssec) to access the OPAC
-
----
-
-##### <center> 2024 Booklist </center>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-qq4b{background-color:#07416f;border-color:inherit;color:#ffffff;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-qq4b">Secondary 1 </th>
-    <th class="tg-qq4b">Secondary 2</th>
-  </tr>
-</thead>
+<h2>QUICK LINKS (STUDENTS)</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/students%20link.jpg">
+</div>
+<h5><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space Portal (SLS)</a></h5>
+<p>As part of the Ministry of Education’s (MOE) commitment to nurture future-ready
+learners, an online learning platform known as the Singapore Student Learning
+Space (SLS) is made available to the students. The SLS can be accessed
+from <a href="https://vle.learning.moe.edu.sg/login" rel="noopener nofollow" target="_blank">https://vle.learning.moe.edu.sg/login </a>(recommended
+to view in Google Chrome)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="/files/Links/Students/Guide%20to%20SLS%20Account%20Management%20%E2%80%93%20Instructions%20for%20Students.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to SLS Account Management - Instructions for Students</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="/files/Links/Students/User%20Guide%20-%20Register%20Verified%20Email%20Address.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide on Register Verified Email Address</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="/files/Links/Students/Password%20Reset%20Guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Password Reset Guide</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="http://tinyurl.com/slsandiconresetpasswordform" rel="noopener noreferrer nofollow" target="_blank">SLS Reset Password Form</a></strong>
+</p>
+</li>
+</ul>
+<hr>
+<h5><a href="https://lms.wizlearn.com/STGSS/login.aspx" rel="noopener noreferrer nofollow" target="_blank">Admin Breeze Portal</a></h5>
+<p>Click on this <a href="https://stgabrielssec.adminbreeze.com/" rel="noopener noreferrer nofollow" target="_blank">link</a> to
+access the Admin Breeze Portal</p>
+<hr>
+<h5><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student ICON</a></h5>
+<p>Student iCON is a suite of Google apps that helps to better support student’s
+learning and collaboration with others. Student iCON can be accessed from
+<a href="https://workspace.google.com/dashboard" rel="noopener nofollow" target="_blank">https://workspace.google.com/dashboard</a>
+</p>
+<ul>
+<li>
+<p><strong><a href="/files/Links/Students/Onboard%20Student%20ICON%20Guide%20for%20School%20Website.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide on Onboarding Student ICON</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="http://tinyurl.com/slsandiconresetpasswordform" rel="noopener noreferrer nofollow" target="_blank">Student ICON Reset Password Form</a></strong>
+</p>
+</li>
+</ul>
+<hr>
+<h5><a href="https://schoolibrary.moe.edu.sg/stgabrielssec" rel="noopener noreferrer nofollow" target="_blank">St. Gabriel's Secondary School OPAC</a></h5>
+<p>Click on this <a href="https://schoolibrary.moe.edu.sg/stgabrielssec" rel="noopener noreferrer nofollow" target="_blank">link</a> to
+access the OPAC</p>
+<hr>
+<h5>2024 Booklist</h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-c3ow"><a href="/files/Links/Students/Sec_1_G3_G2_G1.pdf"><span style="text-decoration:none;color:#0C343D">G3/G2/G1</span></a></td>
-    <td class="tg-c3ow"><a href="/files/Links/Students/sec%202%20express.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow"><span style="text-decoration:none;color:#0C343D"></span>-</td>
-    <td class="tg-c3ow"><a href="/files/Links/Students/sec%202%20normal%20academic.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow"><span style="text-decoration:none;color:#0C343D"></span>-</td>
-    <td class="tg-c3ow"><a href="/files/Links/Students/sec%202%20normal%20technical.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Secondary 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Secondary 2</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Links/Students/Sec_1_G3_G2_G1.pdf" rel="noopener noreferrer nofollow" target="_blank">G3/G2/G1</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Links/Students/sec%202%20express.pdf" rel="noopener noreferrer nofollow" target="_blank">Express</a>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Links/Students/sec%202%20normal%20academic.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal Academic</a>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Links/Students/sec%202%20normal%20technical.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal Technical</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
-<br>
-<br>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-qq4b{background-color:#07416f;border-color:inherit;color:#ffffff;text-align:center;vertical-align:top}
-.tg .tg-4aj6{background-color:#07416f;color:#ffffff;text-align:center;vertical-align:top}
-</style>
-
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-qq4b">Secondary 3 </th>
-    <th class="tg-qq4b">Secondary 4</th>
-    <th class="tg-4aj6">Secondary 5</th>
-  </tr>
-</thead>
+<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-c3ow"><a href="/files/Links/Students/sec%203%20express.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a></td>
-    <td class="tg-c3ow"><a href="/files/Links/Students/sec%204%20express.pdf"><span style="text-decoration:none;color:#0C343D">Express</span></a><br></td>
-    <td class="tg-baqh"><a href="/files/Links/Students/Sec_5_Normal_Academic.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span><br></a></td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow"><a href="/files/Links/Students/sec%203%20normal%20academic.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a></td>
-    <td class="tg-c3ow"><a href="/files/Links/Students/sec%204%20normal%20academic.pdf"><span style="text-decoration:none;color:#0C343D">Normal Academic</span></a><br></td>
-    <td class="tg-baqh">-</td>
-  </tr>
-  <tr>
-    <td class="tg-c3ow"><a href="/files/Links/Students/sec%203%20normal%20technical.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
-    <td class="tg-c3ow"><a href="/files/Links/Students/sec%204%20normal%20technical.pdf"><span style="text-decoration:none;color:#0C343D">Normal Technical</span></a></td>
-    <td class="tg-baqh">-</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Secondary 3</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Secondary 4</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Secondary 5</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Links/Students/sec%203%20express.pdf" rel="noopener noreferrer nofollow" target="_blank">Express</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Links/Students/sec%204%20express.pdf" rel="noopener noreferrer nofollow" target="_blank">Express</a>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Links/Students/Sec_5_Normal_Academic.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal Academic<br></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Links/Students/sec%203%20normal%20academic.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal Academic</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Links/Students/sec%204%20normal%20academic.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal Academic</a>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Links/Students/sec%203%20normal%20technical.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal Technical</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Links/Students/sec%204%20normal%20technical.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal Technical</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
 </tbody>
 </table>
-
-##### Other Links
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-dwlh{background-color:#B0B0B0;color:#222;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-otbs{background-color:#EAEAEA;color:#0C343D;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ku5w{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:middle}
-</style>
-
+<h5>Other Links</h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>
+<br><a href="(/files/Links/Students/School%20Rules%20and%20Regulation%202023.pdf)" rel="noopener noreferrer nofollow" target="_blank">School Rules &amp; Regulations</a>
 <br>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n4qt{background-color:#EAEAEA;color:#222;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ii8k{background-color:#EAEAEA;color:#222;text-align:center;vertical-align:top}
-.tg .tg-otbs{background-color:#EAEAEA;color:#0C343D;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tg-otbs">
-        <br>
-        <a href="(/files/Links/Students/School%20Rules%20and%20Regulation%202023.pdf)">School Rules &amp; Regulations</a><br>
-      </th>
-      <th class="tg-n4qt">
-        <br>
-        <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html">Education and Career Guidance</a><br>
-        <br>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="tg-n4qt">
-        <br>
-        <a href="https://sgss.edupage.org/timetable/">Class Timetable</a><br>
-        <br>
-      </td>
-      <td class="tg-otbs">
-        <br>
-        <a href="https://www.moe.gov.sg/education/admissions/jae/">JAE Internet System (JAE-IS)</a><br>
-        <br>
-      </td>
-    </tr>
-    <tr>
-      <td class="tg-n4qt">
-        <br>
-  <a href="http://portal.swn.moe.edu.sg/">School WiFi Log In / Log Off Portal</a><br>
-        <br>
-      </td>
-      <td class="tg-otbs">
-        <br>
-        <a href="/files/Links/Students/Locker%20Rental%20Application%20Form.pdf">Locker Rental Application Form</a><br>
-        <br>
-      </td>
-    </tr>
-  </tbody>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">Education and Career Guidance</a>
+<br>
+<br>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
+<br><a href="https://sgss.edupage.org/timetable/" rel="noopener noreferrer nofollow" target="_blank">Class Timetable</a>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br><a href="https://www.moe.gov.sg/education/admissions/jae/" rel="noopener noreferrer nofollow" target="_blank">JAE Internet System (JAE-IS)</a>
+<br>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
+<br><a href="http://portal.swn.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">School Wi-Fi Log In / Log Off Portal</a>
+<br>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>
+<br><a href="/files/Links/Students/Locker%20Rental%20Application%20Form.pdf" rel="noopener noreferrer nofollow" target="_blank">Locker Rental Application Form</a>
+<br>
+<br>
+</p>
+</td>
+</tr>
+</tbody>
 </table>
+<p></p>
