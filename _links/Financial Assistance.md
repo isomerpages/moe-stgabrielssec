@@ -30,10 +30,6 @@ benefits of MOE FAS.</p>
 <p><a href="/files/Links/MOE_FAS_Pamphlet__TL_.pdf" rel="noopener nofollow" target="_blank">Tamil</a>
 </p>
 </li>
-<li>
-<p><a href="/files/Links/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form</a>
-</p>
-</li>
 </ul>
 <p><strong>ELIGIBILITY CRITERIA</strong>
 </p>
@@ -90,4 +86,29 @@ Via Online form - <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" t
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/eFAS.png">
 </div>
-<p>Via</p>
+<p>Via Hardcopy Form - <a href="/files/Links/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form</a>
+</p>
+<p></p>
+<p>Completed forms together with all relevant supporting documents should
+be submitted to our school’s General Office or via email&nbsp;<a href="mailto:stgss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">stgss@moe.edu.sg</a>.</p>
+<p></p>
+<p><strong>NOTE</strong>
+</p>
+<p>1. If your child is a ComCare recipient, you need not submit the application
+for MOE FAS as MOE FAS will be auto-granted to ComCare beneficiaries.</p>
+<p>2. For parents with children in different schools, you need to submit
+only one application form for all your school-going children to one of
+their schools. The school which receives the application form will inform
+you of the outcome for all the children.</p>
+<p>3.Hardcopy form is required for:</p>
+<p>a. families with other dependents (Great grandparents, Aunties/Uncles,
+Cousins and others)</p>
+<p>b. family with more than 6 children in GGAS</p>
+<p>c. family with more than 5 unmarried children not in GGAS</p>
+<p>d. family with more than 3 grandparents in the household</p>
+<p></p>
+<p>For more information, please visit&nbsp;<a href="www.moe.gov.sg/financial-matters/financial-assistance/" rel="noopener nofollow" target="_blank">www.moe.gov.sg/financial-matters/financial-assistance/</a>
+</p>
+<p>Should you have any further queries, please feel free to contact the General
+Office at 6288 9470.</p>
+<p></p>
