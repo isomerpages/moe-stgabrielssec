@@ -1,6 +1,6 @@
 ---
 title: Financial Assistance
-permalink: /financial-assistance/
+permalink: /links/financial-assistance/
 variant: tiptap
 description: ""
 ---
