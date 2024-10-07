@@ -2,9 +2,9 @@ collections:
   links:
     output: true
     order:
-      - Financial Assistance.md
       - Student Handbook.md
       - Brothers of St Gabriel's Province Bulletin.md
+      - Financial Assistance.md
       - Frequently Asked Questions/.keep
       - "Frequently Asked Questions/FAQ: Student Admissions.md"
       - "Frequently Asked Questions/FAQ: School and Miscellaneous Fees.md"
