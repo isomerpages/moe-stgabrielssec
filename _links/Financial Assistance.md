@@ -81,8 +81,9 @@ the no. of Household Members)</p>
 <p><strong>SUBMISSION</strong>
 </p>
 <p>To apply for MOE FAS, you are strongly encouraged to submit through the
-eFAS (eFAS link in Parent Gateway / Services / Financial assistance &amp;
-Via Online form - <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a>)</p>
+eFAS</p>
+<p>(eFAS link in Parent Gateway / Services / Financial assistance &amp; Via
+Online form - <a href="https://go.gov.sg/moe-efas" rel="noopener nofollow" target="_blank">https://go.gov.sg/moe-efas</a>)</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/eFAS.png">
 </div>
