@@ -12,6 +12,16 @@ sections:
       title: Announcement
       subtitle: St. Gabriel's Secondary School
       button: More
+  - infopic:
+      title: e-Open House
+      subtitle: ST. GABRIEL'S SECONDARY SCHOOL
+      id: infopic
+      description: Join us as we share a little bit about the history of the school as
+        well as key programmes and initiatives.
+      button: READ MORE
+      url: https://stgabrielssec.moe.edu.sg/eopen-house/
+      image: /images/e_Open_House.png
+      alt: Image alt text
   - infobar:
       title: Want to find out more about St. Gabriel's Secondary School?
       subtitle: St. Gabriel's Secondary School
