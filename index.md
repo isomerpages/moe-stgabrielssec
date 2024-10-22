@@ -37,6 +37,16 @@ sections:
       button: Click here
       url: https://youtu.be/QTbx_8Dcl3Y
   - infopic:
+      title: 2024 National Distinguished Chinese Language Teacher Award
+      subtitle: St. Gabriel's Secondary School
+      id: infopic
+      description: Mr. Clement See (HOD/MTL), awarded with the National Distinguished
+        Chinese Language Teacher Award 2024.
+      button: READ MORE
+      url: https://stgabrielssec.moe.edu.sg/2024-national-distinguished-chinese-language-teacher-award/
+      image: /images/Lianhe_Zao_Bao.jpg
+      alt: Image alt text
+  - infopic:
       title: 2023 President's Award for Teachers
       subtitle: St. Gabriel's Secondary School
       id: infopic
