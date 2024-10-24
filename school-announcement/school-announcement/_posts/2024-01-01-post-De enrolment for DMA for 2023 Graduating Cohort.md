@@ -7,12 +7,20 @@ description: ""
 image: ""
 variant: markdown
 ---
-#### De-enrolment for DMA for 2023 Graduating Cohort
+#### De-enrolment for DMA for 2024 Secondary 4NA & 4NT Graduating Cohort
 
-To all 2023 Graduating Cohort Students,
+To all 2024 4NA & 4NT Graduating Cohort Students,
 
-The school have de-enrolled the DMA on your PLD. 
+Your PLD will be de-enrolled from MOE managed Google Admin Console (GAC) on 5th November 2024. 
 
-To complete the process, you will need to powerwash your PLD. 
+Please ensure you have backed up your data on your PLD before 5th November as all local data stored on the device will no longer be accessible after the de-enrolment date.
 
-Please follow the guide given in this link [here](/files/How_to_Powerwash_Chromebook.pdf)
+Please refer to the instructions as you will need to do to complete the entire de-enrolment process.
+
+Instructions for PLD De-enrolment (For Students): 
+Click [here](/files/For_Students__Instructions_for_PLD_De_enrolment__Chromebook_.pdf) 
+
+If you have any enquires, you may approach the School ICT Team (6288 9470 ext 123).
+
+
+
