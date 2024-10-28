@@ -74,31 +74,10 @@ access the OPAC</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/Sec_1_G3_G2_G1.pdf" rel="noopener noreferrer nofollow" target="_blank">G3/G2/G1</a>
-</p>
+<p>To be confirm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/sec%202%20express.pdf" rel="noopener noreferrer nofollow" target="_blank">Express</a>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/sec%202%20normal%20academic.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal Academic</a>
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/sec%202%20normal%20technical.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal Technical</a>
+<p><a href="/files/Links/Students/2025_Secondary_2_Booklist.pdf" rel="noopener nofollow" target="_blank">G3/G2/G1</a>
 </p>
 </td>
 </tr>
@@ -125,26 +104,29 @@ access the OPAC</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/sec%203%20express.pdf" rel="noopener noreferrer nofollow" target="_blank">Express</a>
+<p><a href="/files/Links/Students/2025_Secondary_3E_Booklist.pdf" rel="noopener nofollow" target="_blank">Express</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/sec%204%20express.pdf" rel="noopener noreferrer nofollow" target="_blank">Express</a>
+<p><a href="/files/Links/Students/2025_Secondary_4E_Booklist.pdf" rel="noopener nofollow" target="_blank">Express</a>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/Sec_5_Normal_Academic.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal Academic<br></a>
+<p><a href="/files/Links/Students/2025_Secondary_5NA_Booklist.pdf" rel="noopener nofollow" target="_blank">Normal Academic</a>
+<a href="/files/Links/Students/Sec_5_Normal_Academic.pdf" rel="noopener noreferrer nofollow" target="_blank">
+<br>
+</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/sec%203%20normal%20academic.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal Academic</a>
+<p><a href="/files/Links/Students/2025_Secondary_3NA_Booklist.pdf" rel="noopener nofollow" target="_blank">Normal Academic</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/sec%204%20normal%20academic.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal Academic</a>
+<p><a href="/files/Links/Students/2025_Secondary_4NA_Booklist.pdf" rel="noopener nofollow" target="_blank">Normal Academic</a>
 <br>
 </p>
 </td>
@@ -154,11 +136,11 @@ access the OPAC</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/sec%203%20normal%20technical.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal Technical</a>
+<p><a href="/files/Links/Students/2025_Secondary_3NT_Booklist.pdf" rel="noopener nofollow" target="_blank">Normal Technical</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/sec%204%20normal%20technical.pdf" rel="noopener noreferrer nofollow" target="_blank">Normal Technical</a>
+<p><a href="/files/Links/Students/2025_Secondary_4NT_Booklist.pdf" rel="noopener nofollow" target="_blank">Normal Technical</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
