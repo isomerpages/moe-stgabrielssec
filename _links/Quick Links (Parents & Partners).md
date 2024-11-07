@@ -40,34 +40,6 @@ slides above for details of the programme.</p>
 <p><strong><a href="/files/Links/Parents/Infographic_on_the_PLD_Initiative.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographic on the PLD Initiative</a></strong>
 </p>
 </li>
-<li>
-<p><strong><a href="/files/Links/Parents/Annex_A___Functions_of_the_DMA.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex A: Functions of the DMA</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="/files/Links/Parents/Annex_B___DMA_Settings_After_School_Hours.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex B: DMA Settings After School Hours</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="/files/Links/Parents/Annex_C___Privacy_and_Data_Security.pdf" rel="noopener noreferrer nofollow" target="_blank">Annex C: Privacy and Data Security</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="/files/Links/Parents/DMA_Parent_Guide___Default_Option.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Default Option</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="/files/Links/Parents/DMA_Parent_Guide___Option_A.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option A</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="/files/Links/Parents/DMA_Parent_Guide___Option_B.pdf" rel="noopener noreferrer nofollow" target="_blank">DMA Parent Guide - Option B</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://go.gov.sg/stgss-dma-option-form" rel="noopener noreferrer nofollow" target="_blank">DMA Option Form</a></strong>
-</p>
-</li>
 </ul>
 <hr>
 <h4>School Staff</h4>
