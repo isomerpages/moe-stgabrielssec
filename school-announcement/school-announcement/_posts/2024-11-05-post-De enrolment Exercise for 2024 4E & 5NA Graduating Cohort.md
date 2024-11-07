@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>#### De-enrolment for DMA for 2024 Secondary 4E &amp; 5NA Graduating Cohort</p>
+<h4>De-enrolment for DMA for 2024 Secondary 4E &amp; 5NA Graduating Cohort</h4>
 <p>To all 2024 4E &amp; 5NA Graduating Cohort Students,</p>
 <p>Your PLD will be de-enrolled from MOE managed Google Admin Console (GAC)
 on 14th November 2024.</p>
