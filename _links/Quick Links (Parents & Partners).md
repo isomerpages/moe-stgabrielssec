@@ -40,6 +40,22 @@ slides above for details of the programme.</p>
 <p><strong><a href="/files/Links/Parents/Infographic_on_the_PLD_Initiative.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographic on the PLD Initiative</a></strong>
 </p>
 </li>
+<li>
+<p><strong>Infosheet on MOE DMA Settings</strong>
+</p>
+</li>
+<li>
+<p><strong>Parent User Guide for Default Option</strong>
+</p>
+</li>
+<li>
+<p><strong>Parent User Guide for Option A</strong>
+</p>
+</li>
+<li>
+<p><strong>Parent User Guide for Option B</strong>
+</p>
+</li>
 </ul>
 <hr>
 <h4>School Staff</h4>
