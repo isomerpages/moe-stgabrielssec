@@ -41,19 +41,19 @@ slides above for details of the programme.</p>
 </p>
 </li>
 <li>
-<p><strong>Infosheet on MOE DMA Settings</strong>
+<p><strong><a href="/files/Links/Parents/Infosheet_on_MOE_DMA_Settings.pdf" rel="noopener noreferrer nofollow" target="_blank">Info sheet on MOE DMA Settings</a></strong>
 </p>
 </li>
 <li>
-<p><strong>Parent User Guide for Default Option</strong>
+<p><strong><a href="/files/Links/Parents/Parent_User_Guide_for_Default_Option.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent User Guide for Default Option</a></strong>
 </p>
 </li>
 <li>
-<p><strong>Parent User Guide for Option A</strong>
+<p><strong><a href="/files/Links/Parents/Parent_User_Guide_for_Option_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent User Guide for Option A</a></strong>
 </p>
 </li>
 <li>
-<p><strong>Parent User Guide for Option B</strong>
+<p><strong><a href="/files/Links/Parents/Parent_User_Guide_for_Option_B.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent User Guide for Option B</a></strong>
 </p>
 </li>
 </ul>
