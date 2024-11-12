@@ -7,5 +7,14 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>School will close at 5pm during Marking Days on 11th and 14th October
-2024.</p>
+<p>School will close at 5pm on the following dates:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>15th November 2024 for the Annual Year End Staff Dinner</p>
+</li>
+<li>
+<p>25th November to 20 December 2024 being the end of year School Holiday
+Break</p>
+</li>
+</ul>
+<p></p>
