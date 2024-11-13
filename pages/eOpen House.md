@@ -14,6 +14,7 @@ who will share about their experience as a student in SGSS and at the end,
 we will answer queries that you may have.&nbsp;</p>
 <p>See you!</p>
 <p>QR code to the Zoom Webinar is in the image.</p>
+<p>Passcode: 7017</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/e_Open_House.png">
 </div>
