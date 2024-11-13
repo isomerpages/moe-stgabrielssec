@@ -2,6 +2,7 @@
 title: People
 permalink: /people/People/
 description: ""
+variant: markdown
 ---
 ## People 
 
@@ -9,7 +10,7 @@ description: ""
     
 2.  [School Executive Committee](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/School-Executive-Committee/)  
     
-3.  [School Staff]()  
+3.  [Form Teachers]()  
     
 4.  [Parents](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/Parents/Parents/)  
     
