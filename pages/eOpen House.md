@@ -14,6 +14,9 @@ who will share about their experience as a student in SGSS and at the end,
 we will answer queries that you may have.&nbsp;</p>
 <p>See you!</p>
 <p>QR code to the Zoom Webinar is in the image.</p>
+<p>Meeting Link: <a href="https://go.gov.sg/stgabrielseopenhouse2024" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/stgabrielseopenhouse2024</a>
+</p>
+<p>Meeting ID: 895 8483 6923</p>
 <p>Passcode: 7017</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/e_Open_House.png">
