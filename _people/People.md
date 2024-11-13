@@ -2,15 +2,29 @@
 title: People
 permalink: /people/People/
 description: ""
+variant: tiptap
 ---
-## People 
-
-1.  [School Management Committee](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/School-Management-Committee/)  
-    
-2.  [School Executive Committee](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/School-Executive-Committee/)  
-    
-3.  [School Staff]()  
-    
-4.  [Parents](https://staging.d3b8qjosoo9awx.amplifyapp.com/people/Parents/Parents/)  
-    
-5.  [Alumni](https://www.gabrielites.org/)
+<h2>People</h2>
+<ol>
+<li>
+<p><a href="https://www.stgabrielssec.moe.edu.sg/people/School-Management-Committee/" rel="noopener noreferrer nofollow" target="_blank">School Management Committee</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.stgabrielssec.moe.edu.sg/people/school-executive-committee/" rel="noopener noreferrer nofollow" target="_blank">School Executive Committee</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.stgabrielssec.moe.edu.sg/people/form-teachers/" rel="noopener noreferrer nofollow" target="_blank">Form Teachers</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.stgabrielssec.moe.edu.sg/people/Parents/Parents/" rel="noopener noreferrer nofollow" target="_blank">Parents</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.gabrielites.org/" rel="noopener noreferrer nofollow" target="_blank">Alumni</a>
+</p>
+</li>
+</ol>
+<p></p>
