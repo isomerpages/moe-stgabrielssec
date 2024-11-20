@@ -12,17 +12,13 @@ sections:
       title: Announcement
       subtitle: St. Gabriel's Secondary School
       button: More
-  - infopic:
-      title: e-Open House
-      subtitle: ST. GABRIEL'S SECONDARY SCHOOL
-      id: infopic
-      description: "Meeting ID is 895 8483 6923 Passcode: 7017. Join us as we share a
-        little bit about the history of the school as well as key programmes and
-        initiatives."
-      button: READ MORE
-      url: https://stgabrielssec.moe.edu.sg/eopen-house/
-      image: /images/e_Open_House.png
-      alt: Image alt text
+  - infobar:
+      title: St. Gabriel's Secondary School eOpen House 2024
+      subtitle: St. Gabriel's Secondary School
+      id: infobar
+      description: Click the link below to watch
+      button: Click here
+      url: https://www.youtube.com/watch?v=t0HJ03TL6Lk
   - infobar:
       title: Want to find out more about St. Gabriel's Secondary School?
       subtitle: St. Gabriel's Secondary School
