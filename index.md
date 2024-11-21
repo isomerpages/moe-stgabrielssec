@@ -16,7 +16,7 @@ sections:
       title: St. Gabriel's Secondary School eOpen House 2024
       subtitle: St. Gabriel's Secondary School
       id: infobar
-      description: Click the link below to watch
+      description: Click link below
       button: Click here
       url: https://www.youtube.com/watch?v=t0HJ03TL6Lk
   - infobar:
