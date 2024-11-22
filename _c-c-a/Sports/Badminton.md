@@ -14,7 +14,7 @@ attitude. To grow as a player, we believe one must be humble, committed
 and determined.
 <br>
 <br>“Those who play badminton well, take decisions quickly.”</p>
-<p><em> - Dmitry Medveder</em>
+<p><em>- Dmitry Medveder</em>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -23,6 +23,11 @@ and determined.
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Testament_to_our_hard_work.jpg">
+</div>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/A_fun_shot_not_to_be_missed.jpg">
 </div>
 <p></p>
 <h5>Achievements</h5>
