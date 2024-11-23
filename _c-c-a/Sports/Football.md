@@ -3,60 +3,111 @@ title: Football
 permalink: /co-curricular/Sports/Football/
 description: ""
 third_nav_title: Sports
+variant: tiptap
 ---
-## Football
-
-##### <u>Introduction</u>
-
-At St Gabriel’s Secondary Football, we strive to foster a lifelong passion for the sport. Through the continued support from the coaches and staff, our players have become more socially aware and independent while developing greater playing capabilities. Using our footballing history as a compass, St Gabriel’s Secondary Football has created a tight-knit community that values not just results but also the holistic development of our students. We hope be an educational, instructional, and pedagogical platform for our students to learn about the beautiful game while caring about social issues. Through this, we seek to preserve the footballing tradition of producing future athletes and gentlemen from the school.
-
-**<u>St Gabs Football, A.S.T.A.R Footballer</u>**
-
-S - Self-managed<br>
-T - Tenacious<br>
-A - Attitude<br>
-R - Role model
-
-![](/images/CCA/Sports%20&amp;%20Games/Football/Warm%20Up%20Activity.jpg)
-
-##### Teachers-in-charge
-1. Mr. Suraj <br>
-2. Mr. Paul De Souza <br>
-3. Mr. Chia Boon Han
-4. Ms. Teo Hui Min
-
-##### Coaches
-1. Muhammad Jasni Bin Hatta<br>
-2. Hatta Bin Ali
-
-##### <u>Training Schedule</u>
-
-*   Mon, Wed, Fri: 3.00pm - 6.00pm - Term Time
-*   Mon, Wed, Fri: 8.00am - 11.00am - School Holidays
-
-![](/images/CCA/Sports%20&amp;%20Games/Football/c%20div%20football.jpg)
-
-  
-
-##### <u>Achievements</u>
-
-##### 2023
-* NSG Football Championships B Division Boys League 1 Championships: Top 8
-* NSG Football Championships C Division Boys League 1 Championships: Top 4
-
-##### 2022
-* NSG Football Championships B Division Boys (Zonal): Top 8 
-* NSG Football Championships C Division Boys(Zonal): Top 4
-
-##### 2020-2021
-No Competitions (COVID-19)
-
-##### 2019
-
-*   NSG Football Championships B Division Boys School League 3: 1st
-*   NSG Football Championships C Division Boys League 1Championships: Top 8
-
-##### 2018
-
-*   B Division School Premier League: 3rd
-*   C Division South Zone Schools Football Championship: Round of 16
+<h2>Football</h2>
+<h5>Beliefs &amp; Outcomes</h5>
+<p>At St. Gabriel’s Secondary Football, we strive to foster a lifelong passion
+for the sport. Through the continued support from the coaches and staff,
+our players have become more socially aware and independent while developing
+greater playing capabilities. Using our footballing history as a compass,
+St. Gabriel’s Secondary Football has created a tight-knit community that
+values not just results, but also the holistic development of our students.
+We hope to be an educational, instructional, and pedagogical platform for
+our students to learn about the beautiful game while caring about social
+issues. Through this, we seek to preserve the footballing tradition of
+producing future athletes and gentlemen from the school.</p>
+<p></p>
+<p><strong><u>St Gabs Football, A.S.T.A.R Footballer</u></strong>
+</p>
+<p>S - Self-managed
+<br>T - Tenacious
+<br>A - Attitude
+<br>R - Role model</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Football/Battling_for_the_ball.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Football/Tussle_in_the_midfield.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Football/c div football.jpg">
+</div>
+<p></p>
+<h5>Achievements</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>NSG Football Championships ‘B’ Division Boys League 1 Championships: Top
+4</p>
+</li>
+<li>
+<p>NSG Football Championships ‘C’ Division Boys League 1 Championships: Round
+of 16</p>
+</li>
+</ul>
+<h5>Training Sessions</h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>Monday, Wednesday &amp; Friday: 3.00 pm - 6.00 pm (School Term)</p>
+</li>
+<li>
+<p>Monday, Wednesday &amp; Friday: 8.00 am - 11.00 am (School Holidays)</p>
+</li>
+</ul>
+<h5>Teachers-in-charge</h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name &amp; Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Paul de Souza (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:de_souza_paul_francis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">de_souza_paul_francis@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Suraj Padman (2IC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:suraj_padman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suraj_padman@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Chia Boon Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chia_boon_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_boon_han@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Teo Hui Min</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teo_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_hui_min@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
