@@ -122,20 +122,21 @@ Cup where they raise funds to contribute to Brother Dennis Care Fund.</p>
 <p>Ms. Siti Latifah (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:siti_latifah_ishar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_latifah_ishar@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms. Amira Filza</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:amira_filza_mohamed_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amira_filza_mohamed_ibrahim@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h5></h5>
 <p><strong><em>A testament to how our Gabrielite leaders lead the way to ensure their juniors are able to continue their route to success. Well done Softball boys!</em></strong>
 </p>
 <div class="iframe-wrapper">
