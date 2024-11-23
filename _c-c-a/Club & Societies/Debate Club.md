@@ -97,12 +97,38 @@ II</p>
 </tbody>
 </table>
 <h5>Teacher-in-charge</h5>
-<ol data-tight="true" class="tight">
-<li>
-<p>Ms. Samantha Daishini</p>
-</li>
-<li>
-<p>Ms. Nur Syarmeen</p>
-</li>
-</ol>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name &amp; Desigation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Ms Samantha Gracie (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:samantha_gracie_daishini_thevan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samantha_gracie_daishini_thevan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Syarmeen (2IC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_syarmeen_ehsan_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_syarmeen_ehsan_ahmad@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
