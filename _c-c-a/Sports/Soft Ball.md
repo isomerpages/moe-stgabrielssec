@@ -3,99 +3,149 @@ title: Soft Ball
 permalink: /co-curricular/Sports/Softball/
 description: ""
 third_nav_title: Sports
-variant: markdown
+variant: tiptap
 ---
-## Softball 
-
-##### <u>Introduction</u>
-St. Gabriel’s Softball team was established in 2009 with 15 players and it has grown tremendously over the years. Our dedicated softballers train thrice a week and participate actively in various tournaments throughout the year. Every year, we compete in the National School C’ Division and B’ Division Games, Singapore Recreation Club (SRC) Cup, Uber Sports Cup, DCMA Cup and friendlies with both local and international teams.
-
-![](/images/CCA/Sports%20&amp;%20Games/Softball/Softball%20-%201.jpeg)
-
-Through our Softball training programme, we strive to develop our young players into gentlemen who exemplify the school values of Respect, Responsibility, Resilience and Care. Our training programme emphasises on character development and discipline, and provides opportunities and learning experiences for our players to achieve academic and sporting excellence.
-
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tg-tlx9"><img style="width:100%" src="/images/CCA/Sports%20&amp;%20Games/Softball/Softball%20-%202.jpeg" alt="Softball%20-%202"></th>
-      <th class="tg-tlx9"></th>
-      <th class="tg-tlx9"><img class="tg-tlx9" alt=""><img style="width:100%" src="/images/CCA/Sports%20&amp;%20Games/Softball/Softball%20-%203.jpeg" alt="Softball%20-%203"></th>
-    </tr>
-  </thead>
+<h2>Softball</h2>
+<h5>Beliefs &amp; Outcomes</h5>
+<p>St. Gabriel’s Softball Team was established in 2009 with 15 players and
+it has grown tremendously over the years. Our dedicated softballers train
+thrice a week and participate actively in various tournaments throughout
+the year. Every year, we compete in the National School ‘C’ Division and
+‘B’ Division Games, Singapore Recreation Club (SRC) Cup, Uber Sports Cup,
+DCMA Cup and friendlies with both local and international teams. Through
+our softball training programme, we strive to develop our young players
+into gentlemen who exemplify the school values of Respect, Responsibility,
+Resilience and Care. Our training programme emphasises on character development
+and discipline, and provides opportunities and learning experiences for
+our players to achieve academic and sporting excellence. Our softballers
+continue to contribute back to the school even after their graduation.
+Every year, St. Gabriel’s Softball Alumni organise the St. Gabriel’s Alumni
+Cup where they raise funds to contribute to Brother Dennis Care Fund.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Softball/Singing_the_school_song.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Softball/Proud_to_be_carrying_the_St__Gabriel_s_Secondary_School_flag.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Softball/Running_to_touch_the_base.jpg">
+</div>
+<h5>Achievements</h5>
+<p><strong>‘B’ Division</strong>
+</p>
+<ul>
+<li>
+<p>2024: National 3<sup>rd</sup> Runner-up</p>
+</li>
+<li>
+<p>2023: National 1<sup>st</sup> Runner-up</p>
+</li>
+<li>
+<p>2022 National 2<sup>nd</sup> Runner-up</p>
+</li>
+</ul>
+<p><strong>‘C’ Division</strong>
+</p>
+<ul>
+<li>
+<p>2024 National 1<sup>st</sup> Runner-up</p>
+</li>
+<li>
+<p>2023 National Top 8&nbsp;</p>
+</li>
+<li>
+<p>2022 National 3<sup>rd</sup> Runner-up</p>
+</li>
+</ul>
+<h5>Training Sessions</h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday &amp; Thursday:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00pm - 6.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm - 6.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Field</p>
+</td>
+</tr>
+</tbody>
 </table>
-		 
-Our softballers continues to contribute back to the school even after their graduation. Every year, St. Gabriel's Softball Alumni team organises the St. Gabriel's Alumni Cup where they raise funds to Brother Dennis Care Fund.
-
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tg-tlx9"><img style="width:89%" src="/images/CCA/Sports%20&amp;%20Games/Softball/Softball%20-%204.jpeg" alt="Softball%20-%204"></th>
-      <th class="tg-tlx9"></th>
-      <th class="tg-tlx9"><img class="tg-tlx9" alt=""><img style="width:100%" src="/images/CCA/Sports%20&amp;%20Games/Softball/Softball%20-%205.jpeg" alt="Softball%20-%205"></th>
-    </tr>
-  </thead>
+<h5>Teachers-in-Charge</h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name &amp; Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Peh Sok Hoon (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:peh_sok_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peh_sok_hoon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Siti Latifah (2IC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_latifah_ishar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_latifah_ishar@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Amira Filza</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:amira_filza_mohamed_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amira_filza_mohamed_ibrahim@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
 </table>
-		 
-##### Teachers-in-Charge<br>
-1. Ms. Peh Sok Hoon (OIC)<br>
-2. Ms. Siti Latifah Ishar<br>
-3. Ms. Amira Filza
-
-##### <u>Training Sessions</u>
-
-*   Tuesday, Thursday : 3.00pm - 6.00pm
-<br>Friday: 2.00pm - 6.00pm
-*   Venue: School Field
-
-***A testament to how our Gabrielite leaders lead the way to ensure their juniors are able to continue their route to success. Well done Softball boys!***
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/YuUYwba4FqE?si=CmfB1AuEOws2xBGR" height="315" width="560"></iframe>
-
-<br>
-
-***St. Gabriel's Softball Award 2024***
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/5zXvcCJOyvo?si=eLgNdS8yoyb8TLFn" height="315" width="560"></iframe>
-
-##### <u>Achievements and Awards</u><br>
-
-##### 'B' Division
-*  National 3rd Runner-up (4th) – 2024
-*   National 1st Runner-up (2nd) - 2023
-*   National 2nd Runner-up (3rd) - 2022
-*   National 1st Runner-up (2nd) - 2019
-*   Singapore Recreation Club (SRC) Softball Carnival (2nd) - 2019     
-*   National Top 8 – 2018
-*   National Top 8 – 2017
-*   National 3rd Runner-up (4th) – 2016
-*   Raffles Cup 1st Runner-up (2nd) – 2016
-*   National Top 8 – 2015
-*   DCMA Softball Challenge Cup (1st) – 2013
-*   Singapore Recreation Club (SRC) Softball Tournament (3rd) – 2012
-*   Participated in the National Softball Inter-School Competition since 2011
-
-
-##### 'C' Division
-
-*   National 1st Runner-up (2nd) – 2024
-*   National Top 8 - 2023
-*   National 3rd Runner-up (4th) – 2022
-*   National Top 8 - 2019
-*   National Top 8 – 2018
-*   National Top 8 – 2017
-*   National 3rd Runner-up (4th) – 2016
-*   Raffles Cup 1st Runner-up (2nd) – 2016
-*   National 1st Runner-up (2nd) – 2015
-*   National 3rd Runner-up (4th) – 2014
-*   DCMA Softball Challenge Cup (1st) – 2013
-*   Kallang Open 2nd Runner-up (3rd) – 2012
-*   National Quarter Finals (Top 8) – 2010
-*   Participated in the National Softball Inter-School Competition since 2009
-
-
-##### <u>Key Tournaments Participated</u><br>
-*   C’ Division National Schools Games<br>
-*   B’ Division National Schools Games<br>
-*   Singapore Recreation Club (SRC) Cup  
-*   DCMA Cup  
-*   St. Gabriel’s Alumni Cup  
-*   Uber Sports Cup
+<p><strong><em>A testament to how our Gabrielite leaders lead the way to ensure their juniors are able to continue their route to success. Well done Softball boys!</em></strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YuUYwba4FqE?si=CmfB1AuEOws2xBGR"></iframe>
+</div>
+<p></p>
+<p><strong><em>St. Gabriel's Softball Award 2024</em></strong>
+</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5zXvcCJOyvo?si=eLgNdS8yoyb8TLFn"></iframe>
+</div>
+<p></p>
