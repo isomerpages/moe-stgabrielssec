@@ -145,41 +145,6 @@ The return trip from OCC departs at 5:30 pm.</p>
 </tbody>
 </table>
 <p>*Training sessions may change due to unforeseen school events.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Venue</strong>
-</p>
-</th>
-<th rowspan="1" colspan="1">
-<p><strong>Orchid Country Club</strong>
-</p>
-<p>Address: 1 Orchid Club Road, Singapore 769162</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Day</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Friday</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Time</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>5:30 pm onwards</p>
-</td>
-</tr>
-</tbody>
-</table>
 <h5>Teachers-in-charge</h5>
 <table style="minWidth: 50px">
 <colgroup>
