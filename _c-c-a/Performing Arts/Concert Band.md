@@ -3,92 +3,140 @@ title: Concert Band
 permalink: /co-curricular/Performing-Arts/Concert-Bands/
 description: ""
 third_nav_title: Performing Arts
-variant: markdown
+variant: tiptap
 ---
-## Concert Band
-
-##### <u>Introduction</u>
-
-Since its inception in 1966, St. Gabriel’s Concert Band has undergone many changes from a Military Band to its current status of Symphonic Band.
-
-Over the years, the Band has staged numerous performances in and out of school. Besides performances, the Band is also actively involved in community programmes. Through these programmes, the Band will be able to develop its members to be true servant-leaders in serving the community.  
-
-![](/images/CCA/Performing%20Arts/Concert%20Band/SYF%202021%20Arts%20Presentation.jpeg)
-
-##### Teachers-in-charge
-
-1. Ms. Siti Nazeefah (OIC)
-2. Ms. Ng U-Lynn (2IC)
-3. Ms. Khairunnisa
-
-##### <u>Training Schedule</u>
-
-**Practice sessions**
-<br>
-Tues &amp; Wed : 2.30pm - 5.30pm
-<br>
-Fri : 2pm - 5.00pm
-<br>
-Venue: Band Room
-<br><br>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-tlx9{background-color:#FFF;color:#333;text-align:center;vertical-align:top}
-.tg .tg-apyk{background-color:#FFF;color:#333;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-
-<table class="tg">
-  <thead>
-    <tr>
-      <th class="tg-tlx9"><img style="width:100%" src="/images/CCA/Performing%20Arts/Concert%20Band/Concert%20Band%2001.jpeg" alt="Concert%20Band%2001"></th>
-      <th class="tg-tlx9"></th>
-      <th class="tg-tlx9"><img class="tg-tlx9" alt=""><img style="width:100%" src="/images/CCA/Performing%20Arts/Concert%20Band/Concert%20Band%2002.jpeg" alt="Concert%20Band%2002"></th>
-    </tr>
-  </thead>
+<h2>Concert Band</h2>
+<h5>Beliefs &amp; Outcomes</h5>
+<p>Since its inception in 1966, St. Gabriel’s Concert Band has undergone
+many changes, from being a Military Band to the status of a Symphonic Band.
+Over the years, the Symphonic Band has staged numerous performances in
+and out of school and is also actively involved in community programmes.
+It is through such programmes that the Symphonic Band hopes to develop
+its members as musicians and to be true servant-leaders in serving the
+community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Concert Band/Learning_journey_and_concert_experience_at_Esplanade_Theatre.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Concert Band/Our_band_members_had_the_privilege_of_watching_the_Singapore_Armed_Forces_Band_Concert_soundcheck_where_they_had_the_opportunity.jpg">
+</div>
+<h5>Achievements</h5>
+<p><strong>2024 Performances / Exchange Programme</strong>
+</p>
+<ul>
+<li>
+<p>Chinese New Year Concert</p>
+</li>
+<li>
+<p>Speech Day Concert</p>
+</li>
+<li>
+<p>Learning Journey to Esplanade Theatre- SAF Band Concert Soundcheck</p>
+</li>
+<li>
+<p>Concert Band Exchange Programme with Saint Gabriel’s Primary School</p>
+</li>
+</ul>
+<p><strong>2023 Performances / Awards</strong>
+</p>
+<ul>
+<li>
+<p>SYF Certificate of Accomplishment (Flexible Band)</p>
+</li>
+<li>
+<p>SYF Certificate of Accomplishment (Percussion Ensemble)</p>
+</li>
+</ul>
+<p><strong>2022 Performances / Awards</strong>
+</p>
+<ul>
+<li>
+<p>Chinese New Year Concert</p>
+</li>
+<li>
+<p>Speech Day Concert</p>
+</li>
+<li>
+<p>SYF Certificate of Accomplishment</p>
+</li>
+</ul>
+<h5>Training Sessions</h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday (Main Band) &amp; Wednesday (Junior Band):</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.30pm - 5.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday (All Members):</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm - 5.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Band Room &amp; Music Room</p>
+</td>
+</tr>
+</tbody>
 </table>
-
-##### <u>Achievements</u>
-
-##### 2022 Performances / Exchange Programme
-
-*   Chinese New Year Concert in School
-*   Speech Day Concert
-*   National Day Concert
-*   Concert Band Exchange Programme with Xin Ming Secondary School
-
-##### 2021 Performances / Awards
-
-*   SYF - Certificate of Accomplishment (Flexible Band)
-*   SYF - Certificate of Accomplishment (Percussion Ensemble)
-
-##### 2019 Performances / Awards
-
-*   Chinese New Year Concert
-*   Speech Day Concert
-*   SYF - Certificate of Accomplishment
-
-##### 2018 School / Public Performances
-
-*   Band Concert @ School Hall (January 2018)
-*   Chinese New Year Concert in School
-*   Saxophone Duet Performance at Speech Day Concert (April 2018)
-*   Public Performance @ Wisma Geylang Serai (November 2018)
-
-##### 2017 Public Performances / Awards
-
-*   SYF - Certificate of Accomplishment
-*   Public Performance @ Kitchener Complex (January 2017)
-*   Guest Performance at Montfort Alumni Wind Orchestra’s Inaugural Concert (July 2017)
-
-##### 2016 Public Performances / Awards
-
-*   Band Concert @ School Hall (January 2016)
-
-##### 2015 Public Performances / Awards
-
-*   SYF - Certificate of Distinction
-*   Clarinet Quartet Performance at World Schools Debating Championship 2015 Preliminary Rounds
+<h5>Teachers-in-charge</h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name &amp; Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Siti Nazeefah (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:siti_nazeefah_md_mansor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nazeefah_md_mansor@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Ng U-Lynn (2IC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_u-lynn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_u-lynn@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Shireen Sanbhnani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shireen_sanbhnani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shireen_sanbhnani@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
