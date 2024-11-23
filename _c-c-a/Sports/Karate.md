@@ -9,27 +9,70 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Sports%20&amp;%20Games/Karate/Karate.png">
 </div>
-<h5><u>Introduction</u></h5>
-<p>St. Gabriel's Secondary School Karate Programme under the able direction
-of Sensei David Thong focuses on the holistic outcomes of every Karateka
-during the weekly trainings. We aim to inculcate values of Respect, Honor,
-Courage and Focus and trained every karateka to be motivated in improving
-their skills and also build their character.</p>
-<h5><u>Teachers-in-charge</u></h5>
-<ol data-tight="true" class="tight">
-<li>
-<p>Mr. Alvin Goh
-<br>
+<p><em>"The ultimate aim of karate lies not in the victory nor defeat but in the perfection of the character of it participants."</em>
 </p>
-</li>
-</ol>
-<h5><u>Coach</u><br></h5>
-<p>Sensei David Thong (President of the Singapore Karate-do Federation</p>
-<h5><u>Training Schedule</u><br></h5>
-<p>Every Friday 2.00pm-4.00pm
-<br>Venue: School Hall</p>
-<p>Number of students: 80</p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQS_CyhgUvqpA7E1BUMajD_pDJcKdiCqMcWLYqrPXrybyyv8gwZMLEYUOXFNbZpfD6wZsZ2LCM2Su6o/embed?start=true&amp;loop=false&amp;delayms=3000"></iframe>
-</div>
+<p><em>Gichin Funakoshi</em>
+</p>
+<h5>Beliefs &amp; Outcomes</h5>
+<p>The Karate programme at St. Gabriel's Secondary School, under the adept
+guidance of Sensei David Thong (President of the Singapore Karate-do Federation,
+prioritizes the comprehensive development of each participant during weekly
+training sessions. Our primary objective is to instill fundamental values
+such as Respect, Honor, Courage and Focus in every Karateka. Through rigorous
+training, we endeavor to foster continuous skill enhancement and character
+development among all participants</p>
+<h5>Achievements</h5>
+<p>Since 2023, St. Gabriel's Secondary School has served as the designated
+venue for the annual Inter-School Karate Tournament.</p>
+<h5>Training Sessions</h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm - 4.00pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Hall</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5>Teachers-in-charge</h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name &amp; Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Alvin Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="goh_toh_fook@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_toh_fook@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
