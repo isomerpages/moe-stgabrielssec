@@ -3,48 +3,139 @@ title: National Cadet Corps (Land)
 permalink: /co-curricular/Uniformed-Groups/National-Cadet-Corps-Land/
 description: ""
 third_nav_title: Uniformed Groups
+variant: tiptap
 ---
-## NATIONAL CADET CORPS (LAND)
-
-##### <u>Introduction</u>  
-
-In St. Gabriel's NCC Land Unit, we have shifted our focus from drills to more fun and physically challenging activities like the NERF Gun Challenge, adventure racing, dragon boating and cycling. Through these activities, we hope to make our cadets' training sessions even more relevant and interesting while preparing them for National Service. The NCC HQ also provides many opportunities for the cadets to embark on annual Mount Ophir hiking trip as well as ICEP overseas trip to United Kingdom, USA, Brunei and India. As such, cadets in the CCA are not limited to the programmes run by the school only. 
-
-The St Gabriel's NCC Land Unit has clinched the most prestigious Gold Unit Competition from 2009 to 2017. As the Best Unit Competition was replaced by the Unit Recognition in 2018, we had also attained the honour of being a Distinction Unit since then. Our unit takes pride in conducting very tough trainings to ensure that our cadets mature into capable and independent leaders at the end of their journey with us. Despite the COVID-19 restrictions and situation, our unit strives to deliver a blend of meaningful virtual and physical trainings that will allow our cadets to be developed into potential leaders.
-
-![](/images/CCA/Uniformed%20Groups/National%20Cadet%20Corps%20(Land)/NCC%20Land.jpeg)
-
-##### Teachers-in-charge<br>
-1. Commanding Officer: Ms. Elyn Lim<br>
-2. Teacher Officer: Mrs. Lynn Lee<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:Ms. Jane Zhou
-
-##### <u>Training Schedule</u>
-*   Every Friday (02.30pm - 06.00pm)<br>
-Venue: School
-
-
-##### <u>Achievements:</u>
-
-**<u>Unit Recognition</u>**
-*    2021 - Distinction Award<br>
-*    2020 - Cancelled due to pandemic<br>
-*    2018 - 2019 - Distinction Award
-
-**<u>Best Unit Competition (replaced by Unit Recognition in 2018)</u>**  
-
-*   2009 to 2017 - Gold Award
-
-**<u>Outstanding Cadet Award</u>**  <br>
-*   2021 - MSG Randall Ng  
-*   2020 - MSG Sridhar Vageesh
-*   2019 - MSG Tharidu Oshan De Silva
-
-**<u>ICEP Immersion Programme</u>**  <br>
-*   ICEP United Kingdom - Aqif Raiyan (4N1 - 2018)<br>
-*   ICEP Singapore Immersion Programme - Isaac John Lesslar (3E5 - 2019)
-
-  
-**<u>Others:</u>**  <br>
-*   NCC HQ Sports and Games Challenge - Champion unit for Soccer (2019)<br>
-*   NDP Marching Contingent 2019 - Isaac John Lesslar (3E5 - 2019)
+<h2>NATIONAL CADET CORPS (LAND)</h2>
+<h5>Beliefs &amp; Outcomes </h5>
+<p>St. Gabriel’s National Cadet Corps [NCC] (Land) strives to develop our
+cadets into capable and independent individuals through a variety of activities
+designed to instill discipline, teamwork, and resilience. Cadets undergo
+rigorous weekly training sessions, which are supplemented by inter-Uniformed
+Group experiences and NCC HQ activities such as the Mount Ophir Expedition.
+It is our belief that every cadet can lead. Through our comprehensive programme,
+we aim to not only impart military skills and knowledge to help our cadets
+in their National Service at a later point in their life, but to cultivate
+core values.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/National Cadet Corps (Land)/1__2024_NCC__Land__Unit_Photo.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/National Cadet Corps (Land)/4__NCC_Laser_Run.jpg">
+</div>
+<h4>Achievements</h4>
+<p><strong>Unit Recognition</strong>
+</p>
+<ul>
+<li>
+<p>2022 – 2023: Distinction Award</p>
+</li>
+</ul>
+<p><strong>Outstanding Cadet Award</strong>
+</p>
+<ul>
+<li>
+<p>2022: MSG Randall Ng</p>
+</li>
+<li>
+<p>2023: MSG Gerard Koh Tian Le</p>
+</li>
+<li>
+<p>2024: MSG John Luke Low and MSG Ethan Tan</p>
+</li>
+</ul>
+<p><strong>Others</strong>
+</p>
+<ul>
+<li>
+<p>2024 National Day Parade Marching Contingent: 1SG Alexander Rizqullah
+bin Noornasrin, 1SG Darwish Anaqi bin Asraf Rafiq, 1SG Elvie Lim Zhi Rong</p>
+</li>
+<li>
+<p>2024 Mount Ophir Expedition: 1SG Darwish Anaqi bin Asraf Rafiq, 3SG Coen
+Goh Yen Leong</p>
+</li>
+<li>
+<p>1-Star Kayaking Certification: 2024 Charlies</p>
+</li>
+</ul>
+<h5>Training Sessions</h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.30pm - 5.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5>Teachers-in-charge<br></h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name &amp; Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Cheong Li Yun (Unit CO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheong_li_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_li_yun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Jane Zhou</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhou_jie_jane@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhou_jie_jane@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Benjamin Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:benjamin_tan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">benjamin_tan_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Tan Jing Da</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_jing_da_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jing_da_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
