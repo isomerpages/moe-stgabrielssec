@@ -3,65 +3,174 @@ title: Guitar Ensemble
 permalink: /co-curricular/Club-and-Societies/Guitar-Ensemble/
 description: ""
 third_nav_title: Performing Arts
+variant: tiptap
 ---
-## Guitar Ensemble 
-
-#### <u>Introduction</u>
-With the apothegm “We play as one”, the St Gabriel Secondary School’s Guitar Ensemble has long since established an efficacious repertoire with her establishment back in January 2007. Under the intuitive baton and patronage of her two instructors, Mr Daniel Lim and Mr Raj, the ensemble has soared to great heights not only in the facets of prestigious performances, but also in aspiring young guitarists with an ever evolving enthusiasm and passion for the vibrant art.
-
-Brimming with affection for the instrument fused with the abidance of discipline and respect, the Guitar Ensemble has once again succeeded in maintaining her level of expertise through the clinching of Certificate of Distinction for the biennial SYF competition as a testament to their hard work and perseverance since 2010; Silver (2011), Certificate of Accomplishment (2013), Certificate of Commendation (2015) and Certificate of Distinction (2017).
-
-The Guitar Ensemble has also placed great emphasis on overseas performances and learning trips, with her most recent joint effort in Chiang Mai, Thailand, in 2018 alongside Yamaha Music School. These experiences have given the Mouradians an opportunity to develop their leadership and independence skills, as well as allowing them to display a spectrum of colorful music for the audience.
-
-Under the flame of Labor Omnia Vincit, the ensemble has labored hard to achieve distinguished accomplishments.
-
-![](/images/CCA/Performing%20Arts/Guitar%20Ensemble/Guitar%20Ensemble.png)
-
-##### Teachers-in-charge
+<h2>Guitar Ensemble</h2>
+<h4>Beliefs &amp; Outcomes</h4>
+<p>The St. Gabriel Secondary School’s Guitar Ensemble, guided by instructors
+Mr Daniel Lim and Mr Raj, has excelled since its establishment in 2007,
+embracing discipline, respect, and love for the instrument. Their recent
+Certificate of Accomplishment at the SYF 2023 Arts Performance showcases
+their ongoing commitment and perseverance. The ensemble provides numerous
+performance opportunities for the students and plans to have a public performance
+at Nex Library in the later part of 2024, contributing to their leadership
+and independence development.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Guitar Ensemble/Our_boys_performing__At_my_worst__during_the_ACJC_Annual_Guitar_Ensemble_Concert__Glissando_.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Guitar Ensemble/Playing_to_the_tune_of_Summer_s_Wind_by_Jiro_Hasebe_at_NEX_Library.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Guitar Ensemble/Mr_Raj_with_the_boys_for_our_weekly_CCA_sessions.jpg">
+</div>
+<h4>Achievements</h4>
+<p><strong>2024 Performances&nbsp;</strong>
+</p>
+<ul>
+<li>
+<p>Chinese New Year Concert</p>
+</li>
+<li>
+<p>Speech Day Concert</p>
+</li>
+<li>
+<p>Teachers’ Day Concert</p>
+</li>
+<li>
+<p>NEX Library Public Performance</p>
+</li>
+</ul>
+<p><strong>2023 Performances/ Awards/ Exchange Programme</strong>
+</p>
+<ul>
+<li>
+<p>Singapore Youth Festival Arts Presentation - Certificate of Accomplishment&nbsp;</p>
+</li>
+<li>
+<p>Guest Performance at Anglo Chinese Junior College Guitar Ensemble Annual
+Concert ‘Glissando’</p>
+</li>
+<li>
+<p>School exchange at Anglo Chinese Junior College</p>
+</li>
+<li>
+<p>School exchange at School of Science and Technology</p>
+</li>
+<li>
+<p>Chinese New Year Concert</p>
+</li>
+<li>
+<p>National Day Concert</p>
+</li>
+<li>
+<p>Teachers’ Day Concert</p>
+</li>
+<li>
+<p>St. Gabriel’s Secondary Guitar Ensemble Annual Concert ‘Vamos’</p>
+</li>
+</ul>
+<p><strong>2022 Performances / Awards</strong>
+</p>
+<ul>
+<li>
+<p>Chinese New Year Concert (Pre-recorded)</p>
+</li>
+<li>
+<p>National Day Concert (Pre-recorded)</p>
+</li>
+<li>
+<p>Teachers’ Day Concert (Pre-recorded)
 <br>
-1. Ms. Ruby Cheah (OIC)<br>
-2. Mr. Sebastian Goh <br>
-3. Mr. Tai Maoshen
-
-##### <u>Training Schedule</u>
-
-Practice Sessions (in Guitar Room and Math Room):
-<br>
-**<u>Secondary 1:</u>**
-<br>
-* Thursday : 2.30pm - 5.30pm
-* Friday : 2.30pm - 5.30pm
-
-**<u>Secondary 2 to 5 (SYF Ensemble):</u>**
-
-*   Tuesday : 2.30pm - 5.30pm
-*   Friday : 2.30pm - 5.30pm
-
-##### <u>Achievements</u>
-
-*   SYF Arts Presentation 2023, Certificate of Accomplishment  
-*   SYF Arts Presentation 2021, Certificate of Accomplishment  
-*   SYF Arts Presentation 2019, Certificate of Accomplishment  
-*   SYF Arts Presentation 2017, Certificate of Distinction
-*   SYF Arts Presentation 2015, Certificate of Commendation
-*   SYF Arts Presentation 2013, Certificate of Accomplishment
-*   SYF Silver (2011)
-*   SYF Gold (2009)
-
-##### Performances \[since 2012\]:
-*   ACJC Concert, Glissando, in 2023
-*   Annual Sec One CCA Fair Showcase
-*   Annual St. Gabriel's Speech Day
-*   ACJC Guitar Ensemble Concert 2017
-*   Kitago School Exchange Programme (20th Anniversary) Welcome Ceremony 2017
-*   Performance at Metta School (2018)
-*   Biennial SGSS Guitar Concert (Legacy 2018)
-*   NEX National Library Branch Showcase 2015, 2017, 2018
-*   Kitago School Exchange Programme Farewell Dinner 2016
-*   Bishan National Library Branch Showcase 2012 – 2014, 2016
-*   Overseas Learning Journey to Chiang Mai, Thailand 2013, 2016, 2018
-*   Sinfonia III 2014, St. Gabriel's Secondary Aesthetic Group Concert (Symphony Band and Guitar Ensemble)
-*   Kaleidoscope 2014, St. Gabriel’s Secondary Aesthetic Group Concert at PLMGS Agape Concert Hall
-*   47th Braddell Heights National Day Dinner cum Variety Show (2013)
-*   Sinfornia II 2012, St. Gabriel's Secondary Aesthetic Group Concert at SJI Performing Arts Centre
-*   Overseas Learning Journey to Hanoi, Vietnam 2012
+</p>
+</li>
+</ul>
+<h5>Training Sessions</h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.30 pm - 5.30 pm (Secondary 2 - 5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.30 pm - 5.30 pm (Secondary 1)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.30 pm – 5.30 pm (Secondary 1 - 5)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Guitar Room and Maths Room</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5>Teachers-in-charge</h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name &amp; Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Ruby Cheah (OIC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheah_lai_hee_ruby@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheah_lai_hee_ruby@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Sebastian Goh (2IC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_kok_ho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_kok_ho@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Tai Mao Shen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tai_mao_shen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tai_mao_shen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
