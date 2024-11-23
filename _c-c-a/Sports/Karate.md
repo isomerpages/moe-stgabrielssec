@@ -21,6 +21,19 @@ training sessions. Our primary objective is to instill fundamental values
 such as Respect, Honor, Courage and Focus in every Karateka. Through rigorous
 training, we endeavor to foster continuous skill enhancement and character
 development among all participants</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Karate/2__Intense_competition_between_Hady___Hadryan_at_the_Inter_School_Karate_Tournament_2023.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Karate/3__Kick_and_Punch_Combo___Rey_and_Vaibhav_at_the_Inter_School_Karate_Tournament_2023.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Karate/4__Oath_Taking_Ceremony_by_the_Karatekas_at_the_Inter_School_Tournament__2023.png">
+</div>
+<p></p>
 <h5>Achievements</h5>
 <p>Since 2023, St. Gabriel's Secondary School has served as the designated
 venue for the annual Inter-School Karate Tournament.</p>
