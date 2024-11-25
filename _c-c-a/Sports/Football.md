@@ -49,14 +49,30 @@ of 16</p>
 </li>
 </ul>
 <h5>Training Sessions</h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>Monday, Wednesday &amp; Friday: 3.00 pm - 6.00 pm (School Term)</p>
-</li>
-<li>
-<p>Monday, Wednesday &amp; Friday: 8.00 am - 11.00 am (School Holidays)</p>
-</li>
-</ul>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, Wednesday &amp; Friday:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00 pm - 6.00 pm (School Term)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, Wednesday &amp; Friday:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8.00 am - 11.00 am (School Holidays)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h5>Teachers-in-charge</h5>
 <table style="minWidth: 50px">
 <colgroup>
