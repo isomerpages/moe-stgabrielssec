@@ -56,18 +56,38 @@ and determined.
 </li>
 </ul>
 <h5>Training Sessions</h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>Tuesday: 3.00pm - 5.30pm</p>
-</li>
-<li>
-<p>Thursday: 3.00pm - 5.30pm</p>
-</li>
-<li>
-<p>Friday: 2.00pm - 4.30pm</p>
-</li>
-</ul>
-<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tuesday:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00pm - 5.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Thursday:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3.00pm - 5.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Friday:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.00pm - 4.30pm</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h5>Teachers-In-Charge</h5>
 <table style="minWidth: 50px">
 <colgroup>

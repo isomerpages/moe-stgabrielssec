@@ -93,13 +93,13 @@ Teo Hoe Harn from 2E5</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Venue</p>
-</th>
-<th rowspan="1" colspan="1">
+</td>
+<td rowspan="1" colspan="1">
 <p>Orchid Country Club</p>
 <p>Address: 1 Orchid Club Road, Singapore 769162</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">

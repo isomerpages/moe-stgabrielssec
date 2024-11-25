@@ -44,8 +44,30 @@ self-discipline and leadership skills.</p>
 </li>
 </ul>
 <h5>Training Sessions</h5>
-<p>Monday, Wednesday &amp; Thursday: 2.30pm - 5.30pm</p>
-<p>Venue: School</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Monday, Wednesday &amp; Thursday:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.30pm - 5.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Venue:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h5>Teachers-in-charge</h5>
 <table style="minWidth: 50px">
 <colgroup>
@@ -98,5 +120,4 @@ to take attendance accurately.</p>
 <div class="iframe-wrapper">
 <iframe height="1459" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/forms/d/e/1FAIpQLSebtSD1xm3taay-IYwjATRL90AvY7KP8yr8XEDV2Up3S0ZqmA/viewform?embedded=true"></iframe>
 </div>
-<h5></h5>
 <p></p>
