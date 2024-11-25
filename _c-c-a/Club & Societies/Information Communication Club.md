@@ -63,6 +63,18 @@ different occasions with the school.</p>
 </ul>
 <p><strong><em>Do take note that Infocomm Club members will be involved in all school events as well as the rehearsals for these events. This will require additional time commitment on top of the regular training sessions.</em></strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs &amp; Societies/Infocomm Club/1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs &amp; Societies/Infocomm Club/2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs &amp; Societies/Infocomm Club/3.jpg">
+</div>
 <h5>Training Sessions</h5>
 <table style="minWidth: 50px">
 <colgroup>
