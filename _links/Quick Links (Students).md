@@ -74,10 +74,11 @@ access the OPAC</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>To be confirm</p>
+<p><a href="/files/Links/Students/2025_Secondary_Sec_1.pdf" rel="noopener nofollow" target="_blank">G3/G2/G1</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/2025_Secondary_2_Booklist.pdf" rel="noopener nofollow" target="_blank">G3/G2/G1</a>
+<p><a href="/files/Links/Students/2025_Secondary_Sec_2.pdf" rel="noopener nofollow" target="_blank">G3/G2/G1</a>
 </p>
 </td>
 </tr>
