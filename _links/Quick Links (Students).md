@@ -84,7 +84,6 @@ access the OPAC</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -105,30 +104,25 @@ access the OPAC</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/2025_Secondary_3E_Booklist.pdf" rel="noopener nofollow" target="_blank">Express</a>
+<p><a href="/files/Links/Students/2025_Secondary_Sec_3E.pdf" rel="noopener nofollow" target="_blank">Express</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/2025_Secondary_4E_Booklist.pdf" rel="noopener nofollow" target="_blank">Express</a>
-<br>
+<p><a href="/files/Links/Students/2025_Secondary_Sec_4E.pdf" rel="noopener nofollow" target="_blank">Express</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/2025_Secondary_5NA_Booklist.pdf" rel="noopener nofollow" target="_blank">Normal Academic</a>
-<a href="/files/Links/Students/Sec_5_Normal_Academic.pdf" rel="noopener noreferrer nofollow" target="_blank">
-<br>
-</a>
+<p><a href="/files/Links/Students/2025_Secondary_Sec_5NA.pdf" rel="noopener nofollow" target="_blank">Normal Academic</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/2025_Secondary_3NA_Booklist.pdf" rel="noopener nofollow" target="_blank">Normal Academic</a>
+<p><a href="/files/Links/Students/2025_Secondary_Sec_3NA.pdf" rel="noopener nofollow" target="_blank">Normal Academic</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/2025_Secondary_4NA_Booklist.pdf" rel="noopener nofollow" target="_blank">Normal Academic</a>
-<br>
+<p><a href="/files/Links/Students/2025_Secondary_Sec_4NA.pdf" rel="noopener nofollow" target="_blank">Normal Academic</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,11 +131,11 @@ access the OPAC</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/2025_Secondary_3NT_Booklist.pdf" rel="noopener nofollow" target="_blank">Normal Technical</a>
+<p><a href="/files/Links/Students/2025_Secondary_Sec_3NT.pdf" rel="noopener nofollow" target="_blank">Normal Technical</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/2025_Secondary_4NT_Booklist.pdf" rel="noopener nofollow" target="_blank">Normal Technical</a>
+<p><a href="/files/Links/Students/2025_Secondary_Sec_4NT.pdf" rel="noopener nofollow" target="_blank">Normal Technical</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
