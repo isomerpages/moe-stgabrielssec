@@ -213,6 +213,33 @@ by <strong>6 January 2025</strong>.</p>
 <p>The Medical Appeal Exercise (MAE) is only applicable to students with
 serious medical conditions.</p>
 </li>
+<li>
+<p>If you would like to apply for a transfer out of St. Gabriel’s Secondary
+School under MAE, please submit your appeal at St. Gabriel’s Secondary
+School’s general office in person or email <a href="mailto:stgss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">stgss@moe.edu.sg</a> latest by <strong>12pm</strong> on <strong>19 December 2024</strong>.
+The MAE application form will only be given to parents upon request. Each
+student is only allowed to submit one application.</p>
+</li>
+<li>
+<p>Documentary evidence of the serious medical condition, along with an official
+letter from a certified doctor or an assessment from qualified medical
+professionals outlining the student's condition and needs, must be included
+in the application.</p>
+</li>
+<li>
+<p>Students who are successful in their application will be informed from
+30 December 2024.</p>
+</li>
+<li>
+<p>School transfer is subject to the availability of vacancies. Successful
+applicants will not be allowed to reject the reposted school. Students
+who are unsuccessful in their appeal will remain in their original posted
+secondary school.</p>
+</li>
+<li>
+<p>For enquiries, please email Ms. Gloria Lee at <a href="mailto:LEE_Suh_Ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">LEE_Suh_Ching@schools.gov.sg</a> or
+contact the school general office at 6288 9470.</p>
+</li>
 </ul>
 </td>
 </tr>
