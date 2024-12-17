@@ -32,6 +32,27 @@ will take approximately 10 minutes to complete by 12pm, 24 December 2024.</p>
 access the Secondary 1 Registration microsite, which contains all the necessary
 information.</p>
 </li>
+<li>
+<p>There will be an online briefing (via Zoom) for parents and students.
+The details are as follows:</p>
+<p><strong>Date: 20 December 2024, Friday</strong>
+</p>
+<p><strong>Time: 9 a.m. to 11 a.m.</strong>
+</p>
+<p>The Zoom login details will be sent to the designated primary contact
+of the child via Parents Gateway (PG).</p>
+<p>Please note that all 2025 Secondary 1 parents will be automatically onboarded
+to Parents Gateway.</p>
+<p>If you are not yet on Parents Gateway, we strongly encourage you to sign
+up so you can receive timely information, including school announcements
+and consent forms. To get started, download the free Parents Gateway mobile
+app (available on iOS and Android) and complete a simple one-time onboarding
+process.</p>
+</li>
+<li>
+<p>Class allocation will be available in Parents Gateway after 9 a.m. on
+Monday, 30 December 2024.</p>
+</li>
 </ul>
 </td>
 </tr>
@@ -42,4 +63,5 @@ information.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
