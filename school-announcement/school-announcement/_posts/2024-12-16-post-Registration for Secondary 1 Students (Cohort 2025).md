@@ -24,11 +24,11 @@ variant: tiptap
 <p>Registration for all Secondary 1 students will be conducted electronically.</p>
 </li>
 <li>
-<p>Complete the <strong><a href="go.gov.sg/stgss2025sec1" rel="noopener nofollow" target="_blank">Student Information Form</a></strong> which
+<p>Complete the <strong><a href="https://form.gov.sg/674959bc93a76913717e1a29" rel="noopener nofollow" target="_blank">Student Information Form</a></strong> which
 will take approximately 10 minutes to complete by 12pm, 24 December 2024.</p>
 </li>
 <li>
-<p>Click on this <strong><a href="go.gov.sg/sgsssec1registration2025" rel="noopener nofollow" target="_blank">link</a></strong> to
+<p>Click on this <strong><a href="http://go.gov.sg/sgsssec1registration2025" rel="noopener nofollow" target="_blank">link</a></strong> to
 access the Secondary 1 Registration microsite, which contains all the necessary
 information.</p>
 </li>
@@ -194,7 +194,7 @@ Briefing</p>
 <td rowspan="1" colspan="1">
 <p>Students eligible to take subjects at a More Demanding Level (MDL) will
 be notified via Parents Gateway. You will need to accept or decline the
-offer online via Parents Gateway by <strong>17 December 2024</strong>.</p>
+offer online via Parents Gateway by <strong>27 December 2024</strong>.</p>
 <p>For parents who are not yet on Parents Gateway, a printed form will be
 provided on the first day of school, 2 January 2025, and must be returned
 by <strong>6 January 2025</strong>.</p>
