@@ -58,7 +58,162 @@ Monday, 30 December 2024.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<h4><strong>Details of Online Briefing for Secondary 1 Parents and Students</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>There will be an online briefing (via Zoom) for the Secondary 1 parents
+and students.</p>
+<p>The details are as follows:</p>
+<p><strong>Date: 20 December 2024, Friday</strong>
+</p>
+<p><strong>Time: 9 a.m. to 11 a.m.</strong>
+</p>
+<p>The login details to the online briefing will be sent to the designated
+primary contact of the child via Parents Gateway (PG).</p>
+<p><strong>Programme:</strong>
+</p>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
 <p></p>
+<p>Time</p>
+</th>
+<th rowspan="1" colspan="2">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>0900 - 0910</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Principal Address</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>0910 - 0920</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>YH Address</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>0920 - 0930</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Secondary 1 Orientation Programme</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>0930 - 0940</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Co-Curricular Activities (CCAs)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>0940 - 0950</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Student Management</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>0950 - 1000</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Full Subject-Based Banding (FSBB)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>1000 - 1010</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Student Support</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>1010 - 1015</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Parent Support Group (PSG) and Parenting Matters</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>1015 - 1030</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Question and Answer (Q&amp;A) Segment</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>1030 - 1045</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Break</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>1145</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>Optional: Higher Mother Tongue Language (HMTL) and 3rd Language Matters
+Briefing</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Eligibility for More Demanding Level (MDL) Subjects</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Students eligible to take subjects at a More Demanding Level (MDL) will
+be notified via Parents Gateway. You will need to accept or decline the
+offer online via Parents Gateway by <strong>17 December 2024</strong>.</p>
+<p>For parents who are not yet on Parents Gateway, a printed form will be
+provided on the first day of school, 2 January 2025, and must be returned
+by <strong>6 January 2025</strong>.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Appeal for Transfer (Due to Medical Reasons) – latest by 12 p.m. on 19 December 2024</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>The Medical Appeal Exercise (MAE) is only applicable to students with
+serious medical conditions.</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
