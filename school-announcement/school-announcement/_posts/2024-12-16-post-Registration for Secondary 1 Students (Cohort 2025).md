@@ -194,7 +194,7 @@ Briefing</p>
 <td rowspan="1" colspan="1">
 <p>Students eligible to take subjects at a More Demanding Level (MDL) will
 be notified via Parents Gateway. You will need to accept or decline the
-offer online via Parents Gateway by <strong>27 December 2024</strong>.</p>
+offer online via Parents Gateway by <strong>24 December 2024</strong>.</p>
 <p>For parents who are not yet on Parents Gateway, a printed form will be
 provided on the first day of school, 2 January 2025, and must be returned
 by <strong>6 January 2025</strong>.</p>
