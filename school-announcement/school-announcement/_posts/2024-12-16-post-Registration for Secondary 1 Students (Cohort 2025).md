@@ -51,7 +51,7 @@ process.</p>
 </li>
 <li>
 <p>Class allocation will be available in Parents Gateway after 9 a.m. on
-Monday, 30 December 2024.</p>
+Tuesday, 31 December 2024.</p>
 </li>
 </ul>
 </td>
