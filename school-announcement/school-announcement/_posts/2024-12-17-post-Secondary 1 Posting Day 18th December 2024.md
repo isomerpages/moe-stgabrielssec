@@ -111,7 +111,7 @@ they have been admitted to.</p>
 </li>
 <li>
 <p>The outcome of the successful appeal applications will be communicated
-on 30 December 2025. The school will not disclose the reasons for successful
+by 2 January 2025. The school will not disclose the reasons for successful
 or unsuccessful applications.</p>
 <p></p>
 <p></p>
