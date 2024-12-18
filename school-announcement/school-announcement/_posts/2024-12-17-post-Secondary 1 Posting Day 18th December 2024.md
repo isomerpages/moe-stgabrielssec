@@ -32,7 +32,7 @@ Gabriel’s Secondary School based on <strong>non-medical reasons</strong>.</p>
 </div>
 </li>
 <li>
-<p>The appeal application process opens on 18 December 2024 and closes on <strong>27 December 2024</strong> at <strong>5 p.m.</strong> 
+<p>The appeal application process opens on 18 December 2024 and closes on <strong>27 December 2024</strong> at <strong>5 p.m.</strong>
 </p>
 <p>Late submissions will not be considered.</p>
 </li>
@@ -111,7 +111,7 @@ they have been admitted to.</p>
 </li>
 <li>
 <p>The outcome of the successful appeal applications will be communicated
-after 30 December 2025. The school will not disclose the reasons for successful
+on 30 December 2025. The school will not disclose the reasons for successful
 or unsuccessful applications.</p>
 <p></p>
 <p></p>
