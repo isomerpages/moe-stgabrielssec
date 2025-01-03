@@ -33,7 +33,7 @@ to view in Google Chrome)</p>
 </li>
 </ul>
 <hr>
-<h5><a href="https://lms.wizlearn.com/STGSS/login.aspx" rel="noopener noreferrer nofollow" target="_blank">Admin Breeze Portal</a></h5>
+<h5><a href="https://stgabrielssec.adminbreeze.com/" rel="noopener noreferrer nofollow" target="_blank">Admin Breeze Portal</a></h5>
 <p>Click on this <a href="https://stgabrielssec.adminbreeze.com/" rel="noopener noreferrer nofollow" target="_blank">link</a> to
 access the Admin Breeze Portal</p>
 <hr>
