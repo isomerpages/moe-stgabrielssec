@@ -233,18 +233,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT
-<br>Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Ho Chung Sing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>113</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
