@@ -8,10 +8,11 @@ image: ""
 variant: tiptap
 ---
 <p>Dear Parents,</p>
-<p>Download the following links for more information for Secondary 3 OBS:</p>
+<p>Please click on the following links for more information for Secondary
+3 OBS:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://go.gov.sg/obsinformation" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/obsinformation</a></strong>
+<p><strong><a href="https://go.gov.sg/sec3obsinformation" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec3obsinformation</a></strong>
 </p>
 </li>
 <li>
