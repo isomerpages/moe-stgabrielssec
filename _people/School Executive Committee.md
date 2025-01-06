@@ -2,156 +2,354 @@
 title: School Executive Committee
 permalink: /people/school-executive-committee/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<table>
-<thead>
-  <tr>
-    <th></th>
-    <th>Name</th>
-    <th>Telephone Extension</th>
-  </tr>
-</thead>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td>Principal</td>
-    <td>Mr. Shawn Lim</td>
-    <td>104</td>
-  </tr>
-  <tr>
-    <td>Vice Principal</td>
-    <td>Mdm Yee Whoy Chong</td>
-    <td>103</td>
-  </tr>
-  <tr>
-    <td>Vice Principal</td>
-    <td>Mr. Christopher Thomas</td>
-    <td>109</td>
-  </tr>
-  <tr>
-    <td>Year Head (Sec 4/5)</td>
-    <td>Ms. Jane Han</td>
-    <td>161</td>
-  </tr>
-  <tr>
-    <td>Year Head (Sec 3)</td>
-    <td>Mr. Nick Chow</td>
-    <td>216</td>
-  </tr>
-  <tr>
-    <td>Year Head (Sec 2)</td>
-    <td>Ms. Elyn Lim</td>
-    <td>222</td>
-  </tr>
-  <tr>
-    <td>Year Head (Sec 1)</td>
-    <td>Ms. Jessica Yap</td>
-    <td>132</td>
-  </tr>
-  <tr>
-    <td>Teaching &amp; Learning<br>Head of Department</td>
-    <td>Mr. Peh Chin Heng</td>
-    <td>116</td>
-  </tr>
-	  <tr>
-    <td>English Language &amp; Literature<br>Head of Department</td>
-    <td>Mr. Nur Saspurie Sapi'ee</td>
-    <td>199</td>
-  </tr>
-  <tr>
-    <td>Mother Tongue<br>Head of Department</td>
-    <td>Mr. Clement See</td>
-    <td>115</td>
-  </tr>
-  <tr>
-    <td>Mathematics<br>Head of Department</td>
-    <td>Mr. Koh Wei Ming</td>
-    <td>118</td>
-  </tr>
-	  <tr>
-    <td>Science<br>Head of Department</td>
-    <td>Mr. Mario Chua</td>
-    <td>114</td>
-  </tr>
-  <tr>
-    <td>Humanities<br>Head of Department</td>
-    <td>Ms. Siti Rafeah</td>
-    <td>119</td>
-  </tr>
-  <tr>
-    <td>Craft &amp; Technology<br>Head of Department</td>
-    <td>Mr. Mark Low</td>
-    <td>166</td>
-  </tr>
-  <tr>
-    <td>PE &amp; CCA<br>Head of Department</td>
-    <td>Mr. Ong Chin Ming</td>
-    <td>112</td>
-  </tr>
-  <tr>
-    <td>Character &amp; Citizenship Education<br>Head of Department</td>
-    <td>Mrs. Olsen Low Hwee Kian</td>
-    <td>216</td>
-  </tr>
- <tr>
-    <td>Student Management<br>Head of Department</td>
-    <td>Mr. Poh Wei Beng</td>
-    <td>114</td>
-  </tr>
-  <tr>
-    <td>Student Support<br>Head of Department</td>
-    <td>Mr. Lin Ganfeng</td>
-    <td>216</td>
-  </tr>
-  <tr>
-    <td>ICT<br>Head of Department</td>
-    <td>Mr. Ho Chung Sing</td>
-    <td>113</td>
-  </tr>
-  <tr>
-    <td>School Staff Developer</td>
-    <td>Mr. Mohammad Zahed</td>
-    <td>117</td>
-  </tr>
-  <tr>
-    <td>Mother Tongue (Chinese Language)<br>Subject Head</td>
-    <td>Ms. Pauline Teo</td>
-    <td>134</td>
-  </tr>
-  <tr>
-    <td>Mathematics<br>Subject Head</td>
-    <td>Mr. Lincoln Chan</td>
-    <td>148</td>
-  </tr>
-  <tr>
-    <td>Geography<br>Subject Head</td>
-    <td>Ms. Tanny Koh</td>
-    <td>156</td>
-  </tr>
-  <tr>
-    <td>PE<br>Subject Head</td>
-    <td>Mr. Ng Rong Yaw</td>
-    <td>173</td>
-  </tr>
-  <tr>
-    <td>ICT<br>Subject Head</td>
-    <td>Mr. Sebastian Goh</td>
-    <td>128</td>
-  </tr>
-  <tr>
-    <td>Student Management<br>Subject Head</td>
-    <td>Mdm Noor Hayati</td>
-    <td>135</td>
-  </tr>
-  <tr>
-    <td>Student Well-Being<br>Subject Head</td>
-    <td>Ms. Ivy Tan</td>
-    <td>166</td>
-  </tr>
-	  <tr>
-    <td>Student Services &amp; Leadership<br>Subject Head</td>
-    <td>Mr. Mohamed Fazlin </td>
-    <td>166</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Telephone Extension</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Shawn Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>104</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Yee Whoy Chong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>103</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Christopher Thomas</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>109</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (Sec 4/5)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Jane Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>216</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (Sec 3)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Elyn Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>216</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (Sec 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Jesscia Yap</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>132</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (Sec 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Siti Latifah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>212</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Teaching &amp; Learning
+<br>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Peh Chin Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>116</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>English Language &amp; Literature
+<br>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Nur Saspurie Sapi'ee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>199</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue
+<br>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Clement See</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>115</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics
+<br>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Koh Wei Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>118</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science
+<br>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Mario Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>114</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Humanities
+<br>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Siti Rafeah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>119</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Craft &amp; Technology
+<br>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Mark Low</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>166</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PE &amp; CCA
+<br>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Ong Chin Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>112</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Character &amp; Citizenship Education
+<br>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs. Olsen Low Hwee Kian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>216</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Management
+<br>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Poh Wei Beng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>114</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Support
+<br>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Lin Ganfeng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>216</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT
+<br>Head of Department</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Ho Chung Sing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>113</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Mohammad Zahed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>117</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mother Tongue (Chinese Language)
+<br>Subject Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Pauline Teo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>134</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mathematics
+<br>Subject Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Lincoln Chan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>148</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Geography
+<br>Subject Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Tanny Koh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>156</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PE
+<br>Subject Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Ng Rong Yaw</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>173</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ICT
+<br>Subject Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Sebastian Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>128</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Management
+<br>Subject Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Noor Hayati</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>135</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Well-Being
+<br>Subject Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Ivy Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>166</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Student Services &amp; Leadership
+<br>Subject Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Mohamed Fazlin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>166</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
