@@ -158,16 +158,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2E5</p>
+<p>3E5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Song Nian</p>
+<p>Nur Syarmeen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lee_song_nian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_song_nian@moe.edu.sg</a>
+<p><a href="mailto:nur_syarmeen_ehsan_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_syarmeen_ehsan_ahmad@moe.edu.sg</a> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -175,43 +175,28 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="1" colspan="1">
 <p></p>
-<p>2N1</p>
+<p>3N1</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mdm</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Peh Sok Hoon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:peh_sok_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peh_sok_hoon@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>129</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kalyani Ravindharan</p>
+<p>Farah Zeeba</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kalyani_ravindharan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kalyani_ravindharan@moe.edu.sg</a>
+<p><a href="mailto:farah_zeeba_kasbollah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">farah_zeeba_kasbollah@moe.edu.sg</a> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>133</p>
+<p>161</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
-<p>2N2</p>
+<p>3N2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms</p>
@@ -245,7 +230,7 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
-<p>2T1</p>
+<p>3T1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr</p>
