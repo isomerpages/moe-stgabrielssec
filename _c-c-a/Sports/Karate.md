@@ -86,6 +86,15 @@ venue for the annual Inter-School Karate Tournament.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Teh Chin Foo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:teh_chin_foo_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teh_chin_foo_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
