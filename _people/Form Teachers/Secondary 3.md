@@ -10,6 +10,7 @@ variant: tiptap
 <hr>
 <p><strong><em>Click on the email address to email the teacher. Main line telephone number 6288 9470.</em></strong>
 </p>
+<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -236,7 +237,7 @@ variant: tiptap
 <p>Rodney Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_huan_shen_rodney@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_huan_shen_rodney@moe.edu.sg</a> 
+<p><a href="mailto:goh_huan_shen_rodney@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_huan_shen_rodney@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
