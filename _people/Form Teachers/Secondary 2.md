@@ -308,7 +308,7 @@ variant: tiptap
 <p>Subhalakshmi Laksmanan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:subhalakshmi_laksmanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">subhalakshmi_laksmanan@moe.edu.sg</a> 
+<p><a href="mailto:subhalakshmi_laksmanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">subhalakshmi_laksmanan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
