@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h2>NATIONAL POLICE CADET CORPS</h2>
-<h5>Beliefs &amp; Outcomes </h5>
+<h5>Beliefs &amp; Outcomes</h5>
 <p>Our mission is to develop our members to be active citizens and community
 leaders, by working in partnership with the Singapore Police Force to fight
 crime and keep Singapore safe. The Corps aims to provide students with
@@ -79,7 +79,7 @@ other Units at Pulau Ubin NPCC Camp Resilience.</p>
 </tr>
 </tbody>
 </table>
-<h5>Teachers-in-charge </h5>
+<h5>Teachers-in-charge</h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
