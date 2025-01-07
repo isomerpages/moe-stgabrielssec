@@ -193,37 +193,21 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
-<p></p>
+<td rowspan="1" colspan="1">
 <p>3N2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Laura Huang</p>
+<p>Teo Chen Nee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:laura_avyanna_huang_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">laura_avyanna_huang_shan@moe.edu.sg</a>
+<p><a href="mailto:teo_chen_nee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_chen_nee@moe.edu.sg</a> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>206</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subhalakshmi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:subhalakshmi_laksmanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">subhalakshmi_laksmanan@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>152</p>
+<p>126</p>
 </td>
 </tr>
 <tr>
