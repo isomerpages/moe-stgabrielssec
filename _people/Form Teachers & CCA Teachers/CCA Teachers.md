@@ -2,7 +2,7 @@
 title: CCA Teachers
 permalink: /people/form-teachers/cca-teachers/
 description: ""
-third_nav_title: Form Teachers
+third_nav_title: Form Teachers & CCA Teachers
 variant: tiptap
 ---
 <h2>CCA Teachers</h2>
@@ -193,7 +193,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Performing Arts</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -216,21 +216,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheah_lai_hee_ruby@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheah_lai_hee_ruby@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Vocal Ensemble</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ivy Tan
-<br>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_pei_chen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_pei_chen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
