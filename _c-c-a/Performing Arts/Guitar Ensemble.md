@@ -155,10 +155,10 @@ Concert ‘Glissando’</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Sebastian Goh (2IC)</p>
+<p>Ms. Ng U-Lynn (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_kok_ho@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_kok_ho@moe.edu.sg</a>
+<p><a href="mailto:ng_u-lynn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_u-lynn@moe.edu.sg</a>
 </p>
 </td>
 </tr>
