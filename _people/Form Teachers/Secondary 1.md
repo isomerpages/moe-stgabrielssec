@@ -6,12 +6,19 @@ third_nav_title: Form Teachers
 variant: tiptap
 ---
 <h2>SECONDARY 1</h2>
-<h4>2024 Form Teachers</h4>
+<h4>2025 Form Teachers</h4>
 <hr>
 <p><strong><em>Click on the email address to email the teacher. Main line telephone number 6288 9470.</em></strong>
 </p>
 <p></p>
-<table>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -33,35 +40,35 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
-<p>1A1</p>
+<p>1D1</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Damon Chu</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chu_kin_cheong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chu_kin_cheong@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>173</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S Rani</p>
+<p>Zhuo Sujuan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:zhuo_sujuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhuo_sujuan@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>155</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Benjamin Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chu_kin_cheong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">s_rani@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>135</p>
+<p>133</p>
 </td>
 </tr>
 <tr>
