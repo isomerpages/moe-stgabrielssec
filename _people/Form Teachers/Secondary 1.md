@@ -208,7 +208,7 @@ variant: tiptap
 <p>Benjamin Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:benjamin_tan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">benjamin_tan_a@moe.edu.sg</a> 
+<p><a href="mailto:benjamin_tan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">benjamin_tan_a@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -223,7 +223,7 @@ variant: tiptap
 <p>Mogana</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mogana_ap_devinthoran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mogana_ap_devinthoran@moe.edu.sg</a> 
+<p><a href="mailto:mogana_ap_devinthoran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mogana_ap_devinthoran@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -243,11 +243,11 @@ variant: tiptap
 <p>Chandan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_shiew_cher@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_shiew_cher@moe.edu.sg</a>
+<p><a href="mailto:chandan_partab_mansukhani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chandan_partab_mansukhani@moe.edu.sg</a> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>148</p>
+<p>140</p>
 </td>
 </tr>
 <tr>
@@ -258,11 +258,11 @@ variant: tiptap
 <p>Deborah Gian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kan_vincent@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kan_vincent@moe.edu.sg</a>
+<p><a href="mailto:gian_deborah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gian_deborah@moe.edu.sg</a> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>144</p>
+<p>128</p>
 </td>
 </tr>
 <tr>
@@ -277,11 +277,11 @@ variant: tiptap
 <p>Tan Jing Da</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mary_magdalene_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mary_magdalene_yong@moe.edu.sg</a>
+<p><a href="mailto:tan_jing_da_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jing_da_a@moe.edu.sg</a> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>144</p>
+<p>139</p>
 </td>
 </tr>
 <tr>
@@ -292,11 +292,11 @@ variant: tiptap
 <p>Siti Masykura</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Tay_Ming_Wei_C@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tay_Ming_Wei_C@moe.edu.sg</a>
+<p><a href="mailto:siti_masykura_mohamed_sa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_masykura_mohamed_sa@moe.edu.sg</a> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>155</p>
+<p>166</p>
 </td>
 </tr>
 <tr>
