@@ -64,7 +64,7 @@ variant: tiptap
 <p>Benjamin Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chu_kin_cheong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">s_rani@moe.edu.sg</a>
+<p><a href="mailto:lim_zhengxiong_benjamin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_zhengxiong_benjamin@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -72,22 +72,42 @@ variant: tiptap
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<p>1D2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lee Song Nian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_song_nian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_song_nian@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>132</p>
+</td>
+</tr>
+<tr>
 <td rowspan="2" colspan="1">
 <p></p>
-<p>1A2</p>
+<p></p>
+<p>1D3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Khairunnisa</p>
+<p>Siti Nazeefah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:khairunnisa_binte_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khairunnisa_binte_ismail@moe.edu.sg</a>
+<p><a href="mailto:siti_nazeefah_md_mansor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nazeefah_md_mansor@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>221</p>
+<p>138</p>
 </td>
 </tr>
 <tr>
@@ -95,50 +115,14 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Zhang Huasheng</p>
+<p>Keith Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zhang_huasheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhang_huasheng@moe.edu.sg</a>
+<p><a href="mailto:keith_chong_jie_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">keith_chong_jie_hua@moe.edu.sg</a> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>134</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" colspan="1">
-<p></p>
-<p></p>
-<p>1A3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Cheong Li Yun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_li_yun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_li_yun@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>208</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mohamed Fazlin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:mohamed_fazlin_said_mohd@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_fazlin_said_mohd@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>166</p>
+<p>137</p>
 </td>
 </tr>
 <tr>
