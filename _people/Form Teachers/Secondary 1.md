@@ -243,7 +243,7 @@ variant: tiptap
 <p>Chandan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chandan_partab_mansukhani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chandan_partab_mansukhani@moe.edu.sg</a> 
+<p><a href="mailto:chandan_partab_mansukhani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chandan_partab_mansukhani@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -258,7 +258,7 @@ variant: tiptap
 <p>Deborah Gian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:gian_deborah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gian_deborah@moe.edu.sg</a> 
+<p><a href="mailto:gian_deborah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gian_deborah@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -277,7 +277,7 @@ variant: tiptap
 <p>Tan Jing Da</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_jing_da_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jing_da_a@moe.edu.sg</a> 
+<p><a href="mailto:tan_jing_da_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jing_da_a@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -292,7 +292,7 @@ variant: tiptap
 <p>Siti Masykura</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_masykura_mohamed_sa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_masykura_mohamed_sa@moe.edu.sg</a> 
+<p><a href="mailto:siti_masykura_mohamed_sa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_masykura_mohamed_sa@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -310,10 +310,11 @@ variant: tiptap
 <p>Samantha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:samantha_gracie_daishini_thevan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samantha_gracie_daishini_thevan@moe.edu.sg</a> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>153</p>
 </td>
 </tr>
 <tr>
@@ -324,10 +325,11 @@ variant: tiptap
 <p>Ho Chung Sing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ho_chung_sing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_chung_sing@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>220</p>
 </td>
 </tr>
 </tbody>
