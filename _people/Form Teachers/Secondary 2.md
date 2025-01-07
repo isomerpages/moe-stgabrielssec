@@ -11,7 +11,6 @@ variant: tiptap
 <p><strong><em>Click on the email address to email the teacher. Main line telephone number 6288 9470.</em></strong>
 </p>
 <p></p>
-<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -41,7 +40,7 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
-<p>1A1</p>
+<p>2A1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr</p>
@@ -75,7 +74,7 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
-<p>1A2</p>
+<p>2A2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms</p>
@@ -110,7 +109,7 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p></p>
 <p></p>
-<p>1A3</p>
+<p>2A3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms</p>
@@ -146,7 +145,7 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p></p>
 <p></p>
-<p>1A4</p>
+<p>2A4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr</p>
@@ -167,21 +166,21 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Grace Ren</p>
+<p>Angeline Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Ren_junying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ren_junying@moe.edu.sg</a>
+<p><a href="mailto:angeline_tan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">angeline_tan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>154</p>
+<p>131</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
 <p></p>
-<p>1A5</p>
+<p>2A5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr</p>
@@ -216,7 +215,7 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p></p>
 <p></p>
-<p>1A6</p>
+<p>2A6</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr</p>
@@ -251,7 +250,7 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p></p>
 <p></p>
-<p>1A7</p>
+<p>2A7</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms</p>
@@ -269,23 +268,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vincent Kan</p>
+<p>Teo Si Ni</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kan_vincent@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kan_vincent@moe.edu.sg</a>
+<p><a href="mailto:teo_si_ni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_si_ni@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>144</p>
+<p>125</p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
-<p>1A8</p>
+<p>2A8</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms</p>
@@ -303,17 +302,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tay Ming Wei</p>
+<p>Subhalakshmi Laksmanan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Tay_Ming_Wei_C@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Tay_Ming_Wei_C@moe.edu.sg</a>
+<p><a href="mailto:subhalakshmi_laksmanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">subhalakshmi_laksmanan@moe.edu.sg</a> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>155</p>
+<p>152</p>
 </td>
 </tr>
 </tbody>
