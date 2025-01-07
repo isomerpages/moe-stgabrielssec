@@ -126,16 +126,7 @@ you graduate!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Keith Chong Jie Hua</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:keith_chong_jie_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">keith_chong_jie_hua@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr. Nicholas Ng Sin Guan</p>
+<p>Mr. Nicholas Ng Sin Guan (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nicholas_ng_sin_guan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nicholas_ng_sin_guan@moe.edu.sg</a>
