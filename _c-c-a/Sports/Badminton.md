@@ -123,7 +123,7 @@ and determined.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Esther Chan (1st Semester)</p>
+<p>Mdm Esther Chan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chan_sok_kheng_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_sok_kheng_esther@moe.edu.sg</a>
