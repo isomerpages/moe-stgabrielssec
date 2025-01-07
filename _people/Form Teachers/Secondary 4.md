@@ -146,13 +146,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr.</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Anthony Tang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:anthony_tang_chong_tong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anthony_tang_chong_tong@moe.edu.sg</a> 
+<p><a href="mailto:anthony_tang_chong_tong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anthony_tang_chong_tong@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,7 +162,7 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
-<p>3E5</p>
+<p>4E5</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr</p>
@@ -196,20 +196,20 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
-<p>3N1</p>
+<p>4N1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Suraj Padman</p>
+<p>Eric Loh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:suraj_padman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suraj_padman@moe.edu.sg</a>
+<p><a href="mailto:eric_loh_tian_hon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">eric_loh_tian_hon@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>137</p>
+<p>153</p>
 </td>
 </tr>
 <tr>
@@ -230,7 +230,7 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
-<p>3N2</p>
+<p>4N2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr</p>
@@ -264,7 +264,7 @@ variant: tiptap
 <tr>
 <td rowspan="2" colspan="1">
 <p></p>
-<p>3T1</p>
+<p>4T1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr</p>
@@ -293,23 +293,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>173</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
