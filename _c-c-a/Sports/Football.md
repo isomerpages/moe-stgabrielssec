@@ -99,15 +99,6 @@ of 16</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Suraj Padman (2IC)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:suraj_padman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suraj_padman@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr. Chia Boon Han</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -117,10 +108,19 @@ of 16</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Teo Hui Min</p>
+<p>Mr. Keith Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_hui_min@moe.edu.sg</a>
+<p><a href="mailto:keith_chong_jie_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">keith_chong_jie_hua@moe.edu.sg</a> 
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Vanitha Venu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:vanitha_venu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vanitha_venu@moe.edu.sg</a> 
 </p>
 </td>
 </tr>

@@ -114,19 +114,19 @@ and determined.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Vincent Kan (2IC)</p>
+<p>Mdm Subhalakshmi Laksmanan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kan_vincent@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kan_vincent@moe.edu.sg</a>
+<p><a href="mailto:subhalakshmi_laksmanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">subhalakshmi_laksmanan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Subhalakshmi Laksmanan</p>
+<p>Mdm Esther Chan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:subhalakshmi_laksmanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">subhalakshmi_laksmanan@moe.edu.sg</a>
+<p><a href="mailto:chan_sok_kheng_esther@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chan_sok_kheng_esther@moe.edu.sg</a>
 </p>
 </td>
 </tr>

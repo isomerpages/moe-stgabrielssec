@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h2>NATIONAL CADET CORPS (LAND)</h2>
-<h5>Beliefs &amp; Outcomes </h5>
+<h5>Beliefs &amp; Outcomes</h5>
 <p>St. Gabriel’s National Cadet Corps [NCC] (Land) strives to develop our
 cadets into capable and independent individuals through a variety of activities
 designed to instill discipline, teamwork, and resilience. Cadets undergo
@@ -124,15 +124,6 @@ Goh Yen Leong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:benjamin_tan_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">benjamin_tan_a@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr. Tan Jing Da</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_jing_da_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jing_da_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
