@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h2>Scouts</h2>
-<h5>Beliefs &amp; Outcomes </h5>
+<h5>Beliefs &amp; Outcomes</h5>
 <p>Founded in 1958, the 2006 Southern Cross Scouts Troop celebrated its 65<sup>th</sup> anniversary
 recently by organising a campfire which amassed over 300 scouts and girl
 guides from over 30 units across the island. The campfire was a good platform
@@ -220,19 +220,19 @@ to take part in the parade.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Nurul Humairah (AGSL)</p>
+<p>Ms. Kalyani Ravindharan (AGSL)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurul_humairah_abu_bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_humairah_abu_bakar@moe.edu.sg</a>
+<p><a href="mailto:kalyani_ravindharan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kalyani_ravindharan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Kalyani Ravindharan (AGSL)</p>
+<p>Mr. Tan Jing Da</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kalyani_ravindharan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kalyani_ravindharan@moe.edu.sg</a>
+<p><a href="mailto:tan_jing_da_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_jing_da_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
