@@ -123,22 +123,37 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p></p>
-<p>2E4</p>
+<p>3E4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teo Hui Min</p>
+<p>Tuang Fook Yong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_hui_min@moe.edu.sg</a>
+<p><a href="mailto:tuang_fook_yong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tuang_fook_yong@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>153</p>
+<p>132</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chris Liang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:liang_tianfa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liang_tianfa@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>150</p>
 </td>
 </tr>
 <tr>
