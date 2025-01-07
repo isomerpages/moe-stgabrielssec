@@ -142,6 +142,15 @@ different occasions with the school.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Scarlett Tay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_xiao_ni_scarlett@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_xiao_ni_scarlett@moe.edu.sg</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
