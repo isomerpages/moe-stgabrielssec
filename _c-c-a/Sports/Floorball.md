@@ -85,19 +85,19 @@ self-discipline and leadership skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Laura Huang (OIC)</p>
+<p>Mr. Ivan Ng Kai Yang (IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:laura_avyanna_huang_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">laura_avyanna_huang_shan@moe.edu.sg</a>
+<p><a href="mailto:ng_kai_yang_ivan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kai_yang_ivan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr. Ivan Ng Kai Yang (2IC)</p>
+<p>Mr. Rodney Goh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_kai_yang_ivan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kai_yang_ivan@moe.edu.sg</a>
+<p><a href="mailto:goh_huan_shen_rodney@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_huan_shen_rodney@moe.edu.sg</a>
 </p>
 </td>
 </tr>
