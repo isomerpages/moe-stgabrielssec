@@ -131,7 +131,7 @@ they are prepared to become future servant-leaders for the community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Tan Ying (OIC)</p>
+<p>Ms. Tan Ying (IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_ying_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ying_a@moe.edu.sg</a>
