@@ -72,11 +72,10 @@ variant: tiptap
 <p>Floorball</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Laura Huang</p>
+<p>Ng Kai Yang Ivan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:huang_jia_mei_laura@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_jia_mei_laura@moe.edu.sg</a>
-<br>
+<p><a href="mailto:ng_kai_yang_ivan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kai_yang_ivan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -98,10 +97,10 @@ variant: tiptap
 <p>Judo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Joseph Ng</p>
+<p>Tan Ying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_kok_aun_joseph@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kok_aun_joseph@moe.edu.sg</a>
+<p><a href="mailto:tan_ying_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_ying_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
