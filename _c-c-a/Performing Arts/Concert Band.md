@@ -121,19 +121,19 @@ community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Ng U-Lynn (2IC)</p>
+<p>Ms. Shireen Sanbhnani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ng_u-lynn@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_u-lynn@moe.edu.sg</a>
+<p><a href="mailto:shireen_sanbhnani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shireen_sanbhnani@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Shireen Sanbhnani</p>
+<p>Ms. Grace Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:shireen_sanbhnani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shireen_sanbhnani@moe.edu.sg</a>
+<p><a href="mailto:tan_grace@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_grace@moe.edu.sg</a>
 </p>
 </td>
 </tr>
