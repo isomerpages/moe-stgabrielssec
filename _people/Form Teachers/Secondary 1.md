@@ -150,10 +150,10 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kalyani</p>
+<p>Kalyani Ravindharan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kalyani_ravindharan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kalyani_ravindharan@moe.edu.sg</a> 
+<p><a href="mailto:kalyani_ravindharan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kalyani_ravindharan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -164,16 +164,16 @@ variant: tiptap
 <td rowspan="2" colspan="1">
 <p></p>
 <p></p>
-<p>1A5</p>
+<p>1D5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chia Boon Han</p>
+<p>Shireen Sanbhnani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chia_boon_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_boon_han@moe.edu.sg</a>
+<p><a href="mailto:shireen_sanbhnani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shireen_sanbhnani@moe.edu.sg</a> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -182,17 +182,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rose Fadillah</p>
+<p>Muhammad Rizlan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rose_fadillah_aris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rose_fadillah_aris@moe.edu.sg</a>
+<p><a href="mailto:muhammad_rizlan_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_rizlan_abdul_rahman@moe.edu.sg</a> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>220</p>
+<p>154</p>
 </td>
 </tr>
 <tr>
