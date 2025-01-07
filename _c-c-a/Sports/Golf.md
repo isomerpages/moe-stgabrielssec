@@ -171,10 +171,10 @@ The return trip from OCC departs at 5:30 pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Grace Ren Junying (2IC)</p>
+<p>Ms. Nurul Humairah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ren_junying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ren_junying@moe.edu.sg</a>
+<p><a href="mailto:nurul_humairah_abu_bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_humairah_abu_bakar@moe.edu.sg</a>
 </p>
 </td>
 </tr>
