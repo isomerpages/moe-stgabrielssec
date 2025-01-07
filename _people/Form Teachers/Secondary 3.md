@@ -203,11 +203,44 @@ variant: tiptap
 <p>Teo Chen Nee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:teo_chen_nee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_chen_nee@moe.edu.sg</a> 
+<p><a href="mailto:teo_chen_nee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teo_chen_nee@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>126</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2" colspan="1">
+<p>3N3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Peh Sok Hoon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:peh_sok_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">peh_sok_hoon@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>129</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Rodney Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_huan_shen_rodney@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_huan_shen_rodney@moe.edu.sg</a> 
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>146</p>
 </td>
 </tr>
 <tr>
