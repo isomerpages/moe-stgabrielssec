@@ -10,6 +10,7 @@ variant: tiptap
 <hr>
 <p><strong><em>Click on the email address to email the teacher. Main line telephone number 6288 9470.</em></strong>
 </p>
+<p></p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
