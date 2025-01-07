@@ -119,19 +119,19 @@ Cup where they raise funds to contribute to Brother Dennis Care Fund.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Siti Latifah (2IC)</p>
+<p>Ms. Khairunnisa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_latifah_ishar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_latifah_ishar@moe.edu.sg</a>
+<p><a href="mailto:khairunnisa_binte_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khairunnisa_binte_ismail@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Amira Filza</p>
+<p>Ms. Zhuo Sujuan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:amira_filza_mohamed_ibrahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">amira_filza_mohamed_ibrahim@moe.edu.sg</a>
+<p><a href="mailto:zhuo_sujuan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zhuo_sujuan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
