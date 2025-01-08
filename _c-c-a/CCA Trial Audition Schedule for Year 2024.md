@@ -4,4 +4,4 @@ permalink: /c-c-a/trial-audition-schedule-2024/
 variant: markdown
 description: ""
 ---
-Click [here](/files/Announcements/CCA_Trial_Audition_Interview_Schedule_2024.pdf) to view the CCA Trial Audition Schedule.
+Click [here](/files/Announcements/CCA_Trials_and_Auditions_Schedule_2025_with_Q_A.pdf) to view the CCA Trial Audition Schedule.
