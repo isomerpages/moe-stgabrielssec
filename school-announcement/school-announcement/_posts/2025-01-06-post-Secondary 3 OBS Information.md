@@ -12,6 +12,10 @@ variant: tiptap
 3 OBS:</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><strong><a href="https://go.gov.sg/obsinfoforstudents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/obsinfoforstudents</a></strong>
+</p>
+</li>
+<li>
 <p><strong><a href="https://go.gov.sg/sec3obsinformation" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sec3obsinformation</a></strong>
 </p>
 </li>
