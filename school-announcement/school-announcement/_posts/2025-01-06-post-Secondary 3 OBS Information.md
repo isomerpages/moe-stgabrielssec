@@ -12,6 +12,10 @@ variant: tiptap
 3 OBS:</p>
 <ul data-tight="true" class="tight">
 <li>
+<p><a href="/files/Announcements/Letter_to_Parents__2025_MOC_.pdf" rel="noopener nofollow" target="_blank">Letter to Parents</a>
+</p>
+</li>
+<li>
 <p><strong><a href="https://go.gov.sg/obsinfoforstudents" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/obsinfoforstudents</a></strong>
 </p>
 </li>
