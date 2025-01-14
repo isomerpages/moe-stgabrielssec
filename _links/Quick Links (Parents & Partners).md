@@ -12,6 +12,10 @@ variant: tiptap
 <li>
 <p><strong><a href="/files/2025_Parent_Engagement_Deck.pdf" rel="noopener nofollow" target="_blank">Information Slides for Sec 1 Parents PDLP 2025</a></strong>
 </p>
+</li>
+<li>
+<p><strong><a href="/files/Letter_to_Parents___SGSS_13_Jan_25.pdf" rel="noopener nofollow" target="_blank">Letter to Parents</a></strong>
+</p>
 <p></p>
 </li>
 </ul>
