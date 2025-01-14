@@ -41,7 +41,8 @@ slides above for details of the programme.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>DMA Chromebook (LightSpeed)</p>
+<p>DMA Chromebook</p>
+<p>(LightSpeed)</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>DMA iPad</p>
@@ -50,29 +51,32 @@ slides above for details of the programme.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Links/Parents/Parent_User_Guide_for_Default_Option.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent User Guide for Default Option</a></strong>
+<p><strong><a href="/files/Links/Parents/Parent_User_Guide_for_Default_Option.pdf" rel="noopener noreferrer nofollow" target="_blank">Chromebook DMA Parent Guide for Default Option</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/files/Links/Parents/iPad_DMA_Parent_Guide_for_Default_Option.pdf" rel="noopener nofollow" target="_blank">iPad DMA Parent Guide for Default Option</a></strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Links/Parents/Parent_User_Guide_for_Option_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent User Guide for Option A</a></strong>
+<p><strong><a href="/files/Links/Parents/Parent_User_Guide_for_Option_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Chromebook DMA Parent Guide for Option A</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/files/Links/Parents/iPad_DMA_Parent_Guide_for_Option_A.pdf" rel="noopener nofollow" target="_blank">iPad DMA Parent Guide for Option A</a></strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="/files/Links/Parents/Parent_User_Guide_for_Option_B.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent User Guide for Option B</a></strong>
+<p><strong><a href="/files/Links/Parents/Parent_User_Guide_for_Option_B.pdf" rel="noopener noreferrer nofollow" target="_blank">Chromebook DMA Parent Guide for Option B</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong><a href="/files/Links/Parents/iPad_DMA_Parent_Guide_for_Option_B.pdf" rel="noopener nofollow" target="_blank">iPad DMA Parent Guide for Option B</a></strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -98,7 +102,7 @@ slides above for details of the programme.</p>
 </ul>
 <hr>
 <h5>Admin Breeze</h5>
-<p>Click on the <a href="https://stgabrielssec.adminbreeze.com/" rel="noopener noreferrer nofollow" target="_blank">link</a> to
+<p>Click on the <strong><a href="https://stgabrielssec.adminbreeze.com/" rel="noopener noreferrer nofollow" target="_blank">link</a></strong> to
 access the Admin Breeze Portal</p>
 <hr>
 <h5>Parents Gateway</h5>
@@ -130,27 +134,23 @@ access the Admin Breeze Portal</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1W0wS5sZJSDlojssbMOsuI_nPybOxJ2Zz/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><br>Travel Declaration Guide for Parents Gateway</a>
-<br>
+<p><a href="https://drive.google.com/file/d/1W0wS5sZJSDlojssbMOsuI_nPybOxJ2Zz/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><br></a><strong><a href="https://drive.google.com/file/d/1W0wS5sZJSDlojssbMOsuI_nPybOxJ2Zz/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Travel Declaration Guide for Parents Gateway</a></strong>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://sites.google.com/site/psgsgss/" rel="noopener noreferrer nofollow" target="_blank"><br>Parent's Support Group Website</a>
-<br>
-<br>
+<p><a href="https://sites.google.com/site/psgsgss/" rel="noopener noreferrer nofollow" target="_blank"><br></a><strong><a href="https://sites.google.com/site/psgsgss/" rel="noopener noreferrer nofollow" target="_blank">Parent's Support Group Website</a></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank"><br>MOE eGIRO Application for School and Miscellaneous Fees<br><br></a>
+<p><strong><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank"><br>MOE eGIRO Application for School and Miscellaneous Fees<br><br></a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>Education and Career Guidance
-<br>( <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">ecareers.sg web portal</a> )
+<br><strong>Education and Career Guidance <br>( <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">ecareers.sg web portal</a> ) </strong>
 <br>
 <br>
 </p>
