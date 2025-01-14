@@ -10,12 +10,13 @@ variant: tiptap
 </p>
 <ul>
 <li>
-<p><strong><a href="/files/Links/Parents/Information_Slides_for_Sec_1_Parents_PDLP_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Slides for Sec 1 Parents PDLP 2024</a></strong>
+<p><strong><a href="/files/2025_Parent_Engagement_Deck.pdf" rel="noopener nofollow" target="_blank">Information Slides for Sec 1 Parents PDLP 2025</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Links/Parents/Application%20for%20Subsidy%20for%20Purchase%20of%20PLD.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form for Subsidy for Purchase of Personal Learning Device (PLD)</a></strong>
+<p><strong><a href="/files/Letter_to_Parents___SGSS_13_Jan_25.pdf" rel="noopener nofollow" target="_blank">Letter to Parents</a></strong>
 </p>
+<p></p>
 </li>
 </ul>
 <p>You would have received a letter titled&nbsp;<strong>“National Digital Literacy Programme”</strong>&nbsp;which
@@ -35,26 +36,56 @@ slides above for details of the programme.</p>
 <li>
 <p><strong><a href="/files/Links/Parents/Student%20Device%20Information%20Kit.pdf" rel="noopener noreferrer nofollow" target="_blank">Student Device Information Kit</a></strong>
 </p>
-</li>
-<li>
-<p><strong><a href="/files/Links/Parents/Infographic_on_the_PLD_Initiative.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographic on the PLD Initiative</a></strong>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>DMA Chromebook</p>
+<p>(LightSpeed)</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>DMA iPad</p>
+<p>(Jamf School)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Links/Parents/Parent_User_Guide_for_Default_Option.pdf" rel="noopener noreferrer nofollow" target="_blank">Chromebook DMA Parent Guide for Default Option</a></strong>
 </p>
-</li>
-<li>
-<p><strong><a href="/files/Links/Parents/Infosheet_on_MOE_DMA_Settings.pdf" rel="noopener noreferrer nofollow" target="_blank">Info sheet on MOE DMA Settings</a></strong>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Links/Parents/iPad_DMA_Parent_Guide_for_Default_Option.pdf" rel="noopener nofollow" target="_blank">iPad DMA Parent Guide for Default Option</a></strong>
 </p>
-</li>
-<li>
-<p><strong><a href="/files/Links/Parents/Parent_User_Guide_for_Default_Option.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent User Guide for Default Option</a></strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Links/Parents/Parent_User_Guide_for_Option_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Chromebook DMA Parent Guide for Option A</a></strong>
 </p>
-</li>
-<li>
-<p><strong><a href="/files/Links/Parents/Parent_User_Guide_for_Option_A.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent User Guide for Option A</a></strong>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Links/Parents/iPad_DMA_Parent_Guide_for_Option_A.pdf" rel="noopener nofollow" target="_blank">iPad DMA Parent Guide for Option A</a></strong>
 </p>
-</li>
-<li>
-<p><strong><a href="/files/Links/Parents/Parent_User_Guide_for_Option_B.pdf" rel="noopener noreferrer nofollow" target="_blank">Parent User Guide for Option B</a></strong>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Links/Parents/Parent_User_Guide_for_Option_B.pdf" rel="noopener noreferrer nofollow" target="_blank">Chromebook DMA Parent Guide for Option B</a></strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="/files/Links/Parents/iPad_DMA_Parent_Guide_for_Option_B.pdf" rel="noopener nofollow" target="_blank">iPad DMA Parent Guide for Option B</a></strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 </li>
 </ul>
 <hr>
@@ -75,7 +106,7 @@ slides above for details of the programme.</p>
 </ul>
 <hr>
 <h5>Admin Breeze</h5>
-<p>Click on the <a href="https://stgabrielssec.adminbreeze.com/" rel="noopener noreferrer nofollow" target="_blank">link</a> to
+<p>Click on the <strong><a href="https://stgabrielssec.adminbreeze.com/" rel="noopener noreferrer nofollow" target="_blank">link</a></strong> to
 access the Admin Breeze Portal</p>
 <hr>
 <h5>Parents Gateway</h5>
@@ -107,27 +138,23 @@ access the Admin Breeze Portal</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1W0wS5sZJSDlojssbMOsuI_nPybOxJ2Zz/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><br>Travel Declaration Guide for Parents Gateway</a>
-<br>
+<p><a href="https://drive.google.com/file/d/1W0wS5sZJSDlojssbMOsuI_nPybOxJ2Zz/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><br></a><strong><a href="https://drive.google.com/file/d/1W0wS5sZJSDlojssbMOsuI_nPybOxJ2Zz/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Travel Declaration Guide for Parents Gateway</a></strong>
 <br>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://sites.google.com/site/psgsgss/" rel="noopener noreferrer nofollow" target="_blank"><br>Parent's Support Group Website</a>
-<br>
-<br>
+<p><a href="https://sites.google.com/site/psgsgss/" rel="noopener noreferrer nofollow" target="_blank"><br></a><strong><a href="https://sites.google.com/site/psgsgss/" rel="noopener noreferrer nofollow" target="_blank">Parent's Support Group Website</a></strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank"><br>MOE eGIRO Application for School and Miscellaneous Fees<br><br></a>
+<p><strong><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank"><br>MOE eGIRO Application for School and Miscellaneous Fees<br><br></a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>
-<br>Education and Career Guidance
-<br>( <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">ecareers.sg web portal</a> )
+<br><strong>Education and Career Guidance <br>( <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">ecareers.sg web portal</a> ) </strong>
 <br>
 <br>
 </p>
