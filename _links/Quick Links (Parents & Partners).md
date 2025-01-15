@@ -16,6 +16,10 @@ variant: tiptap
 <li>
 <p><strong><a href="/files/Letter_to_Parents___SGSS_13_Jan_25.pdf" rel="noopener nofollow" target="_blank">Letter to Parents</a></strong>
 </p>
+</li>
+<li>
+<p><strong><a href="/files/Links/Parents/Application_for_Subsidy_for_Purchase_of_PLD.pdf" rel="noopener nofollow" target="_blank">Application for Subsidy for Purchase of PLD </a></strong>
+</p>
 <p></p>
 </li>
 </ul>
