@@ -85,7 +85,7 @@ variant: tiptap
 <p>Ms. Jessica Yap</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>132</p>
+<p>216</p>
 </td>
 </tr>
 <tr>
