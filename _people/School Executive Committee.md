@@ -71,7 +71,7 @@ variant: tiptap
 <p>Year Head (Sec 3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Elyn Lim</p>
+<p>Ms. Elyn Lim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>216</p>
@@ -82,7 +82,7 @@ variant: tiptap
 <p>Year Head (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Jesscia Yap</p>
+<p>Ms. Jessica Yap</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>132</p>
