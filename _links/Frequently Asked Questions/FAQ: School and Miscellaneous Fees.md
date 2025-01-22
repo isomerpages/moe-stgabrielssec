@@ -1,8 +1,9 @@
 ---
 title: "FAQ: School and Miscellaneous Fees"
-permalink: /links/Frequently-Asked-Questions/School-and-Miscellaneous-Fees/
+permalink: /links/frequently-asked-questions/school-and-miscellaneous-fees/
 description: ""
 third_nav_title: Frequently Asked Questions
+variant: tiptap
 ---
 ## FAQ: SCHOOL AND MISCELLANEOUS FEES
 

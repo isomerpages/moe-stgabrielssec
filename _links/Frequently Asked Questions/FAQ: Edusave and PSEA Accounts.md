@@ -1,8 +1,9 @@
 ---
 title: "FAQ: Edusave and PSEA Accounts"
-permalink: /links/Frequently-Asked-Questions/Edusave-PSEA-Accounts/
+permalink: /links/frequently-asked-questions/edusave-psea-accounts/
 description: ""
 third_nav_title: Frequently Asked Questions
+variant: tiptap
 ---
 ### FAQ: EDUSAVE AND PSEA ACCOUNTS
 
