@@ -7,14 +7,18 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>School will close at 5pm on the following dates:</p>
+<p>School will close at 12pm on the following date:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>15th November 2024 for the Annual Year End Staff Dinner</p>
+<p>28th January 2025 being the Eve of Lunar New Year</p>
+<p></p>
 </li>
+</ul>
+<p>School will close at 5pm on the following date:</p>
+<ul data-tight="true" class="tight">
 <li>
-<p>25th November to 20 December 2024 being the end of year School Holiday
-Break</p>
+<p>31st January 2025 being Home-based Learning Day and 3rd day of Lunar New
+Year</p>
 </li>
 </ul>
 <p></p>
