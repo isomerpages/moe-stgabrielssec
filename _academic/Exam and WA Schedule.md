@@ -5,10 +5,7 @@ description: ""
 variant: markdown
 ---
 #### Weighted Assessment Schedule
-
+* [2025 Weighted Assessment 1 Information](https://docs.google.com/spreadsheets/d/1T9Ho6HhSQ0uYDTI9U4vIqG4fWzB4VRpSsgGctLdBeJ0/edit?gid=386006237#gid=386006237)
 
 
 #### Examination  Schedule
-* [2024 End of Year Examination Timetable (Secondary 1 to Secondary 3)](https://go.gov.sg/s1-to-s3-end-of-year-timetable)
-* [Prelim 'N' Level Timetable](/files/2024_Prelim_N_Level_Timetable.pdf)
-* [Prelim 'O' Level Timetable](/files/2024_Prelim_O_Level_Timetable.pdf)
