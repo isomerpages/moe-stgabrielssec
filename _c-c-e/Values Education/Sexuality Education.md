@@ -77,41 +77,37 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="/files/Sec_1_SEd_Timeline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 1</a></strong>
+<p><strong><a href="/files/Sexuality Education/Sec_1_SEd_Timeline_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Sec_2_SEd_Timeline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 2</a></strong>
+<p><strong><a href="/files/Sexuality Education/Sec_2_SEd_Timeline_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Sec_3_SEd_Timeline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 3</a></strong>
+<p><strong><a href="/files/Sexuality Education/Sec_3_SEd_Timeline_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Sec_4_SEd_Timeline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 4</a></strong>
+<p><strong><a href="/files/Sexuality Education/Sec_4_SEd_Timeline_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 4</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Sec_5_SEd_Timeline_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Secondary 5</a></strong>
+<p><strong><a href="/files/Sexuality Education/Sec_5_SEd_Timeline_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 5</a></strong>
 </p>
 </li>
 </ul>
 <p><strong>Secondary 3</strong>
 <br><strong><em>eTeens</em>&nbsp;Programme:</strong>
 </p>
-<p><em>eTeens</em> is a programme developed by Health Promotion Board, in
-collaboration with the Ministry of Education, to provide Secondary 3 students
-with accurate information on STIs, HIV and protection from a health perspective.
-eTeens is conducted in two segments – a mass talk segment and a classroom-based
-programme. The desired outcome of the eTeens programme is that students
-are empowered to make wise, informed and sensible decisions.</p>
+<p><em>eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</em>
+</p>
 <p>Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
-<p><strong>At St. Gabriel’s Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2024:</strong>
+<p><strong>At St. Gabriel’s Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -128,20 +124,23 @@ Abstinence and upholding family values are the key messages.</p>
 <p>Programme Learning Objectives</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Time Period
-<br>(e.g. Term 3 Week 9)</p>
+<p>Time Period</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Raise awareness and provide knowledge on:
+<ul data-tight="true" class="tight">
+<li>
+<p>Raise awareness and provide knowledge on:
 <br>(a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
 to prevent infection mainly through ABC (abstinence, being faithful, correct,
 and consistent condom use).
 <br>(b) Managing relationships and risky situations in a healthy way.</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 3 Week 4</p>
@@ -152,14 +151,18 @@ and consistent condom use).
 <p>Classroom-based Lesson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>-Learn to negotiate their way out of a risky situation by applying skills
+<ul data-tight="true" class="tight">
+<li>
+<p>Learn to negotiate their way out of a risky situation by applying skills
 of assertiveness and responsible decision-making
 <br>
 <br>
 </p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 4</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 </tbody>
@@ -169,18 +172,12 @@ of assertiveness and responsible decision-making
 <p>Parents may opt their children out of the Sexuality Education lessons,
 eTeens and/or supplementary sexuality education programmes by MOE-approved
 external providers.</p>
-<p>For parents of who wish to opt their children out of the <strong>Sexuality Education lessons</strong> need
-to complete an opt-out form. This form will be communicated to parents
-at the start of the year is downloadable <strong><a href="/files/Letter_to_Parents_SEd_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>.</p>
-<p>For parents of <strong>Secondary 3 students</strong> who wish to opt their
-children out of the <strong>eTeens programme</strong> they will need to complete
-an opt-out form. This form will be communicated to parents at the start
-of the year and is downloadable <strong><a href="/files/Letter_to_Parents_Sec_3_SEd_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong>
-</p>
-<p>A hardcopy of the form, duly completed and signed, is to be submitted
-by 29/02/2024.</p>
-<p>Parents can contact the school at&nbsp;<strong>62889470</strong>&nbsp;or&nbsp;<strong><a href="mailto:stgss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">stgss@moe.edu.sg</a></strong>&nbsp;for
-discussion or to seek clarification about the school’s sexuality education
+<p>Parents who wish to opt their children out of the Sexuality Education
+lessons need to complete the Opt-out Form <strong><a href="https://go.gov.sg/stgsssed2025optoutform" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/stgsssed2025optoutform</a></strong> by
+14/02/2025.</p>
+<p>Parents who wish to opt their children out of the eTeens programme need
+to complete the Opt-out Form at <strong><a href="https://go.gov.sg/stgsseteens2025optoutform" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/stgsseteens2025optoutform</a></strong> by
+14/02/2025.</p>
+<p>Parents can contact the school at <strong>62889470</strong> or <strong><a href="mailto:stgss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">stgss@moe.edu.sg</a></strong> for
+discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
-<p>Parents, who wish to attend the school sexuality education programmes,
-should contact the school to make the necessary arrangements.</p>
