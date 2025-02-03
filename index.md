@@ -12,6 +12,12 @@ sections:
       title: Announcement
       subtitle: St. Gabriel's Secondary School
       button: More
+  - infopic:
+      title: St. Gabriel's Foundation Flag Day 2025
+      subtitle: St. Gabriel's Secondary School
+      id: infopic
+      image: /images/SGSS_Poster.jpg
+      alt: Image alt text
   - infobar:
       title: Want to find out more about St. Gabriel's Secondary School?
       subtitle: St. Gabriel's Secondary School
