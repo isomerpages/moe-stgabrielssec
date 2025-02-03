@@ -8,7 +8,7 @@ variant: markdown
 
 **1. [Awards (Academic and Non-Academic)](/files/Links/Student%20Handbook/Awards%20(Academic%20and%20Non%20Academic).pdf)**
 
-**2.  [Internal Examination Rules and Regulations](/files/Links/Student%20Handbook/Internal_Examination_Rules_and_Regulations.pdf)**
+**2. [Internal Examination Rules and Regulations](/files/Links/Student%20Handbook/Internal_Examination_Rules_and_Regulations.pdf)**
 
 **3. [Assessment and Promotion Criteria](/files/Links/Student%20Handbook/Assessment%20and%20Promotion%20Criteria.pdf)**  
 
