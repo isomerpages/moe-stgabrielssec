@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h2>QUICK LINKS (STUDENTS)</h2>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/students%20link.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Students_Link_2025.jpg">
 </div>
 <h5><a href="https://vle.learning.moe.edu.sg/login" rel="noopener noreferrer nofollow" target="_blank">Student Learning Space Portal (SLS)</a></h5>
 <p>As part of the Ministry of Education’s (MOE) commitment to nurture future-ready
