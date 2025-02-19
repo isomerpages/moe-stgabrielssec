@@ -4,7 +4,7 @@ permalink: /academic/Science/
 description: ""
 variant: tiptap
 ---
-<h4>BELIEFS &amp; OUTCOMES</h4>
+<h3><strong>BELIEFS &amp; OUTCOMES</strong></h3>
 <p><em>“Learning is a walk of discovery, playing is the highest form of research.”</em>
 </p>
 <p>The aim of the Science Education programme at St. Gabriel’s Secondary
@@ -72,7 +72,7 @@ the lifelong learning in&nbsp;Science, Technology, Engineering and Mathematics
 a variety of science combinations. We offer Pure Biology, Pure Chemistry,
 Pure Physics, Science (Physics/Chemistry), Science (Chemistry/Biology)
 and Science (Syllabus T) subjects.</p>
-<h4>Programme Highlights</h4>
+<h4><strong>Programme Highlights</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Secondary 1 Code for Fun</p>
@@ -96,7 +96,7 @@ and Science (Syllabus T) subjects.</p>
 <p>Science Research Programmes</p>
 </li>
 </ul>
-<h4>Achievements</h4>
+<h4><strong>Achievements</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -158,8 +158,7 @@ and Science (Syllabus T) subjects.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong><u>Our Teachers</u></strong>
-</p>
+<h4><strong>Our Teachers</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -396,3 +395,50 @@ and Science (Syllabus T) subjects.</p>
 </tbody>
 </table>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Science/Sci_01.png">
+</div>
+<p><em>Victorious in Science: Our students' innovative research earns them well-deserved recognition and accolades</em>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Science/Sci_02.jpg">
+</div>
+<p><em>Future tech innovators: Our Secondary 1 students immerse themselves in coding, creating solutions for tomorrow</em>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Academic/Science/Sci_03.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Science/Sci_04.jpg">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><em>Igniting passion for science: The level-wide Sec 2 Science Enrichment programme is filled with excitement and exploration where students discover the wonders of nature and science through hands-on activities.</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Building the future: Students dive into the world of drones, combining creativity and technology during their Applied Learning Programme.</em>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Science/Sci_06.jpg">
+</div>
+<p><em>From theory to practice: Our Secondary 4 students bring science to life through engaging and interactive experiments at Science Centre workshops.</em>
+</p>
