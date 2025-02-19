@@ -2,153 +2,397 @@
 title: Science
 permalink: /academic/Science/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-## Science
-
-_**Learning is a walk of discovery, playing is the highest form of research.**_  
-
-#### <u>Introduction</u>
-
-The aim of the Science Education programme at St. Gabriel’s Secondary School (SGSS) is to
-
-*   enthuse Gabrielites to learn, live and love Science
-*   nurture Gabrielites to be inquirers and innovators that are steeped in values
-
-The SGSS Science curriculum aligns itself to the MOE CPDD’s Science curriculum framework, which seeks to inculcate students with strong fundamentals in Science for life, learning, citizenry and work. With the&nbsp;**three Ins**&nbsp;– Inspire, Inquire, Innovate, as the vision of Science Education, the goals of Science Education are to:
-
-a.&nbsp;Enthuse and nurture all students to be scientifically literate, so that they are able to make informed decisions and take responsible actions in their daily lives; and
-
-b.&nbsp;Provide strong Science fundamentals for students to innovate and pursue STEM for future learning and work.
-
-<img src="/images/Academic/Science/Science.png" style="width:70%">
-
-Central to the revised Science Curriculum Framework is the tagline&nbsp;**Science for Life and Society**, which is grounded in the three domains of
-
-*   Core Ideas,
-*   Practices, and
-*   Values, Ethics and Attitudes in Science.
-
-These domains are very important for an all-rounded Science Education to nurture students as inquirers.
-
-The term Core Ideas refers to the fundamental ideas that are essential for the understanding of Science. The term Practices signals the importance of “Ways of Thinking and Doing in Science” and emphasises Science as a human endeavour guided by Values, Ethics and Attitudes embedded within society. In addition, teaching and learning involves not just the students and teachers but other partners who can facilitate learning in various contexts to help students appreciate the application of Science in their daily lives, society and the environment.
-
-##### <u>Programmes</u>
-
-**Lower Secondary Science**
-
-Our lower secondary science curriculum is an integration of all three sciences, Biology, Chemistry and Physics and follows a thematic approach - diversity, models, systems and interactions. Through the 5E Inquiry approach, students are engaged in the Practices of&nbsp;Science, grounded in the knowledge, issues and questions that relate to the roles played by Science in daily life, society and the environment.SGSS also offers the&nbsp;**Applied Learning Program (ALP)**&nbsp;with specialisation in Aviation Science to lower secondary students to encourage the lifelong learning in&nbsp;Science, Technology, Engineering and Mathematics (STEM) through Flight and Aerospace.
-
-For more information on our ALP programme, please click&nbsp;**[here](https://staging.d3b8qjosoo9awx.amplifyapp.com/signature-programmes/Applied-Learning-Programme/)**.
-
-**Upper Secondary Science**
-
-To cater to the interest and diverse abilities of Gabrielites, SGSS offers a variety of science combinations. We offer Pure Biology, Pure Chemistry, Pure Physics, Science (Physics/Chemistry), Science (Chemistry/Biology) and Science (Syllabus T) subjects.
-
-Apart from the rigorous academic teaching and learning of science in the class, Gabrielites have opportunities to deepen their interest and learning through the following enrichment activities:
-
-*   Aviation Programme e.g. Singapore Air Show
-*   Cancer Bus Education
-*   Kidney Health Education
-*   Drone Odyssey Challenge (organized by Science Centre Singapore)
-*   Singapore Amazing Flying Machine Competition (organized by Science Centre Singapore and DSO Laboratories)
-
-**Modes of Assessment**
-
-Gabrielites are assessed through various modes e.g. project work, tests and practical to ascertain their learning and their ability to apply science concepts to various situations.
-
-We also incorporate Assessment for Learning (AfL) in our daily lessons to build Gabrielites' understanding and provide timely feedback for continuous learning. To deepen the learning experience for excellence in Science, teaching strategies such as effective questioning, descriptive feedback and thinking routines are used.
-
-**<center><u>The Science Team</u></center>**
-
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1fjv{background-color:#FAFAFA;color:#0C343D;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-9uia{background-color:#FAFAFA;color:#454545;text-align:center;vertical-align:middle}
-.tg .tg-q8lm{background-color:#0B4A7E;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-5e8z{background-color:#FAFAFA;color:#454545;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-q8lm"><span style="color:#FFF;background-color:#0B4A7E">Name</span></th>
-    <th class="tg-q8lm"><span style="color:#FFF;background-color:#0B4A7E">Designation</span></th>
-    <th class="tg-q8lm"><span style="color:#FFF;background-color:#0B4A7E">Contact</span></th>
-  </tr>
-</thead>
+<h4>BELIEFS &amp; OUTCOMES</h4>
+<p><em>“Learning is a walk of discovery, playing is the highest form of research.”</em>
+</p>
+<p>The aim of the Science Education programme at St. Gabriel’s Secondary
+School (STGSS) is to</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>enthuse Gabrielites to learn, live and love Science</p>
+</li>
+<li>
+<p>nurture Gabrielites to be inquirers and innovators that are steeped in
+values</p>
+</li>
+</ul>
+<p>The STGSS Science curriculum aligns itself to the MOE CPDD’s Science curriculum
+framework, which seeks to inculcate students with strong fundamentals in
+Science for life, learning, citizenry and work. With the&nbsp;<strong>three Ins</strong>&nbsp;–
+Inspire, Inquire, Innovate, as the vision of Science Education, the goals
+of Science Education are to:</p>
+<p>a.&nbsp;Enthuse and nurture all students to be scientifically literate,
+so that they are able to make informed decisions and take responsible actions
+in their daily lives; and</p>
+<p>b.&nbsp;Provide strong Science fundamentals for students to innovate and
+pursue STEM for future learning and work.</p>
+<div class="isomer-image-wrapper">
+<img style="width:70%" height="auto" width="100%" src="/images/Academic/Science/Science.png">
+</div>
+<p>Central to the revised Science Curriculum Framework is the tagline&nbsp;<strong>Science for Life and Society</strong>,
+which is grounded in the three domains of</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Core Ideas,</p>
+</li>
+<li>
+<p>Practices, and</p>
+</li>
+<li>
+<p>Values, Ethics and Attitudes in Science.</p>
+</li>
+</ul>
+<p>These domains are very important for an all-rounded Science Education
+to nurture students as inquirers.</p>
+<p>The term Core Ideas refers to the fundamental ideas that are essential
+for the understanding of Science. The term Practices signals the importance
+of “Ways of Thinking and Doing in Science” and emphasises Science as a
+human endeavour guided by Values, Ethics and Attitudes embedded within
+society. In addition, teaching and learning involves not just the students
+and teachers but other partners who can facilitate learning in various
+contexts to help students appreciate the application of Science in their
+daily lives, society and the environment.</p>
+<p><strong><u>Lower Secondary Science</u></strong>
+</p>
+<p>Our lower secondary science curriculum is an integration of all three
+sciences, Biology, Chemistry and Physics and follows a thematic approach
+- diversity, models, systems and interactions. Through the 5E Inquiry approach,
+students are engaged in the Practices of&nbsp;Science, grounded in the
+knowledge, issues and questions that relate to the roles played by Science
+in daily life, society and the environment.</p>
+<p>STGSS also offers the&nbsp;<strong>Applied Learning Program (ALP)</strong>&nbsp;with
+specialisation in Aviation Science to lower secondary students to encourage
+the lifelong learning in&nbsp;Science, Technology, Engineering and Mathematics
+(STEM) through Flight and Aerospace.</p>
+<p><strong><u>Upper Secondary Science</u></strong>
+</p>
+<p>To cater to the interest and diverse abilities of Gabrielites, SGSS offers
+a variety of science combinations. We offer Pure Biology, Pure Chemistry,
+Pure Physics, Science (Physics/Chemistry), Science (Chemistry/Biology)
+and Science (Syllabus T) subjects.</p>
+<h4>Programme Highlights</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Secondary 1 Code for Fun</p>
+</li>
+<li>
+<p>Secondary 2 Science Centre Workshops</p>
+</li>
+<li>
+<p>Upper Secondary Learning Journeys</p>
+</li>
+<li>
+<p>Singapore Amazing Flying Machine Competition (SAFMC)</p>
+</li>
+<li>
+<p>Biology, Chemistry, Physics Olympiads</p>
+</li>
+<li>
+<p>Biomedical Quiz</p>
+</li>
+<li>
+<p>Science Research Programmes</p>
+</li>
+</ul>
+<h4>Achievements</h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-	  <tr>
-    <td class="tg-5e8z">Mr. Mario Chua</td>
-    <td class="tg-5e8z">HOD / Science</td>
-    <td class="tg-1fjv"><a href="mailto:chua_chong_yi_mario@moe.edu.sg">chua_chong_yi_mario@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-5e8z">Mr. Nick Chow</td>
-    <td class="tg-5e8z">Year Head</td>
-    <td class="tg-1fjv"><a href="mailto:chow_yew_kai@moe.edu.sg">chow_yew_kai@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-5e8z">Mr. James Peh</td>
-    <td class="tg-5e8z">HOD / T&amp;L</td>
-    <td class="tg-1fjv"><a href="mailto:james_peh@moe.edu.sg">james_peh@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-5e8z">Mr. Ho Chung Sing</td>
-    <td class="tg-5e8z">HOD / ICT </td>
-    <td class="tg-1fjv"><a href="mailto:ho_chung_sing@moe.edu.sg">ho_chung_sing@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-5e8z">Mrs. Chang Chin Ngan</td>
-    <td class="tg-5e8z"> ST / Chemistry</td>
-    <td class="tg-1fjv"><a href="mailto:yip_chin_ngan@moe.edu.sg">yip_chin_ngan@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-5e8z">Mr. Joshua Leong</td>
-    <td class="tg-5e8z">Teacher</td>
-    <td class="tg-1fjv"><a href="mailto:leong_heng_wah@moe.edu.sg">leong_heng_wah@moe.edu.sg
-			</a></td>
-  </tr>
-  <tr>
-    <td class="tg-5e8z">Mr. Koh Keng Wee</td>
-    <td class="tg-5e8z">Teacher</td>
-    <td class="tg-1fjv"><a href="mailto:koh_keng_wee@moe.edu.sg">koh_keng_wee@moe.edu.sg
-			</a></td>
-  </tr>
-  <tr>
-    <td class="tg-5e8z">Mrs. Mary Stevenson</td>
-    <td class="tg-5e8z">Teacher</td>
-    <td class="tg-1fjv"><a href="mailto:mary_magdalene_yong@moe.edu.sg">mary_magdalene_yong@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-5e8z">Mr. Sebastian Goh</td>
-    <td class="tg-5e8z">Teacher</td>
-    <td class="tg-1fjv"><a href="mailto:goh_kok_ho@moe.edu.sg">goh_kok_ho@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-5e8z">Mr. Vincent Kan</td>
-    <td class="tg-5e8z">Teacher</td>
-    <td class="tg-1fjv"><a href="mailto:kan_vincent@moe.edu.sg">kan_vincent@moe.edu.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-5e8z">Mr. Anthony Tang</td>
-    <td class="tg-5e8z">Teacher</td>
-    <td class="tg-1fjv"><a href="mailto:anthony_tang_chong_tong@moe.edu.sg">anthony_tang_chong_tong@moe.edu.sg </a></td>
-  </tr>
-
-  <tr>
-    <td class="tg-5e8z"> Ms. Jamuna</td>
-    <td class="tg-5e8z">Lab Technician</td>
-    <td class="tg-5e8z">-</td>
-  </tr>
-  <tr>
-    <td class="tg-5e8z">Mdm. Hia Siew Meng</td>
-    <td class="tg-5e8z">OSO</td>
-    <td class="tg-5e8z">-</td>
-  </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Unity Scientific Innovation Challenge with SP &amp; ERI@N (USPE)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong> - Merit Award (Team)</p>
+<p><strong>2023</strong> - Merit Award (Team)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>C.B. Paul Science Quiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2023</strong> - 1 Honorable Mention</p>
+<p><strong>2022</strong> - 1 Silver, 4 Merit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Biomedical Quiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong> - 1 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Biology Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong> - 2 Silver, 2 Honorable Mention</p>
+<p><strong>2023</strong> - 3 Silver, 2 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chemistry Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong> - 3 Silvers</p>
+<p><strong>2023</strong> - 1 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23rd International Elementz Fair</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2022</strong> - Gold</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
+<p><strong><u>Our Teachers</u></strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Contact</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Mario Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_chong_yi_mario@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chong_yi_mario@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Deborah Gian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chow_yew_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_yew_kai@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. James Peh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD / T&amp;L</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:james_peh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">james_peh@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs. Chang Chin Ngan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST / Chemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yip_chin_ngan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yip_chin_ngan@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Sebastian Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH / ICT Covering</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="goh_kok_ho@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_kok_ho@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Ho Chung Sing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ho_chung_sing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_chung_sing@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Koh Keng Wee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_keng_wee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_keng_wee@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Vincent Kan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kan_vincent@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kan_vincent@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Chris Liang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="liang_tianfa@moe.edu.sg" rel="noopener nofollow" target="_blank">liang_tianfa@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Siti Nazeefah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="siti_nazeefah_md_mansor@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_nazeefah_md_mansor@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Benjamin Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="benjamin_tan_a@moe.edu.sg" rel="noopener nofollow" target="_blank">benjamin_tan_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Jane Zhou</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="zhou_jie_jane@moe.edu.sg" rel="noopener nofollow" target="_blank">zhou_jie_jane@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Pang Seo Mun</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="pang_seok_mun@moe.edu.sg" rel="noopener nofollow" target="_blank">pang_seok_mun@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Joshua Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:leong_heng_wah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_heng_wah@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Tan Jing Da</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="tan_jing_da_a@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_jing_da_a@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Anthony Tang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:anthony_tang_chong_tong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anthony_tang_chong_tong@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr. Eric Loh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="eric_loh_tian_hon@moe.edu.sg" rel="noopener nofollow" target="_blank">eric_loh_tian_hon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms. Jamuna</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM Instructor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
