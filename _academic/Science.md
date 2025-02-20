@@ -8,7 +8,7 @@ variant: tiptap
 <p><em>“Learning is a walk of discovery, playing is the highest form of research.”</em>
 </p>
 <p>The aim of the Science Education programme at St. Gabriel’s Secondary
-School (STGSS) is to</p>
+School (StGSS) is to</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>enthuse Gabrielites to learn, live and love Science</p>
@@ -18,7 +18,7 @@ School (STGSS) is to</p>
 values</p>
 </li>
 </ul>
-<p>The STGSS Science curriculum aligns itself to the MOE CPDD’s Science curriculum
+<p>The StGSS Science curriculum aligns itself to the MOE’s Science curriculum
 framework, which seeks to inculcate students with strong fundamentals in
 Science for life, learning, citizenry and work. With the&nbsp;<strong>three Ins</strong>&nbsp;–
 Inspire, Inquire, Innovate, as the vision of Science Education, the goals
@@ -62,7 +62,7 @@ sciences, Biology, Chemistry and Physics and follows a thematic approach
 students are engaged in the Practices of&nbsp;Science, grounded in the
 knowledge, issues and questions that relate to the roles played by Science
 in daily life, society and the environment.</p>
-<p>STGSS also offers the&nbsp;<strong>Applied Learning Program (ALP)</strong>&nbsp;with
+<p>StGSS also offers the&nbsp;<strong>Applied Learning Program (ALP)</strong>&nbsp;with
 specialisation in Aviation Science to lower secondary students to encourage
 the lifelong learning in&nbsp;Science, Technology, Engineering and Mathematics
 (STEM) through Flight and Aerospace.</p>
@@ -145,6 +145,14 @@ and Science (Syllabus T) subjects.</p>
 <td rowspan="1" colspan="1">
 <p><strong>2024</strong> - 3 Silvers</p>
 <p><strong>2023</strong> - 1 Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Physics Olympiad</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong> - 1 Silver, 1 Honorable Mention</p>
 </td>
 </tr>
 <tr>
