@@ -205,7 +205,7 @@ and Science (Syllabus T) subjects.</p>
 <p>SH / Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chow_yew_kai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_yew_kai@moe.edu.sg</a>
+<p><a href="mailto:gian_deborah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">gian_deborah@moe.edu.sg</a>
 </p>
 </td>
 </tr>
