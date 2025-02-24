@@ -241,7 +241,7 @@ and Science (Syllabus T) subjects.</p>
 <p>SH / ICT Covering</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="goh_kok_ho@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_kok_ho@moe.edu.sg</a>
+<p><a href="mailto:goh_kok_ho@moe.edu.sg" rel="noopener nofollow" target="_blank">goh_kok_ho@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -289,7 +289,7 @@ and Science (Syllabus T) subjects.</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="liang_tianfa@moe.edu.sg" rel="noopener nofollow" target="_blank">liang_tianfa@moe.edu.sg</a>
+<p><a href="mailto:liang_tianfa@moe.edu.sg" rel="noopener nofollow" target="_blank">liang_tianfa@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -301,7 +301,7 @@ and Science (Syllabus T) subjects.</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="siti_nazeefah_md_mansor@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_nazeefah_md_mansor@moe.edu.sg</a>
+<p><a href="mailto:siti_nazeefah_md_mansor@moe.edu.sg" rel="noopener nofollow" target="_blank">siti_nazeefah_md_mansor@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -313,7 +313,7 @@ and Science (Syllabus T) subjects.</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="benjamin_tan_a@moe.edu.sg" rel="noopener nofollow" target="_blank">benjamin_tan_a@moe.edu.sg</a>
+<p><a href="mailto:benjamin_tan_a@moe.edu.sg" rel="noopener nofollow" target="_blank">benjamin_tan_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -325,7 +325,7 @@ and Science (Syllabus T) subjects.</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="zhou_jie_jane@moe.edu.sg" rel="noopener nofollow" target="_blank">zhou_jie_jane@moe.edu.sg</a>
+<p><a href="mailto:zhou_jie_jane@moe.edu.sg" rel="noopener nofollow" target="_blank">zhou_jie_jane@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -337,7 +337,7 @@ and Science (Syllabus T) subjects.</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="pang_seok_mun@moe.edu.sg" rel="noopener nofollow" target="_blank">pang_seok_mun@moe.edu.sg</a>
+<p><a href="mailto:pang_seok_mun@moe.edu.sg" rel="noopener nofollow" target="_blank">pang_seok_mun@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -361,7 +361,7 @@ and Science (Syllabus T) subjects.</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_jing_da_a@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_jing_da_a@moe.edu.sg</a>
+<p><a href="mailto:tan_jing_da_a@moe.edu.sg" rel="noopener nofollow" target="_blank">tan_jing_da_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -385,7 +385,7 @@ and Science (Syllabus T) subjects.</p>
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="eric_loh_tian_hon@moe.edu.sg" rel="noopener nofollow" target="_blank">eric_loh_tian_hon@moe.edu.sg</a>
+<p><a href="mailto:eric_loh_tian_hon@moe.edu.sg" rel="noopener nofollow" target="_blank">eric_loh_tian_hon@moe.edu.sg</a>
 </p>
 </td>
 </tr>
