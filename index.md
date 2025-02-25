@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/School_Website_Banner.gif
+      background: /images/School_Banner.gif
   - resources:
       title: Announcement
       subtitle: St. Gabriel's Secondary School
