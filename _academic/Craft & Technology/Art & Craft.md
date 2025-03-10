@@ -6,7 +6,7 @@ third_nav_title: Craft & Technology
 variant: tiptap
 ---
 <h2>Art</h2>
-<h5>Teachers in Art</h5>
+<h5><strong><u>Teachers in Art</u></strong></h5>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Mr.&nbsp;Kelvin Lim</strong>
@@ -21,15 +21,11 @@ variant: tiptap
 </p>
 </li>
 </ol>
-<h5>Programmes</h5>
 <h5><u>Introduction</u></h5>
 <p>In St. Gabriel's Secondary School, we believe that a strong aesthetics
 programme is essential in contributing towards achieving our vision to
 develop all our students to be Servant Leaders, Lifelong Learners &amp;
 Gracious Citizens.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%" height="auto" width="100%" src="/images/Academic/Art/Art.jpeg">
-</div>
 <h5><u>Objectives</u></h5>
 <p><strong>Our Vision</strong>
 </p>
@@ -78,6 +74,52 @@ others and to appreciate the deeper forms of beauty in life.</p>
 potential through our wide variety of arts exposure programmes in school.
 We believe that the Arts drive creativity and creativity drives learning
 and when there is learning, students will grow and flourish abundantly.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Art/Art_01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Art/Art_02.jpg">
+</div>
+<p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Art/Art_03.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Art/Art_06.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Art/Art_04.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Art/Art_07.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Art/Art_09.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Art/Art_08.jpg">
+</div>
 <h5><u>Lower Secondary - Programmes</u></h5>
 <table style="minWidth: 75px">
 <colgroup>
@@ -212,98 +254,6 @@ into their creations?
 <br>- Styrofoam board printing
 <br>- Wayang Kulit</p>
 </td>
-</tr>
-</tbody>
-</table>
-<h5><u>Lower Secondary - Enrichment</u></h5>
-<p><strong>Digital Media Art:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Secondary 1 -&nbsp; Mobile Photography</p>
-</li>
-<li>
-<p>Secondary 2 -&nbsp; Poster Design</p>
-</li>
-</ul>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Art/Digital%20Media%20Art%20-%201.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Art/Digital%20Media%20Art%20-%202.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Participation:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Participation in School Arts Buzz (Two weeks long of Art program and activities)
-Arts Buzz - 2018</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Art/Arts%20Buzz%202018.jpeg">
-</div>
-<p>
-<br>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Alternate year of participation in Singapore Youth Festival Art Labs</p>
-</li>
-</ul>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Art/SYF%20Art%20Labs%202016.jpeg">
-</div>
-<p>SYF Art Labs - 2016</p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Art/Art%20lessons%20with%20overseas%20students%202018.jpeg">
-</div>
-<p>Exchange Art lessons with Overseas students - 2018</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
 </tr>
 </tbody>
 </table>
@@ -448,126 +398,4 @@ to become independent learners.
 </tr>
 </tbody>
 </table>
-<h5><u>Upper Secondary - Enrichment</u></h5>
-<p><strong>Museum visit:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>National Gallery of Singapore</p>
-</li>
-<li>
-<p>Singapore Art Museum</p>
-</li>
-<li>
-<p>Art</p>
-</li>
-</ul>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>National Gallery of Singapore</p>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Art/National%20Gallery%20of%20Singapore%20-%201.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Art/National%20Gallery%20of%20Singapore%20-%202.jpeg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>
-<br>
-</p>
-<p><strong>Overseas or Local Art Trips:</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Cultural Immersion and VIA Overseas Trip to Chiangmai 2017 and 2018</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Art/Chiangmai%202017%20and%202018%20-%201.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Art/Chiangmai%202017%20and%202018%20-%202.jpeg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Possible Art Competition or events:</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Art/Yellowren%20Art%20Canvas%20Competition%202017.jpeg">
-</div>
-<p>Yellowren Art Canvas Competition – 2017</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Art/Outdoor%20Painting.jpeg">
-</div>
-<p>Outdoor painting at Hwa Chong International Institution
-<br>
-<br>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Participation in School Arts Buzz:</p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Art/Booth%20and%20Mural%20Drawing%20Arts%20Buzz%202018%20-%201.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Art/Booth%20and%20Mural%20Drawing%20Arts%20Buzz%202018%20-%202.jpeg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Participation in Singapore Youth Festival Art Labs:</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Art/Singapore%20Youth%20Festival%20Art%20Lab%202018.jpeg">
-</div>
-<p>Singapore Youth Festival Art Lab – 2018</p>
