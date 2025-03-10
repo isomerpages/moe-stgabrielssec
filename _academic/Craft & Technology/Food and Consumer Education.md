@@ -41,14 +41,14 @@ a more conscientious attitude and at the same time more engaged as they
 find the acquisition of knowledge and skills more meaningful.</p>
 <p>St. Gabriel Secondary School also participated in competitions organised
 by:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Republic Polytechnic (Bizwellness Competition) 2017</p>
 </li>
 <li>
 <p>Nanyang Polytechnic (Swensens Ice Cream Competition) 2017</p>
 </li>
-</ol>
+</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
