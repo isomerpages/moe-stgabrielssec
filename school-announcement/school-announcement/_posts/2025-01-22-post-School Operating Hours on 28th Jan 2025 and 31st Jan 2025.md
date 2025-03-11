@@ -8,5 +8,5 @@ image: ""
 variant: tiptap
 ---
 <p>School will close at 5pm from 17th March to 21st March 2025 being the
-March School Holidays Break.</p>
+March School Holiday Break.</p>
 <p></p>
