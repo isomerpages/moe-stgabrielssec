@@ -27,10 +27,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="https://ideas.moe.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">M.I.B.</a></strong>
-</p>
-</li>
-<li>
 <p><strong><a href="https://intranet.moe.gov.sg/schoolsafety" rel="noopener noreferrer nofollow" target="_blank">MOE School Safety Unit</a></strong>
 </p>
 </li>
@@ -92,6 +88,10 @@ variant: tiptap
 </li>
 <li>
 <p><strong><a href="https://office.com" rel="noopener noreferrer nofollow" target="_blank">Microsoft OneDrive Personal Cloud Storage (5TB)</a></strong>
+</p>
+</li>
+<li>
+<p><strong><a href="https://pair.gov.sg" rel="noopener nofollow" target="_blank">Pair Chat</a></strong>
 </p>
 </li>
 <li>
