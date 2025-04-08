@@ -7,4 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
-Click [**here**](https://docs.google.com/spreadsheets/d/1T9Ho6HhSQ0uYDTI9U4vIqG4fWzB4VRpSsgGctLdBeJ0/edit?gid=386006237#gid=386006237) to view the 2025 Weighted Assessment 1 Information.
+<p>Click <strong><a href="https://docs.google.com/spreadsheets/d/1I9tbFDgsHvqytsVKSOHBvYFiAFUOqL2sGezTywXuyM4/edit?gid=2022620578#gid=2022620578" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to
+view the 2025 Weighted Assessment 2 Information.</p>
