@@ -74,7 +74,7 @@ variant: tiptap
 <p>Ms. Elyn Lim</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>216</p>
+<p>225</p>
 </td>
 </tr>
 <tr>
@@ -228,7 +228,7 @@ variant: tiptap
 <p>Mr. Lin Ganfeng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>216</p>
+<p>225</p>
 </td>
 </tr>
 <tr>
