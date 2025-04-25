@@ -7,6 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>School will close at 5pm on 2nd May 2025.</p>
 <p>School is closed on 5th May being the designated Day-Off-In-Lieu for the
 Polling Day PH which falls on Sat 3rd May 2025.</p>
 <p></p>
