@@ -37,6 +37,14 @@ to view in Google Chrome)</p>
 <p>Click on this <a href="https://stgabrielssec.adminbreeze.com/" rel="noopener noreferrer nofollow" target="_blank">link</a> to
 access the Admin Breeze Portal</p>
 <hr>
+<h5><a href="https://idp.mims.moe.gov.sg/nidp/app/login" rel="noopener noreferrer nofollow" target="_blank">MIMS Portal</a></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://portal.mims.moe.gov.sg/sspr/private/" rel="noopener nofollow" target="_blank">MIMS Self Service Password Reset</a></strong>
+</p>
+</li>
+</ul>
+<hr>
 <h5><a href="https://workspace.google.com/dashboard" rel="noopener noreferrer nofollow" target="_blank">Student ICON</a></h5>
 <p>Student iCON is a suite of Google apps that helps to better support student’s
 learning and collaboration with others. Student iCON can be accessed from
