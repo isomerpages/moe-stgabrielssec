@@ -7,8 +7,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>School will close at 1pm on 2nd May 2025.</p>
-<p>School is closed on 5th May being the designated Day-Off-In-Lieu for the
-Polling Day PH which falls on Sat 3rd May 2025.</p>
+<p>School is closed on 29th May 2025 &amp; 26th June 2025 as all staff will
+be out for school events.</p>
+<p>School will close at 5pm from 2nd June 2025 - 27th June 2025 being the
+June School Holiday Break.</p>
 <p></p>
 <p></p>
