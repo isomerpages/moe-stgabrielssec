@@ -2,6 +2,7 @@
 title: School Management Committee
 permalink: /people/School-Management-Committee/
 description: ""
+variant: markdown
 ---
 ## School Management Committee 
 
@@ -50,14 +51,14 @@ description: ""
 <tr>
     <th class="tg-tlx9"><img style="width:50%" src="/images/School%20Management%20Committee/Mr%20Gordon%20Lim.jpg"></th>
     <th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img style="width:50%" src="/images/School%20Management%20Committee/Ms%20Grace%20Chong.jpg"></th>
+    <th class="tg-tlx9"><img style="width:50%" src="/images/School%20Management%20Committee/Mr%20Francis%20Wong.jpg"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
 				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mr Gordon Lim</span><br>Vice Chairman<br></td>
     <td class="tg-apyk"><br></td>
-    <td class="tg-apyk">Ms Grace Chong<br>Treasurer</td>
+    <td class="tg-apyk">Mr Francis Wong<br>Treasurer</td>
   </tr>
 </tbody>
 </table>
@@ -75,7 +76,7 @@ description: ""
 </style>
 <table class="tg">
 <thead>
-<table class="tg">
+</thead></table><table class="tg">
 <thead>
 <tr>
     <th class="tg-tlx9"><img style="width:50%" src="/images/School%20Management%20Committee/Mr%20Henry%20Phang.jpg"></th>
@@ -106,7 +107,7 @@ description: ""
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img style="width:75%" src="/images/School%20Management%20Committee/Mr%20Francis%20Wong.jpg"></th>
+    <th class="tg-tlx9"><img style="width:75%" src="/images/School%20Management%20Committee/Ms%20Grace%20Chong.jpg"></th>
 	<th class="tg-tlx9"></th>
     <th class="tg-tlx9"><img class="tg-tlx9"><img style="width:75%" src="/images/School%20Management%20Committee/Mr%20Francis%20Lee.jpg">
     </th><th class="tg-tlx9"><img style="width:75%" src="/images/School%20Management%20Committee/Mr%20Kelvin%20Poon.jpg">
@@ -114,7 +115,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mr Francis Wong</span><br>Member<br></td>
+				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Ms Grace Chong</span><br>Member<br></td>
     <td class="tg-apyk"><br></td>
     <td class="tg-apyk">Mr Francis Lee<br>Member</td>
 		<td class="tg-apyk">Mr Kelvin Poon<br>Member</td>
