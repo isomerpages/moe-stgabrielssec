@@ -26,22 +26,51 @@ variant: markdown
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/PSG%20Committee%20Member%202024/2_Chris_Woo_Vice_Chairperson.jpg" style="width:70%"></th>
-    <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/PSG%20Committee%20Member%202024/4_Belle_Ching___Secretary.jpg" style="width:70%"></th>
-    <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/PSG%20Committee%20Member%202024/3_Germaine_Quek__Treasurer.jpg" style="width:75%"></th>
+    <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/PSG%20Committee%20Member%202024/2_Chris_Woo_Vice_Chairperson.jpg" style="width:65%"></th>
+    <th class="tg-tlx9"></th>
+    <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/PSG%20Committee%20Member%202025/Susan_Yunair_Wijono.jpg" style="width:29%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Chris Woo</span><br>Vice Chairperson<br></td>
-    <td class="tg-apyk">Belle Ching<br>Secretary</td>
-    <td class="tg-apyk">Germaine Quek<br>Treasurer</td>
+    <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Christina Woo</span><br>Vice Chairperson <br>(Upper Sec)<br></td>
+    <td class="tg-apyk"><br></td>
+    <td class="tg-apyk">Susan Yunair Wijono<br>Vice Chairperson <br> (Lower Sec)</td>
+  </tr>
+</tbody>
+</table>
+<table class="tg">
+<thead>
+<tr>
+    <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/PSG%20Committee%20Member%202024/4_Belle_Ching___Secretary.jpg" style="width:70%"></th>
+    <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/PSG%20Committee%20Member%202025/Cammie_Ang.jpg" style="width:33%"></th>
+    <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/PSG%20Committee%20Member%202025/Mindy_Ng.png" style="width:75%"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Belle Ching</span><br>Secretary <br>(Upper Sec)<br></td>
+    <td class="tg-apyk">Cammie Ang<br>Secretary <br>(Lower Sec)</td>
+    <td class="tg-apyk">Mindy Ng<br>Asst Secretary</td>
   </tr>
 </tbody>
 </table>
 	
 <br>
-		
+<table class="tg">
+<thead>
+<tr>
+    <th class="tg-tlx9"></th>
+    <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/PSG%20Committee%20Member%202024/3_Germaine_Quek__Treasurer.jpg" style="width:20%"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-apyk"><br></td>
+    <td class="tg-apyk">Germaine Quek<br>Treasurer</td>
+  </tr>
+</tbody>
+</table>		
 
 		
 <style type="text/css">
