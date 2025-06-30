@@ -26,15 +26,31 @@ variant: markdown
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/PSG%20Committee%20Member%202024/2_Chris_Woo_Vice_Chairperson.jpg" style="width:70%"></th>
+    <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/PSG%20Committee%20Member%202024/2_Chris_Woo_Vice_Chairperson.jpg" style="width:63%"></th>
+    <th class="tg-tlx9"></th>
+    <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/PSG%20Committee%20Member%202024/5_Patricia_Seng___Catholic_Ministry_IC.jpg" style="width:60%"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Christina Woo</span><br>Vice Chairperson (Upper Sec)<br></td>
+    <td class="tg-apyk"><br></td>
+    <td class="tg-apyk">Susan Yunair Wijono<br>Vice Chairperson (Lower Sec)</td>
+  </tr>
+</tbody>
+</table>
+<table class="tg">
+<thead>
+<tr>
+    <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/PSG%20Committee%20Member%202024/4_Belle_Ching___Secretary.jpg" style="width:70%"></th>
     <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/PSG%20Committee%20Member%202024/4_Belle_Ching___Secretary.jpg" style="width:70%"></th>
     <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/PSG%20Committee%20Member%202024/3_Germaine_Quek__Treasurer.jpg" style="width:75%"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Chris Woo</span><br>Vice Chairperson<br></td>
-    <td class="tg-apyk">Belle Ching<br>Secretary</td>
+    <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Belle Ching</span><br>Secretary (Upper Sec)<br></td>
+    <td class="tg-apyk">Cammie Ang<br>Secretary (Lower Sec_</td>
     <td class="tg-apyk">Germaine Quek<br>Treasurer</td>
   </tr>
 </tbody>
