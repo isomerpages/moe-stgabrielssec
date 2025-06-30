@@ -28,7 +28,7 @@ variant: markdown
 <tr>
     <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/PSG%20Committee%20Member%202024/2_Chris_Woo_Vice_Chairperson.jpg" style="width:63%"></th>
     <th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/PSG%20Committee%20Member%202024/5_Patricia_Seng___Catholic_Ministry_IC.jpg" style="width:60%"></th>
+    <th class="tg-tlx9"><img src="" style="width:30%"></th>
   </tr>
 </thead>
 <tbody>
@@ -43,7 +43,7 @@ variant: markdown
 <thead>
 <tr>
     <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/PSG%20Committee%20Member%202024/4_Belle_Ching___Secretary.jpg" style="width:70%"></th>
-    <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/PSG%20Committee%20Member%202024/4_Belle_Ching___Secretary.jpg" style="width:70%"></th>
+    <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/PSG%20Committee%20Member%202025/Cammie_Ang.jpg" style="width:33%"></th>
     <th class="tg-tlx9"><img src="/images/Parent%20Support%20Group/PSG%20Committee%20Member%202024/3_Germaine_Quek__Treasurer.jpg" style="width:75%"></th>
   </tr>
 </thead>
