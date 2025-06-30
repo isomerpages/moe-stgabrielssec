@@ -50,7 +50,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Belle Ching</span><br>Secretary (Upper Sec)<br></td>
-    <td class="tg-apyk">Cammie Ang<br>Secretary (Lower Sec_</td>
+    <td class="tg-apyk">Cammie Ang<br>Secretary (Lower Sec)</td>
     <td class="tg-apyk">Germaine Quek<br>Treasurer</td>
   </tr>
 </tbody>
