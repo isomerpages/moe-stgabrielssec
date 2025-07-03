@@ -4,8 +4,9 @@ permalink: /academic/exam-and-wa-schedule/
 description: ""
 variant: markdown
 ---
-#### Weighted Assessment Schedule
+#### **Weighted Assessment Schedule**
 
-* **[2025 WA2 Schedule](https://docs.google.com/spreadsheets/d/1I9tbFDgsHvqytsVKSOHBvYFiAFUOqL2sGezTywXuyM4/edit?usp=sharing)**
 
-#### Examination  Schedule
+#### **Examination  Schedule**
+
+* [**2025 'N' & 'O' Level Prelim Timetable** ](https://docs.google.com/spreadsheets/d/1EBOECggxruxP1GfDUkuDSgh6nlxbZ-i5b1myc9qsKyg)
