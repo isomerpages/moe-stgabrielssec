@@ -1,6 +1,6 @@
 ---
-title: 2024 Prelim N and O Timetable
-date: 2024-07-03
+title: 2025 Prelim N and O Timetable
+date: 2025-07-03
 layout: link
 description: ""
 image: ""
