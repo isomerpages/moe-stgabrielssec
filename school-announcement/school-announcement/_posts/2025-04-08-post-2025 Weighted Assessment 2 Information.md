@@ -7,5 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Click <strong><a href="https://docs.google.com/spreadsheets/d/1I9tbFDgsHvqytsVKSOHBvYFiAFUOqL2sGezTywXuyM4/edit?gid=2022620578#gid=2022620578" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to
-view the 2025 Weighted Assessment 2 Information.</p>
+<p>Click <strong><a href="https://docs.google.com/spreadsheets/d/1hmJAxv7iHUhFq6DFlWWXZumH577xPzQxR_E0oT2LTww/edit?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to
+view the 2025 Weighted Assessment 3 Information.</p>
