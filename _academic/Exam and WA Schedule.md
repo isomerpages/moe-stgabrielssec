@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 #### **Weighted Assessment Schedule**
-
+* [**2025 WA3 Schedule**](https://docs.google.com/spreadsheets/d/1hmJAxv7iHUhFq6DFlWWXZumH577xPzQxR_E0oT2LTww/edit?usp=sharing)
 
 #### **Examination  Schedule**
 
