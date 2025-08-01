@@ -22,17 +22,65 @@ such as Respect, Honor, Courage and Focus in every Karateka. Through rigorous
 training, we endeavor to foster continuous skill enhancement and character
 development among all participants</p>
 <p></p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Karate/2__Intense_competition_between_Hady___Hadryan_at_the_Inter_School_Karate_Tournament_2023.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Karate/2__Intense_competition_between_Hady___Hadryan_at_the_Inter_School_Karate_Tournament_2023.png">
 </div>
 <p></p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Karate/3__Kick_and_Punch_Combo___Rey_and_Vaibhav_at_the_Inter_School_Karate_Tournament_2023.png">
+<img style="width: 67%;" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Karate/3__Kick_and_Punch_Combo___Rey_and_Vaibhav_at_the_Inter_School_Karate_Tournament_2023.png">
 </div>
 <p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Karate/4__Oath_Taking_Ceremony_by_the_Karatekas_at_the_Inter_School_Tournament__2023.png">
 </div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Karate/5_Beware_My_Back_Kick.jpg">
+</div>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Karate/6_Clash_of_the_Heavyweight_Titans.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Karate/7_Never_Give_Up.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Karate/2025_Karate_Members.jpg">
+</div>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <h5>Achievements</h5>
 <p>Since 2023, St. Gabriel's Secondary School has served as the designated
