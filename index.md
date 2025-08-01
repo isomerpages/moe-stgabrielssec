@@ -27,6 +27,12 @@ sections:
       button: Click here
       url: https://youtu.be/QTbx_8Dcl3Y
   - infopic:
+      title: SGF Charity Movie 2025
+      subtitle: St. Gabriel's Secondary School
+      id: infopic
+      image: /images/SGF_Charity_Movie_2025_EDM_Landscape_R.jpg
+      alt: Image alt text
+  - infopic:
       title: 2024 National Distinguished Chinese Language Teacher Award
       subtitle: St. Gabriel's Secondary School
       id: infopic
