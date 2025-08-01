@@ -7,6 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>School will close at 5pm on 7th July 2025 being the Youth Day School Holiday.</p>
-<p></p>
+<p>School will closes at 5pm on 8th August 2025.</p>
+<p>School will be close on Monday 11th August 2025 being the day-off-in lieu
+of the National Day which falls on Saturday.</p>
 <p></p>
