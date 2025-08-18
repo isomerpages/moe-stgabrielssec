@@ -1,11 +1,11 @@
 ---
-title: 2024 MOE Financial Assistance Scheme (MOE FAS) Application
-permalink: /school-announcement/school-announcement/moe-fas-2024/
-date: 2024-01-10
-layout: post
+title: 2025 End of Year Exam Timetables
+date: 2025-08-18
+layout: link
 description: ""
 image: ""
 variant: tiptap
+external: https://www.stgabrielssec.moe.edu.sg/academic/exam-and-wa-schedule
 ---
 **2024 MOE Financial Assistance Scheme (MOE FAS) Application**  
 
