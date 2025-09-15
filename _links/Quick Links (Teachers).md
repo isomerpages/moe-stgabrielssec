@@ -55,7 +55,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="https://sgss.padlet.org/auth/login" rel="noopener noreferrer nofollow" target="_blank">St. Gabriel's Secondary School Padlet</a></strong>
+<p><strong><a href="https://padlet.com/sgss" rel="noopener noreferrer nofollow" target="_blank">St. Gabriel's Secondary School Padlet</a></strong>
 </p>
 </li>
 <li>
