@@ -1,7 +1,7 @@
 ---
 title: School Operating Hours from 4th to 12th September 2025
 permalink: /school-announcement/school-announcement/school-operating-hours/
-date: 2025-09-01
+date: 2025-08-01
 layout: post
 description: ""
 image: ""
