@@ -18,19 +18,28 @@ and determined.
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/A_formal_group_shot_for_the_memories.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/B_Div_formal.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Testament_to_our_hard_work.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/B_div_doubles.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/A_fun_shot_not_to_be_missed.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/b_div_individual.jpg">
 </div>
 <p></p>
 <h5>Achievements</h5>
+<p><strong>2025 Results</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>'B' Division Boys: 2nd round of the South Zone competition</p>
+</li>
+<li>
+<p>'C' Division Boys: Qualified for League 2 of the National School Games</p>
+</li>
+</ul>
 <p><strong>2024 Results</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -38,7 +47,7 @@ and determined.
 <p>'B' Division Boys: 2nd round of the South Zone competition</p>
 </li>
 <li>
-<p>'C' Divsion Boys: Gold at League 2 of the National School Games</p>
+<p>'C' Division Boys: Gold at League 2 of the National School Games</p>
 </li>
 </ul>
 <p><strong>2023 Results</strong>
@@ -46,13 +55,6 @@ and determined.
 <ul data-tight="true" class="tight">
 <li>
 <p>'B' Division Boys: 2nd round of the South Zone competition</p>
-</li>
-</ul>
-<p><strong>2022 Results</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>'B' and 'C' Division Boys: Quarter Finals of the South Zone competition</p>
 </li>
 </ul>
 <h5>Training Sessions</h5>
