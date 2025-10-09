@@ -31,6 +31,16 @@ and determined.
 </div>
 <p></p>
 <h5>Achievements</h5>
+<p><strong>2025 Results</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>'B' Division Boys: 2nd round of the South Zone competition</p>
+</li>
+<li>
+<p>'C' Division Boys: Qualified for League 2 of the National School Games</p>
+</li>
+</ul>
 <p><strong>2024 Results</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -38,7 +48,7 @@ and determined.
 <p>'B' Division Boys: 2nd round of the South Zone competition</p>
 </li>
 <li>
-<p>'C' Divsion Boys: Gold at League 2 of the National School Games</p>
+<p>'C' Division Boys: Gold at League 2 of the National School Games</p>
 </li>
 </ul>
 <p><strong>2023 Results</strong>
@@ -46,13 +56,6 @@ and determined.
 <ul data-tight="true" class="tight">
 <li>
 <p>'B' Division Boys: 2nd round of the South Zone competition</p>
-</li>
-</ul>
-<p><strong>2022 Results</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>'B' and 'C' Division Boys: Quarter Finals of the South Zone competition</p>
 </li>
 </ul>
 <h5>Training Sessions</h5>
