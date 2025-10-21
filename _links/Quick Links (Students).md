@@ -82,11 +82,11 @@ access the OPAC</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/2025_Secondary_Sec_1.pdf" rel="noopener nofollow" target="_blank">G3/G2/G1</a>
+<p><a href="/files/Links/Students/2026_Secondary_1.pdf" rel="noopener nofollow" target="_blank">G3/G2/G1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/2025_Secondary_Sec_2.pdf" rel="noopener nofollow" target="_blank">G3/G2/G1</a>
+<p><a href="/files/Links/Students/2026_Secondary_2.pdf" rel="noopener nofollow" target="_blank">G3/G2/G1</a>
 </p>
 </td>
 </tr>
@@ -112,25 +112,24 @@ access the OPAC</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/2025_Secondary_Sec_3E.pdf" rel="noopener nofollow" target="_blank">Express</a>
+<p><a href="/files/Links/Students/2026_Secondary_3.pdf" rel="noopener nofollow" target="_blank">G3/G2/G1</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/2025_Secondary_Sec_4E.pdf" rel="noopener nofollow" target="_blank">Express</a>
+<p><a href="/files/Links/Students/2026_Secondary_4_Express.pdf" rel="noopener nofollow" target="_blank">Express</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/2025_Secondary_Sec_5NA.pdf" rel="noopener nofollow" target="_blank">Normal Academic</a>
+<p><a href="/files/Links/Students/2026_Secondary_5_NA.pdf" rel="noopener nofollow" target="_blank">Normal Academic</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/2025_Secondary_Sec_3NA.pdf" rel="noopener nofollow" target="_blank">Normal Academic</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/2025_Secondary_Sec_4NA.pdf" rel="noopener nofollow" target="_blank">Normal Academic</a>
+<p><a href="/files/Links/Students/2026_Secondary_4_NA.pdf" rel="noopener nofollow" target="_blank">Normal Academic</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -139,11 +138,10 @@ access the OPAC</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/2025_Secondary_Sec_3NT.pdf" rel="noopener nofollow" target="_blank">Normal Technical</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Links/Students/2025_Secondary_Sec_4NT.pdf" rel="noopener nofollow" target="_blank">Normal Technical</a>
+<p><a href="/files/Links/Students/2026_Secondary_4_NT.pdf" rel="noopener nofollow" target="_blank">Normal Technical</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
