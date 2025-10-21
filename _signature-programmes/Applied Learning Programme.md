@@ -49,81 +49,87 @@ Art &amp; Mathematics)</p>
 </li>
 </ul>
 <h4><u>Programme Highlights</u></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Visit_to_Flight_Centre_at_Boeing_Global_Services.jpg">
-</div>
-<p><strong>Visit to Flight Centre at Boeing Global Services</strong>
+<p><strong>GFAM 1 – Introduction to Flight (Secondary 1)</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Singapore%20Air%20Show%202018.jpeg">
-</div>
-<p><strong>Visit to Singapore Air Show</strong>
+<p>Students are introduced to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The history of aviation</p>
+</li>
+<li>
+<p>Principles of flight and aerodynamics</p>
+</li>
+<li>
+<p>Design and engineering basics</p>
+</li>
+</ul>
+<p>Capstone Project: Design, build and test unpowered glider</p>
+<hr>
+<p><strong>GFAM 2 – Drones &amp; Future Technologies (Secondary 2)</strong>
 </p>
+<p>Students dive deeper into:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Drone technology and flight operations</p>
+</li>
+<li>
+<p>Basic drone coding and navigation</p>
+</li>
+<li>
+<p>Introduction to AI and automation</p>
+</li>
+</ul>
+<hr>
+<p><strong>AeroWings - Flight Simulation Programme</strong>
+</p>
+<p>Using aviation simulation software, students learn:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Aviation Science</p>
+</li>
+<li>
+<p>Aircraft controls and navigation</p>
+</li>
+<li>
+<p>Realistic flight missions</p>
+</li>
+</ul>
+<hr>
+<p><strong>Competitions &amp; Enrichment</strong>
+</p>
+<p>Students also take part in exciting platforms such as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Amazing Flying Machine Competition (SAFMC)</p>
+</li>
+<li>
+<p>The Boeing Challenge</p>
+</li>
+<li>
+<p>Overseas Trips</p>
+</li>
+<li>
+<p>Other aviation-related competitions, workshops and learning journeys</p>
+</li>
+</ul>
+<hr>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/VR.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Applied Learning Programme/Slide_1.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Glider.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Applied Learning Programme/Slide_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Applied Learning Programme/Slide_3.jpg">
 </div>
 <p>
 <br>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/AirPaperRocket.png">
-</div>
 <p>
 <br>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Airbus.png">
-</div>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone%20Piloting%20&amp;%20Videography.jpeg">
-</div>
-<p>Drone Piloting &amp; Videography</p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone%20Making.jpeg">
-</div>
-<p>Drone Making</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone%20Swarming.jpeg">
-</div>
-<p>Drone Swarming</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Aviation%20Boardgames.jpeg">
-</div>
-<p>Aviation Boardgames</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
