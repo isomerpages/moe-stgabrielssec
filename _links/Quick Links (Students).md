@@ -65,7 +65,7 @@ learning and collaboration with others. Student iCON can be accessed from
 <p>Click on this <a href="https://schoolibrary.moe.edu.sg/stgabrielssec" rel="noopener noreferrer nofollow" target="_blank">link</a> to
 access the OPAC</p>
 <hr>
-<h5>2024 Booklist</h5>
+<h5>2026 Booklist</h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
