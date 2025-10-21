@@ -45,7 +45,7 @@ the aviation industry.</p>
 </li>
 <li>
 <p>Inspire lifelong learning in STEAM (Science, Technology, Engineering,
-Art</p>
+Art &amp; Mathematics)</p>
 </li>
 </ul>
 <h4><u>Programme Highlights</u></h4>
