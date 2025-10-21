@@ -2,76 +2,128 @@
 title: Applied Learning Programme
 permalink: /signature-programmes/Applied-Learning-Programme/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-## Applied Learning Programme 
-
-#### Applied Learning Programme (Flight &amp; Aerospace)
-
-##### <u>Introduction</u>
-
-Codenamed&nbsp;**Project GaIA**&nbsp;which stands for&nbsp;**GAbrielites&nbsp;INSPIRED for&nbsp;Aviation**, our Applied Learning Programme (ALP) in Flight and Aerospace was started in 2015 which provides an opportunity for all our students to learn and experienced Flight and Aerospace Science in the school, giving them an early start to the very exciting and interesting field of Avaition.
-
-##### <u>Objectives</u>
-
-*   raise students’ awareness of the aviation&nbsp;Industry
-*   engage students with a strong interest in aviation through experiential and hands-on learning for students
-*   nurture future leaders and professionals to serve and develop Singapore into an aviation hub
-*   encourage lifelong learning in Science, Technology, Engineering, Art and Mathematics (STEAM) through Flight and Aerospace
-
-
-##### <u>Programmes</u>
-
-With the objectives in mind, all our Secondary 1 and 2 students undergo a 12 hours ALP module on Aviation and Flight where they get to learn the science of flight and also how to make a gliders using balsa wood. Furthermore, the module allows them to learn and enjoy the piloting of drones and creating of paper rockets propelled by compressed air in mini-competitions, pitting their skills and self-made rockets against each other. The students also get to visit and learn from their visits to the Singapore Air Show and various other aviation events. Our school have also collaborated with Changkat Changi Secondary and Lycée Saint Exupéry School, an aviation school in France, on various projects, and the students and staff also get to visit France on the exchange programme. It was indeed an enriching and rewarding trip for all of them.
-
-St. Gabriel’s Secondary School is also working closely with Singapore Youth Flying Club and recognized as an Aviation Initiative School by Civil Aviation Authority of Singapore (CAAS).
-
-![](/images/Signature%20Programmes/Applied%20Learning%20Programme/Visit_to_Flight_Centre_at_Boeing_Global_Services.jpg)
-**Visit to Flight Centre at Boeing Global Services**
-
-![](/images/Signature%20Programmes/Applied%20Learning%20Programme/Singapore%20Air%20Show%202018.jpeg)
-**Visit to Singapore Air Show**
-
-
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/VR.jpeg" style="width:50%" align="left"> 
-
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Glider.png" style="width:49%" align="right">
-	
-<br clear="left">
-<br clear="left">
-	
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone.png" style="width:50%" align="left"> 
-
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/AirPaperRocket.png" style="width:50%" align="left"> 
-
-<br clear="left">
-<br clear="left">
-
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Airbus.png" style="width:80%" align="center">
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-sxkx"><img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone%20Piloting%20&amp;%20Videography.jpeg" style="width:100%"> Drone Piloting &amp; Videography</th>
-    <th class="tg-sxkx"><img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone%20Making.jpeg" style="width:100%">Drone Making</th>
-  </tr>
-</thead>
+<h2>Gabrielite Flight And Aerospace</h2>
+<h4><u>Introduction</u></h4>
+<p>At St. Gabriel’s Secondary, we believe in preparing students for the future
+of technology and innovation. Our Applied Learning Programme (ALP) – Aviation
+and Future Transportation gives students exciting hands-on exposure to
+the aviation industry, one of Singapore’s fastest growing sectors. As an
+Aviation Initiative School (AIS) recognised by the Civil Aviation Authority
+of Singapore (CAAS) and in partnership with Boeing Singapore, our programme
+offers students real-world learning experiences inspired by practices in
+the aviation industry.</p>
+<p>Through this programme, students will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Explore how aircraft and drones work</p>
+</li>
+<li>
+<p>Use real flight simulation tools</p>
+</li>
+<li>
+<p>Learn through design challenges and coding</p>
+</li>
+<li>
+<p>Develop problem-solving and innovation skills</p>
+</li>
+<li>
+<p>Connect classroom learning to future careers</p>
+</li>
+</ul>
+<p>Our Gabrielite Flight &amp; Aerospace Programme (GFA) aims to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Spark curiosity about the aviation and aerospace industry</p>
+</li>
+<li>
+<p>Offer meaningful hands-on learning experiences</p>
+</li>
+<li>
+<p>Build future-ready leaders and innovators</p>
+</li>
+<li>
+<p>Inspire lifelong learning in STEAM (Science, Technology, Engineering,
+Art</p>
+</li>
+</ul>
+<h4><u>Programme Highlights</u></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Visit_to_Flight_Centre_at_Boeing_Global_Services.jpg">
+</div>
+<p><strong>Visit to Flight Centre at Boeing Global Services</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Singapore%20Air%20Show%202018.jpeg">
+</div>
+<p><strong>Visit to Singapore Air Show</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/VR.jpeg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:49%" height="auto" width="100%" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Glider.png">
+</div>
+<p>
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:50%" height="auto" width="100%" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/AirPaperRocket.png">
+</div>
+<p>
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Airbus.png">
+</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-    <td class="tg-sxkx"></td>
-    <td class="tg-sxkx"></td>
-  </tr>
-  <tr>
-    <td class="tg-sxkx"><img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone%20Swarming.jpeg" style="width:80%">Drone Swarming</td>
-    <td class="tg-sxkx"><img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Aviation%20Boardgames.jpeg" style="width:100%">Aviation Boardgames</td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone%20Piloting%20&amp;%20Videography.jpeg">
+</div>
+<p>Drone Piloting &amp; Videography</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone%20Making.jpeg">
+</div>
+<p>Drone Making</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:80%" height="auto" width="100%" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone%20Swarming.jpeg">
+</div>
+<p>Drone Swarming</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:100%" height="auto" width="100%" src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Aviation%20Boardgames.jpeg">
+</div>
+<p>Aviation Boardgames</p>
+</td>
+</tr>
 </tbody>
 </table>
+<p></p>
