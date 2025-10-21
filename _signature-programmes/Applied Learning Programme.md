@@ -2,76 +2,134 @@
 title: Applied Learning Programme
 permalink: /signature-programmes/Applied-Learning-Programme/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-## Applied Learning Programme 
-
-#### Applied Learning Programme (Flight &amp; Aerospace)
-
-##### <u>Introduction</u>
-
-Codenamed&nbsp;**Project GaIA**&nbsp;which stands for&nbsp;**GAbrielites&nbsp;INSPIRED for&nbsp;Aviation**, our Applied Learning Programme (ALP) in Flight and Aerospace was started in 2015 which provides an opportunity for all our students to learn and experienced Flight and Aerospace Science in the school, giving them an early start to the very exciting and interesting field of Avaition.
-
-##### <u>Objectives</u>
-
-*   raise students’ awareness of the aviation&nbsp;Industry
-*   engage students with a strong interest in aviation through experiential and hands-on learning for students
-*   nurture future leaders and professionals to serve and develop Singapore into an aviation hub
-*   encourage lifelong learning in Science, Technology, Engineering, Art and Mathematics (STEAM) through Flight and Aerospace
-
-
-##### <u>Programmes</u>
-
-With the objectives in mind, all our Secondary 1 and 2 students undergo a 12 hours ALP module on Aviation and Flight where they get to learn the science of flight and also how to make a gliders using balsa wood. Furthermore, the module allows them to learn and enjoy the piloting of drones and creating of paper rockets propelled by compressed air in mini-competitions, pitting their skills and self-made rockets against each other. The students also get to visit and learn from their visits to the Singapore Air Show and various other aviation events. Our school have also collaborated with Changkat Changi Secondary and Lycée Saint Exupéry School, an aviation school in France, on various projects, and the students and staff also get to visit France on the exchange programme. It was indeed an enriching and rewarding trip for all of them.
-
-St. Gabriel’s Secondary School is also working closely with Singapore Youth Flying Club and recognized as an Aviation Initiative School by Civil Aviation Authority of Singapore (CAAS).
-
-![](/images/Signature%20Programmes/Applied%20Learning%20Programme/Visit_to_Flight_Centre_at_Boeing_Global_Services.jpg)
-**Visit to Flight Centre at Boeing Global Services**
-
-![](/images/Signature%20Programmes/Applied%20Learning%20Programme/Singapore%20Air%20Show%202018.jpeg)
-**Visit to Singapore Air Show**
-
-
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/VR.jpeg" style="width:50%" align="left"> 
-
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Glider.png" style="width:49%" align="right">
-	
-<br clear="left">
-<br clear="left">
-	
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone.png" style="width:50%" align="left"> 
-
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/AirPaperRocket.png" style="width:50%" align="left"> 
-
-<br clear="left">
-<br clear="left">
-
-<img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Airbus.png" style="width:80%" align="center">
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-sxkx{background-color:#FFF;color:#454545;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-sxkx"><img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone%20Piloting%20&amp;%20Videography.jpeg" style="width:100%"> Drone Piloting &amp; Videography</th>
-    <th class="tg-sxkx"><img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone%20Making.jpeg" style="width:100%">Drone Making</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-sxkx"></td>
-    <td class="tg-sxkx"></td>
-  </tr>
-  <tr>
-    <td class="tg-sxkx"><img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Drone%20Swarming.jpeg" style="width:80%">Drone Swarming</td>
-    <td class="tg-sxkx"><img src="/images/Signature%20Programmes/Applied%20Learning%20Programme/Aviation%20Boardgames.jpeg" style="width:100%">Aviation Boardgames</td>
-  </tr>
-</tbody>
-</table>
+<h2>Gabrielite Flight And Aerospace</h2>
+<h4><u>Introduction</u></h4>
+<p>At St. Gabriel’s Secondary, we believe in preparing students for the future
+of technology and innovation. Our Applied Learning Programme (ALP) – Aviation
+and Future Transportation gives students exciting hands-on exposure to
+the aviation industry, one of Singapore’s fastest growing sectors. As an
+Aviation Initiative School (AIS) recognised by the Civil Aviation Authority
+of Singapore (CAAS) and in partnership with Boeing Singapore, our programme
+offers students real-world learning experiences inspired by practices in
+the aviation industry.</p>
+<p>Through this programme, students will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Explore how aircraft and drones work</p>
+</li>
+<li>
+<p>Use real flight simulation tools</p>
+</li>
+<li>
+<p>Learn through design challenges and coding</p>
+</li>
+<li>
+<p>Develop problem-solving and innovation skills</p>
+</li>
+<li>
+<p>Connect classroom learning to future careers</p>
+</li>
+</ul>
+<p>Our Gabrielite Flight &amp; Aerospace Programme (GFA) aims to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Spark curiosity about the aviation and aerospace industry</p>
+</li>
+<li>
+<p>Offer meaningful hands-on learning experiences</p>
+</li>
+<li>
+<p>Build future-ready leaders and innovators</p>
+</li>
+<li>
+<p>Inspire lifelong learning in STEAM (Science, Technology, Engineering,
+Art &amp; Mathematics)</p>
+</li>
+</ul>
+<h4><u>Programme Highlights</u></h4>
+<p><strong>GFAM 1 – Introduction to Flight (Secondary 1)</strong>
+</p>
+<p>Students are introduced to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The history of aviation</p>
+</li>
+<li>
+<p>Principles of flight and aerodynamics</p>
+</li>
+<li>
+<p>Design and engineering basics</p>
+</li>
+</ul>
+<p>Capstone Project: Design, build and test unpowered glider</p>
+<hr>
+<p><strong>GFAM 2 – Drones &amp; Future Technologies (Secondary 2)</strong>
+</p>
+<p>Students dive deeper into:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Drone technology and flight operations</p>
+</li>
+<li>
+<p>Basic drone coding and navigation</p>
+</li>
+<li>
+<p>Introduction to AI and automation</p>
+</li>
+</ul>
+<hr>
+<p><strong>AeroWings - Flight Simulation Programme</strong>
+</p>
+<p>Using aviation simulation software, students learn:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Aviation Science</p>
+</li>
+<li>
+<p>Aircraft controls and navigation</p>
+</li>
+<li>
+<p>Realistic flight missions</p>
+</li>
+</ul>
+<hr>
+<p><strong>Competitions &amp; Enrichment</strong>
+</p>
+<p>Students also take part in exciting platforms such as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Amazing Flying Machine Competition (SAFMC)</p>
+</li>
+<li>
+<p>The Boeing Challenge</p>
+</li>
+<li>
+<p>Overseas Trips</p>
+</li>
+<li>
+<p>Other aviation-related competitions, workshops and learning journeys</p>
+</li>
+</ul>
+<hr>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Applied Learning Programme/Slide_1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Applied Learning Programme/Slide_2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Applied Learning Programme/Slide_3.jpg">
+</div>
+<p>
+<br>
+<br>
+</p>
+<p>
+<br>
+<br>
+</p>
+<p></p>
