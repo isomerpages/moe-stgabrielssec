@@ -27,6 +27,12 @@ sections:
       button: Click here
       url: https://youtu.be/QTbx_8Dcl3Y
   - infopic:
+      title: St. Gabriel's Secondary School eOpen House
+      subtitle: St. Gabriel's Secondary School
+      id: infopic
+      image: /images/e_Open_House.png
+      alt: Image alt text
+  - infopic:
       title: SGF Charity Movie 2025
       subtitle: St. Gabriel's Secondary School
       id: infopic
