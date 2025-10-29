@@ -23,7 +23,7 @@ sections:
       title: St. Gabriel's Secondary School eOpen House
       subtitle: St. Gabriel's Secondary School
       id: infopic
-      image: /images/e_Open_House.png
+      image: /images/e_Open_House.jpg
       alt: Image alt text
   - infopic:
       title: SGF Charity Movie 2025
