@@ -26,12 +26,6 @@ sections:
       image: /images/e_Open_House.jpg
       alt: Image alt text
   - infopic:
-      title: SGF Charity Movie 2025
-      subtitle: St. Gabriel's Secondary School
-      id: infopic
-      image: /images/SGF_Charity_Movie_2025_EDM_Landscape_R.jpg
-      alt: Image alt text
-  - infopic:
       title: Gabrielites' Personal Learning Device Website
       description: Click the link below to access
       button: Access here
