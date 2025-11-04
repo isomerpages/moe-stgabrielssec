@@ -28,67 +28,9 @@ and independence development.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Guitar Ensemble/Mr_Raj_with_the_boys_for_our_weekly_CCA_sessions.jpg">
 </div>
 <h4>Achievements</h4>
-<p><strong>2024 Performances&nbsp;</strong>
-</p>
-<ul>
-<li>
-<p>Chinese New Year Concert</p>
-</li>
-<li>
-<p>Speech Day Concert</p>
-</li>
-<li>
-<p>Teachers’ Day Concert</p>
-</li>
-<li>
-<p>NEX Library Public Performance</p>
-</li>
-</ul>
-<p><strong>2023 Performances/ Awards/ Exchange Programme</strong>
-</p>
-<ul>
-<li>
-<p>Singapore Youth Festival Arts Presentation - Certificate of Accomplishment&nbsp;</p>
-</li>
-<li>
-<p>Guest Performance at Anglo Chinese Junior College Guitar Ensemble Annual
-Concert ‘Glissando’</p>
-</li>
-<li>
-<p>School exchange at Anglo Chinese Junior College</p>
-</li>
-<li>
-<p>School exchange at School of Science and Technology</p>
-</li>
-<li>
-<p>Chinese New Year Concert</p>
-</li>
-<li>
-<p>National Day Concert</p>
-</li>
-<li>
-<p>Teachers’ Day Concert</p>
-</li>
-<li>
-<p>St. Gabriel’s Secondary Guitar Ensemble Annual Concert ‘Vamos’</p>
-</li>
-</ul>
-<p><strong>2022 Performances / Awards</strong>
-</p>
-<ul>
-<li>
-<p>Chinese New Year Concert (Pre-recorded)</p>
-</li>
-<li>
-<p>National Day Concert (Pre-recorded)</p>
-</li>
-<li>
-<p>Teachers’ Day Concert (Pre-recorded)
-<br>
-</p>
-</li>
-</ul>
-<h5>Training Sessions</h5>
+<p><strong>2025 SYF Arts Presentation - </strong>Certificate of Distinction</p>
+<p><strong>2023 SYF Arts Presentation - </strong>Certificate of Accomplishment</p>
+<h4>Training Sessions</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
