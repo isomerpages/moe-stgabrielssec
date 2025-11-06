@@ -139,10 +139,10 @@ they are prepared to become future servant-leaders for the community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Trudy Guwe</p>
+<p>Mr. Joseph Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:trudy_guwe_miaw_khoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">trudy_guwe_miaw_khoon@moe.edu.sg</a>
+<p><a href="mailto:ng_kok_aun_joseph@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_kok_aun_joseph@moe.edu.sg</a>
 </p>
 </td>
 </tr>
