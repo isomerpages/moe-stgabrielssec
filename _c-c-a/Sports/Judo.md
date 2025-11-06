@@ -6,7 +6,7 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <h2>Judo</h2>
-<h5>Beliefs &amp; Outcomes</h5>
+<h4>Beliefs &amp; Outcomes</h4>
 <p>Since its inception in 2005, St. Gabriel’s Judo Team has always been in
 the top 4 schools nationally at each of the National School Games competitions.
 The judo players have gone on their yearly overseas trips to hone their
@@ -15,18 +15,39 @@ It is through such trips that our boys can better equip themselves so that
 they are prepared to become future servant-leaders for the community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Judo/Let_s_bring_glory_to_the_school_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Judo/Team_photo_after_clinching_the_championship_for_B_division_NSG.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Judo/Our_dedicated__C__Division_National_School_Games_team_of_players_and_their_achievements.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Judo/Our_very_happy_and_important_senior_B_division_team_after_prize_presentation_in_school.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Judo/We_are_proud_to_represent_St__Gabriel_s_Secondary_School_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Judo/A_very_happy_C_division_team_after_two_days_of_intense_competition.jpg">
 </div>
 <p></p>
-<h5>Achievements</h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Judo/Medalists_for_the_C_division_NSG.jpg">
+</div>
+<h4>Achievements</h4>
+<p><strong><u>2025</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>'B' Division Individual - 3 Gold, 2 Slivers &amp; 1 Bronze</p>
+</li>
+<li>
+<p>'B' Division Overall National – 1<sup>st</sup>
+</p>
+</li>
+<li>
+<p>'C' Division Individual –1 Gold, 1 Silvers and 3 Bronzes</p>
+</li>
+<li>
+<p>'C' Division Overall National – 2<sup>nd</sup>
+</p>
+</li>
+</ul>
 <p><strong><u>2024</u></strong>
 </p>
 <ul>
@@ -42,41 +63,10 @@ they are prepared to become future servant-leaders for the community.</p>
 </li>
 <li>
 <p>'C' Division Overall National – 3<sup>rd</sup>&nbsp;</p>
+<p></p>
 </li>
 </ul>
-<p><strong><u>2023</u></strong>
-</p>
-<ul>
-<li>
-<p>'B' Division Individual – 1 Silver &amp; 2 Bronzes</p>
-</li>
-<li>
-<p>'B' Division Overall National – 4<sup>th</sup>&nbsp;</p>
-</li>
-<li>
-<p>'C' Division Individual –1 Gold, 3 Silvers and 1 Bronze</p>
-</li>
-<li>
-<p>'C' Division Overall National – 2<sup>nd</sup>&nbsp;</p>
-</li>
-</ul>
-<p><strong><u>2022&nbsp;</u></strong>
-</p>
-<ul>
-<li>
-<p>'B' Division Individual – 1 Gold &amp; 2 Bronzes</p>
-</li>
-<li>
-<p>'B' Division Overall National – 3rd</p>
-</li>
-<li>
-<p>'C' Division Individual –2 Gold, 1Silver and 2 Bronzes</p>
-</li>
-<li>
-<p>'C' Division Overall National – 2nd&nbsp;</p>
-</li>
-</ul>
-<h5>Training Sessions</h5>
+<h4>Training Sessions</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
