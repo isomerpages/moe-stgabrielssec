@@ -25,6 +25,7 @@ sections:
       id: infopic
       image: /images/e_Open_House.jpg
       alt: Image alt text
+      description: To register, simply scan the QR code on the eOpen House poster.
   - infopic:
       title: Gabrielites' Personal Learning Device Website
       description: Click the link below to access
