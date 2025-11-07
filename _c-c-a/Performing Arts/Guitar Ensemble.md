@@ -17,19 +17,24 @@ at Nex Library in the later part of 2024, contributing to their leadership
 and independence development.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Guitar Ensemble/Our_boys_performing__At_my_worst__during_the_ACJC_Annual_Guitar_Ensemble_Concert__Glissando_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Guitar Ensemble/SYF_group_photo.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Guitar Ensemble/Playing_to_the_tune_of_Summer_s_Wind_by_Jiro_Hasebe_at_NEX_Library.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Guitar Ensemble/SYF_Performance.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Guitar Ensemble/Mr_Raj_with_the_boys_for_our_weekly_CCA_sessions.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Guitar Ensemble/Performance_at_Woodlands_Regional_Library_on_6_Sept_2025.jpg">
 </div>
 <h4>Achievements</h4>
-<p><strong>2025 SYF Arts Presentation - </strong>Certificate of Distinction</p>
-<p><strong>2023 SYF Arts Presentation - </strong>Certificate of Accomplishment</p>
+<p><strong><u>2025</u> </strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF Arts Presentation - Certificate of Distinction</p>
+</li>
+</ul>
 <h4>Training Sessions</h4>
 <table style="minWidth: 50px">
 <colgroup>
