@@ -51,8 +51,6 @@ self-discipline and leadership skills.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Floorball/5.jpg">
 </div>
 <h5>Achievements</h5>
-<p><strong><u>2025</u></strong>
-</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>NSG Floorball Championships 'B' Division Boys: Top 8</p>
