@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h2>NATIONAL POLICE CADET CORPS</h2>
 <h4>Beliefs &amp; Outcomes</h4>
 <p>Our mission is to develop our members to be active citizens and community
 leaders, by working in partnership with the Singapore Police Force to fight
