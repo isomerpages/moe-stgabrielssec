@@ -13,20 +13,38 @@ attend weekly training sessions to hone their ability in public speaking,
 research, case preparation and debating skills. They also participate in
 debating tournaments and exchanges with peers from other schools to further
 develop these skills and convincingly articulate their views.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs &amp; Societies/Debate Club/Debaters_at_their_semesterly_bonding_session_in_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs &amp; Societies/Debate Club/National_Schools_Debating_Championships_Team_2025.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs &amp; Societies/Debate Club/Our_debaters_putting_up_a_strong_display.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs &amp; Societies/Debate Club/NEW__Debaters_during_Bonding_Session_in_Semester_2.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs &amp; Societies/Debate Club/Debaters_at_weekly_training_sessions.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs &amp; Societies/Debate Club/Div_2_Champions_at_SSSDC_2025.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs &amp; Societies/Debate Club/Runner_up_at_the_2024_Singapore_Secondary_School_Debating_Championships.jpg">
-</div>
 <h5>Achievements</h5>
-<p><strong><u>2025  Tournaments/Awards</u></strong>
+<p><strong><u>2025 Tournaments/Awards</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
