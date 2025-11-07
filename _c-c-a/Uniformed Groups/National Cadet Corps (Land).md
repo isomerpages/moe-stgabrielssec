@@ -22,7 +22,11 @@ core values.&nbsp;</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/National Cadet Corps (Land)/4__NCC_Laser_Run.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/National Cadet Corps (Land)/2025_National_Day_Observance_Ceremony___NCC__Land__Contingent___Braddell_Heights_CC.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/National Cadet Corps (Land)/2025_St_Gabriel_s_Secondary_School_National_Day_Parade.jpg">
 </div>
 <h4>Achievements</h4>
 <p><strong>Unit Recognition</strong>
@@ -35,12 +39,6 @@ core values.&nbsp;</p>
 <p><strong>Outstanding Cadet Award</strong>
 </p>
 <ul>
-<li>
-<p>2022: MSG Randall Ng</p>
-</li>
-<li>
-<p>2023: MSG Gerard Koh Tian Le</p>
-</li>
 <li>
 <p>2024: MSG John Luke Low and MSG Ethan Tan</p>
 </li>
@@ -60,7 +58,7 @@ Goh Yen Leong</p>
 <p>1-Star Kayaking Certification: 2024 Charlies</p>
 </li>
 </ul>
-<h5>Training Sessions</h5>
+<h4>Training Sessions</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -85,7 +83,7 @@ Goh Yen Leong</p>
 </tr>
 </tbody>
 </table>
-<h5>Teachers-in-charge<br></h5>
+<h4>Teachers-in-charge</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
