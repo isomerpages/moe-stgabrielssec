@@ -23,34 +23,22 @@ Award, the highest award a scout may receive in their scouting adventure
 at the secondary school level. Our Scouts also participate in the National
 Day Parade consistently since 2022. This year, 4 of our Scouts were selected
 to take part in the parade.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/Scouts/A_group_shot_on_Founder_s_Day.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/Scouts/East_Area_Awards_Day.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/Scouts/Our_scouts__Timothy_and_Jon_Kai__receiving_the_Chief_Commissioner_s_Award_from_Chief_Commissioner__Desmond_Chong_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/Scouts/Scouts_marching_in_SG60_NDP.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/Scouts/Looking_smart_at_the_National_Day_Observance_Ceremony.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/Scouts/Group_Photo___Campsite__Thailand_2024_.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/Scouts/A_Scouts_trip_to_Bangkok__Thailand.jpg">
-</div>
-<h5>Achievements</h5>
+<h4>Achievements</h4>
 <ul>
 <li>
 <p>Scouts: Frank Cooper Sands Award (2024) - Gold</p>
-</li>
-<li>
-<p>Scouts: Frank Cooper Sands Award (2022) - Gold</p>
-</li>
-<li>
-<p>Ventures: Frank Cooper Sands Award (2022) - Gold</p>
-</li>
-<li>
-<p>Rovers: Frank Cooper Sands Award (2022) – Gold</p>
 </li>
 </ul>
 <p><strong>Chief Commissioner’s Well-Done Badge (2024)&nbsp;</strong>
@@ -82,85 +70,8 @@ to take part in the parade.</p>
 <p>Kiefer Yeo</p>
 </li>
 </ul>
-<p><strong>Chief Commissioner’s Well-Done Badge (2023)</strong>
-</p>
-<ul>
-<li>
-<p>Chua Jia En (Section: Scout)</p>
-</li>
-<li>
-<p>Timothy Ong Wei En (Section: Scout)</p>
-</li>
-<li>
-<p>Tan Keifer (Section: Scout)</p>
-</li>
-<li>
-<p>Jeryl Cheong Jia Le (Section: Scout)</p>
-</li>
-<li>
-<p>Nathan Koh Heng Jun (Section: Venture)</p>
-</li>
-<li>
-<p>Gabriel Wong Yun Xi (Section: Venture)</p>
-</li>
-<li>
-<p>Jerald Lam Yong Shen (Section: Venture)</p>
-</li>
-<li>
-<p>Saif Izzuddin bin Omar (Section: Venture)</p>
-</li>
-<li>
-<p>Aadhitya Selvakumar (Section: Rover)</p>
-</li>
-<li>
-<p>Liu Yang Feng (Section: Rover)</p>
-</li>
-</ul>
-<p><strong>Chief Commissioner’s Awardees (2023)</strong>
-</p>
-<ul>
-<li>
-<p>Ngan Jun Fong</p>
-</li>
-<li>
-<p>Nathan Koh Heng Jun</p>
-</li>
-<li>
-<p>Jaydern Neo Zun Kai</p>
-</li>
-<li>
-<p>Caleb Gregory Halim</p>
-</li>
-<li>
-<p>Ho Tuck Jun Dennis</p>
-</li>
-<li>
-<p>Silas Goh</p>
-</li>
-<li>
-<p>Foong Jieh Ren, Ian</p>
-</li>
-<li>
-<p>Loh Jiayi Timothy</p>
-</li>
-</ul>
-<p><strong>Chief Commissioner’s Awardees (2022)</strong>
-</p>
-<ul>
-<li>
-<p>Ryan Punnose</p>
-</li>
-<li>
-<p>Cayden Chay</p>
-</li>
-<li>
-<p>Matthew Tan</p>
-</li>
-<li>
-<p>Lucius Ng</p>
-</li>
-</ul>
-<h5>Training Sessions</h5>
+<p></p>
+<h4>Training Sessions</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
