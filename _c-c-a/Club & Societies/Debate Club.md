@@ -43,7 +43,7 @@ develop these skills and convincingly articulate their views.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs &amp; Societies/Debate Club/Div_2_Champions_at_SSSDC_2025.jpg">
 </div>
 <p></p>
-<h5>Achievements</h5>
+<h4>Achievements</h4>
 <p><strong><u>2025 Tournaments/Awards</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -60,7 +60,7 @@ II</p>
 </li>
 </ul>
 <p></p>
-<h5>Training Sessions</h5>
+<h4>Training Sessions</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -101,7 +101,7 @@ II</p>
 </tr>
 </tbody>
 </table>
-<h5>Teacher-in-charge</h5>
+<h4>Teacher-in-charge</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -110,7 +110,7 @@ II</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Name &amp; Desigation</p>
+<p>Name &amp; Designation</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Email Address</p>
@@ -118,7 +118,7 @@ II</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Ms Samantha Gracie (OIC)</p>
+<p>Ms. Samantha Gracie (OIC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:samantha_gracie_daishini_thevan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samantha_gracie_daishini_thevan@moe.edu.sg</a>
@@ -127,7 +127,7 @@ II</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Syarmeen (2IC)</p>
+<p>Ms. Nur Syarmeen (2IC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_syarmeen_ehsan_ahmad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_syarmeen_ehsan_ahmad@moe.edu.sg</a>
