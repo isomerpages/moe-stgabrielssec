@@ -29,7 +29,7 @@ other Units at Pulau Ubin NPCC Camp Resilience.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/National Police Cadet Corps/Unit_Hike_to_Rifle_Range_Road_Nature_Park.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/National Police Cadet Corps/Proud_parents_with_our_Marching_Contingent_in_the_Braddell_Heights_National_Day_Observance_Ceremony.jpg">
 </div>
 <h4>Training Sessions</h4>
 <table style="minWidth: 50px">
