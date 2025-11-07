@@ -6,7 +6,7 @@ third_nav_title: Club & Societies
 variant: tiptap
 ---
 <h2>Debate Club</h2>
-<h5>Beliefs &amp; Outcomes</h5>
+<h4>Beliefs &amp; Outcomes</h4>
 <p>The Debate Club aims to cultivate students into effective communicators
 and critical thinkers. Under the mentorship of teachers and coaches, students
 attend weekly training sessions to hone their ability in public speaking,
@@ -26,7 +26,14 @@ develop these skills and convincingly articulate their views.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs &amp; Societies/Debate Club/Runner_up_at_the_2024_Singapore_Secondary_School_Debating_Championships.jpg">
 </div>
 <h5>Achievements</h5>
-<p><strong>2024 Tournaments/Awards</strong>
+<p><strong><u>2025  Tournaments/Awards</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Singapore Secondary Schools Debating Championships: Division II Champion</p>
+</li>
+</ul>
+<p><strong><u>2024 Tournaments/Awards</u></strong>
 </p>
 <ul>
 <li>
@@ -34,27 +41,7 @@ develop these skills and convincingly articulate their views.</p>
 II</p>
 </li>
 </ul>
-<p><strong>2023 Tournaments / Awards</strong>
-</p>
-<ul>
-<li>
-<p>Singapore Secondary Schools Debating Championships - Plate Finalists</p>
-</li>
-<li>
-<p>Mid-Year Debate Invitational 2023 - Overall Champion</p>
-</li>
-</ul>
-<p><strong>2022 T ournaments / Awards</strong>
-</p>
-<ul>
-<li>
-<p>Singapore Secondary Schools Debating Championships: 3rd position in Division
-II</p>
-</li>
-<li>
-<p>Raffles U-14 Debating Championship: Quarter Finalist</p>
-</li>
-</ul>
+<p></p>
 <h5>Training Sessions</h5>
 <table style="minWidth: 50px">
 <colgroup>
