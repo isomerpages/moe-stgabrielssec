@@ -6,7 +6,7 @@ third_nav_title: Uniformed Groups
 variant: tiptap
 ---
 <h2>NATIONAL CADET CORPS (AIR)</h2>
-<h5>Beliefs &amp; Outcomes</h5>
+<h4>Beliefs &amp; Outcomes</h4>
 <p>At St. Gabriel’s Secondary, members of the National Cadet Corps [NCC]
 (Air) Squadron go through a series of activities and courses planned for
 them, for example, basic aero-modelling skills and knowledge, leadership
@@ -20,17 +20,17 @@ The values, skills and knowledge acquired will serve them well even after
 you graduate!</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/National Cadet Corps (AIR)/4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/National Cadet Corps (AIR)/Cadet_Leaders_at_Braddell_Heights_National_Day_Observance_Ceremony_with_Mr_Lim_and_Mr_Seah.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/National Cadet Corps (AIR)/2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/National Cadet Corps (AIR)/Senior_cadets_having_a_chance_at_Air_Rifle_shooting_range.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/National Cadet Corps (AIR)/3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/National Cadet Corps (AIR)/Weekly_trainings_on_marching.jpg">
 </div>
-<h5>Achievements</h5>
+<h4>Achievements</h4>
 <p><strong>2024 Awards</strong>
 </p>
 <ul>
@@ -42,40 +42,10 @@ you graduate!</p>
 </li>
 <li>
 <p>Participation in National Day Parade Contingent</p>
+<p></p>
 </li>
 </ul>
-<p><strong>2023 Awards</strong>
-</p>
-<ul>
-<li>
-<p>Distinction in Unit Recognition</p>
-</li>
-<li>
-<p>Outstanding Cadet Awards:&nbsp;</p>
-<ul>
-<li>
-<p>Manish Srinivash&nbsp;</p>
-</li>
-<li>
-<p>Ravikumar Jayasree</p>
-</li>
-<li>
-<p>Mohamad Naqeeb Irfaan Bin Mohamad Yazid</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Champion in Balsa Wood Glider Category in Air Competition</p>
-</li>
-</ul>
-<p><strong>2022 Awards</strong>
-</p>
-<ul>
-<li>
-<p>Distinction in Unit Recognition</p>
-</li>
-</ul>
-<h5>Training Sessions</h5>
+<h4>Training Sessions</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -100,7 +70,7 @@ you graduate!</p>
 </tr>
 </tbody>
 </table>
-<h5>Teachers in charge</h5>
+<h4>Teachers in charge</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
