@@ -13,6 +13,15 @@ attend weekly training sessions to hone their ability in public speaking,
 research, case preparation and debating skills. They also participate in
 debating tournaments and exchanges with peers from other schools to further
 develop these skills and convincingly articulate their views.</p>
+<p>Our debaters actively participate in debating tournaments such as the
+National Schools Debating Championships, the Mid-Year Invitational Debate
+Tournament, and have exchanges with peers from other schools.</p>
+<p>The year 2025 was a stellar one for the Debate club. The hard work of
+the team paid off at the Singapore Secondary Schools Debating Championships,
+where we emerged as the Division II Champions. Adding to this remarkable
+achievement, two of our talented boys were ranked among the Top 10 speakers
+for the whole tournament.</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
