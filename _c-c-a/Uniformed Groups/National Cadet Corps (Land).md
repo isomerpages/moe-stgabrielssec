@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h2>NATIONAL CADET CORPS (LAND)</h2>
+<h2>National Cadet Corps (Land)</h2>
 <h5>Beliefs &amp; Outcomes</h5>
 <p>St. Gabriel’s National Cadet Corps [NCC] (Land) strives to develop our
 cadets into capable and independent individuals through a variety of activities
