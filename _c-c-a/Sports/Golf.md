@@ -32,11 +32,11 @@ highly skilled but also mentally tough, working together toward a common
 goal to achieve success.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Golf/2024_National_School_Games__B_____C__Division_Winners__Captains_and_Vice_Captains.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Golf/2025_Golf_CCA_Trial_for_Sec_1s.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Golf/2024_National_School_Games__B__Division__Team__Champions_Ayden_Teo_of_4E2_and_Ezekiel_Lim_of_4E4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Golf/9_Hole_Game_at_Orchid_Country_Club_on_10_Sep_2025.jpg">
 </div>
 <p></p>
 <h5>Achievements</h5>
