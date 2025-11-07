@@ -40,12 +40,10 @@ producing future athletes and gentlemen from the school.</p>
 <h5>Achievements</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>NSG Football Championships ‘B’ Division Boys League 1 Championships: Top
-4</p>
+<p>NSG Football Championships ‘B’ Division Boys League 1 Championships: 4th</p>
 </li>
 <li>
-<p>NSG Football Championships ‘C’ Division Boys League 1 Championships: Round
-of 16</p>
+<p>NSG Football Championships ‘C’ Division Boys League 1 Championships: 1st</p>
 </li>
 </ul>
 <h5>Training Sessions</h5>
@@ -111,7 +109,7 @@ of 16</p>
 <p>Mr. Keith Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:keith_chong_jie_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">keith_chong_jie_hua@moe.edu.sg</a> 
+<p><a href="mailto:keith_chong_jie_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">keith_chong_jie_hua@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -120,7 +118,7 @@ of 16</p>
 <p>Ms. Vanitha Venu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vanitha_venu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vanitha_venu@moe.edu.sg</a> 
+<p><a href="mailto:vanitha_venu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vanitha_venu@moe.edu.sg</a>
 </p>
 </td>
 </tr>
