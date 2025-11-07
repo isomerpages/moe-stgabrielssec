@@ -33,33 +33,22 @@ their cultural awareness and perspective.</p>
 Be part of our story.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Drama Club/Reminiscing_our_Singapore_Youth_Festival_2023_experience.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Drama Club/Before_our_SYF_performance_at_Gateway_Theatre.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Drama Club/Posing_candidly_after_our_Speech_Day_performance.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Drama Club/Teachers_Day_Performance____Murder_in_the_Staffroom_.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Drama Club/Celebrating_outside_Gateway_Theatre___post_SYF_performance.jpg">
+</div>
 <h4>Achievements</h4>
 <p><strong>2023</strong>
 </p>
 <ul>
 <li>
 <p>SYF (Drama) - Certificate of Accomplishment</p>
-</li>
-</ul>
-<p><strong>2021</strong>
-</p>
-<ul>
-<li>
-<p>SYF (Drama) - Certificate of Accomplishment</p>
-</li>
-</ul>
-<p><strong>2019</strong>
-</p>
-<ul>
-<li>
-<p>SYF (Drama) – Certificate of Distinction</p>
 </li>
 </ul>
 <h4>Performances/ Participation</h4>
@@ -73,27 +62,7 @@ Be part of our story.&nbsp;</p>
 <p>The Young Playwright Presents 2024</p>
 </li>
 <li>
-<p>St. Gabriel’s Secondary School’s National Day Concert</p>
-</li>
-</ul>
-<p><strong>2023</strong>
-</p>
-<ul>
-<li>
-<p>St. Gabriel’s Secondary School’s National Day Concert</p>
-</li>
-<li>
-<p>Teacher’s Day Concert&nbsp;</p>
-</li>
-</ul>
-<p><strong>2022</strong>
-</p>
-<ul>
-<li>
-<p>Teachers’ Day Video Presentation&nbsp;(Teachers’ Day Celebration)</p>
-</li>
-<li>
-<p>St. Gabriel’s ARTS Buzz
+<p>St. Gabriel’s Secondary School’s National Day Concert
 <br>
 </p>
 </li>
