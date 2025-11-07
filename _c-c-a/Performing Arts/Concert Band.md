@@ -6,7 +6,7 @@ third_nav_title: Performing Arts
 variant: tiptap
 ---
 <h2>Concert Band</h2>
-<h5>Beliefs &amp; Outcomes</h5>
+<h4>Beliefs &amp; Outcomes</h4>
 <p>Since its inception in 1966, St. Gabriel’s Concert Band has undergone
 many changes, from being a Military Band to the status of a Symphonic Band.
 Over the years, the Symphonic Band has staged numerous performances in
@@ -16,14 +16,23 @@ its members as musicians and to be true servant-leaders in serving the
 community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Concert Band/Learning_journey_and_concert_experience_at_Esplanade_Theatre.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Concert Band/Warming_up_for_SYF.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Concert Band/Our_band_members_had_the_privilege_of_watching_the_Singapore_Armed_Forces_Band_Concert_soundcheck_where_they_had_the_opportunity.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Concert Band/SYF_at_Singapore_Conference_Hall.jpg">
 </div>
-<h5>Achievements</h5>
-<p><strong>2024 Performances / Exchange Programme</strong>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Concert Band/Official_SYF_Photo.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Concert Band/Post_Arts_Buzz_Picture.jpg">
+</div>
+<p></p>
+<h4>Achievements</h4>
+<p><strong><u>2024 Performances / Exchange Programme</u></strong>
 </p>
 <ul>
 <li>
@@ -39,30 +48,7 @@ community.</p>
 <p>Concert Band Exchange Programme with Saint Gabriel’s Primary School</p>
 </li>
 </ul>
-<p><strong>2023 Performances / Awards</strong>
-</p>
-<ul>
-<li>
-<p>SYF Certificate of Accomplishment (Flexible Band)</p>
-</li>
-<li>
-<p>SYF Certificate of Accomplishment (Percussion Ensemble)</p>
-</li>
-</ul>
-<p><strong>2022 Performances / Awards</strong>
-</p>
-<ul>
-<li>
-<p>Chinese New Year Concert</p>
-</li>
-<li>
-<p>Speech Day Concert</p>
-</li>
-<li>
-<p>SYF Certificate of Accomplishment</p>
-</li>
-</ul>
-<h5>Training Sessions</h5>
+<h4>Training Sessions</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -95,7 +81,7 @@ community.</p>
 </tr>
 </tbody>
 </table>
-<h5>Teachers-in-charge</h5>
+<h4>Teachers-in-charge</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

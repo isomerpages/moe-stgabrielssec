@@ -16,31 +16,47 @@ programme focuses on the holistic outcome of every player, in and out of
 the classroom. Through our close monitoring, rigorous training and playing
 of floorball, we aim to inculcate values such as endurance, respect, teamwork,
 self-discipline and leadership skills.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Floorball/Medalled_and_posing_for_a_group_shot_with_our_Principal__Mr_Shawn_Lim.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Floorball/1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Floorball/2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Floorball/3.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Floorball/A_group_shot_of_the__B__Division_Floorball_Team.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Floorball/4.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Floorball/Psyching_up_for_the_game.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Floorball/Warming_up.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Floorball/5.jpg">
 </div>
 <h5>Achievements</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>NSG Floorball Championships 'B' Division Boys League 1 Championships:
-2nd Place</p>
+<p>NSG Floorball Championships 'B' Division: Top 8</p>
 </li>
 <li>
-<p>NSG Floorball Championships 'C' Division Boys League 1 Championships:
-4th Place</p>
+<p>NSG Floorball Championships 'C' Division: Top 8</p>
 </li>
 </ul>
 <h5>Training Sessions</h5>

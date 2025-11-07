@@ -6,7 +6,7 @@ third_nav_title: Sports
 variant: tiptap
 ---
 <h2>Softball</h2>
-<h5>Beliefs &amp; Outcomes</h5>
+<h4>Beliefs &amp; Outcomes</h4>
 <p>St. Gabriel’s Softball Team was established in 2009 with 15 players and
 it has grown tremendously over the years. Our dedicated softballers train
 thrice a week and participate actively in various tournaments throughout
@@ -23,44 +23,39 @@ Every year, St. Gabriel’s Softball Alumni organise the St. Gabriel’s Alumni
 Cup where they raise funds to contribute to Brother Dennis Care Fund.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Softball/Singing_the_school_song.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Softball/B__Div_boys_at_the_SRC_Softball_Game.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Softball/Proud_to_be_carrying_the_St__Gabriel_s_Secondary_School_flag.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Softball/C__Div_boys_representing_our_school_for_the_National_School_Games.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Softball/Running_to_touch_the_base.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Softball/Our_Gabrielites_clinched_3rd_place_for_NSG__C__Div__League_1_.jpg">
 </div>
-<h5>Achievements</h5>
+<h4>Achievements</h4>
 <p><strong>‘B’ Division</strong>
 </p>
 <ul>
 <li>
+<p>2025 : National Top 6</p>
+</li>
+<li>
 <p>2024: National 3<sup>rd</sup> Runner-up</p>
-</li>
-<li>
-<p>2023: National 1<sup>st</sup> Runner-up</p>
-</li>
-<li>
-<p>2022 National 2<sup>nd</sup> Runner-up</p>
+<p></p>
 </li>
 </ul>
 <p><strong>‘C’ Division</strong>
 </p>
 <ul>
 <li>
-<p>2024 National 1<sup>st</sup> Runner-up</p>
+<p>2025: National 2<sup>nd</sup> Runner-up</p>
 </li>
 <li>
-<p>2023 National Top 8&nbsp;</p>
-</li>
-<li>
-<p>2022 National 3<sup>rd</sup> Runner-up</p>
+<p>2024: National 1<sup>st</sup> Runner-up</p>
 </li>
 </ul>
-<h5>Training Sessions</h5>
+<h4>Training Sessions</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -93,7 +88,7 @@ Cup where they raise funds to contribute to Brother Dennis Care Fund.</p>
 </tr>
 </tbody>
 </table>
-<h5>Teachers-in-Charge</h5>
+<h4>Teachers-in-Charge</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -122,7 +117,7 @@ Cup where they raise funds to contribute to Brother Dennis Care Fund.</p>
 <p>Ms. Khairunnisa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:khairunnisa_binte_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khairunnisa_binte_ismail@moe.edu.sg</a> 
+<p><a href="mailto:khairunnisa_binte_ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">khairunnisa_binte_ismail@moe.edu.sg</a>
 </p>
 </td>
 </tr>

@@ -6,22 +6,20 @@ third_nav_title: Club & Societies
 variant: tiptap
 ---
 <h2>Information Communication Club</h2>
-<h5>Beliefs &amp; Outcomes</h5>
-<p>Infocomm Club is a key service provider for school events and assemblies.
-It has provided timely and efficient support for many school events both
-in audio visual (AV) and photography. We continue to push boundaries –
-exploring advanced techniques in AV and photography. We strive constantly
-to sustain standards comparable to that of industrial professionals.&nbsp;</p>
-<p>Our members get to develop core technical and effective troubleshooting
-skills apart from a basic photography course and participated in ‘Our School,
-Our Stories’ national competition. Our training provides the technical
-skills as well as soft skills such as teamwork, communication, discipline,
-respect, responsibility, resilience and care. Our members have been winning
-praises for the effort and commitment in rendering services to the school.</p>
-<p>As a CCA, we strive to do our best in every event that we are involved
-in as our motto states, ‘Look Good, Sound Good’. We hope to continue to
-give our best so that our audience have a memorable experience when celebrating
-different occasions with the school.</p>
+<h4>Beliefs &amp; Outcomes</h4>
+<p>InfoComm Club (ICC) is a key service provider for school events and assemblies.
+We provide timely and efficient support for many school events, including
+Chinese New Year Celebrations, Annual Speech Day, National Day, Teacher’s
+Day Celebrations and many others. Through the experience of capable support
+rendered to the school, ICC students get to develop core technical and
+effective troubleshooting skills, learn to work as a cohesive team and
+cultivate a disciplined attitude.</p>
+<p>Our ICC members are also exposed to photography skills, which aims to
+cultivate students’ interests, confidence and expertise in photography
+as mediums to communicate thoughts and feelings. Students are also given
+various opportunities to showcase their skills in national competitions
+such as Our School, Our Stories.</p>
+<p></p>
 <h5>Events</h5>
 <ul data-tight="true" class="tight">
 <li>
@@ -65,17 +63,17 @@ different occasions with the school.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs &amp; Societies/Infocomm Club/1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs &amp; Societies/Infocomm Club/AV_training_session_taking_place.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs &amp; Societies/Infocomm Club/2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs &amp; Societies/Infocomm Club/Sec_1s_trying_out_our_school_cameras.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs &amp; Societies/Infocomm Club/3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Clubs &amp; Societies/Infocomm Club/Our_unsung_heroes_during_the_Teacher_s_Day_Concert.jpg">
 </div>
-<h5>Training Sessions</h5>
+<h4>Training Sessions</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -100,7 +98,7 @@ different occasions with the school.</p>
 </tr>
 </tbody>
 </table>
-<h5>Teachers-in-charge</h5>
+<h4>Teachers-in-charge</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

@@ -26,29 +26,30 @@ producing future athletes and gentlemen from the school.</p>
 <br>R - Role model</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Football/Battling_for_the_ball.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Football/Our_footballers_in_action_.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Football/Tussle_in_the_midfield.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Football/De_briefing_after_a_match.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Football/c div football.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Football/Our__B__Div_Footballers.jpg">
 </div>
 <p></p>
-<h5>Achievements</h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Football/Our__C__Div_Footballers.jpg">
+</div>
+<h4>Achievements</h4>
 <ul data-tight="true" class="tight">
 <li>
-<p>NSG Football Championships ‘B’ Division Boys League 1 Championships: Top
-4</p>
+<p>NSG Football Championships ‘B’ Division Boys League 1 Championships: 4th</p>
 </li>
 <li>
-<p>NSG Football Championships ‘C’ Division Boys League 1 Championships: Round
-of 16</p>
+<p>NSG Football Championships ‘C’ Division Boys League 1 Championships: 1st</p>
 </li>
 </ul>
-<h5>Training Sessions</h5>
+<h4>Training Sessions</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -73,7 +74,7 @@ of 16</p>
 </tr>
 </tbody>
 </table>
-<h5>Teachers-in-charge</h5>
+<h4>Teachers-in-charge</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -111,7 +112,7 @@ of 16</p>
 <p>Mr. Keith Chong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:keith_chong_jie_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">keith_chong_jie_hua@moe.edu.sg</a> 
+<p><a href="mailto:keith_chong_jie_hua@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">keith_chong_jie_hua@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -120,7 +121,7 @@ of 16</p>
 <p>Ms. Vanitha Venu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:vanitha_venu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vanitha_venu@moe.edu.sg</a> 
+<p><a href="mailto:vanitha_venu@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vanitha_venu@moe.edu.sg</a>
 </p>
 </td>
 </tr>

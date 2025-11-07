@@ -18,19 +18,20 @@ also groomed leaders to undergo courses and the Red Cross Youth Unit prides
 itself in having achieved the Distinction Gold Award for the Best Cadet,
 Director’s Award and the prestigious President’s Award which attests to
 the high standards attained over the years.&nbsp;</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/Red Cross Youth/The_outgoing_NCOs_and_the_incoming_batch_of_NCOs.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/Red Cross Youth/Cadets_posing_after_the_National_Day_parade.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/Red Cross Youth/NCOs_receiving_the_trophies_for_the_First_Aid_Championship_for_the_Junior_Category_at_the_World_Red_Cross_Day_ceremony.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/Red Cross Youth/Demonstrating_how_to_transport_a_casualty.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/Red Cross Youth/Inception_ceremony_for_the_new_intake_of_Secondary_One_cadets_at_the_World_Red_Cross_Day_ceremony.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/Red Cross Youth/Director_s_award_2025___Chairman_of_Red_Cross.jpg">
 </div>
-<h5>Achievements</h5>
-<p><strong>2024 Accomplishments</strong>
+<h4>Achievements</h4>
+<p><strong><u>2024 Accomplishments</u></strong>
 </p>
 <ul>
 <li>
@@ -49,42 +50,7 @@ the high standards attained over the years.&nbsp;</p>
 <p>First Aid Championship - Silver (Senior Category)</p>
 </li>
 </ul>
-<p><strong>2023 Accomplishments</strong>
-</p>
-<ul>
-<li>
-<p>President Youth Award&nbsp;</p>
-</li>
-<li>
-<p>Director’s Award</p>
-</li>
-<li>
-<p>Distinction Award - Best Cadet Award (USP)</p>
-</li>
-<li>
-<p>Excellent Unit Award - Bronze</p>
-</li>
-<li>
-<p>Gold Modular Competition - Gold&nbsp;</p>
-</li>
-<li>
-<p>First Aid Championship - Silver Award</p>
-</li>
-</ul>
-<p><strong>2022 Accomplishments</strong>
-</p>
-<ul>
-<li>
-<p>First Aid Championships - Gold (Senior category)</p>
-</li>
-<li>
-<p>First Aid Championship - Silver</p>
-</li>
-<li>
-<p>Excellent Unit Award - Silver</p>
-</li>
-</ul>
-<h5>Training Sessions</h5>
+<h4>Training Sessions</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -111,7 +77,7 @@ the high standards attained over the years.&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<h5>Teachers-in-charge</h5>
+<h4>Teachers-in-charge</h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
