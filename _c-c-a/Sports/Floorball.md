@@ -53,10 +53,10 @@ self-discipline and leadership skills.</p>
 <h5>Achievements</h5>
 <ul data-tight="true" class="tight">
 <li>
-<p>NSG Floorball Championships 'B' Division Boys: Top 8</p>
+<p>NSG Floorball Championships 'B' Division: Top 8</p>
 </li>
 <li>
-<p>NSG Floorball Championships 'C' Division Boys: Top 8</p>
+<p>NSG Floorball Championships 'C' Division: Top 8</p>
 </li>
 </ul>
 <h5>Training Sessions</h5>
