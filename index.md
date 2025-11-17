@@ -20,13 +20,6 @@ sections:
       button: Click here
       url: https://youtu.be/QTbx_8Dcl3Y
   - infopic:
-      title: St. Gabriel's Secondary School eOpen House
-      subtitle: St. Gabriel's Secondary School
-      id: infopic
-      image: /images/e_Open_House.jpg
-      alt: Image alt text
-      description: To register, simply scan the QR code on the eOpen House poster.
-  - infopic:
       title: Gabrielites' Personal Learning Device Website
       description: Click the link below to access
       button: Access here
