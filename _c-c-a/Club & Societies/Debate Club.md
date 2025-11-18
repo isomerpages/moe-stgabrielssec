@@ -57,15 +57,17 @@ for the whole tournament.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Singapore Secondary Schools Debating Championships: Division II Champion</p>
+<p>Singapore Secondary Schools Debating Championships: Division II (Champion)</p>
 </li>
 </ul>
 <p><strong><u>2024 Tournaments/Awards</u></strong>
 </p>
 <ul>
 <li>
-<p>Singapore Secondary Schools Debating Championships: Runner-up in Division
-II</p>
+<p>Singapore Secondary Schools Debating Championships: Division II (Runner-up)</p>
+</li>
+<li>
+<p>Mid-Year Debate Invitationals: Champion (Silver Category)</p>
 </li>
 </ul>
 <p></p>
