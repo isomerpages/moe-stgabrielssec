@@ -7,7 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h2><strong>SGSS Facilities Walkabout</strong></h2>
+<h2><strong>For Parents of P6 Students' </strong></h2>
+<h4><strong><u>SGSS Facilities Walkabout</u></strong></h4>
 <p></p>
 <p><strong><u>Wednesday, 26<sup>th</sup> November 2025 to Friday, 28<sup>th</sup> November 2025</u></strong>
 </p>
