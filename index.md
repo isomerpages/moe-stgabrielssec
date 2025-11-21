@@ -12,6 +12,16 @@ sections:
       title: Announcement
       subtitle: St. Gabriel's Secondary School
       button: More
+  - infopic:
+      title: SGSS e-Open House 2025
+      subtitle: St. Gabriel's Secondary School
+      id: infopic
+      description: We’re excited to share the recording of our SGSS e-Open House 2025.
+        If you have any questions, please drop us a note at stgss@moe.edu.sg
+      button: Click here to watch
+      url: https://youtu.be/KP7JteosIN8
+      image: /images/eOpen_House_.jpg
+      alt: Image alt text
   - infobar:
       title: St. Gabriel's Secondary School Corporate Video
       subtitle: St. Gabriel's Secondary School
