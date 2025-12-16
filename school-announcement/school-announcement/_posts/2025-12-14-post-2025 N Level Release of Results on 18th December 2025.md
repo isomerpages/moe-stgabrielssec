@@ -25,7 +25,7 @@ pants, proper shoes (no colored hair, no facial piercing or ear studs).</p>
 </ul>
 <p>Parents and Guardian, you are welcome to join us in the school hall.</p>
 <p>Should you be driving, do note that if our school car parking lots are
-filled u, you will need to park at the opposite HDB carpark.</p>
+filled up, you will need to park at the opposite HDB carpark.</p>
 <p>If your child/ward is unable to collect his results on 18<sup>th</sup> December
 2025, parent or legal guardian may collect the results on behalf of your
 child/ward.</p>
