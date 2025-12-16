@@ -7,28 +7,31 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Please click on the link to access more information:</p>
+<p>Dear Parents/Guardians,</p>
+<p>This is to inform you that GCE (NA) and (NT) examination results will
+be release on 18<sup>th</sup> December 2025 (Thursday) at 2pm.</p>
+<p>Please refer to the details below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/N_Levels_Results_2024_Briefing.pdf" rel="noopener nofollow" target="_blank">N Levels Results 2024 Briefing</a>
-</p>
+<p>Reporting time: 1.30pm</p>
 </li>
 <li>
-<p><a href="/files/PFP_Factsheet.pdf" rel="noopener nofollow" target="_blank">PFP Factsheet</a>
-</p>
+<p>Venue: School Hall</p>
 </li>
 <li>
-<p><a href="/files/DPP_Factsheet.pdf" rel="noopener nofollow" target="_blank">DPP Factsheet</a>
-</p>
-</li>
-<li>
-<p><a href="/files/Support_Students.pdf" rel="noopener nofollow" target="_blank">Support Students</a>
-</p>
-</li>
-<li>
-<p><a href="https://sites.google.com/moe.edu.sg/sgssecg/home" rel="noopener nofollow" target="_blank">ECG Microsite</a>
-</p>
+<p>Attire: School Shirt or School PE T-shirt with school pants, proper shoes
+(no colored hair, no facial piercing or ear studs).</p>
 </li>
 </ul>
-<p></p>
-<p></p>
+<p>Parents and Guardian, you are welcome to join us in the school hall.</p>
+<p>Should you be driving, do not that if our school car parking lots are
+filled u, you will need to park at the opposite HDB carpark.</p>
+<p>If your child/ward is unable to collect his results on 18<sup>th</sup> December
+2025, parent or legal guardian may collect the results on behalf of your
+child/ward.</p>
+<p>Otherwise you may assign a proxy to do so.</p>
+<p>The proxy should produce a letter that shows that he/she is authorized
+by the parent/guardian to collect the student's results (include child/ward
+full name, proxy's full name, parent/guardian's full name, last 4 digit
+of proxy's NRIC and signed by parent/guardian).</p>
+<p>Thank you</p>
