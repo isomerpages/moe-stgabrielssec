@@ -13,14 +13,14 @@ be release on 18<sup>th</sup> December 2025 (Thursday) at 2pm.</p>
 <p>Please refer to the details below:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Reporting time: 1.30pm</p>
+<p><strong>Reporting time</strong>: 1.30pm</p>
 </li>
 <li>
-<p>Venue: School Hall</p>
+<p><strong>Venue</strong>: School Hall</p>
 </li>
 <li>
-<p>Attire: School Shirt or School PE T-shirt with school pants, proper shoes
-(no colored hair, no facial piercing or ear studs).</p>
+<p><strong>Attire</strong>: School Shirt or School PE T-shirt with school
+pants, proper shoes (no colored hair, no facial piercing or ear studs).</p>
 </li>
 </ul>
 <p>Parents and Guardian, you are welcome to join us in the school hall.</p>
