@@ -9,8 +9,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" src="/images/Parent%20Support%20Group/PSG.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" src="/images/Parent%20Support%20Group/Parent.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent Support Group/PSG.jpg">
 </div>
 <h4><strong>Welcome to SGSS Parent Support Group.</strong></h4>
 <p>Formed in January 2001, our PSG works in partnership with the school towards
@@ -115,6 +116,9 @@ resulting in confidence and trust in the home-school relationship.</p>
 <p>Fill up the form via the link&nbsp;<strong><a href="!%5B%5D(/images/Parent%20Support%20Group/2024_PSG.JPG)https://tinyurl.com/JoinUsSGSSPSG2024" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/joinussgsspsg</a></strong>&nbsp;or
 use QR code below.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Parent Support Group/2026_Join_PSG_QR_Code_1.png">
+</div>
 <p></p>
 <p><strong>Contact us</strong>
 </p>
