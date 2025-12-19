@@ -1,7 +1,7 @@
 ---
 title: School Operating Hours from 24th Nov to 19th Dec 2025
 permalink: /school-announcement/school-announcement/school-operating-hours/
-date: 2025-11-04
+date: 2025-10-23
 layout: post
 description: ""
 image: ""

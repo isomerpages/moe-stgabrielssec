@@ -1,11 +1,11 @@
 ---
-title: 2025 N Level Release of Results on 18th December 2025
-permalink: /n-level-result-release-information/
-date: 2025-12-14
-layout: post
+title: 2025 N Level Results Release Slides
+date: 2025-12-18
+layout: file
 description: ""
 image: ""
 variant: tiptap
+file_url: /files/2025_NLevels_Results_Release_Slides.pdf
 ---
 <p>Dear Parents/Guardians,</p>
 <p>This is to inform you that the GCE (NA) and (NT) examination results will
