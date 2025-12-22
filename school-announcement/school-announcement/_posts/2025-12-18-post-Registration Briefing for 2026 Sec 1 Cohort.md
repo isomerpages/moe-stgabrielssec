@@ -22,17 +22,15 @@ to register)</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/files/SGSS_Booklist_2026__S1_Final_191125.pdf" rel="noopener noreferrer nofollow" target="_blank">Booklist</a>
+<p>You will be able to find information for Sec 1 Registration in this link:
+<a href="https://go.gov.sg/sgss2026secondary1registration" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sgss2026secondary1registration</a>
 </p>
+<p></p>
 </li>
 <li>
-<p><a href="/files/Sec1_sale_of_uniform_SGSS_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">School uniform and PE attire</a> (PE
-T-shirt - to get one with yellow stripes)</p>
-</li>
-<li>
-<p>Appeal form: <a href="https://go.gov.sg/stgss-sec1posting-appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/stgss-sec1posting-appeal</a> 
+<p>Appeal form: <a href="https://go.gov.sg/stgss-sec1posting-appeal" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/stgss-sec1posting-appeal</a>
 </p>
+<p></p>
 </li>
 </ol>
-<p></p>
 <p></p>
