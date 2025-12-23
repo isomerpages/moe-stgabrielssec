@@ -60,17 +60,6 @@ variant: tiptap
 <p>Year Head (Sec 4/5)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms. Jane Han</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>216</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Year Head (Sec 3)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms. Elyn Lim</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,7 +68,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Sec 2)</p>
+<p>Year Head (Sec 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms. Jessica Yap</p>
@@ -90,13 +79,24 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Year Head (Sec 1)</p>
+<p>Year Head (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms. Siti Latifah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>212</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head (Sec 1)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Jane Han</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>216</p>
 </td>
 </tr>
 <tr>
@@ -121,18 +121,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>199</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mother Tongue
-<br>Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Clement See</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>115</p>
 </td>
 </tr>
 <tr>
@@ -217,18 +205,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>114</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Student Support
-<br>Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr. Lin Ganfeng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>225</p>
 </td>
 </tr>
 <tr>
