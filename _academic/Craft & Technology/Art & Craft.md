@@ -9,16 +9,13 @@ variant: tiptap
 <h5><strong><u>Teachers in Art</u></strong></h5>
 <ol data-tight="true" class="tight">
 <li>
-<p><strong>Mr.&nbsp;Kelvin Lim</strong>
-</p>
+<p>Mr.&nbsp;Kelvin Lim</p>
 </li>
 <li>
-<p><strong>Mr. Keith Chong</strong>
-</p>
+<p>Mr. Keith Chong</p>
 </li>
 <li>
-<p><strong>Ms.&nbsp;Ng U-Lynn</strong>
-</p>
+<p>Ms.&nbsp;Ng U-Lynn</p>
 </li>
 </ol>
 <h5><u>Introduction</u></h5>
