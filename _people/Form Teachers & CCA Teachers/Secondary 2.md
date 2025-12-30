@@ -6,7 +6,7 @@ third_nav_title: Form Teachers & CCA Teachers
 variant: tiptap
 ---
 <h2>SECONDARY 2</h2>
-<h4>2025 Form Teachers</h4>
+<h4>2026 Form Teachers</h4>
 <hr>
 <p><strong><em>Click on the email address to email the teacher. Main line telephone number 6288 9470.</em></strong>
 </p>
@@ -340,7 +340,7 @@ variant: tiptap
 <p>Ho Chung Sing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ho_chung_sing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_chung_sing@moe.edu.sg</a> 
+<p><a href="mailto:ho_chung_sing@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_chung_sing@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
