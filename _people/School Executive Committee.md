@@ -267,6 +267,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Character &amp; Citizenship Education
+<br>Subject Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Khairunnisa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>221</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>PE
 <br>Subject Head</p>
 </td>
