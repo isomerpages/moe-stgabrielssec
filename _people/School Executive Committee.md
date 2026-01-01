@@ -57,6 +57,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Vice Principal (Admin)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr. Simon Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>201</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Year Head (Sec 4/5)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -252,6 +263,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>156</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Character &amp; Citizenship Education
+<br>Subject Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Khairunnisa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>221</p>
 </td>
 </tr>
 <tr>

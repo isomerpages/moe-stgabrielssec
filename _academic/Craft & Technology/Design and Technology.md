@@ -12,9 +12,6 @@ variant: tiptap
 <p>Mr.&nbsp;Mark Low (HOD)</p>
 </li>
 <li>
-<p>Mr.&nbsp;Lin Ganfeng (Student Support HOD)</p>
-</li>
-<li>
 <p>Mr. Joseph Ng</p>
 </li>
 <li>
