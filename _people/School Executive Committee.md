@@ -322,7 +322,7 @@ variant: tiptap
 <p>Siti Masykura</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>173</p>
+<p>166</p>
 </td>
 </tr>
 <tr>
