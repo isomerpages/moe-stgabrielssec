@@ -1,11 +1,12 @@
 ---
-title: Secondary 1 Posting Day 18th December 2024
-permalink: /secondary-1-posting-day-18th-december-2024/
-date: 2024-12-17
-layout: post
+title: 2026 Product Factsheet for MOE Group Personal Accident (GPA) Insurance
+  Plan for Students
+date: 2026-01-05
+layout: link
 description: ""
 image: ""
 variant: tiptap
+external: https://www.stgabrielssec.moe.edu.sg/links/GPA/
 ---
 <table style="minWidth: 25px">
 <colgroup>
