@@ -235,14 +235,14 @@ variant: tiptap
 <p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mogana</p>
+<p>Lim You Hui</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mogana_ap_devinthoran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mogana_ap_devinthoran@moe.edu.sg</a>
+<p><a href="mailto:lim_you_hui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_you_hui@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>149</p>
+<p>142</p>
 </td>
 </tr>
 <tr>
@@ -252,17 +252,17 @@ variant: tiptap
 <p>2D7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Chandan</p>
+<p>Subhalakshmi Laksmanan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chandan_partab_mansukhani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chandan_partab_mansukhani@moe.edu.sg</a>
+<p><a href="mailto:subhalakshmi_laksmanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">subhalakshmi_laksmanan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>140</p>
+<p>152</p>
 </td>
 </tr>
 <tr>
