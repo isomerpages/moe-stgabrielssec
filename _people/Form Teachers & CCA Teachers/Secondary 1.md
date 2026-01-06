@@ -98,7 +98,8 @@ variant: tiptap
 <p>Esther Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p><a href="mailto:esther_wong_en_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">esther_wong_en_ting@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>127</p>
@@ -219,7 +220,8 @@ variant: tiptap
 <p>Krishann Marcus</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p><a href="mailto:kirshann_venu_das@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kirshann_venu_das@moe.edu.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>130</p>
