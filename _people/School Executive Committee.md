@@ -255,6 +255,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Science
+<br>Subject Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms. Deborah Gian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>128</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Geography
 <br>Subject Head</p>
 </td>
@@ -279,14 +291,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>PE
+<p>FCE &amp; Art
 <br>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr. Ng Rong Yaw</p>
+<p>Ms. Teo Si Ni</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>173</p>
+<p>125</p>
 </td>
 </tr>
 <tr>
