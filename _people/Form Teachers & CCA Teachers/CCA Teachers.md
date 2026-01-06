@@ -84,10 +84,11 @@ variant: tiptap
 <p>Football</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paul De Souza</p>
+<p>Chia Boon Han</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:de_souza_paul_francis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">de_souza_paul_francis@moe.edu.sg</a>
+<p><a href="mailto:chia_boon_han@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_boon_han@moe.edu.sg</a>
+<a href="mailto:de_souza_paul_francis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"></a>
 <br>
 </p>
 </td>
@@ -240,10 +241,10 @@ variant: tiptap
 <p>Infocomm Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rose Fadillah</p>
+<p>Scarlett Tay</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:rose_fadillah_aris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rose_fadillah_aris@moe.edu.sg</a>
+<p><a href="mailto:tay_xiao_ni_scarlett@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_xiao_ni_scarlett@moe.edu.sg</a>
 </p>
 </td>
 </tr>
