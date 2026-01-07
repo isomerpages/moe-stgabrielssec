@@ -161,7 +161,7 @@ access the OPAC</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p>
-<br><a href="(/files/Links/Students/School%20Rules%20and%20Regulation%202023.pdf)" rel="noopener noreferrer nofollow" target="_blank">School Rules &amp; Regulations</a>
+<br><a href="/files/Links/Students/School_Rules_and_Regulations_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">School Rules &amp; Regulations</a>
 <br>
 </p>
 </th>
