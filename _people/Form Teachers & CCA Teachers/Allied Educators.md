@@ -48,18 +48,6 @@ variant: tiptap
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Imran Bin Lakariah (AED/D&amp;T)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:imran_bin_lakariah@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">imran_bin_lakariah@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Ms Guee Su Ink (AED/ LBS)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -69,7 +57,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4</p>
+<p>3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Karen Zainal (AED/LBS)</p>
