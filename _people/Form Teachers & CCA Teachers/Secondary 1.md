@@ -217,7 +217,7 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Krishann Marcus</p>
+<p>Kirshann Marcus</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kirshann_venu_das@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kirshann_venu_das@moe.edu.sg</a>
