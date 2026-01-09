@@ -4,5 +4,5 @@ permalink: /c-c-a/trial-audition-schedule-2025/
 variant: tiptap
 description: ""
 ---
-<p>Click <a href="/files/Announcements/CCA_Trial_Audition_Schedule_2025_with_Q_A.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<p>Click <strong><a href="/files/CCA_Trial_Audition_Interview_Schedule_2026_with_Q_A.pdf" rel="noopener nofollow" target="_blank">here</a></strong> to
 view the CCA Trial Audition Schedule.</p>
