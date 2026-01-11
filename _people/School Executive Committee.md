@@ -196,18 +196,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Character &amp; Citizenship Education
-<br>Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs. Olsen Low Hwee Kian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>216</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Student Management
 <br>Head of Department</p>
 </td>
@@ -216,6 +204,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>114</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Character &amp; Citizenship Education
+<br>Lead Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs. Olsen Low Hwee Kian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>216</p>
 </td>
 </tr>
 <tr>
