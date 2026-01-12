@@ -217,21 +217,6 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Kirshann Marcus</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kirshann_venu_das@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kirshann_venu_das@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>130</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Damon Chu</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -240,6 +225,21 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>173</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kirshann Marcus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kirshann_venu_das@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kirshann_venu_das@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>130</p>
 </td>
 </tr>
 <tr>
