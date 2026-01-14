@@ -2,12 +2,15 @@
 title: Exam and WA Schedule
 permalink: /academic/exam-and-wa-schedule/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-#### **Weighted Assessment Schedule**
-
-* [**2025 End-of-Year Exam Schedule**](https://tinyurl.com/2025EOY-Exams)
-
-#### **Examination  Schedule**
-
-* [**2025 'N' & 'O' Level Prelim Timetable** ](https://docs.google.com/spreadsheets/d/1EBOECggxruxP1GfDUkuDSgh6nlxbZ-i5b1myc9qsKyg)
+<h3><strong>Weighted Assessment Schedule</strong></h3>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://docs.google.com/spreadsheets/d/1hZ9s8qmZX1r-9b7wyMd3DZeuL7hPShiR0wkSfdNH_jY/edit?usp=drivesdk" rel="noopener nofollow" target="_blank">2026 WA1 Secondary 4 &amp; 5 Schedule</a></strong>
+</p>
+</li>
+</ul>
+<h3><strong>Examination Schedule</strong></h3>
+<p></p>
+<p></p>
