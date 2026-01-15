@@ -11,19 +11,19 @@ variant: tiptap
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/files/Announcements/2024_OLevels_Results_Release_Slides.pdf" rel="noopener nofollow" target="_blank">2024 O Level Results Release Slides</a>
+<p><strong><a href="/files/Announcements/2024_OLevels_Results_Release_Slides.pdf" rel="noopener nofollow" target="_blank">2024 O Level Results Release Slides</a></strong>
 </p>
 </li>
 <li>
-<p><a href="/files/Announcements/2025_Factsheet_for_At_Risk_Students.pdf" rel="noopener nofollow" target="_blank">2025 Factsheet for At Risk Students</a>
+<p><strong><a href="/files/Announcements/2026_Factsheet_for_at_risk_students.pdf" rel="noopener nofollow" target="_blank">2026 Factsheet for at risk students</a></strong>
 </p>
 </li>
 <li>
-<p><a href="/files/Announcements/2025_JAE_Information_Sheet.pdf" rel="noopener nofollow" target="_blank">2025 JAE Information Sheet</a>
+<p><strong><a href="/files/Announcements/2026_JAE_Information_Sheet.pdf" rel="noopener nofollow" target="_blank">2026 JAE Information Sheet</a></strong>
 </p>
 </li>
 <li>
-<p><a href="https://sites.google.com/moe.edu.sg/sgssecg/home" rel="noopener nofollow" target="_blank">ECG Microsite</a>
+<p><strong><a href="https://sites.google.com/moe.edu.sg/sgssecg/home" rel="noopener nofollow" target="_blank">ECG Microsite</a></strong>
 </p>
 </li>
 </ul>
