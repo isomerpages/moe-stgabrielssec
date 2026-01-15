@@ -11,10 +11,6 @@ variant: tiptap
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="/files/Announcements/2024_OLevels_Results_Release_Slides.pdf" rel="noopener nofollow" target="_blank">2024 O Level Results Release Slides</a></strong>
-</p>
-</li>
-<li>
 <p><strong><a href="/files/Announcements/2026_Factsheet_for_at_risk_students.pdf" rel="noopener nofollow" target="_blank">2026 Factsheet for at risk students</a></strong>
 </p>
 </li>
