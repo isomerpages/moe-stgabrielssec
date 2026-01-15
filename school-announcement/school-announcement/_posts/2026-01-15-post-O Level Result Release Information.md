@@ -1,7 +1,7 @@
 ---
 title: O Level Result Release Information
 permalink: /o-level-result-release-information/
-date: 2026-01-14
+date: 2026-01-15
 layout: post
 description: ""
 image: ""
