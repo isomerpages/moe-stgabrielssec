@@ -200,7 +200,7 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vijaykumar</p>
+<p>Vijayakamalan Kumarsamy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:vijayakamalan_kumarsamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vijayakamalan_kumarsamy@moe.edu.sg</a>
