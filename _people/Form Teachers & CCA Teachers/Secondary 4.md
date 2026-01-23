@@ -203,7 +203,7 @@ variant: tiptap
 <p>Vijaykumar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sonam_vijaykumar_kusurkar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sonam_vijaykumar_kusurkar@moe.edu.sg</a>
+<p><a href="mailto:vijayakamalan_kumarsamy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">vijayakamalan_kumarsamy@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
