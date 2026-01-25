@@ -291,7 +291,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>FCE &amp; Art
+<p>NFS &amp; Art
 <br>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -303,7 +303,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>ICT
+<p>ICT &amp; EdTech
 <br>Subject Head</p>
 </td>
 <td rowspan="1" colspan="1">
