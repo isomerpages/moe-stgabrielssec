@@ -103,7 +103,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSf2n6WW2c4xLi-gkrptbPSFmTmVrpuqTC0Q2NY7gEEgY1uGmA/viewform" rel="noopener noreferrer nofollow" target="_blank">SGSS ICT Equipment Fault Report Form</a></strong>
+<p><strong><a href="https://form.gov.sg/6977fd677164e58448b7ed56" rel="noopener noreferrer nofollow" target="_blank">SGSS ICT Equipment Fault Report Form</a></strong>
 </p>
 </li>
 <li>
