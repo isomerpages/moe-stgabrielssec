@@ -7,7 +7,7 @@ variant: markdown
 ## School & Sports Safety
 
 
-1.  [MOE School Safety Handbook (Intranet access)](http://intranet.moe.gov.sg/schoolsafety)  
+1.  [MOE School Safety Handbook (Intranet access)](https://intranet.moe.gov.sg/schoolsafety)  
     
 2.  [National School Games](https://nsg.moe.edu.sg/)  
     
