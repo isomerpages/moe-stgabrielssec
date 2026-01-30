@@ -44,7 +44,7 @@ and unintended pregnancies. Casual sex can harm and hurt you and your loved
 ones.</p>
 <p>You may click <strong><a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> for
 more information on MOE Sexuality Education</p>
-<p><strong><u>Overview of St. Gabriel’s Secondary&nbsp;School’s&nbsp;Sexuality Education Programme for 2025</u></strong>
+<p><strong><u>Overview of St. Gabriel’s Secondary&nbsp;School’s&nbsp;Sexuality Education Programme for 2026</u></strong>
 </p>
 <p>Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
@@ -73,27 +73,27 @@ consequences of sexual behaviour.</p>
 the opportunity to develop a positive self-esteem, develop their character,
 and expand their understanding and repertoire of skills to deal with various
 issues related to sexuality, which are of prime concern at this age.</p>
-<p><strong>At St. Gabriel’s Secondary School, the following lessons from the</strong>&nbsp;<strong>Sexuality Education Programme</strong>&nbsp;<strong>will be taught in&nbsp;<u>2025:</u></strong>
+<p><strong>At St. Gabriel’s Secondary School, the following lessons from the</strong>&nbsp;<strong>Sexuality Education Programme</strong>&nbsp;<strong>will be taught in&nbsp;<u>2026:</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="/files/Sexuality Education/Sec_1_SEd_Timeline_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a></strong>
+<p><strong><a href="/files/Sexuality Education/Sec_1_SEd_Timeline_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Sexuality Education/Sec_2_SEd_Timeline_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a></strong>
+<p><strong><a href="/files/Sexuality Education/Sec_2_SEd_Timeline_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Sexuality Education/Sec_3_SEd_Timeline_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a></strong>
+<p><strong><a href="/files/Sexuality Education/Sec_3_SEd_Timeline_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Sexuality Education/Sec_4_SEd_Timeline_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 4</a></strong>
+<p><strong><a href="/files/Sexuality Education/Sec_4_SEd_Timeline_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 4</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Sexuality Education/Sec_5_SEd_Timeline_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 5</a></strong>
+<p><strong><a href="/files/Sexuality Education/Sec_5_SEd_Timeline_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 5</a></strong>
 </p>
 </li>
 </ul>
@@ -107,7 +107,7 @@ negotiation to say “no” to sex and negative peer pressure. They also learn
 that the impact of STIs/HIV extends beyond themselves and involves their
 family, and the importance of responsible decision-making and seeking help.
 Abstinence and upholding family values are the key messages.</p>
-<p><strong>At St. Gabriel’s Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2025:</strong>
+<p><strong>At St. Gabriel’s Secondary School, the&nbsp;<em>eTeens</em>&nbsp;programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -135,15 +135,19 @@ Abstinence and upholding family values are the key messages.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Raise awareness and provide knowledge on:
-<br>(a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
-to prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use).
-<br>(b) Managing relationships and risky situations in a healthy way.</p>
+<br>
+</p>
 </li>
 </ul>
+<p>(a) Infectious diseases (STIs and HIV): what it is, how it spreads, how
+to prevent infection mainly through ABC (abstinence, being faithful, correct,
+and consistent condom use).
+<br>
+</p>
+<p>(b) Managing relationships and risky situations in a healthy way.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3 Week 4</p>
+<p>Term 3 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -173,11 +177,11 @@ of assertiveness and responsible decision-making
 eTeens and/or supplementary sexuality education programmes by MOE-approved
 external providers.</p>
 <p>Parents who wish to opt their children out of the Sexuality Education
-lessons need to complete the Opt-out Form <strong><a href="https://go.gov.sg/stgsssed2025optoutform" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/stgsssed2025optoutform</a></strong> by
-14/02/2025.</p>
+lessons need to complete the Opt-out Form <strong><a href="https://go.gov.sg/sed-optoutform2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/sed-optoutform2026</a></strong> by
+27/02/2026.</p>
 <p>Parents who wish to opt their children out of the eTeens programme need
-to complete the Opt-out Form at <strong><a href="https://go.gov.sg/stgsseteens2025optoutform" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/stgsseteens2025optoutform</a></strong> by
-14/02/2025.</p>
+to complete the Opt-out Form at <strong><a href="https://go.gov.sg/eteens-optoutform2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/eteens-optoutform2026</a></strong> by
+27/02/2025.</p>
 <p>Parents can contact the school at <strong>62889470</strong> or <strong><a href="mailto:stgss@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">stgss@moe.edu.sg</a></strong> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>

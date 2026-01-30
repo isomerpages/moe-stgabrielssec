@@ -185,7 +185,7 @@ access the OPAC</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><br><a href="http://portal.swn.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">School Wi-Fi Log In / Log Off Portal</a><br><br></strong>
+<p><strong><br><a href="https://portal.swn.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">School Wi-Fi Log In / Log Off Portal</a><br><br></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
