@@ -77,23 +77,23 @@ issues related to sexuality, which are of prime concern at this age.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="/files/Sexuality Education/Sec_1_SEd_Timeline_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a></strong>
+<p><strong><a href="/files/Sexuality Education/Sec_1_SEd_Timeline_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 1</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Sexuality Education/Sec_2_SEd_Timeline_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a></strong>
+<p><strong><a href="/files/Sexuality Education/Sec_2_SEd_Timeline_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 2</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Sexuality Education/Sec_3_SEd_Timeline_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a></strong>
+<p><strong><a href="/files/Sexuality Education/Sec_3_SEd_Timeline_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 3</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Sexuality Education/Sec_4_SEd_Timeline_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 4</a></strong>
+<p><strong><a href="/files/Sexuality Education/Sec_4_SEd_Timeline_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 4</a></strong>
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Sexuality Education/Sec_5_SEd_Timeline_2025.pdf" rel="noopener nofollow" target="_blank">Secondary 5</a></strong>
+<p><strong><a href="/files/Sexuality Education/Sec_5_SEd_Timeline_2026.pdf" rel="noopener nofollow" target="_blank">Secondary 5</a></strong>
 </p>
 </li>
 </ul>
