@@ -13,15 +13,14 @@ sections:
       subtitle: St. Gabriel's Secondary School
       button: More
   - infopic:
-      title: SGSS e-Open House 2025
-      subtitle: St. Gabriel's Secondary School
+      title: St Gabriel’s Foundation (SGF) Virtual Flag Day 2026
+      subtitle: ST. GABRIEL'S SECONDARY SCHOOL
       id: infopic
-      description: We’re excited to share the recording of our SGSS e-Open House 2025.
-        If you have any questions, please drop us a note at stgss@moe.edu.sg
-      button: Click here to watch
-      url: https://youtu.be/KP7JteosIN8
-      image: /images/eOpen_House_.jpg
+      image: /images/St_Gabriel_s_Foundation_Flag_Day_2026_Giving_sg.png
       alt: Image alt text
+      url: https://stgabrielssec.moe.edu.sg/st-gabriel-s-foundation-sgf-virtual-flag-day-2026/
+      button: CLICK HERE
+      description: Click link below to read more
   - infobar:
       title: St. Gabriel's Secondary School Corporate Video
       subtitle: St. Gabriel's Secondary School
