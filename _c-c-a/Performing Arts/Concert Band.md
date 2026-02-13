@@ -56,8 +56,13 @@ community.</p>
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="2">
+<p>Main Band) &amp; (Junior Band)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Tuesday (Main Band) &amp; Wednesday (Junior Band):</p>
+<p>Tuesday:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.30pm - 5.30pm</p>
@@ -65,7 +70,7 @@ community.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Friday (All Members):</p>
+<p>Friday:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.00pm - 5.00pm</p>
