@@ -57,7 +57,7 @@ community.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p>Main Band) &amp; (Junior Band)</p>
+<p>Main Band &amp; Junior Band</p>
 </td>
 </tr>
 <tr>
