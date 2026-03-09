@@ -18,7 +18,7 @@ in their National Service at a later point in their life, but to cultivate
 core values.&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/National Cadet Corps (Land)/1__2024_NCC__Land__Unit_Photo.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Uniformed Groups/National Cadet Corps (Land)/NCC_Group.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -33,12 +33,15 @@ core values.&nbsp;</p>
 </p>
 <ul>
 <li>
-<p>2022 – 2023: Distinction Award</p>
+<p>2022 – 2024: Distinction Award</p>
 </li>
 </ul>
 <p><strong>Outstanding Cadet Award</strong>
 </p>
 <ul>
+<li>
+<p>2025: MSG Koh Yue-Xuan Aden</p>
+</li>
 <li>
 <p>2024: MSG John Luke Low and MSG Ethan Tan</p>
 </li>
@@ -47,12 +50,22 @@ core values.&nbsp;</p>
 </p>
 <ul>
 <li>
+<p>2025 National Day Parade Marching Contingent: SSG Thaqif Mikhail bin Muhammad
+Faisal, 2SG Reeve Yang</p>
+</li>
+<li>
 <p>2024 National Day Parade Marching Contingent: 1SG Alexander Rizqullah
 bin Noornasrin, 1SG Darwish Anaqi bin Asraf Rafiq, 1SG Elvie Lim Zhi Rong</p>
 </li>
 <li>
+<p>2025 Mount Ophir Expedition: SSG Thaqif Mikhail bin Muhammad Faisal</p>
+</li>
+<li>
 <p>2024 Mount Ophir Expedition: 1SG Darwish Anaqi bin Asraf Rafiq, 3SG Coen
 Goh Yen Leong</p>
+</li>
+<li>
+<p>1-Star Kayaking Certification: 2025 Charlies and Bravos</p>
 </li>
 <li>
 <p>1-Star Kayaking Certification: 2024 Charlies</p>
