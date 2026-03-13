@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>School will close at 5 pm from 16<sup>th </sup> March - 20<sup>th</sup> March
+<p>School closes at 5 pm from 16<sup>th </sup>March - 20<sup>th</sup> March
 2026 (March School Holiday).</p>
 <p></p>
 <p></p>
