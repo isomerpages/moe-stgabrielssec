@@ -107,10 +107,6 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="https://portal.swn.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">School WiFi Log In / Log Off</a></strong>
-</p>
-</li>
-<li>
 <p><strong>Education and Career Guidance</strong>&nbsp;<strong>(<a href="https://www.skillsfuture.gov.sg/ecg" rel="noopener noreferrer nofollow" target="_blank">ecareers.sg web portal</a>)</strong>
 </p>
 </li>
