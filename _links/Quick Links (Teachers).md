@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="https://ssoe2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SSOE2 Service Portal</a></strong>
+<p><strong><a href="https://ssoe2.moe.edu.sg/sp" rel="noopener noreferrer nofollow" target="_blank">SSOE2 Service Portal</a></strong>
 </p>
 </li>
 <li>
