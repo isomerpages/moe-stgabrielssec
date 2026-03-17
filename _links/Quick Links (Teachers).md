@@ -15,7 +15,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="https://ssoe2.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">SSOE2 Service Portal</a></strong>
+<p><strong><a href="https://ssoe2.moe.edu.sg/sp" rel="noopener noreferrer nofollow" target="_blank">SSOE2 Service Portal</a></strong>
 </p>
 </li>
 <li>
@@ -104,10 +104,6 @@ variant: tiptap
 </li>
 <li>
 <p><strong><a href="https://form.gov.sg/6977fd677164e58448b7ed56" rel="noopener noreferrer nofollow" target="_blank">SGSS ICT Equipment Fault Report Form</a></strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://portal.swn.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">School WiFi Log In / Log Off</a></strong>
 </p>
 </li>
 <li>
