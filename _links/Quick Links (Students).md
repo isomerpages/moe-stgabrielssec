@@ -179,7 +179,7 @@ access the OPAC</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><br><a href="https://www.moe.gov.sg/education/admissions/jae/" rel="noopener noreferrer nofollow" target="_blank">JAE Internet System (JAE-IS)</a><br><br></strong>
+<p><strong><br><a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener noreferrer nofollow" target="_blank">JAE Internet System (JAE-IS)</a><br><br></strong>
 </p>
 </td>
 </tr>
