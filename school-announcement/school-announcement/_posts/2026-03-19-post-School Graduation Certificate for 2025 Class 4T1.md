@@ -7,3 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Dear 2025 4T1 Students,</p>
+<p>The school graduation certificate is ready for collection.</p>
+<p>Thank you.</p>
+<p></p>
