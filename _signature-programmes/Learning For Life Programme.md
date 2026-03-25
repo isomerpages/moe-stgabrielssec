@@ -535,4 +535,89 @@ and help students feel more prepared during the exam period.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Learning for Life Programme/Post_Exam_Outing___Rainforest_Wild_Asia.jpg">
 </div>
+<p>After the End-Of-Year examinations, Secondary 1 to 3 international students
+joined PSLs for an outing to Rainforest Wild Asia. The programme began
+with a shared KFC meal in the school canteen, creating an environment for
+conversation and connection. The outing offered a meaningful platform for
+social interaction and cross-cultural bonding.</p>
+<p><strong>PSLs are committed to helping international students feel a sense of belonging at St Gabriel’s Secondary School. Through their care, support and inclusive initiatives, international students are able to build friendships and feel valued, even when they are far from home.</strong>
+</p>
+<hr>
+<h4><strong>PSL Duties</strong></h4>
+<p>To remain visible and accessible to the student body, PSLs serve weekly
+duty sessions during recess at the PSL Corner in the school canteen.&nbsp;</p>
+<p><strong><u>PSL Corner</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Learning for Life Programme/PSL_Corner.jpg">
+</div>
+<p>During recess, PSLs loan sports equipment to students with sports equipment
+and board games to encourage healthy interaction and peer bonding. More
+importantly, the PSL Corner serves as a safe and welcoming space where
+students can interact informally with approachable peers.</p>
+<p>By being present, PSLs help create a school environment where students
+feel seen and cared for. Their presence reassures students that support
+is always nearby, and that there is always someone willing to listen and
+offer companionship.</p>
+<p><strong><u>Claw Machine</u></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Learning for Life Programme/Claw_Machine.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Learning for Life Programme/Claw_Machine_02.png">
+</div>
+<p>The PSLs introduced a Claw Machine to recognise and encourage positive
+behaviour aligned with the school’s 3RC values. Through affirmation cards
+issued by teachers, students who demonstrate good character are acknowledged
+and given the opportunity to redeem tokens to play the claw machine for
+rewards.</p>
+<p>This initiative reinforces positive values and good conduct, including
+acts of kindness that may otherwise go unnoticed. By recognising students
+in an engaging way, it contributes to a more positive school environment
+and boosts student morale.</p>
+<p><strong><u>Friday Music Jam</u></strong>
+</p>
+<p>Friday Music Jam (FMJ) is held every alternate Friday, which creates a
+lively and welcoming school environment where students can relax, enjoy
+their meals, and unwind from academic demands.</p>
+<p>Through a song request system using a QR code, PSLs curate music responsibly
+to ensure a positive and appropriate atmosphere. Students may also dedicate
+songs to their friends, encouraging peer appreciation.</p>
+<p>FMJ enhances students’ overall school experience by fostering connection,
+positivity, and a supportive school culture.</p>
+<p><strong><u>PSL Leadership Day Camp</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Learning for Life Programme/PSL_Leadership_Day_Camp.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Learning for Life Programme/PSL_Leadership_Day_Camp_02.jpg">
+</div>
+<p>At the end of Term 1, our Peer Support Leaders participated in a Day Camp
+organised by the PSL EXCO, aimed at developing leadership and teamwork
+skills.</p>
+<p>The morning featured structured icebreaker activities that encouraged
+PSLs to connect beyond their usual social circles and communicate more
+intentionally. In the afternoon, PSLs took part in PSL Ventures, rotating
+through five stations and working in groups to complete team based challenges.</p>
+<p>Through these activities, PSLs practised servant leadership by supporting
+one another, communicating effectively, and prioritising team success.
+The day concluded with a group reflection, allowing PSLs to consolidate
+their learning and deepen their understanding of their role in building
+a caring and inclusive school community.</p>
+<p><strong><u>PSL Bonding Day</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Signature Programmes/Learning for Life Programme/PSL_Bonding_Day.jpg">
+</div>
+<p>To strengthen bonds and foster camaraderie within the PSL Board, our Peer
+Support Leaders participated in a Bonding Day organised by the PSL EXCO
+at Sports Hub beach volleyball courts.</p>
+<p>Through sports such as volleyball, frisbee and dodgeball, PSLs built stronger
+friendships. The shared experiences encouraged collaboration and mutual
+support within the PSL board</p>
 <p></p>
