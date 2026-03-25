@@ -619,5 +619,5 @@ Support Leaders participated in a Bonding Day organised by the PSL EXCO
 at Sports Hub beach volleyball courts.</p>
 <p>Through sports such as volleyball, frisbee and dodgeball, PSLs built stronger
 friendships. The shared experiences encouraged collaboration and mutual
-support within the PSL board</p>
+support within the PSL board.</p>
 <p></p>
