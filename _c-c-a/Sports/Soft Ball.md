@@ -132,15 +132,21 @@ Cup where they raise funds to contribute to Brother Dennis Care Fund.</p>
 </tr>
 </tbody>
 </table>
+<p><strong><em>Award Ceremony 2026</em></strong>
+</p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dAhJlh2SIw8?si=ebnAC0LN5j_-B0wo"></iframe>
+</div>
+<p></p>
 <p><strong><em>A testament to how our Gabrielite leaders lead the way to ensure their juniors are able to continue their route to success. Well done Softball boys!</em></strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YuUYwba4FqE?si=CmfB1AuEOws2xBGR"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/YuUYwba4FqE?si=CmfB1AuEOws2xBGR"></iframe>
 </div>
 <p></p>
 <p><strong><em>St. Gabriel's Softball Award 2024</em></strong>
 </p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5zXvcCJOyvo?si=eLgNdS8yoyb8TLFn"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5zXvcCJOyvo?si=eLgNdS8yoyb8TLFn"></iframe>
 </div>
 <p></p>
