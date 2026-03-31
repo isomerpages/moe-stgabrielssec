@@ -100,7 +100,7 @@ issues related to sexuality, which are of prime concern at this age.</p>
 <p><strong>Secondary 3</strong>
 <br><strong><em>eTeens</em>&nbsp;Programme:</strong>
 </p>
-<p><em>eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions.</em>
+<p><em>eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. With formation of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme would now be managed by CDA's Training and Education Division instead of HPB. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme. The desired outcome of the eTeens programme is that students are empowered to make wise, informed and sensible decisions to protect themselves from sexually transmitted infectious diseases.</em>
 </p>
 <p>Students are taught skills such as decision-making, assertiveness and
 negotiation to say “no” to sex and negative peer pressure. They also learn
