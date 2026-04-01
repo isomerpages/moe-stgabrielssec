@@ -12,15 +12,6 @@ sections:
       title: Announcement
       subtitle: St. Gabriel's Secondary School
       button: More
-  - infopic:
-      title: St Gabriel’s Foundation (SGF) Virtual Flag Day 2026
-      subtitle: ST. GABRIEL'S SECONDARY SCHOOL
-      id: infopic
-      image: /images/St_Gabriel_s_Foundation_Flag_Day_2026_Giving_sg.png
-      alt: Image alt text
-      url: https://stgabrielssec.moe.edu.sg/st-gabriel-s-foundation-sgf-virtual-flag-day-2026/
-      button: CLICK HERE
-      description: Click link below to read more
   - infobar:
       title: St. Gabriel's Secondary School Corporate Video
       subtitle: St. Gabriel's Secondary School
