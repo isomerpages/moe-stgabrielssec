@@ -1,6 +1,6 @@
 ---
-title: 2026 WA1 Sec 4 & 5 Schedule
-date: 2026-01-14
+title: 2026 WA2 Schedule
+date: 2026-04-06
 layout: link
 description: ""
 image: ""
