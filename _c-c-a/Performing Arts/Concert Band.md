@@ -32,6 +32,28 @@ community.</p>
 </div>
 <p></p>
 <h4>Achievements</h4>
+<p><strong><u>2025 Performances / Exchange Programme</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>SYF Arts Presentation - Distinction Award</p>
+</li>
+<li>
+<p>Band exchange programme with St Patrick's Sec Sch</p>
+</li>
+<li>
+<p>Chinese New Year Concert</p>
+</li>
+<li>
+<p>Speech Day Performance</p>
+</li>
+<li>
+<p>Arts Buzz - Instrumental Ensembles</p>
+</li>
+<li>
+<p>National Day School Parade</p>
+</li>
+</ul>
 <p><strong><u>2024 Performances / Exchange Programme</u></strong>
 </p>
 <ul>
@@ -124,7 +146,7 @@ community.</p>
 <p>Ms. Grace Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_grace@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_grace@moe.edu.sg</a>
+<p><a href="mailto:grace_tan_c@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">grace_tan_c@moe.edu.sg</a>
 </p>
 </td>
 </tr>
