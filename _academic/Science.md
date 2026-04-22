@@ -331,7 +331,7 @@ and Science (Syllabus T) subjects.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Pang Seo Mun</p>
+<p>Ms. Pang Seok Mun</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
