@@ -54,6 +54,9 @@ goal to achieve success.</p>
 <p><em>Caleb Kok from 3A7 achieved National 4th Place in the "B" Division Individual Event</em>
 </p>
 <p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OGR7FVzYh00?si=AVxMznJDjkwYbdk1"></iframe>
+</div>
 <h4>Achievements</h4>
 <p><strong>2026 National School Games Golf Championships</strong>
 </p>
@@ -219,4 +222,7 @@ The return trip from OCC departs at 5:30 pm.</p>
 </tr>
 </tbody>
 </table>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OGR7FVzYh00?si=AVxMznJDjkwYbdk1"></iframe>
+</div>
 <p></p>
