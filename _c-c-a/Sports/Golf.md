@@ -39,7 +39,22 @@ goal to achieve success.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Golf/9_Hole_Game_at_Orchid_Country_Club_on_10_Sep_2025.jpg">
 </div>
 <p></p>
-<h5>Achievements</h5>
+<h4>Achievements</h4>
+<p><strong>2026 National School Games Golf Championships</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B’ Division (Team) Silver Trophy and Medals: Jayden Loh from 4N1 and Caleb
+Kok from 3A7</p>
+</li>
+<li>
+<p>C Div (Team) Bronze Trophy and Medals: Ian Chew from 2D5 and Ryan Chiang
+from 1L2</p>
+</li>
+<li>
+<p>‘B’ Division (Individual) 4th Placing: Caleb Kok from 3A7</p>
+</li>
+</ul>
 <p><strong>2024 National School Games Golf Championships</strong>
 </p>
 <ul data-tight="true" class="tight">
