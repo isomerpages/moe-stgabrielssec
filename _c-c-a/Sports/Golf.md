@@ -30,16 +30,49 @@ challenging moments, we draw strength from one another, supporting and
 motivating one another to overcome obstacles. Our golfers are not only
 highly skilled but also mentally tough, working together toward a common
 goal to achieve success.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Golf/Golf_04.jpg">
+</div>
+<p><em>Group Photo of Selected Participants for the 2026 Golf NSG Competition</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Golf/2025_Golf_CCA_Trial_for_Sec_1s.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Golf/Golf_01.jpg">
 </div>
+<p><em>The “B” Division Team Event Silver Medalists were Jayden Loh from 4N1 (right) and Caleb Kok from 3A7 (left)</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Golf/9_Hole_Game_at_Orchid_Country_Club_on_10_Sep_2025.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Golf/Golf_02.jpg">
 </div>
+<p><em>The “C” Division Team Event Bronze Medalists were Ian Chew from 2D5 (right) &amp; Ryan Chiang from 1L2 (left)</em>
+</p>
 <p></p>
-<h5>Achievements</h5>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Sports &amp; Games/Golf/Golf_03.jpg">
+</div>
+<p><em>Caleb Kok from 3A7 achieved National 4th Place in the "B" Division Individual Event</em>
+</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OGR7FVzYh00?si=AVxMznJDjkwYbdk1"></iframe>
+</div>
+<h4>Achievements</h4>
+<p><strong>2026 National School Games Golf Championships</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B’ Division (Team) Silver Trophy and Medals: Jayden Loh from 4N1 and Caleb
+Kok from 3A7</p>
+</li>
+<li>
+<p>C Div (Team) Bronze Trophy and Medals: Ian Chew from 2D5 and Ryan Chiang
+from 1L2</p>
+</li>
+<li>
+<p>‘B’ Division (Individual) 4th Placing: Caleb Kok from 3A7</p>
+</li>
+</ul>
 <p><strong>2024 National School Games Golf Championships</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -171,13 +204,25 @@ The return trip from OCC departs at 5:30 pm.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms. Nurul Humairah</p>
+<p>Ms. Grace Ren Junying</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nurul_humairah_abu_bakar@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurul_humairah_abu_bakar@moe.edu.sg</a>
+<p><a href="ren_junying@moe.edu.sg" rel="noopener nofollow" target="_blank">ren_junying@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Miss Lim You Hui</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="lim_you_hui@moe.edu.sg" rel="noopener nofollow" target="_blank">lim_you_hui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OGR7FVzYh00?si=AVxMznJDjkwYbdk1"></iframe>
+</div>
 <p></p>
