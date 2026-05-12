@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>School closes at 5 pm from 16<sup>th </sup>March - 20<sup>th</sup> March
-2026 (March School Holiday).</p>
+<p><strong><em>School closes on Friday 15 May 2026 from 12 noon onwards for the Montfortian Education Symposium.</em></strong>
+</p>
 <p></p>
 <p></p>
