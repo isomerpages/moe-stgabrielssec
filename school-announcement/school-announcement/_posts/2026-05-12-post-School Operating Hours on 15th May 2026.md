@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong><em>School closes on Friday 15 May 2026 from 12 noon onwards for the Montfortian Education Symposium.</em></strong>
+<p><strong><em>School closes on Friday 22 May 2026 for the School's Sports Fiesta.</em></strong>
 </p>
 <p></p>
 <p></p>
