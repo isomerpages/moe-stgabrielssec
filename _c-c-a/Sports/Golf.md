@@ -222,7 +222,4 @@ The return trip from OCC departs at 5:30 pm.</p>
 </tr>
 </tbody>
 </table>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OGR7FVzYh00?si=AVxMznJDjkwYbdk1"></iframe>
-</div>
 <p></p>
