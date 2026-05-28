@@ -1,6 +1,6 @@
 ---
-title: 2026 WA2 Schedule
-date: 2026-04-06
+title: 2026 WA3 (Term 3 Week 4 to Week 6)
+date: 2026-05-28
 layout: link
 description: ""
 image: ""
