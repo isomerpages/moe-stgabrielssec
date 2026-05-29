@@ -7,7 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong><em>School closes on Friday 22 May 2026 for the School's Sports Fiesta.</em></strong>
+<p><strong><em>School will close at 5 pm from 8 – 19 Jun 2026 during the June school holiday protected period.</em></strong>
 </p>
-<p></p>
 <p></p>
