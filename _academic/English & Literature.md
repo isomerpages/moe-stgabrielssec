@@ -4,8 +4,8 @@ permalink: /academic/English-Literature/
 description: ""
 variant: tiptap
 ---
-<h2>English &amp; Literature</h2>
-<h5>Teachers in English Language</h5>
+<h2><strong>English &amp; Literature</strong></h2>
+<h5><u>Teachers in English Language</u></h5>
 <ol data-tight="true" class="tight">
 <li>
 <p>Mr. Benjamin Lim</p>
