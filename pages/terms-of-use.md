@@ -20,7 +20,7 @@ forms of proprietary rights.</p>
 <p>All rights, title and interest in the Contents are owned by, licensed
 to or controlled by St. Gabriel's Secondary School.</p>
 <h3><strong>Privacy Policy</strong></h3>
-<p>Please refer to our Privacy Policy.</p>
+<p>Please refer to our <a href="https://stgabrielssec.moe.edu.sg/privacy/" rel="noopener nofollow" target="_blank">Privacy Policy</a>.</p>
 <h3><strong>Restriction on Use of Materials</strong></h3>
 <p>Except as otherwise provided, the Contents of this Web Site shall not
 be reproduced, republished, uploaded, posted, transmitted or otherwise
