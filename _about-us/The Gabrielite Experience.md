@@ -2,7 +2,10 @@
 title: The Gabrielite Experience
 permalink: /about-us/the-gabrielite-experience/
 description: ""
+variant: tiptap
 ---
-**The Gabrielite Experience**
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OReQN7adpDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<h2><strong>The Gabrielite Experience</strong><br></h2>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OReQN7adpDE"></iframe>
+</div>
+<p></p>
