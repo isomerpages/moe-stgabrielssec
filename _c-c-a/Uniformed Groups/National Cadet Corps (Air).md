@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h2><strong>NATIONAL CADET CORPS (AIR)</strong></h2>
+<h2><strong>National Cadet Corps (Air)</strong></h2>
 <h4>Beliefs &amp; Outcomes</h4>
 <p>At St. Gabriel’s Secondary, members of the National Cadet Corps [NCC]
 (Air) Squadron go through a series of activities and courses planned for
