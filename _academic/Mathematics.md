@@ -5,13 +5,13 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Mathematics</strong></h2>
-<h5>Introduction</h5>
+<h4><u>Introduction</u></h4>
 <p>Welcome to St. Gabriel’s Secondary Mathematics Department Webpage. As
 Mathematics educators, we strive to ensure that all students achieve a
 level of mastery in Mathematics that will serve them well in the future,
 where they can confidently use Mathematics to make informed decisions in
 their everyday activities so as to lead meaningful and purposeful lives.</p>
-<h5>Objectives <br></h5>
+<h4><u>Objectives </u></h4>
 <p><strong>Our Vision and Mission</strong>
 </p>
 <p><strong><u>Vision</u></strong>
@@ -100,11 +100,11 @@ and congratulate them on their achievements!</p>
 </li>
 </ul>
 <h2><strong>Principles of Accounts (POA)</strong></h2>
-<h5>Introduction</h5>
+<h4><u>Introduction</u></h4>
 <p>POA is designed to provide our students with a meaningful basic introduction
-to finanial accounting and to develop an appreciation of the discipline
+to financial accounting and to develop an appreciation of the discipline
 of accounting.</p>
-<h5>Objectives</h5>
+<h4><u>Objectives</u></h4>
 <p>1 To equip our students with strong fundamentals for future learning.</p>
 <p>2 To provide the students with the tools to make real life financial decisions
 in the increasingly complex world of business.</p>
@@ -119,7 +119,7 @@ financial literacy for youths.</p>
 It also gives the students an opportunity to cultivate the entrepreneurial
 spirit in managing finances through exciting games and quizzes.</p>
 <h2><strong>Computer Applications (CPA)</strong></h2>
-<h5>Our Vision and Mission</h5>
+<h4><u>Our Vision and Mission</u></h4>
 <p><strong><u>Vision</u></strong>
 </p>
 <p>Technologically adept citizens</p>
