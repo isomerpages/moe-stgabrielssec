@@ -56,10 +56,12 @@ by giving them opportunities to develop their potential to the fullest.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sports &amp; Games</p>
+<p><strong>Sports &amp; Games</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Uniformed Groups</p>
+<p><strong>Uniformed Groups</strong>
+</p>
 </td>
 </tr>
 </tbody>
