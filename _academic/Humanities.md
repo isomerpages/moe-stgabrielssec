@@ -4,7 +4,7 @@ permalink: /academic/Humanities/
 description: ""
 variant: tiptap
 ---
-<h2>Humanities</h2>
+<h2><strong>Humanities</strong></h2>
 <p><em>The truth may be puzzling. It may take some work to grapple with. It may also be counterintuitive. It may contradict deeply held prejudices. It may not be consonant with what we desperately want to be true. But our preferences do not determine what’s true.”</em>&nbsp;&nbsp;
 - Carl Sagan</p>
 <div class="isomer-image-wrapper">
