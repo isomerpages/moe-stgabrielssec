@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our Programmes
 variant: tiptap
 ---
-<h2><strong>Total Defense Day</strong></h2>
+<h2><strong>Total Defence Day</strong></h2>
 <p><strong><u>Total Defence Day 2023</u></strong>
 </p>
 <p>Theme: Our Unity is Our Strength</p>
