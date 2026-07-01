@@ -30,7 +30,7 @@ Teacher:</p>
 </p>
 </li>
 <li>
-<p><a href="/people/form-and-subject-teachers/allied-educators/" rel="noopener noreferrer nofollow" target="_blank">Allied Educators</a>
+<p><a href="https://stgabrielssec.moe.edu.sg/people/form-teachers/allied-educators/" rel="noopener noreferrer nofollow" target="_blank">Allied Educators</a>
 </p>
 </li>
 <li>
