@@ -4,12 +4,12 @@ permalink: /academic/Mother-Tongue/
 description: ""
 variant: tiptap
 ---
-<h2>Mother Tongue</h2>
+<h2><strong>Mother Tongue</strong></h2>
 <h5><u>Introduction</u></h5>
 <p>The Mother Tongue Languages Department provided courses for the learning
 of Chinese, Malay and Tamil language that catered to the needs of students
 from different levels and streams.</p>
-<h5>Teachers in Chinese Language</h5>
+<h5><u>Teachers in Chinese Language</u></h5>
 <ol data-tight="true" class="tight">
 <li>
 <p>Ms. Pauline Teo (Subject Head, CL)</p>
@@ -33,7 +33,7 @@ from different levels and streams.</p>
 <p>Ms. Loh Siew Chian</p>
 </li>
 </ol>
-<h5>Teachers in Malay Language</h5>
+<h5><u>Teachers in Malay Language</u></h5>
 <ol data-tight="true" class="tight">
 <li>
 <p>Mdm Noor Hayati Bte Mohamed Yusoff (Subject Head/Discipline)</p>
@@ -45,7 +45,7 @@ from different levels and streams.</p>
 <p>Mdm Rose Fadillah Bte Aris</p>
 </li>
 </ol>
-<h5>Teachers in Tamil Language</h5>
+<h5><u>Teachers in Tamil Language</u></h5>
 <ol data-tight="true" class="tight">
 <li>
 <p>Mdm Krishnasamy Poongulali</p>
