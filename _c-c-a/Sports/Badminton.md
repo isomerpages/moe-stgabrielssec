@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<h2>Badminton</h2>
+<h2><strong>Badminton</strong></h2>
 <h5>Beliefs &amp; Outcomes</h5>
 <p>Badminton is a demanding sport that requires excellent fitness and commitment
 from its players. For St. Gabriel’s badminton team, we believe in inculcating
