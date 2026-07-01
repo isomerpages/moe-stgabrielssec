@@ -4,7 +4,7 @@ permalink: /links/GPA/
 description: ""
 variant: tiptap
 ---
-<h2>GROUP PERSONAL ACCIDENT (GPA) FOR STUDENTS</h2>
+<h2><strong>Group Personal Accident (GPA) For Students</strong></h2>
 <p>Please click <strong><a href="/files/Links/GPA for Students/Letter_to_Parents_on_2026_GPA_Insurance_Plan_for_Students.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a></strong> to
 read the Letter to Parents on 2026 GPA Insurance Plan for Students</p>
 <p></p>
