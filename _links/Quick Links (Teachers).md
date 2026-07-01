@@ -4,7 +4,7 @@ permalink: /links/Quick-Links-Teachers/
 description: ""
 variant: tiptap
 ---
-<h2>Quick Links (Teachers)</h2>
+<h2><strong>Quick Links (Teachers)</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Teachers_Link_2025.jpg">
 </div>
