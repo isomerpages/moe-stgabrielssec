@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<h2>Karate</h2>
+<h2><strong>Karate</strong></h2>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCA/Sports%20&amp;%20Games/Karate/Karate.png">
 </div>
