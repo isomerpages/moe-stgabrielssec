@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h2>Scouts</h2>
+<h2><strong>Scouts</strong></h2>
 <h5>Beliefs &amp; Outcomes</h5>
 <p>Founded in 1958, the 2006 Southern Cross Scouts Troop celebrated its 65<sup>th</sup> anniversary
 recently by organising a campfire which amassed over 300 scouts and girl
