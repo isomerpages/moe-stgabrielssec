@@ -4,7 +4,7 @@ permalink: /links/Parents-Partners/
 description: ""
 variant: tiptap
 ---
-<h2>QUICK LINKS (PARENTS &amp; PARTNERS)</h2>
+<h2><strong>Quick Links (Parents &amp; Partners)</strong></h2>
 <h5>National Digital Literacy Programme (NDLP)</h5>
 <p><strong>Parent Engagement</strong>
 </p>
@@ -18,7 +18,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><strong><a href="/files/Links/Parents/Application_for_Subsidy_for_Purchase_of_PLD.pdf" rel="noopener nofollow" target="_blank">Application for Subsidy for Purchase of PLD </a></strong>
+<p><strong><a href="/files/Links/Parents/Application_for_Subsidy_for_Purchase_of_PLD.pdf" rel="noopener nofollow" target="_blank">Application for Subsidy for Purchase of PLD</a></strong>
 </p>
 <p></p>
 </li>
