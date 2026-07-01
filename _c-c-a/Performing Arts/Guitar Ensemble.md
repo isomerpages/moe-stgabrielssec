@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<h2>Guitar Ensemble</h2>
+<h2><strong>Guitar Ensemble</strong></h2>
 <h4>Beliefs &amp; Outcomes</h4>
 <p>The St. Gabriel Secondary School’s Guitar Ensemble, guided by instructors
 Mr Daniel Lim and Mr Raj, has excelled since its establishment in 2007,
@@ -28,7 +28,7 @@ and independence development.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA/Performing Arts/Guitar Ensemble/Performance_at_Woodlands_Regional_Library_on_6_Sept_2025.jpg">
 </div>
 <h4>Achievements</h4>
-<p><strong><u>2025</u> </strong>
+<p><strong><u>2025</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
