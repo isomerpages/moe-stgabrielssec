@@ -4,7 +4,7 @@ permalink: /about-us/Our-Heritage/
 description: ""
 variant: tiptap
 ---
-<h2>Our Heritage</h2>
+<h2><strong>Our Heritage</strong></h2>
 <h4>School History</h4>
 <p>Saint Gabriel's School started on 1 June 1953 as a small school with 212
 students in five classes from Primary One to Standard Two. The students
