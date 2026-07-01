@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<h2>Judo</h2>
+<h2><strong>Judo</strong></h2>
 <h4>Beliefs &amp; Outcomes</h4>
 <p>Since its inception in 2005, St. Gabriel’s Judo Team has always been in
 the top 4 schools nationally at each of the National School Games competitions.
