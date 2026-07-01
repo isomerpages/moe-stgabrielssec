@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Craft & Technology
 variant: tiptap
 ---
-<h2>Design and Technology</h2>
-<h5>Teachers in Design and Technology</h5>
+<h2><strong>Design and Technology</strong></h2>
+<h5><u>Teachers in Design and Technology</u></h5>
 <ol data-tight="true" class="tight">
 <li>
 <p>Mr.&nbsp;Mark Low (HOD)</p>
