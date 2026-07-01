@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<h2>Football</h2>
+<h2><strong>Football</strong></h2>
 <h5>Beliefs &amp; Outcomes</h5>
 <p>At St. Gabriel’s Secondary Football, we strive to foster a lifelong passion
 for the sport. Through the continued support from the coaches and staff,
