@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<h2>Floorball</h2>
+<h2><strong>Floorball</strong></h2>
 <h5>Beliefs &amp; Outcomes</h5>
 <p>“ATTITUDE before APTITUDE”</p>
 <p>Aptitude can be learnt, but attitude and beliefs are key factors in determining
@@ -134,6 +134,6 @@ their training absences in a timely manner. The form must be filled up
 on the day where floorballers are not able to attend training for teachers
 to take attendance accurately.</p>
 <div class="iframe-wrapper">
-<iframe height="1459" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/forms/d/e/1FAIpQLSebtSD1xm3taay-IYwjATRL90AvY7KP8yr8XEDV2Up3S0ZqmA/viewform?embedded=true"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="1459" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/forms/d/e/1FAIpQLSebtSD1xm3taay-IYwjATRL90AvY7KP8yr8XEDV2Up3S0ZqmA/viewform?embedded=true"></iframe>
 </div>
 <p></p>
