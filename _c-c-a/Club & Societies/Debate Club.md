@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Club & Societies
 variant: tiptap
 ---
-<h2>Debate Club</h2>
+<h2><strong>Debate Club</strong></h2>
 <h4>Beliefs &amp; Outcomes</h4>
 <p>The Debate Club aims to cultivate students into effective communicators
 and critical thinkers. Under the mentorship of teachers and coaches, students
