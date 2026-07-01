@@ -4,7 +4,7 @@ permalink: /people/People/
 description: ""
 variant: tiptap
 ---
-<h2>People</h2>
+<h2><strong>People</strong></h2>
 <ol>
 <li>
 <p><a href="https://www.stgabrielssec.moe.edu.sg/people/School-Management-Committee/" rel="noopener noreferrer nofollow" target="_blank">School Management Committee</a>
