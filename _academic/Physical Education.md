@@ -4,7 +4,7 @@ permalink: /academic/Physical-Education/
 description: ""
 variant: tiptap
 ---
-<h2>Physical Education</h2>
+<h2><strong>Physical Education</strong></h2>
 <h5><u>The Team</u></h5>
 <table style="minWidth: 75px">
 <colgroup>
