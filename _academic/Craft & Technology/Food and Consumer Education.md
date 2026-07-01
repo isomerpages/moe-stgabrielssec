@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Craft & Technology
 variant: tiptap
 ---
-<h2>FOOD AND CONSUMER EDUCATION</h2>
-<h5>Teachers in Food and Consumer Education</h5>
+<h2><strong>Food And Consumer Education</strong></h2>
+<h5><u>Teachers in Food and Consumer Education</u></h5>
 <ol data-tight="true" class="tight">
 <li>
 <p>Ms. Jane Han (SH CCE)</p>
