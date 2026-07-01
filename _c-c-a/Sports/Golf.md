@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<h2>Golf</h2>
+<h2><strong>Golf</strong></h2>
 <h5>Beliefs &amp; Outcomes</h5>
 <p>Golf is a refined and dynamic sport that sharpens both technical skills
 and character through consistent training and competition. At St. Gabriel’s,
