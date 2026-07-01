@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Craft & Technology
 variant: tiptap
 ---
-<h2>Music</h2>
-<h5>Teachers in Music</h5>
+<h2><strong>Music</strong></h2>
+<h5><u>Teachers in Music</u></h5>
 <ol data-tight="true" class="tight">
 <li>
 <p>Ms. Shireen Sanbhnani (Coordinator)</p>
