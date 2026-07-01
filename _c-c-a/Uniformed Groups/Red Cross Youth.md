@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Uniformed Groups
 variant: tiptap
 ---
-<h2>Red Cross Youth</h2>
+<h2><strong>Red Cross Youth</strong></h2>
 <h5>Beliefs &amp; Outcomes</h5>
 <p>The Red Cross Youth Unit at St. Gabriel’s Secondary School was founded
 on the 6<sup>th</sup> of August in 1966 by our late Principal, Reverend

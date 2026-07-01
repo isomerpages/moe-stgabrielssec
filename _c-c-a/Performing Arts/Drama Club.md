@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<h2>Drama Club</h2>
+<h2><strong>Drama Club</strong></h2>
 <h4><u>Introduction</u></h4>
 <p>At St. Gabriel’s Drama Club, we believe in the transformative power of
 storytelling and the magic of the stage. Our club is a vibrant community

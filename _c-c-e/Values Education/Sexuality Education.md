@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Values Education
 variant: tiptap
 ---
-<h2>SEXUALITY EDUCATION</h2>
+<h2><strong>Sexuality Education</strong></h2>
 <h5><u>MOE SEXUALITY EDUCATION IN SCHOOLS</u></h5>
 <p>Sexuality Education (SEd) in schools aims to enable students to understand
 the physiological, social and emotional changes they experience as they

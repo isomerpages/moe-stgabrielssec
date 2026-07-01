@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Club & Societies
 variant: tiptap
 ---
-<h2>Information Communication Club</h2>
+<h2><strong>Information Communication Club</strong></h2>
 <h4>Beliefs &amp; Outcomes</h4>
 <p>InfoComm Club (ICC) is a key service provider for school events and assemblies.
 We provide timely and efficient support for many school events, including

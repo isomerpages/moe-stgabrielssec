@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Sports
 variant: tiptap
 ---
-<h2>Softball</h2>
+<h2><strong>Softball</strong></h2>
 <h4>Beliefs &amp; Outcomes</h4>
 <p>St. Gabriel’s Softball Team was established in 2009 with 15 players and
 it has grown tremendously over the years. Our dedicated softballers train

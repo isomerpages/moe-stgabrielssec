@@ -4,7 +4,7 @@ permalink: /links/financial-assistance/
 variant: tiptap
 description: ""
 ---
-<h4><strong>MOE Financial Assistance Scheme (FAS) 2026</strong></h4>
+<h2><strong>MOE Financial Assistance Scheme (FAS) 2026</strong></h2>
 <p>The objective of the MOE FAS is to help financially needy Singaporean
 students in Government and Government-aided schools to meet basic schooling
 expenses.</p>

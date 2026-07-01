@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Performing Arts
 variant: tiptap
 ---
-<h2>Concert Band</h2>
+<h2><strong>Concert Band</strong></h2>
 <h4>Beliefs &amp; Outcomes</h4>
 <p>Since its inception in 1966, St. Gabriel’s Concert Band has undergone
 many changes, from being a Military Band to the status of a Symphonic Band.

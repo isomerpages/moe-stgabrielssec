@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Craft & Technology
 variant: tiptap
 ---
-<h2>Art</h2>
+<h2><strong>Art</strong></h2>
 <h5><strong><u>Teachers in Art</u></strong></h5>
 <ol data-tight="true" class="tight">
 <li>
