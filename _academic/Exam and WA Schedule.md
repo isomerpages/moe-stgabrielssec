@@ -5,7 +5,8 @@ description: ""
 variant: tiptap
 ---
 <h2><strong>Examination &amp; Weighted Assessment Schedule</strong></h2>
-<p>2026 WA3 will be schedule on Term 3 Week 4 to Week 6 (20th July 2026 to
-4th August 2026)</p>
+<h4><strong>2026</strong></h4>
+<p><strong>Secondary 1 to Secondary 3 WA3 Schedule</strong>: Click <a href="https://docs.google.com/spreadsheets/d/1qe-Z42jjJf3nZai_BW65SQy2Txk82rUl_x2guuPMkI0/edit?usp=drivesdk" rel="noopener nofollow" target="_blank">here</a> to
+view</p>
 <p></p>
 <p></p>
