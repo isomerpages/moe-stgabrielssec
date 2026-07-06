@@ -7,6 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong><em>School will close at 5 pm from 8 – 19 Jun 2026 during the June school holiday protected period.</em></strong>
+<p><strong><em>School closes at 5 pm on Mon 6 Jul 2026 being the Youth Day School Holiday.</em></strong>
 </p>
 <p></p>
