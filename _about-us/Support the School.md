@@ -11,5 +11,5 @@ and student development initiatives.</p>
 <p>If you would like to make an unsolicited donation, you may do so through
 our <a href="http://Giving.sg" rel="noopener noreferrer nofollow" target="_blank">Giving.sg</a> page.
 (<a href="https://www.giving.sg/organisation/profile/stgabrielssec" rel="noopener noreferrer nofollow" target="_blank">https://www.giving.sg/organisation/profile/stgabrielssec</a>)
-or via the school's UEN (<u>T07GS7017D</u>).</p>
+or via <a href="https://go.gov.sg/giving-to-stgss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/giving-to-stgss</a>.</p>
 <p>Thank you for your support.</p>
