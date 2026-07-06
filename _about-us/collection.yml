@@ -2,8 +2,8 @@ collections:
   about-us:
     output: true
     order:
-      - Support the School/Support the School.md
-      - Support the School/.keep
+      - Donation/Support the School.md
+      - Donation/.keep
       - Principal's Message.md
       - Our Spiritual Founder.md
       - Our Heritage.md
