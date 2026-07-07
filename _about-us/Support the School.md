@@ -9,7 +9,15 @@ description: ""
 partners and well wishers who wish to support approved school programmes
 and student development initiatives.</p>
 <p>If you would like to make an unsolicited donation, you may do so through
-our <a href="http://Giving.sg" rel="noopener noreferrer nofollow" target="_blank">Giving.sg</a> page.
-(<a href="https://www.giving.sg/organisation/profile/stgabrielssec" rel="noopener noreferrer nofollow" target="_blank">https://www.giving.sg/organisation/profile/stgabrielssec</a>)
-or via the school's UEN (<u>T07GS7017D</u>).</p>
+our <a href="http://Giving.sg" rel="noopener noreferrer nofollow" target="_blank">Giving.sg</a> page.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><u>Giving.sg</u></strong> : <a href="https://www.giving.sg/organisation/profile/stgabrielssec" rel="noopener noreferrer nofollow" target="_blank">https://www.giving.sg/organisation/profile/stgabrielssec</a>
+</p>
+</li>
+<li>
+<p><strong><u>FormSG Donation</u></strong>: <a href="https://go.gov.sg/giving-to-stgss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/giving-to-stgss</a>
+</p>
+</li>
+</ul>
 <p>Thank you for your support.</p>

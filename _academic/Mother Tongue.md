@@ -61,7 +61,9 @@ from different levels and streams.</p>
 </li>
 </ol>
 <h5><u>Objectives</u></h5>
-<p><strong><u>Student learning outcomes to impact head, heart, hands</u>Enhance communication and language ability:</strong>
+<p><strong><u>Student learning outcomes to impact head, heart, hands</u></strong>
+</p>
+<p><strong>Enhance communication and language ability:</strong>
 <br>Students will be able to use both spoken and written Mother Tongue languages
 with ease to express, communicate and exchange ideas.</p>
 <p><strong>Enhance the understanding of Culture and cultivate moral values:</strong>
@@ -69,9 +71,18 @@ with ease to express, communicate and exchange ideas.</p>
 well and apart from appreciating it, will be able to explain these to others
 in the society. Students will cultivate good moral values.</p>
 <p><strong>Enhance the following 21st CC skills:</strong>
-<br>Cultural Skills;
-<br>Critical Thinking;
-<br>Communication, Collaboration and Information Skills</p>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Cultural Skills</p>
+</li>
+<li>
+<p>Critical Thinking</p>
+</li>
+<li>
+<p>Communication, Collaboration and Information Skills</p>
+</li>
+</ul>
 <h5><u>Programmes</u></h5>
 <p>To achieve our goals, the department organises various programmes that
 enhance our students’ language skills. These programmes include the ‘MTL
@@ -89,31 +100,32 @@ and tradition.</p>
 learning journey, workshops and courses are organized by the three language
 units during the two weeks programme. Students from all levels and streams
 are involved in the activities organized.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/Academic/Mother%20Tongue/Mother%20Tongue%20-%201.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Mother Tongue/Mother Tongue - 1.jpeg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/Academic/Mother%20Tongue/Mother%20Tongue%20-%202.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Mother Tongue/Mother Tongue - 2.jpeg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Mother%20Tongue/Mother%20Tongue%20-%203.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Mother Tongue/Mother Tongue - 3.jpeg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/Academic/Mother%20Tongue/Mother%20Tongue%20-%204.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Mother Tongue/Mother Tongue - 4.jpeg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/Academic/Mother%20Tongue/Mother%20Tongue%20-%205.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Mother Tongue/Mother Tongue - 5.jpeg">
 </div>
-<p>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/Academic/Mother%20Tongue/Mother%20Tongue%20-%206.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Mother Tongue/Mother Tongue - 6.jpeg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/Academic/Mother%20Tongue/Mother%20Tongue%20-%207.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Academic/Mother Tongue/Mother Tongue - 7.jpeg">
 </div>
 <p></p>
