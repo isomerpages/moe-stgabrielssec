@@ -28,7 +28,7 @@ to view in Google Chrome)</p>
 </p>
 </li>
 <li>
-<p><strong><a href="http://tinyurl.com/slsandiconresetpasswordform" rel="noopener noreferrer nofollow" target="_blank">SLS Reset Password Form</a></strong>
+<p><strong><a href="https://form.gov.sg/6a5709e876d9b648f3a74c3c" rel="noopener noreferrer nofollow" target="_blank">SLS Reset Password Form</a></strong>
 </p>
 </li>
 </ul>
@@ -56,7 +56,7 @@ learning and collaboration with others. Student iCON can be accessed from
 </p>
 </li>
 <li>
-<p><strong><a href="http://tinyurl.com/slsandiconresetpasswordform" rel="noopener noreferrer nofollow" target="_blank">Student ICON Reset Password Form</a></strong>
+<p><strong><a href="https://form.gov.sg/6a5709e876d9b648f3a74c3c" rel="noopener noreferrer nofollow" target="_blank">Student ICON Reset Password Form</a></strong>
 </p>
 </li>
 </ul>
