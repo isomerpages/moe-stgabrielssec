@@ -10,7 +10,7 @@ variant: tiptap
 view</p>
 <p><strong>Secondary 4 &amp; 5 Prelim GCE 'O' Level Schedule: </strong>Click<strong> </strong>
 <a href="/files/Prelim_2026_Schedule__GCE_O_Level.pdf" rel="noopener nofollow" target="_blank">here</a>to view</p>
-<p><strong>Secondary 4 Prelim GCE 'N' Level Schedule: </strong>Click <a href="/files/Prelim_2026_Schedule__GCE_N_Level.pdf" rel="noopener nofollow" target="_blank">here</a> to
+<p><strong>Secondary 4 Prelim GCE 'N' Level Schedule: </strong>Click <a href="/files/Prelim_2026_Schedule__GCE_N_level_.pdf" rel="noopener nofollow" target="_blank">here</a> to
 view</p>
 <p></p>
 <p></p>
