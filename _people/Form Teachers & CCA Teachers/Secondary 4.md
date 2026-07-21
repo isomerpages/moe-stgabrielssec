@@ -78,17 +78,17 @@ variant: tiptap
 <p>4E2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr</p>
+<p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Paul De Souza</p>
+<p>Hasnah Hassan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:de_souza_paul_francis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">de_souza_paul_francis@moe.edu.sg</a>
+<p><a href="mailto:hasnah_hassan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hasnah_hassan@moe.edu.sg</a> 
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>147</p>
+<p>206</p>
 </td>
 </tr>
 <tr>
