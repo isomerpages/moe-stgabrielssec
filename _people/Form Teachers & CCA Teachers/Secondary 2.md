@@ -200,14 +200,14 @@ variant: tiptap
 <p>Mr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Muhammad Rizlan</p>
+<p>Habeebullah Basha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:muhammad_rizlan_abdul_rahman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_rizlan_abdul_rahman@moe.edu.sg</a>
+<p><a href="mailto:habeebullah_basha_jafar_sathik@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">habeebullah_basha_jafar_sathik@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>154</p>
+<p>-</p>
 </td>
 </tr>
 <tr>
@@ -246,23 +246,38 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="3" colspan="1">
 <p></p>
 <p></p>
 <p>2D7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm</p>
+<p>Ms</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subhalakshmi Laksmanan</p>
+<p>Marianne Das</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:subhalakshmi_laksmanan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">subhalakshmi_laksmanan@moe.edu.sg</a>
+<p><a href="mailto:marianne_louise_das@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">marianne_louise_das@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>152</p>
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chandan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chandan_partab_mansukhani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chandan_partab_mansukhani@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
 </td>
 </tr>
 <tr>
