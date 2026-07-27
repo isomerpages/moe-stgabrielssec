@@ -81,14 +81,14 @@ variant: tiptap
 <p>Mdm</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Hasnah Hassan</p>
+<p>Rose Fadillah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:hasnah_hassan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hasnah_hassan@moe.edu.sg</a> 
+<p><a href="mailto:rose_fadillah_aris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">rose_fadillah_aris@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>206</p>
+<p>220</p>
 </td>
 </tr>
 <tr>
