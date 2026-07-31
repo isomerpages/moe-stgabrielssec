@@ -116,54 +116,13 @@ access the Admin Breeze Portal</p>
 <h5>Parents Gateway</h5>
 <p><strong><a href="/files/Links/Parents/PG%20Meetings%20-%20User%20Guide%20for%20Parents%20-%20Aug%202020.pdf" rel="noopener noreferrer nofollow" target="_blank">PG Gateway - Parent Teacher Meeting Guide</a></strong>
 </p>
+<p><strong><a href="https://drive.google.com/file/d/1W0wS5sZJSDlojssbMOsuI_nPybOxJ2Zz/view?usp=sharing" rel="noopener nofollow" target="_blank">Travel Declaration Guide for Parents Gateway</a></strong>
+</p>
 <hr>
 <h5>Other Links</h5>
-<p>
-<br>
+<p><strong><a href="https://sites.google.com/site/psgsgss/" rel="noopener noreferrer nofollow" target="_blank">Parent's Support Group Website</a></strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1WJXC8t6IwsXX33rZkcta7GnOXi6eDDhk/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><br>Parent Kit for Full Home Based Learning</a>
-<br>
-<br>
+<p><strong><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener nofollow" target="_blank">MOE eGIRO Application for School and Miscellaneous Fees</a></strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p><a href="https://www.schoolbag.sg/" rel="noopener noreferrer nofollow" target="_blank"><br>MOE Parents in Education (PiE) website</a>
-<br>
+<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener nofollow" target="_blank">Education and Career Guidance</a>
 </p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://drive.google.com/file/d/1W0wS5sZJSDlojssbMOsuI_nPybOxJ2Zz/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank"><br></a><strong><a href="https://drive.google.com/file/d/1W0wS5sZJSDlojssbMOsuI_nPybOxJ2Zz/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Travel Declaration Guide for Parents Gateway</a></strong>
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://sites.google.com/site/psgsgss/" rel="noopener noreferrer nofollow" target="_blank"><br></a><strong><a href="https://sites.google.com/site/psgsgss/" rel="noopener noreferrer nofollow" target="_blank">Parent's Support Group Website</a></strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank"><br>MOE eGIRO Application for School and Miscellaneous Fees<br><br></a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>
-<br><strong>Education and Career Guidance <br>( <a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener noreferrer nofollow" target="_blank">ecareers.sg web portal</a> ) </strong>
-<br>
-<br>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
