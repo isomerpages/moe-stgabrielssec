@@ -94,20 +94,12 @@ slides above for details of the programme.</p>
 </ul>
 <hr>
 <h4>School Staff</h4>
-<ul data-tight="true" class="tight">
-<li>
 <p><strong><a href="https://stgabrielssec.moe.edu.sg/people/form-teachers/" rel="noopener noreferrer nofollow" target="_blank">Form Teachers</a></strong>
 </p>
-</li>
-<li>
 <p><strong><a href="https://stgabrielssec.moe.edu.sg/people/form-teachers/cca-teachers/" rel="noopener noreferrer nofollow" target="_blank">CCA&nbsp;Teachers</a></strong>
 </p>
-</li>
-<li>
 <p><strong><a href="https://stgabrielssec.moe.edu.sg/people/school-executive-committee/" rel="noopener noreferrer nofollow" target="_blank">Heads of Departments &amp; Subject Heads</a></strong>
 </p>
-</li>
-</ul>
 <hr>
 <h5>Admin Breeze</h5>
 <p>Click on the <strong><a href="https://stgabrielssec.adminbreeze.com/" rel="noopener noreferrer nofollow" target="_blank">link</a></strong> to
