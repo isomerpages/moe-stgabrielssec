@@ -124,5 +124,5 @@ access the Admin Breeze Portal</p>
 </p>
 <p><strong><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener nofollow" target="_blank">MOE eGIRO Application for School and Miscellaneous Fees</a></strong>
 </p>
-<p><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener nofollow" target="_blank">Education and Career Guidance</a>
+<p><strong><a href="https://www.myskillsfuture.gov.sg/content/student/en/secondary.html" rel="noopener nofollow" target="_blank">Education and Career Guidance</a></strong>
 </p>
