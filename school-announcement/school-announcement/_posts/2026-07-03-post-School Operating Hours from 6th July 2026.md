@@ -7,6 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong><em>School closes at 5 pm on Mon 6 Jul 2026 being the Youth Day School Holiday.</em></strong>
+<p><strong><em>School will close at 5 pm on Fri 7th August 2026 for National Day Celebration.</em></strong>
 </p>
 <p></p>
