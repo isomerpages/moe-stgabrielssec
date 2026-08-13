@@ -20,16 +20,14 @@ variant: markdown
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img style="width:50%" src="/images/School%20Management%20Committee/Bro%20Dominic%20Yeo%20Koh.jpeg"></th>
+    <th class="tg-tlx9"><img style="width:30%" src="/images/School%20Management%20Committee/Bro%20Dominic%20Yeo%20Koh.jpeg"></th>
     <th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img style="width:51%" src="/images/School%20Management%20Committee/Dr%20Francis%20Chong.jpg"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
 				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Bro Dominic Yeo-Koh</span><br>Supervisor of Gabrielite Schools<br></td>
     <td class="tg-apyk"><br></td>
-    <td class="tg-apyk">Dr Francis Chong<br>Chairman</td>
   </tr>
 </tbody>
 </table>
@@ -49,16 +47,16 @@ variant: markdown
 <table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img style="width:50%" src="/images/School%20Management%20Committee/Mr%20Gordon%20Lim.jpg"></th>
+    <th class="tg-tlx9"><img style="width:51%" src="/images/School%20Management%20Committee/Dr%20Francis%20Chong.jpg"></th>
     <th class="tg-tlx9"></th>
-    <th class="tg-tlx9"><img style="width:50%" src="/images/School%20Management%20Committee/Mr%20Francis%20Wong.jpg"></th>
+    <th class="tg-tlx9"><img style="width:50%" src="/images/School%20Management%20Committee/Mr%20Gordon%20Lim.jpg"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mr Gordon Lim</span><br>Vice Chairman<br></td>
+				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Dr Francis Chong</span><br>Chairman<br></td>
     <td class="tg-apyk"><br></td>
-    <td class="tg-apyk">Mr Francis Wong<br>Treasurer</td>
+    <td class="tg-apyk">Mr Gordon Lim<br>Vice Chairman</td>
   </tr>
 </tbody>
 </table>
@@ -79,14 +77,14 @@ variant: markdown
 </thead></table><table class="tg">
 <thead>
 <tr>
-    <th class="tg-tlx9"><img style="width:50%" src="/images/School%20Management%20Committee/Mr%20Henry%20Phang.jpg"></th>
+    <th class="tg-tlx9"><img style="width:50%" src="/images/School%20Management%20Committee/Mr%20Francis%20Wong.jpg"></th>
     <th class="tg-tlx9"></th>
     <th class="tg-tlx9"><img style="width:50%" src="/images/School%20Management%20Committee/Mrs%20Esther%20Loo.jpg"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mr Henry Phang</span><br>Advisor<br></td>
+				<td class="tg-apyk"><span style="font-weight:bold;background-color:transparent">Mr Francis Wong</span><br>Treasurer<br></td>
     <td class="tg-apyk"><br></td>
     <td class="tg-apyk">Mrs Esther Loo<br>Associate</td>
   </tr>
